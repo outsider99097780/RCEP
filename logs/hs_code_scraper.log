@@ -1,0 +1,1180 @@
+2026-09-03 18:10:34,230 - src.search_optimizer - INFO - SearchOptimizer 初始化完成 (嵌入向量: False)
+2026-09-03 18:10:34,544 - src.search_optimizer - DEBUG - 分词结果: 扫地机器人 -> ['扫地', '机器人']
+2026-09-03 18:10:34,545 - src.search_optimizer - INFO - 为 '扫地机器人' 生成了 4 个搜索关键词: ['扫地机器人', '扫地 机器人', '机器人', '扫地']
+2026-09-03 18:10:34,545 - src.scraper_hsciq - DEBUG - 请求 GET https://hsciq.com/HSCN/Search
+2026-09-03 18:10:36,018 - src.scraper_hsciq - WARNING - HSCIQ搜索无结果: 扫地机器人
+2026-09-03 18:10:36,019 - src.scraper_hsciq - DEBUG - 关键词 '扫地机器人' 无搜索结果,尝试下一个
+2026-09-03 18:10:36,019 - src.scraper_hsciq - INFO - 尝试第 2 次搜索,使用关键词: 扫地 机器人
+2026-09-03 18:10:36,020 - src.scraper_hsciq - INFO - 在HSCIQ搜索关键词: 扫地 机器人
+2026-09-03 18:10:36,020 - src.scraper_hsciq - DEBUG - 已启用过滤过期编码
+2026-09-03 18:10:36,020 - src.scraper_hsciq - DEBUG - 请求 GET https://hsciq.com/HSCN/Search
+2026-09-03 18:10:37,129 - src.scraper_hsciq - WARNING - HSCIQ搜索无结果: 扫地 机器人
+2026-09-03 18:10:37,129 - src.scraper_hsciq - DEBUG - 关键词 '扫地 机器人' 无搜索结果,尝试下一个
+2026-09-03 18:10:37,129 - src.scraper_hsciq - INFO - 尝试第 3 次搜索,使用关键词: 机器人
+2026-09-03 18:10:37,129 - src.scraper_hsciq - INFO - 在HSCIQ搜索关键词: 机器人
+2026-09-03 18:10:37,129 - src.scraper_hsciq - DEBUG - 已启用过滤过期编码
+2026-09-03 18:10:37,129 - src.scraper_hsciq - DEBUG - 请求 GET https://hsciq.com/HSCN/Search
+2026-09-03 18:10:38,254 - src.scraper_hsciq - WARNING - HSCIQ搜索无结果: 机器人
+2026-09-03 18:10:38,255 - src.scraper_hsciq - DEBUG - 关键词 '机器人' 无搜索结果,尝试下一个
+2026-09-03 18:10:38,255 - src.scraper_hsciq - INFO - 尝试第 4 次搜索,使用关键词: 扫地
+2026-09-03 18:10:38,255 - src.scraper_hsciq - INFO - 在HSCIQ搜索关键词: 扫地
+2026-09-03 18:10:38,255 - src.scraper_hsciq - DEBUG - 已启用过滤过期编码
+2026-09-03 18:10:38,255 - src.scraper_hsciq - DEBUG - 请求 GET https://hsciq.com/HSCN/Search
+2026-09-03 18:10:39,360 - src.scraper_hsciq - WARNING - HSCIQ搜索无结果: 扫地
+2026-09-03 18:10:39,360 - src.scraper_hsciq - DEBUG - 关键词 '扫地' 无搜索结果,尝试下一个
+2026-09-03 18:10:39,360 - src.scraper_hsciq - WARNING - HSCIQ未找到匹配结果: 扫地机器人
+2026-09-03 18:10:39,361 - src.scraper_hsciq - INFO - 开始HSCIQ查询: 洗地机
+2026-09-03 18:10:39,361 - src.search_optimizer - DEBUG - 分词结果: 洗地机 -> ['洗地机']
+2026-09-03 18:10:39,361 - src.search_optimizer - INFO - 为 '洗地机' 生成了 1 个搜索关键词: ['洗地机']
+2026-09-03 18:10:39,361 - src.scraper_hsciq - INFO - 生成的搜索关键词: ['洗地机']
+2026-09-03 18:10:39,361 - src.scraper_hsciq - INFO - 尝试第 1 次搜索,使用关键词: 洗地机
+2026-09-03 18:10:39,361 - src.scraper_hsciq - INFO - 在HSCIQ搜索关键词: 洗地机
+2026-09-03 18:10:39,361 - src.scraper_hsciq - DEBUG - 已启用过滤过期编码
+2026-09-03 18:10:39,361 - src.scraper_hsciq - DEBUG - 请求 GET https://hsciq.com/HSCN/Search
+2026-09-03 18:10:40,468 - src.scraper_hsciq - WARNING - HSCIQ搜索无结果: 洗地机
+2026-09-03 18:10:40,468 - src.scraper_hsciq - DEBUG - 关键词 '洗地机' 无搜索结果,尝试下一个
+2026-09-03 18:10:40,468 - src.scraper_hsciq - WARNING - HSCIQ未找到匹配结果: 洗地机
+2026-09-03 18:10:40,469 - src.scraper_hsciq - INFO - 开始HSCIQ查询: 无线吸尘器
+2026-09-03 18:10:40,469 - src.search_optimizer - DEBUG - 分词结果: 无线吸尘器 -> ['无线', '吸尘器']
+2026-09-03 18:10:40,469 - src.search_optimizer - INFO - 为 '无线吸尘器' 生成了 4 个搜索关键词: ['无线吸尘器', '无线 吸尘器', '吸尘器', '无线']
+2026-09-03 18:10:40,469 - src.scraper_hsciq - INFO - 生成的搜索关键词: ['无线吸尘器', '无线 吸尘器', '吸尘器', '无线']
+2026-09-03 18:10:40,469 - src.scraper_hsciq - INFO - 尝试第 1 次搜索,使用关键词: 无线吸尘器
+2026-09-03 18:10:40,469 - src.scraper_hsciq - INFO - 在HSCIQ搜索关键词: 无线吸尘器
+2026-09-03 18:10:40,469 - src.scraper_hsciq - DEBUG - 已启用过滤过期编码
+2026-09-03 18:10:40,469 - src.scraper_hsciq - DEBUG - 请求 GET https://hsciq.com/HSCN/Search
+2026-09-03 18:10:41,572 - src.scraper_hsciq - WARNING - HSCIQ搜索无结果: 无线吸尘器
+2026-09-03 18:10:41,572 - src.scraper_hsciq - DEBUG - 关键词 '无线吸尘器' 无搜索结果,尝试下一个
+2026-09-03 18:10:41,572 - src.scraper_hsciq - INFO - 尝试第 2 次搜索,使用关键词: 无线 吸尘器
+2026-09-03 18:10:41,572 - src.scraper_hsciq - INFO - 在HSCIQ搜索关键词: 无线 吸尘器
+2026-09-03 18:10:41,572 - src.scraper_hsciq - DEBUG - 已启用过滤过期编码
+2026-09-03 18:10:41,572 - src.scraper_hsciq - DEBUG - 请求 GET https://hsciq.com/HSCN/Search
+2026-09-03 18:10:42,704 - src.scraper_hsciq - WARNING - HSCIQ搜索无结果: 无线 吸尘器
+2026-09-03 18:10:42,705 - src.scraper_hsciq - DEBUG - 关键词 '无线 吸尘器' 无搜索结果,尝试下一个
+2026-09-03 18:10:42,705 - src.scraper_hsciq - INFO - 尝试第 3 次搜索,使用关键词: 吸尘器
+2026-09-03 18:10:42,705 - src.scraper_hsciq - INFO - 在HSCIQ搜索关键词: 吸尘器
+2026-09-03 18:10:42,705 - src.scraper_hsciq - DEBUG - 已启用过滤过期编码
+2026-09-03 18:10:42,705 - src.scraper_hsciq - DEBUG - 请求 GET https://hsciq.com/HSCN/Search
+2026-09-03 18:10:43,800 - src.scraper_hsciq - WARNING - HSCIQ搜索无结果: 吸尘器
+2026-09-03 18:10:43,800 - src.scraper_hsciq - DEBUG - 关键词 '吸尘器' 无搜索结果,尝试下一个
+2026-09-03 18:10:43,800 - src.scraper_hsciq - INFO - 尝试第 4 次搜索,使用关键词: 无线
+2026-09-03 18:10:43,800 - src.scraper_hsciq - INFO - 在HSCIQ搜索关键词: 无线
+2026-09-03 18:10:43,800 - src.scraper_hsciq - DEBUG - 已启用过滤过期编码
+2026-09-03 18:10:43,800 - src.scraper_hsciq - DEBUG - 请求 GET https://hsciq.com/HSCN/Search
+2026-09-03 18:10:44,899 - src.scraper_hsciq - WARNING - HSCIQ搜索无结果: 无线
+2026-09-03 18:10:44,899 - src.scraper_hsciq - DEBUG - 关键词 '无线' 无搜索结果,尝试下一个
+2026-09-03 18:10:44,899 - src.scraper_hsciq - WARNING - HSCIQ未找到匹配结果: 无线吸尘器
+2026-09-03 18:11:16,756 - src.parser - INFO - DataParser 初始化完成
+2026-09-03 18:11:16,757 - src.search_optimizer - INFO - SearchOptimizer 初始化完成 (嵌入向量: False)
+2026-09-03 18:11:16,757 - src.scraper - INFO - HSCodeScraper 初始化完成
+2026-09-03 18:11:16,757 - src.scraper - INFO - 开始查询商品: 扫地机器人
+2026-09-03 18:11:17,080 - src.search_optimizer - DEBUG - 分词结果: 扫地机器人 -> ['扫地', '机器人']
+2026-09-03 18:11:17,080 - src.search_optimizer - INFO - 为 '扫地机器人' 生成了 4 个搜索关键词: ['扫地机器人', '扫地 机器人', '机器人', '扫地']
+2026-09-03 18:11:17,080 - src.scraper - INFO - 尝试关键词 1/4: 扫地机器人
+2026-09-03 18:11:17,080 - src.scraper - INFO - 搜索关键词: 扫地机器人
+2026-09-03 18:11:17,080 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA
+2026-09-03 18:11:18,504 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8509809000', 链接文本='85098090.00'
+2026-09-03 18:11:18,504 - src.parser - DEBUG - 从表格第2列获取商品名: '扫地机器人'
+2026-09-03 18:11:18,504 - src.parser - INFO - 从搜索结果中提取到 1 条记录
+2026-09-03 18:11:18,504 - src.scraper - DEBUG - 提取到的商品名称列表: ['扫地机器人']...
+2026-09-03 18:11:18,504 - src.scraper - INFO - 找到最佳匹配: '扫地机器人' (相似度: 1.00)
+2026-09-03 18:11:18,504 - src.scraper - DEBUG - 尝试候选 1/1: 扫地机器人 (相似度: 1.00)
+2026-09-03 18:11:18,504 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/8509809000
+2026-09-03 18:11:18,504 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/8509809000
+2026-09-03 18:11:19,716 - src.parser - INFO - 成功解析HS编码: 85098090.00 - 其他家用电动器具
+2026-09-03 18:11:19,716 - src.scraper - INFO - 查询成功: 扫地机器人 -> 85098090.00
+2026-09-03 18:11:19,716 - src.scraper - INFO - 开始查询商品: 洗地机
+2026-09-03 18:11:19,716 - src.search_optimizer - DEBUG - 分词结果: 洗地机 -> ['洗地机']
+2026-09-03 18:11:19,716 - src.search_optimizer - INFO - 为 '洗地机' 生成了 1 个搜索关键词: ['洗地机']
+2026-09-03 18:11:19,716 - src.scraper - INFO - 尝试关键词 1/1: 洗地机
+2026-09-03 18:11:19,716 - src.scraper - INFO - 搜索关键词: 洗地机
+2026-09-03 18:11:19,717 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E6%B4%97%E5%9C%B0%E6%9C%BA
+2026-09-03 18:11:20,777 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926901000', 链接文本='39269010.00'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 从表格第2列获取商品名: '水漏斗'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926901000', 链接文本='39269010.00'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 从表格第2列获取商品名: '塑料挂钩'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926901000', 链接文本='39269010.00'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 从表格第2列获取商品名: '手柄盒盖'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926909090', 链接文本='39269090.90'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 从表格第2列获取商品名: '塑料制滚筒'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926909090', 链接文本='39269090.90'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 从表格第2列获取商品名: '塑料制固定支架'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926909090', 链接文本='39269090.90'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 从表格第2列获取商品名: '塑料制保护罩'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926909090', 链接文本='39269090.90'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 从表格第2列获取商品名: '固定支架'
+2026-09-03 18:11:20,778 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926909090', 链接文本='39269090.90'
+2026-09-03 18:11:20,779 - src.parser - DEBUG - 从表格第2列获取商品名: '塑料制保护盖'
+2026-09-03 18:11:20,779 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/4016999090', 链接文本='40169990.90'
+2026-09-03 18:11:20,779 - src.parser - DEBUG - 从表格第2列获取商品名: '吸水胶条'
+2026-09-03 18:11:20,779 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/7326901900', 链接文本='73269019.00'
+2026-09-03 18:11:20,779 - src.parser - DEBUG - 从表格第2列获取商品名: 'U型夹子'
+2026-09-03 18:11:20,780 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/7326901900', 链接文本='73269019.00'
+2026-09-03 18:11:20,780 - src.parser - DEBUG - 从表格第2列获取商品名: '夹子'
+2026-09-03 18:11:20,781 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/7326901900', 链接文本='73269019.00'
+2026-09-03 18:11:20,781 - src.parser - DEBUG - 从表格第2列获取商品名: '轴承盖'
+2026-09-03 18:11:20,781 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/7326909000', 链接文本='73269090.00'
+2026-09-03 18:11:20,782 - src.parser - DEBUG - 从表格第2列获取商品名: '立板'
+2026-09-03 18:11:20,782 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8302410000', 链接文本='83024100.00'
+2026-09-03 18:11:20,782 - src.parser - DEBUG - 从表格第2列获取商品名: '门闩'
+2026-09-03 18:11:20,783 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8479899990', 链接文本='84798999.90'
+2026-09-03 18:11:20,783 - src.parser - DEBUG - 从表格第2列获取商品名: '洗地机'
+2026-09-03 18:11:20,783 - src.parser - INFO - 从搜索结果中提取到 15 条记录
+2026-09-03 18:11:20,783 - src.scraper - DEBUG - 提取到的商品名称列表: ['水漏斗', '塑料挂钩', '手柄盒盖', '塑料制滚筒', '塑料制固定支架']...
+2026-09-03 18:11:20,783 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs '水漏斗' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,783 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs '塑料挂钩' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,784 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs '手柄盒盖' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,784 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs '塑料制滚筒' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,784 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs '塑料制固定支架' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,784 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs '塑料制保护罩' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,784 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs '固定支架' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,784 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs '塑料制保护盖' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,784 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs '吸水胶条' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,784 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs 'U型夹子' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,784 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs '夹子' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,784 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs '轴承盖' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,784 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs '立板' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,785 - src.search_optimizer - DEBUG - 相似度计算: '洗地机' vs '门闩' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:20,785 - src.scraper - INFO - 找到最佳匹配: '洗地机' (相似度: 1.00)
+2026-09-03 18:11:20,785 - src.scraper - DEBUG - 尝试候选 1/15: 洗地机 (相似度: 1.00)
+2026-09-03 18:11:20,785 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/8479899990
+2026-09-03 18:11:20,785 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/8479899990
+2026-09-03 18:11:21,840 - src.parser - INFO - 成功解析HS编码: 84798999.90 - 本章其他未列名机器及机械器具
+2026-09-03 18:11:21,840 - src.scraper - INFO - 查询成功: 洗地机 -> 84798999.90
+2026-09-03 18:11:21,840 - src.scraper - INFO - 开始查询商品: 无线吸尘器
+2026-09-03 18:11:21,840 - src.search_optimizer - DEBUG - 分词结果: 无线吸尘器 -> ['无线', '吸尘器']
+2026-09-03 18:11:21,840 - src.search_optimizer - INFO - 为 '无线吸尘器' 生成了 4 个搜索关键词: ['无线吸尘器', '无线 吸尘器', '吸尘器', '无线']
+2026-09-03 18:11:21,841 - src.scraper - INFO - 尝试关键词 1/4: 无线吸尘器
+2026-09-03 18:11:21,841 - src.scraper - INFO - 搜索关键词: 无线吸尘器
+2026-09-03 18:11:21,841 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E6%97%A0%E7%BA%BF%E5%90%B8%E5%B0%98%E5%99%A8
+2026-09-03 18:11:22,894 - src.parser - INFO - 从搜索结果中提取到 0 条记录
+2026-09-03 18:11:22,894 - src.scraper - WARNING - 关键词 '无线吸尘器' 未找到搜索结果
+2026-09-03 18:11:22,894 - src.scraper - INFO - 尝试关键词 2/4: 无线 吸尘器
+2026-09-03 18:11:22,894 - src.scraper - INFO - 搜索关键词: 无线 吸尘器
+2026-09-03 18:11:22,894 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E6%97%A0%E7%BA%BF%20%E5%90%B8%E5%B0%98%E5%99%A8
+2026-09-03 18:11:23,948 - src.parser - INFO - 从搜索结果中提取到 0 条记录
+2026-09-03 18:11:23,948 - src.scraper - WARNING - 关键词 '无线 吸尘器' 未找到搜索结果
+2026-09-03 18:11:23,948 - src.scraper - INFO - 尝试关键词 3/4: 吸尘器
+2026-09-03 18:11:23,948 - src.scraper - INFO - 搜索关键词: 吸尘器
+2026-09-03 18:11:23,948 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E5%90%B8%E5%B0%98%E5%99%A8
+2026-09-03 18:11:25,008 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8508119000', 链接文本='查看详情'
+2026-09-03 18:11:25,008 - src.parser - DEBUG - 从表格第2列获取商品名: '其他电动的真空吸尘器(功率不超过1500瓦,且带有容积不超过20升的集尘袋或其他集尘容器)[Other electric vacuum cleaners]'
+2026-09-03 18:11:25,008 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8508199000', 链接文本='查看详情'
+2026-09-03 18:11:25,008 - src.parser - DEBUG - 从表格第2列获取商品名: '其他电动的真空吸尘器[Other electric vacuum cleaners]'
+2026-09-03 18:11:25,008 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8508701000', 链接文本='查看详情'
+2026-09-03 18:11:25,008 - src.parser - DEBUG - 从表格第2列获取商品名: '编号85081100所列吸尘器用零件(编号85081100所列吸尘器用零件)[Parts Of the cleaners of subheading No.8508.1100]'
+2026-09-03 18:11:25,008 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8508709000', 链接文本='查看详情'
+2026-09-03 18:11:25,008 - src.parser - DEBUG - 从表格第2列获取商品名: '其他真空吸尘器零件(其他真空吸尘器零件)[Parts of Other vacuum cleaners]'
+2026-09-03 18:11:25,008 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8508600000', 链接文本='查看详情'
+2026-09-03 18:11:25,008 - src.parser - DEBUG - 从表格第2列获取商品名: '其他真空吸尘器(其他真空吸尘器非电动)[Other vacuum cleaners (non-electric)]'
+2026-09-03 18:11:25,009 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8508110000', 链接文本='查看详情'
+2026-09-03 18:11:25,009 - src.parser - DEBUG - 从表格第2列获取商品名: '电动的真空吸尘器(电动的真空吸尘器功率不超过1500瓦,且带有容积不超过20升的集尘袋或其他集尘容器)[Vacuum cleaners with self-contained electric motor, Of a power not exceeding 1500W and having a dust bag or other receptacle capacity not exceeding 20L]'
+2026-09-03 18:11:25,009 - src.parser - DEBUG - 跳过已作废的HS编码: 85081100.00 - 电动的真空吸尘器(电动的真空吸尘器功率不超过1500瓦,且带有容积不超过20升的集尘袋或其他集尘容器)[Vacuum cleaners with self-contained electric motor, Of a power not exceeding 1500W and having a dust bag or other receptacle capacity not exceeding 20L]
+2026-09-03 18:11:25,009 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8508190000', 链接文本='查看详情'
+2026-09-03 18:11:25,009 - src.parser - DEBUG - 从表格第2列获取商品名: '其他电动的真空吸尘器(其他电动的真空吸尘器)[Other vacuum cleaners with self-contained electric motor]'
+2026-09-03 18:11:25,009 - src.parser - DEBUG - 跳过已作废的HS编码: 85081900.00 - 其他电动的真空吸尘器(其他电动的真空吸尘器)[Other vacuum cleaners with self-contained electric motor]
+2026-09-03 18:11:25,009 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3307490000', 链接文本='33074900.00'
+2026-09-03 18:11:25,010 - src.parser - DEBUG - 从表格第2列获取商品名: '清香片'
+2026-09-03 18:11:25,010 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3307900000', 链接文本='33079000.00'
+2026-09-03 18:11:25,010 - src.parser - DEBUG - 从表格第2列获取商品名: '吸尘器配件（香片）'
+2026-09-03 18:11:25,010 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3307900000', 链接文本='33079000.00'
+2026-09-03 18:11:25,010 - src.parser - DEBUG - 从表格第2列获取商品名: '吸尘器配件(清新香条)'
+2026-09-03 18:11:25,010 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926901000', 链接文本='39269010.00'
+2026-09-03 18:11:25,010 - src.parser - DEBUG - 从表格第2列获取商品名: '吸尘手柄'
+2026-09-03 18:11:25,010 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926901000', 链接文本='39269010.00'
+2026-09-03 18:11:25,010 - src.parser - DEBUG - 从表格第2列获取商品名: '吸尘器配件-塑件'
+2026-09-03 18:11:25,010 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926901000', 链接文本='39269010.00'
+2026-09-03 18:11:25,011 - src.parser - DEBUG - 从表格第2列获取商品名: '吸尘器配件(嘴)'
+2026-09-03 18:11:25,011 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926901000', 链接文本='39269010.00'
+2026-09-03 18:11:25,011 - src.parser - DEBUG - 从表格第2列获取商品名: '吸尘器上盖'
+2026-09-03 18:11:25,011 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926901000', 链接文本='39269010.00'
+2026-09-03 18:11:25,011 - src.parser - DEBUG - 从表格第2列获取商品名: '吸尘器配件-塑料件'
+2026-09-03 18:11:25,011 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926901000', 链接文本='39269010.00'
+2026-09-03 18:11:25,011 - src.parser - DEBUG - 从表格第2列获取商品名: '塑料吸头的底座'
+2026-09-03 18:11:25,011 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926909090', 链接文本='39269090.90'
+2026-09-03 18:11:25,012 - src.parser - DEBUG - 从表格第2列获取商品名: '吸尘器配件（接头配件）'
+2026-09-03 18:11:25,012 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926909090', 链接文本='39269090.90'
+2026-09-03 18:11:25,012 - src.parser - DEBUG - 从表格第2列获取商品名: '吸尘器配件（插条）'
+2026-09-03 18:11:25,012 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926909090', 链接文本='39269090.90'
+2026-09-03 18:11:25,012 - src.parser - DEBUG - 从表格第2列获取商品名: '吸尘器配件(圆套/手柄)'
+2026-09-03 18:11:25,012 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926909090', 链接文本='39269090.90'
+2026-09-03 18:11:25,012 - src.parser - DEBUG - 从表格第2列获取商品名: '吸尘器配件（接头）'
+2026-09-03 18:11:25,013 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926909090', 链接文本='39269090.90'
+2026-09-03 18:11:25,013 - src.parser - DEBUG - 从表格第2列获取商品名: '锁扣'
+2026-09-03 18:11:25,013 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/3926909090', 链接文本='39269090.90'
+2026-09-03 18:11:25,013 - src.parser - DEBUG - 从表格第2列获取商品名: '锁盖'
+2026-09-03 18:11:25,013 - src.parser - INFO - 从搜索结果中提取到 20 条记录
+2026-09-03 18:11:25,013 - src.scraper - DEBUG - 提取到的商品名称列表: ['其他电动的真空吸尘器(功率不超过1500瓦,且带有容积不超过20升的集尘袋或其他集尘容器)[Other electric vacuum cleaners]', '其他电动的真空吸尘器[Other electric vacuum cleaners]', '编号85081100所列吸尘器用零件(编号85081100所列吸尘器用零件)[Parts Of the cleaners of subheading No.8508.1100]', '其他真空吸尘器零件(其他真空吸尘器零件)[Parts of Other vacuum cleaners]', '其他真空吸尘器(其他真空吸尘器非电动)[Other vacuum cleaners (non-electric)]']...
+2026-09-03 18:11:25,013 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '其他电动的真空吸尘器(功率不超过1500瓦,且带有容积不超过20升的集尘袋或其他集尘容器)[Other electric vacuum cleaners]' -> partial=0.60, token_sort=0.07, token_set=0.07, max=0.60
+2026-09-03 18:11:25,013 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '其他电动的真空吸尘器[Other electric vacuum cleaners]' -> partial=0.60, token_sort=0.13, token_set=0.13, max=0.60
+2026-09-03 18:11:25,014 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '编号85081100所列吸尘器用零件(编号85081100所列吸尘器用零件)[Parts Of the cleaners of subheading No.8508.1100]' -> partial=0.60, token_sort=0.06, token_set=0.06, max=0.60
+2026-09-03 18:11:25,014 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '其他真空吸尘器零件(其他真空吸尘器零件)[Parts of Other vacuum cleaners]' -> partial=0.60, token_sort=0.11, token_set=0.11, max=0.60
+2026-09-03 18:11:25,014 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '其他真空吸尘器(其他真空吸尘器非电动)[Other vacuum cleaners (non-electric)]' -> partial=0.60, token_sort=0.10, token_set=0.10, max=0.60
+2026-09-03 18:11:25,014 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '清香片' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:25,050 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '吸尘器配件（香片）' -> partial=0.75, token_sort=0.43, token_set=0.43, max=0.75
+2026-09-03 18:11:25,050 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '吸尘器配件(清新香条)' -> partial=0.75, token_sort=0.38, token_set=0.38, max=0.75
+2026-09-03 18:11:25,050 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '吸尘手柄' -> partial=0.57, token_sort=0.44, token_set=0.44, max=0.57
+2026-09-03 18:11:25,050 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '吸尘器配件-塑件' -> partial=0.75, token_sort=0.46, token_set=0.46, max=0.75
+2026-09-03 18:11:25,051 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '吸尘器配件(嘴)' -> partial=0.75, token_sort=0.46, token_set=0.46, max=0.75
+2026-09-03 18:11:25,051 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '吸尘器上盖' -> partial=0.75, token_sort=0.60, token_set=0.60, max=0.75
+2026-09-03 18:11:25,051 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '吸尘器配件-塑料件' -> partial=0.75, token_sort=0.43, token_set=0.43, max=0.75
+2026-09-03 18:11:25,051 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '塑料吸头的底座' -> partial=0.25, token_sort=0.17, token_set=0.17, max=0.25
+2026-09-03 18:11:25,051 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '吸尘器配件（接头配件）' -> partial=0.75, token_sort=0.38, token_set=0.38, max=0.75
+2026-09-03 18:11:25,051 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '吸尘器配件（插条）' -> partial=0.75, token_sort=0.43, token_set=0.43, max=0.75
+2026-09-03 18:11:25,051 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '吸尘器配件(圆套/手柄)' -> partial=0.75, token_sort=0.35, token_set=0.35, max=0.75
+2026-09-03 18:11:25,051 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '吸尘器配件（接头）' -> partial=0.75, token_sort=0.43, token_set=0.43, max=0.75
+2026-09-03 18:11:25,051 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '锁扣' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:25,051 - src.search_optimizer - DEBUG - 相似度计算: '无线吸尘器' vs '锁盖' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:11:25,051 - src.scraper - INFO - 找到最佳匹配: '吸尘器配件（香片）' (相似度: 0.75)
+2026-09-03 18:11:25,051 - src.scraper - DEBUG - 尝试候选 1/20: 吸尘器配件（香片） (相似度: 0.75)
+2026-09-03 18:11:25,051 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/3307900000
+2026-09-03 18:11:25,051 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/3307900000
+2026-09-03 18:11:26,104 - src.parser - INFO - 成功解析HS编码: 33079000.00 - 其他编号未列名的芳香料制品
+2026-09-03 18:11:26,104 - src.scraper - INFO - 查询成功: 无线吸尘器 -> 33079000.00
+2026-09-03 18:19:26,923 - src.parser - INFO - DataParser 初始化完成
+2026-09-03 18:19:26,923 - src.search_optimizer - INFO - SearchOptimizer 初始化完成 (嵌入向量: False)
+2026-09-03 18:19:26,923 - src.scraper - INFO - HSCodeScraper 初始化完成
+2026-09-03 18:19:26,924 - src.scraper - INFO - 开始查询商品: 电吉他
+2026-09-03 18:19:27,222 - src.search_optimizer - DEBUG - 分词结果: 电吉他 -> ['电吉他']
+2026-09-03 18:19:27,222 - src.search_optimizer - INFO - 为 '电吉他' 生成了 1 个搜索关键词: ['电吉他']
+2026-09-03 18:19:27,222 - src.scraper - INFO - 尝试关键词 1/1: 电吉他
+2026-09-03 18:19:27,222 - src.scraper - INFO - 搜索关键词: 电吉他
+2026-09-03 18:19:27,223 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E7%94%B5%E5%90%89%E4%BB%96
+2026-09-03 18:19:28,404 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:28,404 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 从表格第2列获取商品名: '弦'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他把位指示器'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他琴边饰片'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 从表格第2列获取商品名: '电子帽'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 从表格第2列获取商品名: '旋钮'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 从表格第2列获取商品名: '插孔'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他侧面音点'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:28,405 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他正面音点'
+2026-09-03 18:19:28,406 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:28,406 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他音律盖'
+2026-09-03 18:19:28,406 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/4202220000', 链接文本='42022200.00'
+2026-09-03 18:19:28,406 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他软包'
+2026-09-03 18:19:28,406 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8544601400', 链接文本='85446014.00'
+2026-09-03 18:19:28,406 - src.parser - DEBUG - 从表格第2列获取商品名: '连接线'
+2026-09-03 18:19:28,406 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:28,406 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:19:28,407 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:28,407 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:19:28,407 - src.parser - INFO - 从搜索结果中提取到 15 条记录
+2026-09-03 18:19:28,407 - src.scraper - DEBUG - 提取到的商品名称列表: ['电吉他', '电吉他', '弦', '电吉他把位指示器', '电吉他琴边饰片']...
+2026-09-03 18:19:28,407 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '弦' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:19:28,408 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他把位指示器' -> partial=1.00, token_sort=0.55, token_set=0.55, max=1.00
+2026-09-03 18:19:28,408 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他琴边饰片' -> partial=1.00, token_sort=0.60, token_set=0.60, max=1.00
+2026-09-03 18:19:28,408 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电子帽' -> partial=0.50, token_sort=0.33, token_set=0.33, max=0.50
+2026-09-03 18:19:28,408 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '旋钮' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:19:28,408 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '插孔' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:19:28,408 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他侧面音点' -> partial=1.00, token_sort=0.60, token_set=0.60, max=1.00
+2026-09-03 18:19:28,408 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他正面音点' -> partial=1.00, token_sort=0.60, token_set=0.60, max=1.00
+2026-09-03 18:19:28,408 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他音律盖' -> partial=1.00, token_sort=0.67, token_set=0.67, max=1.00
+2026-09-03 18:19:28,408 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他软包' -> partial=1.00, token_sort=0.75, token_set=0.75, max=1.00
+2026-09-03 18:19:28,408 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '连接线' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:19:28,409 - src.scraper - INFO - 找到最佳匹配: '电吉他' (相似度: 1.00)
+2026-09-03 18:19:28,409 - src.scraper - DEBUG - 尝试候选 1/15: 电吉他 (相似度: 1.00)
+2026-09-03 18:19:28,409 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:28,409 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:29,461 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:29,461 - src.scraper - DEBUG - 候选 1 已作废，尝试下一个
+2026-09-03 18:19:29,461 - src.scraper - DEBUG - 尝试候选 2/15: 电吉他 (相似度: 1.00)
+2026-09-03 18:19:29,461 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:29,461 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:30,514 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:30,514 - src.scraper - DEBUG - 候选 2 已作废，尝试下一个
+2026-09-03 18:19:30,514 - src.scraper - DEBUG - 尝试候选 3/15: 电吉他把位指示器 (相似度: 1.00)
+2026-09-03 18:19:30,514 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:30,514 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:31,567 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:19:31,568 - src.scraper - DEBUG - 候选 3 已作废，尝试下一个
+2026-09-03 18:19:31,568 - src.scraper - DEBUG - 尝试候选 4/15: 电吉他琴边饰片 (相似度: 1.00)
+2026-09-03 18:19:31,568 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:31,568 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:32,619 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:19:32,619 - src.scraper - DEBUG - 候选 4 已作废，尝试下一个
+2026-09-03 18:19:32,619 - src.scraper - DEBUG - 尝试候选 5/15: 电吉他侧面音点 (相似度: 1.00)
+2026-09-03 18:19:32,619 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:32,619 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:33,680 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:19:33,680 - src.scraper - DEBUG - 候选 5 已作废，尝试下一个
+2026-09-03 18:19:33,681 - src.scraper - DEBUG - 尝试候选 6/15: 电吉他正面音点 (相似度: 1.00)
+2026-09-03 18:19:33,681 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:33,681 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:34,743 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:19:34,743 - src.scraper - DEBUG - 候选 6 已作废，尝试下一个
+2026-09-03 18:19:34,743 - src.scraper - DEBUG - 尝试候选 7/15: 电吉他音律盖 (相似度: 1.00)
+2026-09-03 18:19:34,743 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:34,743 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:35,793 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:19:35,793 - src.scraper - DEBUG - 候选 7 已作废，尝试下一个
+2026-09-03 18:19:35,793 - src.scraper - DEBUG - 尝试候选 8/15: 电吉他软包 (相似度: 1.00)
+2026-09-03 18:19:35,793 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/4202220000
+2026-09-03 18:19:35,793 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/4202220000
+2026-09-03 18:19:36,988 - src.parser - INFO - 成功解析HS编码: 42022200.00 - 以塑料片或纺织材料作面的手提包
+2026-09-03 18:19:36,988 - src.scraper - INFO - 查询成功: 电吉他 -> 42022200.00
+2026-09-03 18:19:36,988 - src.scraper - INFO - 开始查询商品: 电贝司
+2026-09-03 18:19:36,988 - src.search_optimizer - DEBUG - 分词结果: 电贝司 -> ['电贝司']
+2026-09-03 18:19:36,988 - src.search_optimizer - INFO - 为 '电贝司' 生成了 1 个搜索关键词: ['电贝司']
+2026-09-03 18:19:36,988 - src.scraper - INFO - 尝试关键词 1/1: 电贝司
+2026-09-03 18:19:36,988 - src.scraper - INFO - 搜索关键词: 电贝司
+2026-09-03 18:19:36,988 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E7%94%B5%E8%B4%9D%E5%8F%B8
+2026-09-03 18:19:38,050 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:38,050 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司'
+2026-09-03 18:19:38,050 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:38,050 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司ELECTRICBASS,品牌:YAMAHA.'
+2026-09-03 18:19:38,050 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:38,050 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.'
+2026-09-03 18:19:38,050 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:38,050 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.'
+2026-09-03 18:19:38,050 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:38,050 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.'
+2026-09-03 18:19:38,050 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:38,050 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.'
+2026-09-03 18:19:38,050 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:38,051 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司ELECTRIC BASS,品牌:雅马哈.'
+2026-09-03 18:19:38,051 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:38,051 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司'
+2026-09-03 18:19:38,051 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:38,051 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHA ELECTRIC BASS,品牌:雅马哈.'
+2026-09-03 18:19:38,051 - src.parser - INFO - 从搜索结果中提取到 9 条记录
+2026-09-03 18:19:38,051 - src.scraper - DEBUG - 提取到的商品名称列表: ['电贝司', '电贝司ELECTRICBASS,品牌:YAMAHA.', '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.', '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.', '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.']...
+2026-09-03 18:19:38,051 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司ELECTRICBASS,品牌:YAMAHA.' -> partial=1.00, token_sort=0.21, token_set=0.21, max=1.00
+2026-09-03 18:19:38,051 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.19, token_set=0.19, max=1.00
+2026-09-03 18:19:38,051 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.19, token_set=0.19, max=1.00
+2026-09-03 18:19:38,051 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.19, token_set=0.19, max=1.00
+2026-09-03 18:19:38,051 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.19, token_set=0.19, max=1.00
+2026-09-03 18:19:38,051 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司ELECTRIC BASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.22, token_set=0.22, max=1.00
+2026-09-03 18:19:38,051 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司YAMAHA ELECTRIC BASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.18, token_set=0.18, max=1.00
+2026-09-03 18:19:38,051 - src.scraper - INFO - 找到最佳匹配: '电贝司' (相似度: 1.00)
+2026-09-03 18:19:38,051 - src.scraper - DEBUG - 尝试候选 1/9: 电贝司 (相似度: 1.00)
+2026-09-03 18:19:38,052 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:38,052 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:39,104 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:39,104 - src.scraper - DEBUG - 候选 1 已作废，尝试下一个
+2026-09-03 18:19:39,104 - src.scraper - DEBUG - 尝试候选 2/9: 电贝司ELECTRICBASS,品牌:YAMAHA. (相似度: 1.00)
+2026-09-03 18:19:39,104 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:39,104 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:40,154 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:40,155 - src.scraper - DEBUG - 候选 2 已作废，尝试下一个
+2026-09-03 18:19:40,155 - src.scraper - DEBUG - 尝试候选 3/9: 电贝司YAMAHAELECTRICBASS,品牌:雅马哈. (相似度: 1.00)
+2026-09-03 18:19:40,155 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:40,155 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:41,205 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:41,223 - src.scraper - DEBUG - 候选 3 已作废，尝试下一个
+2026-09-03 18:19:41,223 - src.scraper - DEBUG - 尝试候选 4/9: 电贝司YAMAHAELECTRICBASS,品牌:雅马哈. (相似度: 1.00)
+2026-09-03 18:19:41,223 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:41,223 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:42,277 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:42,278 - src.scraper - DEBUG - 候选 4 已作废，尝试下一个
+2026-09-03 18:19:42,278 - src.scraper - DEBUG - 尝试候选 5/9: 电贝司YAMAHAELECTRICBASS,品牌:雅马哈. (相似度: 1.00)
+2026-09-03 18:19:42,278 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:42,278 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:43,330 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:43,330 - src.scraper - DEBUG - 候选 5 已作废，尝试下一个
+2026-09-03 18:19:43,330 - src.scraper - DEBUG - 尝试候选 6/9: 电贝司YAMAHAELECTRICBASS,品牌:雅马哈. (相似度: 1.00)
+2026-09-03 18:19:43,330 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:43,330 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:44,383 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:44,384 - src.scraper - DEBUG - 候选 6 已作废，尝试下一个
+2026-09-03 18:19:44,384 - src.scraper - DEBUG - 尝试候选 7/9: 电贝司ELECTRIC BASS,品牌:雅马哈. (相似度: 1.00)
+2026-09-03 18:19:44,384 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:44,384 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:45,435 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:45,435 - src.scraper - DEBUG - 候选 7 已作废，尝试下一个
+2026-09-03 18:19:45,435 - src.scraper - DEBUG - 尝试候选 8/9: 电贝司 (相似度: 1.00)
+2026-09-03 18:19:45,435 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:45,436 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:46,487 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:46,487 - src.scraper - DEBUG - 候选 8 已作废，尝试下一个
+2026-09-03 18:19:46,487 - src.scraper - DEBUG - 尝试候选 9/9: 电贝司YAMAHA ELECTRIC BASS,品牌:雅马哈. (相似度: 1.00)
+2026-09-03 18:19:46,487 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:46,487 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:47,538 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:47,538 - src.scraper - DEBUG - 候选 9 已作废，尝试下一个
+2026-09-03 18:19:47,538 - src.scraper - WARNING - 查询失败: 电贝司，已尝试 1 个关键词
+2026-09-03 18:19:47,538 - src.scraper - INFO - 开始查询商品: 空心电吉他
+2026-09-03 18:19:47,538 - src.search_optimizer - DEBUG - 分词结果: 空心电吉他 -> ['空心', '电吉他']
+2026-09-03 18:19:47,538 - src.search_optimizer - INFO - 为 '空心电吉他' 生成了 4 个搜索关键词: ['空心电吉他', '空心 电吉他', '电吉他', '空心']
+2026-09-03 18:19:47,538 - src.scraper - INFO - 尝试关键词 1/4: 空心电吉他
+2026-09-03 18:19:47,538 - src.scraper - INFO - 搜索关键词: 空心电吉他
+2026-09-03 18:19:47,538 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E7%A9%BA%E5%BF%83%E7%94%B5%E5%90%89%E4%BB%96
+2026-09-03 18:19:48,593 - src.parser - INFO - 从搜索结果中提取到 0 条记录
+2026-09-03 18:19:48,593 - src.scraper - WARNING - 关键词 '空心电吉他' 未找到搜索结果
+2026-09-03 18:19:48,594 - src.scraper - INFO - 尝试关键词 2/4: 空心 电吉他
+2026-09-03 18:19:48,594 - src.scraper - INFO - 搜索关键词: 空心 电吉他
+2026-09-03 18:19:48,594 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E7%A9%BA%E5%BF%83%20%E7%94%B5%E5%90%89%E4%BB%96
+2026-09-03 18:19:49,650 - src.parser - INFO - 从搜索结果中提取到 0 条记录
+2026-09-03 18:19:49,650 - src.scraper - WARNING - 关键词 '空心 电吉他' 未找到搜索结果
+2026-09-03 18:19:49,650 - src.scraper - INFO - 尝试关键词 3/4: 电吉他
+2026-09-03 18:19:49,650 - src.scraper - INFO - 搜索关键词: 电吉他
+2026-09-03 18:19:49,650 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E7%94%B5%E5%90%89%E4%BB%96
+2026-09-03 18:19:50,713 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:50,713 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:19:50,713 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:50,713 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:19:50,714 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:50,714 - src.parser - DEBUG - 从表格第2列获取商品名: '弦'
+2026-09-03 18:19:50,714 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:50,714 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他把位指示器'
+2026-09-03 18:19:50,714 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:50,714 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他琴边饰片'
+2026-09-03 18:19:50,714 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:50,714 - src.parser - DEBUG - 从表格第2列获取商品名: '电子帽'
+2026-09-03 18:19:50,715 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:50,715 - src.parser - DEBUG - 从表格第2列获取商品名: '旋钮'
+2026-09-03 18:19:50,715 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:50,715 - src.parser - DEBUG - 从表格第2列获取商品名: '插孔'
+2026-09-03 18:19:50,715 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:50,715 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他侧面音点'
+2026-09-03 18:19:50,715 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:50,716 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他正面音点'
+2026-09-03 18:19:50,716 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:19:50,716 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他音律盖'
+2026-09-03 18:19:50,716 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/4202220000', 链接文本='42022200.00'
+2026-09-03 18:19:50,716 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他软包'
+2026-09-03 18:19:50,716 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8544601400', 链接文本='85446014.00'
+2026-09-03 18:19:50,716 - src.parser - DEBUG - 从表格第2列获取商品名: '连接线'
+2026-09-03 18:19:50,716 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:50,717 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:19:50,717 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:19:50,717 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:19:50,717 - src.parser - INFO - 从搜索结果中提取到 15 条记录
+2026-09-03 18:19:50,717 - src.scraper - DEBUG - 提取到的商品名称列表: ['电吉他', '电吉他', '弦', '电吉他把位指示器', '电吉他琴边饰片']...
+2026-09-03 18:19:50,717 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '电吉他' -> partial=1.00, token_sort=0.75, token_set=0.75, max=1.00
+2026-09-03 18:19:50,717 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '电吉他' -> partial=1.00, token_sort=0.75, token_set=0.75, max=1.00
+2026-09-03 18:19:50,717 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '弦' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:19:50,717 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '电吉他把位指示器' -> partial=0.75, token_sort=0.46, token_set=0.46, max=0.75
+2026-09-03 18:19:50,718 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '电吉他琴边饰片' -> partial=0.75, token_sort=0.50, token_set=0.50, max=0.75
+2026-09-03 18:19:50,718 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '电子帽' -> partial=0.33, token_sort=0.25, token_set=0.25, max=0.33
+2026-09-03 18:19:50,718 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '旋钮' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:19:50,718 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '插孔' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:19:50,718 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '电吉他侧面音点' -> partial=0.75, token_sort=0.50, token_set=0.50, max=0.75
+2026-09-03 18:19:50,718 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '电吉他正面音点' -> partial=0.75, token_sort=0.50, token_set=0.50, max=0.75
+2026-09-03 18:19:50,718 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '电吉他音律盖' -> partial=0.75, token_sort=0.55, token_set=0.55, max=0.75
+2026-09-03 18:19:50,718 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '电吉他软包' -> partial=0.75, token_sort=0.60, token_set=0.60, max=0.75
+2026-09-03 18:19:50,718 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '连接线' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:19:50,718 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '电吉他' -> partial=1.00, token_sort=0.75, token_set=0.75, max=1.00
+2026-09-03 18:19:50,718 - src.search_optimizer - DEBUG - 相似度计算: '空心电吉他' vs '电吉他' -> partial=1.00, token_sort=0.75, token_set=0.75, max=1.00
+2026-09-03 18:19:50,718 - src.scraper - INFO - 找到最佳匹配: '电吉他' (相似度: 1.00)
+2026-09-03 18:19:50,719 - src.scraper - DEBUG - 尝试候选 1/15: 电吉他 (相似度: 1.00)
+2026-09-03 18:19:50,719 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:50,719 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:51,771 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:51,771 - src.scraper - DEBUG - 候选 1 已作废，尝试下一个
+2026-09-03 18:19:51,771 - src.scraper - DEBUG - 尝试候选 2/15: 电吉他 (相似度: 1.00)
+2026-09-03 18:19:51,771 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:51,771 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:52,831 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:52,831 - src.scraper - DEBUG - 候选 2 已作废，尝试下一个
+2026-09-03 18:19:52,831 - src.scraper - DEBUG - 尝试候选 3/15: 电吉他 (相似度: 1.00)
+2026-09-03 18:19:52,831 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:52,831 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:53,886 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:53,886 - src.scraper - DEBUG - 候选 3 已作废，尝试下一个
+2026-09-03 18:19:53,886 - src.scraper - DEBUG - 尝试候选 4/15: 电吉他 (相似度: 1.00)
+2026-09-03 18:19:53,886 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:53,886 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:19:54,936 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:19:54,936 - src.scraper - DEBUG - 候选 4 已作废，尝试下一个
+2026-09-03 18:19:54,936 - src.scraper - DEBUG - 尝试候选 5/15: 电吉他把位指示器 (相似度: 0.75)
+2026-09-03 18:19:54,936 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:54,936 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:55,986 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:19:55,986 - src.scraper - DEBUG - 候选 5 已作废，尝试下一个
+2026-09-03 18:19:55,986 - src.scraper - DEBUG - 尝试候选 6/15: 电吉他琴边饰片 (相似度: 0.75)
+2026-09-03 18:19:55,986 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:55,986 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:57,037 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:19:57,038 - src.scraper - DEBUG - 候选 6 已作废，尝试下一个
+2026-09-03 18:19:57,038 - src.scraper - DEBUG - 尝试候选 7/15: 电吉他侧面音点 (相似度: 0.75)
+2026-09-03 18:19:57,038 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:57,038 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:58,089 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:19:58,090 - src.scraper - DEBUG - 候选 7 已作废，尝试下一个
+2026-09-03 18:19:58,090 - src.scraper - DEBUG - 尝试候选 8/15: 电吉他正面音点 (相似度: 0.75)
+2026-09-03 18:19:58,090 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:58,090 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:59,140 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:19:59,140 - src.scraper - DEBUG - 候选 8 已作废，尝试下一个
+2026-09-03 18:19:59,140 - src.scraper - DEBUG - 尝试候选 9/15: 电吉他音律盖 (相似度: 0.75)
+2026-09-03 18:19:59,140 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:19:59,140 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:20:00,192 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:20:00,192 - src.scraper - DEBUG - 候选 9 已作废，尝试下一个
+2026-09-03 18:20:00,192 - src.scraper - DEBUG - 尝试候选 10/15: 电吉他软包 (相似度: 0.75)
+2026-09-03 18:20:00,192 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/4202220000
+2026-09-03 18:20:00,192 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/4202220000
+2026-09-03 18:20:01,250 - src.parser - INFO - 成功解析HS编码: 42022200.00 - 以塑料片或纺织材料作面的手提包
+2026-09-03 18:20:01,250 - src.scraper - INFO - 查询成功: 空心电吉他 -> 42022200.00
+2026-09-03 18:20:01,250 - src.scraper - INFO - 开始查询商品: 原声吉他
+2026-09-03 18:20:01,250 - src.search_optimizer - DEBUG - 分词结果: 原声吉他 -> ['吉他']
+2026-09-03 18:20:01,250 - src.search_optimizer - INFO - 为 '原声吉他' 生成了 2 个搜索关键词: ['原声吉他', '吉他']
+2026-09-03 18:20:01,250 - src.scraper - INFO - 尝试关键词 1/2: 原声吉他
+2026-09-03 18:20:01,250 - src.scraper - INFO - 搜索关键词: 原声吉他
+2026-09-03 18:20:01,250 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E5%8E%9F%E5%A3%B0%E5%90%89%E4%BB%96
+2026-09-03 18:20:02,304 - src.parser - INFO - 从搜索结果中提取到 0 条记录
+2026-09-03 18:20:02,305 - src.scraper - WARNING - 关键词 '原声吉他' 未找到搜索结果
+2026-09-03 18:20:02,305 - src.scraper - INFO - 尝试关键词 2/2: 吉他
+2026-09-03 18:20:02,305 - src.scraper - INFO - 搜索关键词: 吉他
+2026-09-03 18:20:02,305 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E5%90%89%E4%BB%96
+2026-09-03 18:20:03,368 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/4202129000', 链接文本='42021290.00'
+2026-09-03 18:20:03,368 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他包'
+2026-09-03 18:20:03,368 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/4202220000', 链接文本='42022200.00'
+2026-09-03 18:20:03,368 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他软包'
+2026-09-03 18:20:03,368 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/4202920000', 链接文本='42029200.00'
+2026-09-03 18:20:03,368 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他盒'
+2026-09-03 18:20:03,368 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8518220000', 链接文本='85182200.00'
+2026-09-03 18:20:03,368 - src.parser - DEBUG - 从表格第2列获取商品名: '吉它音箱'
+2026-09-03 18:20:03,368 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8544421100', 链接文本='85444211.00'
+2026-09-03 18:20:03,368 - src.parser - DEBUG - 从表格第2列获取商品名: '乐器连接线'
+2026-09-03 18:20:03,368 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8544601400', 链接文本='85446014.00'
+2026-09-03 18:20:03,369 - src.parser - DEBUG - 从表格第2列获取商品名: '连接线'
+2026-09-03 18:20:03,369 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9202100099', 链接文本='92021000.99'
+2026-09-03 18:20:03,369 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他'
+2026-09-03 18:20:03,369 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9202900090', 链接文本='92029000.90'
+2026-09-03 18:20:03,369 - src.parser - DEBUG - 从表格第2列获取商品名: '民谣吉他'
+2026-09-03 18:20:03,369 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9202900090', 链接文本='92029000.90'
+2026-09-03 18:20:03,370 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他'
+2026-09-03 18:20:03,370 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:20:03,370 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:20:03,370 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:20:03,370 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:20:03,370 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:03,370 - src.parser - DEBUG - 从表格第2列获取商品名: '上枕'
+2026-09-03 18:20:03,370 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:03,370 - src.parser - DEBUG - 从表格第2列获取商品名: '下枕'
+2026-09-03 18:20:03,370 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:03,371 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他变调夹'
+2026-09-03 18:20:03,371 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:03,371 - src.parser - DEBUG - 从表格第2列获取商品名: '配件,吉他变调夹'
+2026-09-03 18:20:03,371 - src.parser - INFO - 从搜索结果中提取到 15 条记录
+2026-09-03 18:20:03,371 - src.scraper - DEBUG - 提取到的商品名称列表: ['吉他包', '电吉他软包', '吉他盒', '吉它音箱', '乐器连接线']...
+2026-09-03 18:20:03,371 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '吉他包' -> partial=0.80, token_sort=0.57, token_set=0.57, max=0.80
+2026-09-03 18:20:03,371 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '电吉他软包' -> partial=0.57, token_sort=0.44, token_set=0.44, max=0.57
+2026-09-03 18:20:03,371 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '吉他盒' -> partial=0.80, token_sort=0.57, token_set=0.57, max=0.80
+2026-09-03 18:20:03,371 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '吉它音箱' -> partial=0.40, token_sort=0.25, token_set=0.25, max=0.40
+2026-09-03 18:20:03,371 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '乐器连接线' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:20:03,372 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '连接线' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:20:03,372 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '吉他' -> partial=1.00, token_sort=0.67, token_set=0.67, max=1.00
+2026-09-03 18:20:03,372 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '民谣吉他' -> partial=0.67, token_sort=0.50, token_set=0.50, max=0.67
+2026-09-03 18:20:03,372 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '吉他' -> partial=1.00, token_sort=0.67, token_set=0.67, max=1.00
+2026-09-03 18:20:03,372 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '电吉他' -> partial=0.80, token_sort=0.57, token_set=0.57, max=0.80
+2026-09-03 18:20:03,372 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '电吉他' -> partial=0.80, token_sort=0.57, token_set=0.57, max=0.80
+2026-09-03 18:20:03,372 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '上枕' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:20:03,372 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '下枕' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:20:03,372 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '吉他变调夹' -> partial=0.67, token_sort=0.44, token_set=0.44, max=0.67
+2026-09-03 18:20:03,372 - src.search_optimizer - DEBUG - 相似度计算: '原声吉他' vs '配件,吉他变调夹' -> partial=0.50, token_sort=0.33, token_set=0.33, max=0.50
+2026-09-03 18:20:03,372 - src.scraper - INFO - 找到最佳匹配: '吉他' (相似度: 1.00)
+2026-09-03 18:20:03,372 - src.scraper - DEBUG - 尝试候选 1/15: 吉他 (相似度: 1.00)
+2026-09-03 18:20:03,372 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9202100099
+2026-09-03 18:20:03,372 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9202100099
+2026-09-03 18:20:04,439 - src.parser - INFO - 成功解析HS编码: 92021000.99 - 其他弓弦乐器
+2026-09-03 18:20:04,439 - src.scraper - INFO - 查询成功: 原声吉他 -> 92021000.99
+2026-09-03 18:20:04,439 - src.scraper - INFO - 开始查询商品: 吉他效果器
+2026-09-03 18:20:04,439 - src.search_optimizer - DEBUG - 分词结果: 吉他效果器 -> ['吉他', '效果器']
+2026-09-03 18:20:04,439 - src.search_optimizer - INFO - 为 '吉他效果器' 生成了 4 个搜索关键词: ['吉他效果器', '吉他 效果器', '效果器', '吉他']
+2026-09-03 18:20:04,439 - src.scraper - INFO - 尝试关键词 1/4: 吉他效果器
+2026-09-03 18:20:04,439 - src.scraper - INFO - 搜索关键词: 吉他效果器
+2026-09-03 18:20:04,439 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E5%90%89%E4%BB%96%E6%95%88%E6%9E%9C%E5%99%A8
+2026-09-03 18:20:05,499 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:20:05,499 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他效果器'
+2026-09-03 18:20:05,499 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:05,499 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他效果器'
+2026-09-03 18:20:05,499 - src.parser - INFO - 从搜索结果中提取到 2 条记录
+2026-09-03 18:20:05,499 - src.scraper - DEBUG - 提取到的商品名称列表: ['吉他效果器', '吉他效果器']...
+2026-09-03 18:20:05,499 - src.scraper - INFO - 找到最佳匹配: '吉他效果器' (相似度: 1.00)
+2026-09-03 18:20:05,499 - src.scraper - DEBUG - 尝试候选 1/2: 吉他效果器 (相似度: 1.00)
+2026-09-03 18:20:05,499 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:20:05,499 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:20:06,551 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:20:06,551 - src.scraper - DEBUG - 候选 1 已作废，尝试下一个
+2026-09-03 18:20:06,551 - src.scraper - DEBUG - 尝试候选 2/2: 吉他效果器 (相似度: 1.00)
+2026-09-03 18:20:06,551 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209920000
+2026-09-03 18:20:06,551 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209920000
+2026-09-03 18:20:07,612 - src.parser - WARNING - 详情页HS编码已作废: 92099200.00(已作废)推荐查询: 92099200或者：920992
+2026-09-03 18:20:07,612 - src.scraper - DEBUG - 候选 2 已作废，尝试下一个
+2026-09-03 18:20:07,613 - src.scraper - INFO - 尝试关键词 2/4: 吉他 效果器
+2026-09-03 18:20:07,613 - src.scraper - INFO - 搜索关键词: 吉他 效果器
+2026-09-03 18:20:07,613 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E5%90%89%E4%BB%96%20%E6%95%88%E6%9E%9C%E5%99%A8
+2026-09-03 18:20:08,674 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:20:08,675 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他效果器'
+2026-09-03 18:20:08,675 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:08,675 - src.parser - DEBUG - 从表格第2列获取商品名: '效果器/吉他配件'
+2026-09-03 18:20:08,675 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:08,675 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他效果器'
+2026-09-03 18:20:08,675 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:20:08,675 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他附件:效果器226个.踏板'
+2026-09-03 18:20:08,675 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:20:08,675 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他附件:效果器'
+2026-09-03 18:20:08,675 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:20:08,676 - src.parser - DEBUG - 从表格第2列获取商品名: '效果器'
+2026-09-03 18:20:08,676 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209999000', 链接文本='92099990.00'
+2026-09-03 18:20:08,676 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他附件:效果器'
+2026-09-03 18:20:08,676 - src.parser - INFO - 从搜索结果中提取到 7 条记录
+2026-09-03 18:20:08,676 - src.scraper - DEBUG - 提取到的商品名称列表: ['吉他效果器', '效果器/吉他配件', '吉他效果器', '电吉他附件:效果器226个.踏板', '电吉他附件:效果器']...
+2026-09-03 18:20:08,676 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '效果器/吉他配件' -> partial=0.75, token_sort=0.46, token_set=0.46, max=0.75
+2026-09-03 18:20:08,676 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '电吉他附件:效果器226个.踏板' -> partial=0.60, token_sort=0.48, token_set=0.48, max=0.60
+2026-09-03 18:20:08,676 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '电吉他附件:效果器' -> partial=0.75, token_sort=0.71, token_set=0.71, max=0.75
+2026-09-03 18:20:08,676 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '效果器' -> partial=1.00, token_sort=0.75, token_set=0.75, max=1.00
+2026-09-03 18:20:08,676 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '电吉他附件:效果器' -> partial=0.75, token_sort=0.71, token_set=0.71, max=0.75
+2026-09-03 18:20:08,676 - src.scraper - INFO - 找到最佳匹配: '吉他效果器' (相似度: 1.00)
+2026-09-03 18:20:08,676 - src.scraper - DEBUG - 尝试候选 1/7: 吉他效果器 (相似度: 1.00)
+2026-09-03 18:20:08,677 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:20:08,677 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:20:09,729 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:20:09,729 - src.scraper - DEBUG - 候选 1 已作废，尝试下一个
+2026-09-03 18:20:09,729 - src.scraper - DEBUG - 尝试候选 2/7: 吉他效果器 (相似度: 1.00)
+2026-09-03 18:20:09,729 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209920000
+2026-09-03 18:20:09,729 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209920000
+2026-09-03 18:20:10,785 - src.parser - WARNING - 详情页HS编码已作废: 92099200.00(已作废)推荐查询: 92099200或者：920992
+2026-09-03 18:20:10,785 - src.scraper - DEBUG - 候选 2 已作废，尝试下一个
+2026-09-03 18:20:10,785 - src.scraper - DEBUG - 尝试候选 3/7: 效果器 (相似度: 1.00)
+2026-09-03 18:20:10,785 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:20:10,785 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:20:11,836 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:20:11,836 - src.scraper - DEBUG - 候选 3 已作废，尝试下一个
+2026-09-03 18:20:11,836 - src.scraper - DEBUG - 尝试候选 4/7: 效果器/吉他配件 (相似度: 0.75)
+2026-09-03 18:20:11,836 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209920000
+2026-09-03 18:20:11,836 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209920000
+2026-09-03 18:20:12,889 - src.parser - WARNING - 详情页HS编码已作废: 92099200.00(已作废)推荐查询: 92099200或者：920992
+2026-09-03 18:20:12,889 - src.scraper - DEBUG - 候选 4 已作废，尝试下一个
+2026-09-03 18:20:12,889 - src.scraper - DEBUG - 尝试候选 5/7: 电吉他附件:效果器 (相似度: 0.75)
+2026-09-03 18:20:12,889 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:20:12,889 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:20:13,941 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:20:13,950 - src.scraper - DEBUG - 候选 5 已作废，尝试下一个
+2026-09-03 18:20:13,950 - src.scraper - DEBUG - 尝试候选 6/7: 电吉他附件:效果器 (相似度: 0.75)
+2026-09-03 18:20:13,950 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209999000
+2026-09-03 18:20:13,950 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209999000
+2026-09-03 18:20:15,015 - src.parser - WARNING - 详情页HS编码已作废: 92099990.00(已作废)推荐查询: 92099990或者：920999
+2026-09-03 18:20:15,016 - src.scraper - DEBUG - 候选 6 已作废，尝试下一个
+2026-09-03 18:20:15,016 - src.scraper - DEBUG - 尝试候选 7/7: 电吉他附件:效果器226个.踏板 (相似度: 0.60)
+2026-09-03 18:20:15,016 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:20:15,016 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:20:16,070 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:20:16,070 - src.scraper - DEBUG - 候选 7 已作废，尝试下一个
+2026-09-03 18:20:16,070 - src.scraper - INFO - 尝试关键词 3/4: 效果器
+2026-09-03 18:20:16,070 - src.scraper - INFO - 搜索关键词: 效果器
+2026-09-03 18:20:16,070 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E6%95%88%E6%9E%9C%E5%99%A8
+2026-09-03 18:20:17,217 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:20:17,217 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他效果器'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 从表格第2列获取商品名: '效果器'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 从表格第2列获取商品名: '效果器/吉他配件'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 从表格第2列获取商品名: '吉它配件:效果器'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他效果器'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 从表格第2列获取商品名: '调音效果器/DJ-8'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 从表格第2列获取商品名: '调音效果器/DJ-21'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 从表格第2列获取商品名: '调音效果器/DO-1'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:20:17,218 - src.parser - DEBUG - 从表格第2列获取商品名: '调音效果器/DTB-1'
+2026-09-03 18:20:17,219 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:20:17,219 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他附件:效果器226个.踏板'
+2026-09-03 18:20:17,219 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:20:17,219 - src.parser - DEBUG - 从表格第2列获取商品名: '调音效果器/DSR-1'
+2026-09-03 18:20:17,219 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:20:17,219 - src.parser - DEBUG - 从表格第2列获取商品名: '效果器174只'
+2026-09-03 18:20:17,219 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:20:17,219 - src.parser - DEBUG - 从表格第2列获取商品名: '调音效果器/DJ-16'
+2026-09-03 18:20:17,219 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:20:17,219 - src.parser - DEBUG - 从表格第2列获取商品名: '调音效果器/DJ-17'
+2026-09-03 18:20:17,219 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8543709990', 链接文本='85437099.90'
+2026-09-03 18:20:17,219 - src.parser - DEBUG - 从表格第2列获取商品名: '效果器'
+2026-09-03 18:20:17,219 - src.parser - INFO - 从搜索结果中提取到 15 条记录
+2026-09-03 18:20:17,219 - src.scraper - DEBUG - 提取到的商品名称列表: ['吉他效果器', '效果器', '效果器/吉他配件', '吉它配件:效果器', '吉他效果器']...
+2026-09-03 18:20:17,219 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '效果器' -> partial=1.00, token_sort=0.75, token_set=0.75, max=1.00
+2026-09-03 18:20:17,220 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '效果器/吉他配件' -> partial=0.75, token_sort=0.46, token_set=0.46, max=0.75
+2026-09-03 18:20:17,220 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '吉它配件:效果器' -> partial=0.75, token_sort=0.62, token_set=0.62, max=0.75
+2026-09-03 18:20:17,220 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '调音效果器/DJ-8' -> partial=0.60, token_sort=0.40, token_set=0.40, max=0.60
+2026-09-03 18:20:17,220 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '调音效果器/DJ-21' -> partial=0.60, token_sort=0.38, token_set=0.38, max=0.60
+2026-09-03 18:20:17,220 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '调音效果器/DO-1' -> partial=0.60, token_sort=0.40, token_set=0.40, max=0.60
+2026-09-03 18:20:17,220 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '调音效果器/DTB-1' -> partial=0.60, token_sort=0.38, token_set=0.38, max=0.60
+2026-09-03 18:20:17,220 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '电吉他附件:效果器226个.踏板' -> partial=0.60, token_sort=0.48, token_set=0.48, max=0.60
+2026-09-03 18:20:17,220 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '调音效果器/DSR-1' -> partial=0.60, token_sort=0.38, token_set=0.38, max=0.60
+2026-09-03 18:20:17,220 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '效果器174只' -> partial=0.75, token_sort=0.50, token_set=0.50, max=0.75
+2026-09-03 18:20:17,220 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '调音效果器/DJ-16' -> partial=0.60, token_sort=0.38, token_set=0.38, max=0.60
+2026-09-03 18:20:17,220 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '调音效果器/DJ-17' -> partial=0.60, token_sort=0.38, token_set=0.38, max=0.60
+2026-09-03 18:20:17,220 - src.search_optimizer - DEBUG - 相似度计算: '吉他效果器' vs '效果器' -> partial=1.00, token_sort=0.75, token_set=0.75, max=1.00
+2026-09-03 18:20:17,220 - src.scraper - INFO - 找到最佳匹配: '吉他效果器' (相似度: 1.00)
+2026-09-03 18:20:17,220 - src.scraper - DEBUG - 尝试候选 1/15: 吉他效果器 (相似度: 1.00)
+2026-09-03 18:20:17,220 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:20:17,220 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:20:18,273 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:20:18,273 - src.scraper - DEBUG - 候选 1 已作废，尝试下一个
+2026-09-03 18:20:18,273 - src.scraper - DEBUG - 尝试候选 2/15: 效果器 (相似度: 1.00)
+2026-09-03 18:20:18,273 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209920000
+2026-09-03 18:20:18,273 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209920000
+2026-09-03 18:20:19,326 - src.parser - WARNING - 详情页HS编码已作废: 92099200.00(已作废)推荐查询: 92099200或者：920992
+2026-09-03 18:20:19,326 - src.scraper - DEBUG - 候选 2 已作废，尝试下一个
+2026-09-03 18:20:19,326 - src.scraper - DEBUG - 尝试候选 3/15: 吉他效果器 (相似度: 1.00)
+2026-09-03 18:20:19,326 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209920000
+2026-09-03 18:20:19,326 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209920000
+2026-09-03 18:20:20,377 - src.parser - WARNING - 详情页HS编码已作废: 92099200.00(已作废)推荐查询: 92099200或者：920992
+2026-09-03 18:20:20,378 - src.scraper - DEBUG - 候选 3 已作废，尝试下一个
+2026-09-03 18:20:20,378 - src.scraper - DEBUG - 尝试候选 4/15: 效果器 (相似度: 1.00)
+2026-09-03 18:20:20,378 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/8543709990
+2026-09-03 18:20:20,378 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/8543709990
+2026-09-03 18:20:21,437 - src.parser - INFO - 成功解析HS编码: 85437099.90 - 其他未列名的具有独立功能的电气设备及装置
+2026-09-03 18:20:21,437 - src.scraper - INFO - 查询成功: 吉他效果器 -> 85437099.90
+2026-09-03 18:20:21,438 - src.scraper - INFO - 开始查询商品: 吉他配件
+2026-09-03 18:20:21,438 - src.search_optimizer - DEBUG - 分词结果: 吉他配件 -> ['吉他', '配件']
+2026-09-03 18:20:21,438 - src.search_optimizer - INFO - 为 '吉他配件' 生成了 4 个搜索关键词: ['吉他配件', '吉他 配件', '吉他', '配件']
+2026-09-03 18:20:21,438 - src.scraper - INFO - 尝试关键词 1/4: 吉他配件
+2026-09-03 18:20:21,438 - src.scraper - INFO - 搜索关键词: 吉他配件
+2026-09-03 18:20:21,438 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E5%90%89%E4%BB%96%E9%85%8D%E4%BB%B6
+2026-09-03 18:20:22,505 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209300000', 链接文本='92093000.00'
+2026-09-03 18:20:22,505 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他配件:弦线'
+2026-09-03 18:20:22,506 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,506 - src.parser - DEBUG - 从表格第2列获取商品名: '踏板'
+2026-09-03 18:20:22,506 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,506 - src.parser - DEBUG - 从表格第2列获取商品名: '铁心'
+2026-09-03 18:20:22,506 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,506 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他配件:套线,拨片,变调夹,校音'
+2026-09-03 18:20:22,506 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,506 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他配件:塑料制外壳'
+2026-09-03 18:20:22,506 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,506 - src.parser - DEBUG - 从表格第2列获取商品名: '拾音块'
+2026-09-03 18:20:22,506 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,506 - src.parser - DEBUG - 从表格第2列获取商品名: '音频前置放大器'
+2026-09-03 18:20:22,507 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,507 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他弦卷/底板'
+2026-09-03 18:20:22,507 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,507 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他配件/电声,插孔'
+2026-09-03 18:20:22,507 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,507 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他配件:琴身.琴颈'
+2026-09-03 18:20:22,507 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,508 - src.parser - DEBUG - 从表格第2列获取商品名: '效果器/吉他配件'
+2026-09-03 18:20:22,508 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,508 - src.parser - DEBUG - 从表格第2列获取商品名: '贝司铁心'
+2026-09-03 18:20:22,508 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,508 - src.parser - DEBUG - 从表格第2列获取商品名: '锌圈套'
+2026-09-03 18:20:22,508 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,508 - src.parser - DEBUG - 从表格第2列获取商品名: '拾音棒'
+2026-09-03 18:20:22,508 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:20:22,508 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他配件:调音器.变调夹'
+2026-09-03 18:20:22,509 - src.parser - INFO - 从搜索结果中提取到 15 条记录
+2026-09-03 18:20:22,509 - src.scraper - DEBUG - 提取到的商品名称列表: ['电吉他配件:弦线', '踏板', '铁心', '吉他配件:套线,拨片,变调夹,校音', '吉他配件:塑料制外壳']...
+2026-09-03 18:20:22,509 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '电吉他配件:弦线' -> partial=1.00, token_sort=0.67, token_set=0.67, max=1.00
+2026-09-03 18:20:22,509 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '踏板' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:20:22,509 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '铁心' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:20:22,509 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '吉他配件:套线,拨片,变调夹,校音' -> partial=1.00, token_sort=0.38, token_set=0.38, max=1.00
+2026-09-03 18:20:22,509 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '吉他配件:塑料制外壳' -> partial=1.00, token_sort=0.57, token_set=0.57, max=1.00
+2026-09-03 18:20:22,509 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '拾音块' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:20:22,509 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '音频前置放大器' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:20:22,509 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '吉他弦卷/底板' -> partial=0.67, token_sort=0.36, token_set=0.36, max=0.67
+2026-09-03 18:20:22,509 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '吉他配件/电声,插孔' -> partial=1.00, token_sort=0.57, token_set=0.57, max=1.00
+2026-09-03 18:20:22,510 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '吉他配件:琴身.琴颈' -> partial=1.00, token_sort=0.57, token_set=0.57, max=1.00
+2026-09-03 18:20:22,510 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '效果器/吉他配件' -> partial=1.00, token_sort=0.67, token_set=0.67, max=1.00
+2026-09-03 18:20:22,510 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '贝司铁心' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:20:22,510 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '锌圈套' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:20:22,510 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '拾音棒' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:20:22,510 - src.search_optimizer - DEBUG - 相似度计算: '吉他配件' vs '吉他配件:调音器.变调夹' -> partial=1.00, token_sort=0.50, token_set=0.50, max=1.00
+2026-09-03 18:20:22,510 - src.scraper - INFO - 找到最佳匹配: '电吉他配件:弦线' (相似度: 1.00)
+2026-09-03 18:20:22,510 - src.scraper - DEBUG - 尝试候选 1/15: 电吉他配件:弦线 (相似度: 1.00)
+2026-09-03 18:20:22,510 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209300000
+2026-09-03 18:20:22,510 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209300000
+2026-09-03 18:20:23,569 - src.parser - INFO - 成功解析HS编码: 92093000.00 - 乐器用的弦
+2026-09-03 18:20:23,570 - src.scraper - INFO - 查询成功: 吉他配件 -> 92093000.00
+2026-09-03 18:21:22,710 - src.parser - INFO - DataParser 初始化完成
+2026-09-03 18:21:22,710 - src.search_optimizer - INFO - SearchOptimizer 初始化完成 (嵌入向量: False)
+2026-09-03 18:21:22,710 - src.scraper - INFO - HSCodeScraper 初始化完成
+2026-09-03 18:21:22,710 - src.scraper - INFO - 开始查询商品: 电吉他
+2026-09-03 18:21:23,020 - src.search_optimizer - DEBUG - 分词结果: 电吉他 -> ['电吉他']
+2026-09-03 18:21:23,020 - src.search_optimizer - INFO - 为 '电吉他' 生成了 1 个搜索关键词: ['电吉他']
+2026-09-03 18:21:23,020 - src.scraper - INFO - 尝试关键词 1/1: 电吉他
+2026-09-03 18:21:23,020 - src.scraper - INFO - 搜索关键词: 电吉他
+2026-09-03 18:21:23,020 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E7%94%B5%E5%90%89%E4%BB%96
+2026-09-03 18:21:24,170 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:24,170 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 从表格第2列获取商品名: '弦'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他把位指示器'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他琴边饰片'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 从表格第2列获取商品名: '电子帽'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 从表格第2列获取商品名: '旋钮'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 从表格第2列获取商品名: '插孔'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他侧面音点'
+2026-09-03 18:21:24,171 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:21:24,172 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他正面音点'
+2026-09-03 18:21:24,172 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-03 18:21:24,172 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他音律盖'
+2026-09-03 18:21:24,172 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/4202220000', 链接文本='42022200.00'
+2026-09-03 18:21:24,172 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他软包'
+2026-09-03 18:21:24,172 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8544601400', 链接文本='85446014.00'
+2026-09-03 18:21:24,172 - src.parser - DEBUG - 从表格第2列获取商品名: '连接线'
+2026-09-03 18:21:24,172 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:24,172 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:21:24,172 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:24,172 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:21:24,172 - src.parser - INFO - 从搜索结果中提取到 15 条记录
+2026-09-03 18:21:24,173 - src.scraper - DEBUG - 提取到的商品名称列表: ['电吉他', '电吉他', '弦', '电吉他把位指示器', '电吉他琴边饰片']...
+2026-09-03 18:21:24,173 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '弦' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:21:24,173 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他把位指示器' -> partial=1.00, token_sort=0.55, token_set=0.55, max=1.00
+2026-09-03 18:21:24,173 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他琴边饰片' -> partial=1.00, token_sort=0.60, token_set=0.60, max=1.00
+2026-09-03 18:21:24,173 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电子帽' -> partial=0.50, token_sort=0.33, token_set=0.33, max=0.50
+2026-09-03 18:21:24,174 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '旋钮' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:21:24,174 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '插孔' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:21:24,174 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他侧面音点' -> partial=1.00, token_sort=0.60, token_set=0.60, max=1.00
+2026-09-03 18:21:24,174 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他正面音点' -> partial=1.00, token_sort=0.60, token_set=0.60, max=1.00
+2026-09-03 18:21:24,174 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他音律盖' -> partial=1.00, token_sort=0.67, token_set=0.67, max=1.00
+2026-09-03 18:21:24,174 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他软包' -> partial=1.00, token_sort=0.75, token_set=0.75, max=1.00
+2026-09-03 18:21:24,174 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '连接线' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:21:24,174 - src.scraper - INFO - 找到最佳匹配: '电吉他' (相似度: 1.00)
+2026-09-03 18:21:24,174 - src.scraper - DEBUG - 尝试候选 1/15: 电吉他 (相似度: 1.00)
+2026-09-03 18:21:24,174 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:24,174 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:25,221 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:21:25,221 - src.scraper - DEBUG - 候选 1 已作废，尝试下一个
+2026-09-03 18:21:25,222 - src.scraper - DEBUG - 尝试候选 2/15: 电吉他 (相似度: 1.00)
+2026-09-03 18:21:25,222 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:25,222 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:26,268 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:21:26,268 - src.scraper - DEBUG - 候选 2 已作废，尝试下一个
+2026-09-03 18:21:26,268 - src.scraper - DEBUG - 尝试候选 3/15: 电吉他把位指示器 (相似度: 1.00)
+2026-09-03 18:21:26,268 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:21:26,268 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:21:27,317 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:21:27,317 - src.scraper - DEBUG - 候选 3 已作废，尝试下一个
+2026-09-03 18:21:27,317 - src.scraper - DEBUG - 尝试候选 4/15: 电吉他琴边饰片 (相似度: 1.00)
+2026-09-03 18:21:27,317 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:21:27,317 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:21:28,366 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:21:28,366 - src.scraper - DEBUG - 候选 4 已作废，尝试下一个
+2026-09-03 18:21:28,367 - src.scraper - DEBUG - 尝试候选 5/15: 电吉他侧面音点 (相似度: 1.00)
+2026-09-03 18:21:28,367 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:21:28,367 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:21:29,417 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:21:29,417 - src.scraper - DEBUG - 候选 5 已作废，尝试下一个
+2026-09-03 18:21:29,417 - src.scraper - DEBUG - 尝试候选 6/15: 电吉他正面音点 (相似度: 1.00)
+2026-09-03 18:21:29,417 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:21:29,417 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:21:30,465 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:21:30,465 - src.scraper - DEBUG - 候选 6 已作废，尝试下一个
+2026-09-03 18:21:30,465 - src.scraper - DEBUG - 尝试候选 7/15: 电吉他音律盖 (相似度: 1.00)
+2026-09-03 18:21:30,465 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:21:30,465 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-03 18:21:31,511 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-03 18:21:31,512 - src.scraper - DEBUG - 候选 7 已作废，尝试下一个
+2026-09-03 18:21:31,512 - src.scraper - DEBUG - 尝试候选 8/15: 电吉他软包 (相似度: 1.00)
+2026-09-03 18:21:31,512 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/4202220000
+2026-09-03 18:21:31,512 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/4202220000
+2026-09-03 18:21:32,709 - src.parser - INFO - 成功解析HS编码: 42022200.00 - 以塑料片或纺织材料作面的手提包
+2026-09-03 18:21:32,709 - src.scraper - INFO - 查询成功: 电吉他 -> 42022200.00
+2026-09-03 18:21:32,709 - src.scraper - INFO - 开始查询商品: 电贝司
+2026-09-03 18:21:32,709 - src.search_optimizer - DEBUG - 分词结果: 电贝司 -> ['电贝司']
+2026-09-03 18:21:32,709 - src.search_optimizer - INFO - 为 '电贝司' 生成了 1 个搜索关键词: ['电贝司']
+2026-09-03 18:21:32,709 - src.scraper - INFO - 尝试关键词 1/1: 电贝司
+2026-09-03 18:21:32,710 - src.scraper - INFO - 搜索关键词: 电贝司
+2026-09-03 18:21:32,710 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E7%94%B5%E8%B4%9D%E5%8F%B8
+2026-09-03 18:21:33,769 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:33,769 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司'
+2026-09-03 18:21:33,769 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:33,769 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司ELECTRICBASS,品牌:YAMAHA.'
+2026-09-03 18:21:33,769 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:33,769 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.'
+2026-09-03 18:21:33,769 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:33,769 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.'
+2026-09-03 18:21:33,770 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:33,770 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.'
+2026-09-03 18:21:33,770 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:33,770 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.'
+2026-09-03 18:21:33,770 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:33,770 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司ELECTRIC BASS,品牌:雅马哈.'
+2026-09-03 18:21:33,770 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:33,770 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司'
+2026-09-03 18:21:33,770 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:33,770 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHA ELECTRIC BASS,品牌:雅马哈.'
+2026-09-03 18:21:33,770 - src.parser - INFO - 从搜索结果中提取到 9 条记录
+2026-09-03 18:21:33,770 - src.scraper - DEBUG - 提取到的商品名称列表: ['电贝司', '电贝司ELECTRICBASS,品牌:YAMAHA.', '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.', '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.', '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.']...
+2026-09-03 18:21:33,770 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司ELECTRICBASS,品牌:YAMAHA.' -> partial=1.00, token_sort=0.21, token_set=0.21, max=1.00
+2026-09-03 18:21:33,770 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.19, token_set=0.19, max=1.00
+2026-09-03 18:21:33,770 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.19, token_set=0.19, max=1.00
+2026-09-03 18:21:33,770 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.19, token_set=0.19, max=1.00
+2026-09-03 18:21:33,770 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.19, token_set=0.19, max=1.00
+2026-09-03 18:21:33,770 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司ELECTRIC BASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.22, token_set=0.22, max=1.00
+2026-09-03 18:21:33,770 - src.search_optimizer - DEBUG - 相似度计算: '电贝司' vs '电贝司YAMAHA ELECTRIC BASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.18, token_set=0.18, max=1.00
+2026-09-03 18:21:33,771 - src.scraper - INFO - 找到最佳匹配: '电贝司' (相似度: 1.00)
+2026-09-03 18:21:33,771 - src.scraper - DEBUG - 尝试候选 1/9: 电贝司 (相似度: 1.00)
+2026-09-03 18:21:33,771 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:33,771 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:34,818 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:21:34,818 - src.scraper - DEBUG - 候选 1 已作废，尝试下一个
+2026-09-03 18:21:34,818 - src.scraper - DEBUG - 尝试候选 2/9: 电贝司ELECTRICBASS,品牌:YAMAHA. (相似度: 1.00)
+2026-09-03 18:21:34,818 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:34,818 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:35,866 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:21:35,867 - src.scraper - DEBUG - 候选 2 已作废，尝试下一个
+2026-09-03 18:21:35,867 - src.scraper - DEBUG - 尝试候选 3/9: 电贝司YAMAHAELECTRICBASS,品牌:雅马哈. (相似度: 1.00)
+2026-09-03 18:21:35,867 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:35,867 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:36,912 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:21:36,912 - src.scraper - DEBUG - 候选 3 已作废，尝试下一个
+2026-09-03 18:21:36,912 - src.scraper - DEBUG - 尝试候选 4/9: 电贝司YAMAHAELECTRICBASS,品牌:雅马哈. (相似度: 1.00)
+2026-09-03 18:21:36,912 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:36,913 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:37,961 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:21:37,961 - src.scraper - DEBUG - 候选 4 已作废，尝试下一个
+2026-09-03 18:21:37,961 - src.scraper - DEBUG - 尝试候选 5/9: 电贝司YAMAHAELECTRICBASS,品牌:雅马哈. (相似度: 1.00)
+2026-09-03 18:21:37,961 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:37,961 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:39,008 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:21:39,008 - src.scraper - DEBUG - 候选 5 已作废，尝试下一个
+2026-09-03 18:21:39,008 - src.scraper - DEBUG - 尝试候选 6/9: 电贝司YAMAHAELECTRICBASS,品牌:雅马哈. (相似度: 1.00)
+2026-09-03 18:21:39,009 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:39,009 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:40,055 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:21:40,055 - src.scraper - DEBUG - 候选 6 已作废，尝试下一个
+2026-09-03 18:21:40,055 - src.scraper - DEBUG - 尝试候选 7/9: 电贝司ELECTRIC BASS,品牌:雅马哈. (相似度: 1.00)
+2026-09-03 18:21:40,055 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:40,055 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:41,102 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:21:41,102 - src.scraper - DEBUG - 候选 7 已作废，尝试下一个
+2026-09-03 18:21:41,102 - src.scraper - DEBUG - 尝试候选 8/9: 电贝司 (相似度: 1.00)
+2026-09-03 18:21:41,102 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:41,102 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:42,151 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:21:42,151 - src.scraper - DEBUG - 候选 8 已作废，尝试下一个
+2026-09-03 18:21:42,151 - src.scraper - DEBUG - 尝试候选 9/9: 电贝司YAMAHA ELECTRIC BASS,品牌:雅马哈. (相似度: 1.00)
+2026-09-03 18:21:42,151 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:42,151 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:21:43,199 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-03 18:21:43,199 - src.scraper - DEBUG - 候选 9 已作废，尝试下一个
+2026-09-03 18:21:43,199 - src.scraper - WARNING - 查询失败: 电贝司，已尝试 1 个关键词
+2026-09-03 18:21:43,199 - src.scraper - INFO - 开始查询商品: 吉他
+2026-09-03 18:21:43,200 - src.search_optimizer - DEBUG - 分词结果: 吉他 -> ['吉他']
+2026-09-03 18:21:43,200 - src.search_optimizer - INFO - 为 '吉他' 生成了 1 个搜索关键词: ['吉他']
+2026-09-03 18:21:43,200 - src.scraper - INFO - 尝试关键词 1/1: 吉他
+2026-09-03 18:21:43,200 - src.scraper - INFO - 搜索关键词: 吉他
+2026-09-03 18:21:43,200 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E5%90%89%E4%BB%96
+2026-09-03 18:21:44,259 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/4202129000', 链接文本='42021290.00'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他包'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/4202220000', 链接文本='42022200.00'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他软包'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/4202920000', 链接文本='42029200.00'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他盒'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8518220000', 链接文本='85182200.00'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 从表格第2列获取商品名: '吉它音箱'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8544421100', 链接文本='85444211.00'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 从表格第2列获取商品名: '乐器连接线'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8544601400', 链接文本='85446014.00'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 从表格第2列获取商品名: '连接线'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9202100099', 链接文本='92021000.99'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9202900090', 链接文本='92029000.90'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 从表格第2列获取商品名: '民谣吉他'
+2026-09-03 18:21:44,260 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9202900090', 链接文本='92029000.90'
+2026-09-03 18:21:44,261 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他'
+2026-09-03 18:21:44,261 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:44,261 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:21:44,261 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:44,261 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-03 18:21:44,261 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:21:44,261 - src.parser - DEBUG - 从表格第2列获取商品名: '上枕'
+2026-09-03 18:21:44,261 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:21:44,261 - src.parser - DEBUG - 从表格第2列获取商品名: '下枕'
+2026-09-03 18:21:44,261 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:21:44,261 - src.parser - DEBUG - 从表格第2列获取商品名: '吉他变调夹'
+2026-09-03 18:21:44,261 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209920000', 链接文本='92099200.00'
+2026-09-03 18:21:44,261 - src.parser - DEBUG - 从表格第2列获取商品名: '配件,吉他变调夹'
+2026-09-03 18:21:44,262 - src.parser - INFO - 从搜索结果中提取到 15 条记录
+2026-09-03 18:21:44,262 - src.scraper - DEBUG - 提取到的商品名称列表: ['吉他包', '电吉他软包', '吉他盒', '吉它音箱', '乐器连接线']...
+2026-09-03 18:21:44,262 - src.search_optimizer - DEBUG - 相似度计算: '吉他' vs '吉他包' -> partial=1.00, token_sort=0.80, token_set=0.80, max=1.00
+2026-09-03 18:21:44,262 - src.search_optimizer - DEBUG - 相似度计算: '吉他' vs '电吉他软包' -> partial=1.00, token_sort=0.57, token_set=0.57, max=1.00
+2026-09-03 18:21:44,262 - src.search_optimizer - DEBUG - 相似度计算: '吉他' vs '吉他盒' -> partial=1.00, token_sort=0.80, token_set=0.80, max=1.00
+2026-09-03 18:21:44,263 - src.search_optimizer - DEBUG - 相似度计算: '吉他' vs '吉它音箱' -> partial=0.67, token_sort=0.33, token_set=0.33, max=0.67
+2026-09-03 18:21:44,263 - src.search_optimizer - DEBUG - 相似度计算: '吉他' vs '乐器连接线' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:21:44,263 - src.search_optimizer - DEBUG - 相似度计算: '吉他' vs '连接线' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:21:44,264 - src.search_optimizer - DEBUG - 相似度计算: '吉他' vs '民谣吉他' -> partial=1.00, token_sort=0.67, token_set=0.67, max=1.00
+2026-09-03 18:21:44,264 - src.search_optimizer - DEBUG - 相似度计算: '吉他' vs '电吉他' -> partial=1.00, token_sort=0.80, token_set=0.80, max=1.00
+2026-09-03 18:21:44,264 - src.search_optimizer - DEBUG - 相似度计算: '吉他' vs '电吉他' -> partial=1.00, token_sort=0.80, token_set=0.80, max=1.00
+2026-09-03 18:21:44,264 - src.search_optimizer - DEBUG - 相似度计算: '吉他' vs '上枕' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:21:44,264 - src.search_optimizer - DEBUG - 相似度计算: '吉他' vs '下枕' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-03 18:21:44,265 - src.search_optimizer - DEBUG - 相似度计算: '吉他' vs '吉他变调夹' -> partial=1.00, token_sort=0.57, token_set=0.57, max=1.00
+2026-09-03 18:21:44,265 - src.search_optimizer - DEBUG - 相似度计算: '吉他' vs '配件,吉他变调夹' -> partial=1.00, token_sort=0.40, token_set=0.40, max=1.00
+2026-09-03 18:21:44,265 - src.scraper - INFO - 找到最佳匹配: '吉他包' (相似度: 1.00)
+2026-09-03 18:21:44,265 - src.scraper - DEBUG - 尝试候选 1/15: 吉他包 (相似度: 1.00)
+2026-09-03 18:21:44,265 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/4202129000
+2026-09-03 18:21:44,265 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/4202129000
+2026-09-03 18:21:45,319 - src.parser - INFO - 成功解析HS编码: 42021290.00 - 以塑料或纺织材料作面的其他箱包
+2026-09-03 18:21:45,319 - src.scraper - INFO - 查询成功: 吉他 -> 42021290.00
+2026-09-03 18:21:45,319 - src.scraper - INFO - 开始查询商品: 贝司
+2026-09-03 18:21:45,319 - src.search_optimizer - DEBUG - 分词结果: 贝司 -> ['贝司']
+2026-09-03 18:21:45,319 - src.search_optimizer - INFO - 为 '贝司' 生成了 1 个搜索关键词: ['贝司']
+2026-09-03 18:21:45,319 - src.scraper - INFO - 尝试关键词 1/1: 贝司
+2026-09-03 18:21:45,319 - src.scraper - INFO - 搜索关键词: 贝司
+2026-09-03 18:21:45,319 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E8%B4%9D%E5%8F%B8
+2026-09-03 18:21:46,389 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9202100099', 链接文本='92021000.99'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 从表格第2列获取商品名: '贝司'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9202100099', 链接文本='92021000.99'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 从表格第2列获取商品名: '大贝司'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9202100099', 链接文本='92021000.99'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 从表格第2列获取商品名: '夹板大贝司'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9202900090', 链接文本='92029000.90'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 从表格第2列获取商品名: '贝司XY-JB100'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9202900090', 链接文本='92029000.90'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 从表格第2列获取商品名: '贝司'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9202900090', 链接文本='92029000.90'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 从表格第2列获取商品名: '贝司木吉他'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9202900090', 链接文本='92029000.90'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 从表格第2列获取商品名: '大贝司'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司ELECTRICBASS,品牌:YAMAHA.'
+2026-09-03 18:21:46,390 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:46,391 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.'
+2026-09-03 18:21:46,391 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:46,391 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.'
+2026-09-03 18:21:46,391 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:46,391 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.'
+2026-09-03 18:21:46,391 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:46,391 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.'
+2026-09-03 18:21:46,391 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:46,391 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司ELECTRIC BASS,品牌:雅马哈.'
+2026-09-03 18:21:46,391 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-03 18:21:46,391 - src.parser - DEBUG - 从表格第2列获取商品名: '电贝司'
+2026-09-03 18:21:46,391 - src.parser - INFO - 从搜索结果中提取到 15 条记录
+2026-09-03 18:21:46,391 - src.scraper - DEBUG - 提取到的商品名称列表: ['贝司', '大贝司', '夹板大贝司', '贝司XY-JB100', '贝司']...
+2026-09-03 18:21:46,392 - src.search_optimizer - DEBUG - 相似度计算: '贝司' vs '大贝司' -> partial=1.00, token_sort=0.80, token_set=0.80, max=1.00
+2026-09-03 18:21:46,392 - src.search_optimizer - DEBUG - 相似度计算: '贝司' vs '夹板大贝司' -> partial=1.00, token_sort=0.57, token_set=0.57, max=1.00
+2026-09-03 18:21:46,392 - src.search_optimizer - DEBUG - 相似度计算: '贝司' vs '贝司XY-JB100' -> partial=1.00, token_sort=0.33, token_set=0.33, max=1.00
+2026-09-03 18:21:46,392 - src.search_optimizer - DEBUG - 相似度计算: '贝司' vs '贝司木吉他' -> partial=1.00, token_sort=0.57, token_set=0.57, max=1.00
+2026-09-03 18:21:46,392 - src.search_optimizer - DEBUG - 相似度计算: '贝司' vs '大贝司' -> partial=1.00, token_sort=0.80, token_set=0.80, max=1.00
+2026-09-03 18:21:46,392 - src.search_optimizer - DEBUG - 相似度计算: '贝司' vs '电贝司' -> partial=1.00, token_sort=0.80, token_set=0.80, max=1.00
+2026-09-03 18:21:46,392 - src.search_optimizer - DEBUG - 相似度计算: '贝司' vs '电贝司ELECTRICBASS,品牌:YAMAHA.' -> partial=1.00, token_sort=0.14, token_set=0.14, max=1.00
+2026-09-03 18:21:46,392 - src.search_optimizer - DEBUG - 相似度计算: '贝司' vs '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.13, token_set=0.13, max=1.00
+2026-09-03 18:21:46,392 - src.search_optimizer - DEBUG - 相似度计算: '贝司' vs '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.13, token_set=0.13, max=1.00
+2026-09-03 18:21:46,392 - src.search_optimizer - DEBUG - 相似度计算: '贝司' vs '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.13, token_set=0.13, max=1.00
+2026-09-03 18:21:46,392 - src.search_optimizer - DEBUG - 相似度计算: '贝司' vs '电贝司YAMAHAELECTRICBASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.13, token_set=0.13, max=1.00
+2026-09-03 18:21:46,392 - src.search_optimizer - DEBUG - 相似度计算: '贝司' vs '电贝司ELECTRIC BASS,品牌:雅马哈.' -> partial=1.00, token_sort=0.15, token_set=0.15, max=1.00
+2026-09-03 18:21:46,392 - src.search_optimizer - DEBUG - 相似度计算: '贝司' vs '电贝司' -> partial=1.00, token_sort=0.80, token_set=0.80, max=1.00
+2026-09-03 18:21:46,393 - src.scraper - INFO - 找到最佳匹配: '贝司' (相似度: 1.00)
+2026-09-03 18:21:46,393 - src.scraper - DEBUG - 尝试候选 1/15: 贝司 (相似度: 1.00)
+2026-09-03 18:21:46,393 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9202100099
+2026-09-03 18:21:46,393 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9202100099
+2026-09-03 18:21:47,447 - src.parser - INFO - 成功解析HS编码: 92021000.99 - 其他弓弦乐器
+2026-09-03 18:21:47,447 - src.scraper - INFO - 查询成功: 贝司 -> 92021000.99
+2026-09-03 18:23:09,862 - src.parser - INFO - DataParser 初始化完成
+2026-09-03 18:23:09,862 - src.search_optimizer - INFO - SearchOptimizer 初始化完成 (嵌入向量: False)
+2026-09-03 18:23:09,862 - src.scraper - INFO - HSCodeScraper 初始化完成
+2026-09-03 18:23:09,862 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:23:09,862 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-03 18:23:11,006 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-04 00:32:58,895 - src.parser - INFO - DataParser 初始化完成
+2026-09-04 00:32:58,896 - src.search_optimizer - INFO - SearchOptimizer 初始化完成 (嵌入向量: False)
+2026-09-04 00:32:58,896 - src.scraper - INFO - HSCodeScraper 初始化完成
+2026-09-04 00:32:58,896 - src.scraper - INFO - 开始查询商品: 电吉他
+2026-09-04 00:32:59,193 - src.search_optimizer - DEBUG - 分词结果: 电吉他 -> ['电吉他']
+2026-09-04 00:32:59,194 - src.search_optimizer - INFO - 为 '电吉他' 生成了 1 个搜索关键词: ['电吉他']
+2026-09-04 00:32:59,194 - src.scraper - INFO - 尝试关键词 1/1: 电吉他
+2026-09-04 00:32:59,194 - src.scraper - INFO - 搜索关键词: 电吉他
+2026-09-04 00:32:59,194 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/key/%E7%94%B5%E5%90%89%E4%BB%96
+2026-09-04 00:33:00,351 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-04 00:33:00,351 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-04 00:33:00,351 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-04 00:33:00,351 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-04 00:33:00,351 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-04 00:33:00,351 - src.parser - DEBUG - 从表格第2列获取商品名: '弦'
+2026-09-04 00:33:00,351 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-04 00:33:00,352 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他把位指示器'
+2026-09-04 00:33:00,352 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-04 00:33:00,352 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他琴边饰片'
+2026-09-04 00:33:00,352 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-04 00:33:00,352 - src.parser - DEBUG - 从表格第2列获取商品名: '电子帽'
+2026-09-04 00:33:00,352 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-04 00:33:00,352 - src.parser - DEBUG - 从表格第2列获取商品名: '旋钮'
+2026-09-04 00:33:00,352 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-04 00:33:00,352 - src.parser - DEBUG - 从表格第2列获取商品名: '插孔'
+2026-09-04 00:33:00,352 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-04 00:33:00,352 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他侧面音点'
+2026-09-04 00:33:00,352 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-04 00:33:00,353 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他正面音点'
+2026-09-04 00:33:00,353 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9209940000', 链接文本='92099400.00'
+2026-09-04 00:33:00,353 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他音律盖'
+2026-09-04 00:33:00,353 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/4202220000', 链接文本='42022200.00'
+2026-09-04 00:33:00,353 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他软包'
+2026-09-04 00:33:00,353 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/8544601400', 链接文本='85446014.00'
+2026-09-04 00:33:00,353 - src.parser - DEBUG - 从表格第2列获取商品名: '连接线'
+2026-09-04 00:33:00,353 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-04 00:33:00,354 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-04 00:33:00,354 - src.parser - DEBUG - 提取到链接: href='//www.i5a6.com/hscode/detail/9207900000', 链接文本='92079000.00'
+2026-09-04 00:33:00,354 - src.parser - DEBUG - 从表格第2列获取商品名: '电吉他'
+2026-09-04 00:33:00,354 - src.parser - INFO - 从搜索结果中提取到 15 条记录
+2026-09-04 00:33:00,354 - src.scraper - DEBUG - 提取到的商品名称列表: ['电吉他', '电吉他', '弦', '电吉他把位指示器', '电吉他琴边饰片']...
+2026-09-04 00:33:00,354 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '弦' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-04 00:33:00,354 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他把位指示器' -> partial=1.00, token_sort=0.55, token_set=0.55, max=1.00
+2026-09-04 00:33:00,354 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他琴边饰片' -> partial=1.00, token_sort=0.60, token_set=0.60, max=1.00
+2026-09-04 00:33:00,354 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电子帽' -> partial=0.50, token_sort=0.33, token_set=0.33, max=0.50
+2026-09-04 00:33:00,354 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '旋钮' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-04 00:33:00,355 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '插孔' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-04 00:33:00,355 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他侧面音点' -> partial=1.00, token_sort=0.60, token_set=0.60, max=1.00
+2026-09-04 00:33:00,355 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他正面音点' -> partial=1.00, token_sort=0.60, token_set=0.60, max=1.00
+2026-09-04 00:33:00,355 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他音律盖' -> partial=1.00, token_sort=0.67, token_set=0.67, max=1.00
+2026-09-04 00:33:00,355 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '电吉他软包' -> partial=1.00, token_sort=0.75, token_set=0.75, max=1.00
+2026-09-04 00:33:00,355 - src.search_optimizer - DEBUG - 相似度计算: '电吉他' vs '连接线' -> partial=0.00, token_sort=0.00, token_set=0.00, max=0.00
+2026-09-04 00:33:00,355 - src.scraper - INFO - 找到最佳匹配: '电吉他' (相似度: 1.00)
+2026-09-04 00:33:00,355 - src.scraper - DEBUG - 尝试候选 1/15: 电吉他 (相似度: 1.00)
+2026-09-04 00:33:00,355 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-04 00:33:00,355 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-04 00:33:01,417 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-04 00:33:01,417 - src.scraper - DEBUG - 候选 1 已作废，尝试下一个
+2026-09-04 00:33:01,418 - src.scraper - DEBUG - 尝试候选 2/15: 电吉他 (相似度: 1.00)
+2026-09-04 00:33:01,418 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9207900000
+2026-09-04 00:33:01,418 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9207900000
+2026-09-04 00:33:02,470 - src.parser - WARNING - 详情页HS编码已作废: 92079000.00(已作废)推荐查询: 92079000或者：920790
+2026-09-04 00:33:02,470 - src.scraper - DEBUG - 候选 2 已作废，尝试下一个
+2026-09-04 00:33:02,470 - src.scraper - DEBUG - 尝试候选 3/15: 电吉他把位指示器 (相似度: 1.00)
+2026-09-04 00:33:02,470 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-04 00:33:02,470 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-04 00:33:03,522 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-04 00:33:03,522 - src.scraper - DEBUG - 候选 3 已作废，尝试下一个
+2026-09-04 00:33:03,523 - src.scraper - DEBUG - 尝试候选 4/15: 电吉他琴边饰片 (相似度: 1.00)
+2026-09-04 00:33:03,523 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-04 00:33:03,523 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-04 00:33:04,574 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-04 00:33:04,574 - src.scraper - DEBUG - 候选 4 已作废，尝试下一个
+2026-09-04 00:33:04,574 - src.scraper - DEBUG - 尝试候选 5/15: 电吉他侧面音点 (相似度: 1.00)
+2026-09-04 00:33:04,574 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-04 00:33:04,574 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-04 00:33:05,627 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-04 00:33:05,627 - src.scraper - DEBUG - 候选 5 已作废，尝试下一个
+2026-09-04 00:33:05,627 - src.scraper - DEBUG - 尝试候选 6/15: 电吉他正面音点 (相似度: 1.00)
+2026-09-04 00:33:05,627 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-04 00:33:05,627 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-04 00:33:06,677 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-04 00:33:06,677 - src.scraper - DEBUG - 候选 6 已作废，尝试下一个
+2026-09-04 00:33:06,677 - src.scraper - DEBUG - 尝试候选 7/15: 电吉他音律盖 (相似度: 1.00)
+2026-09-04 00:33:06,677 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/9209940000
+2026-09-04 00:33:06,677 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/9209940000
+2026-09-04 00:33:07,728 - src.parser - WARNING - 详情页HS编码已作废: 92099400.00(已作废)推荐查询: 92099400或者：920994
+2026-09-04 00:33:07,728 - src.scraper - DEBUG - 候选 7 已作废，尝试下一个
+2026-09-04 00:33:07,728 - src.scraper - DEBUG - 尝试候选 8/15: 电吉他软包 (相似度: 1.00)
+2026-09-04 00:33:07,729 - src.scraper - INFO - 获取详情: https://www.i5a6.com/hscode/detail/4202220000
+2026-09-04 00:33:07,729 - src.scraper - DEBUG - 请求 GET https://www.i5a6.com/hscode/detail/4202220000
+2026-09-04 00:33:08,919 - src.parser - INFO - 成功解析HS编码: 42022200.00 - 以塑料片或纺织材料作面的手提包
+2026-09-04 00:33:08,919 - src.scraper - INFO - 查询成功: 电吉他 -> 42022200.00

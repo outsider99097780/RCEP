@@ -1,0 +1,453 @@
+﻿{
+    "company":  "Roborock / Beijing Roborock Technology Co., Ltd.",
+    "website":  "https://us.roborock.com/",
+    "scope_note":  "Products currently surfaced on the Roborock US homepage; duplicate carousel entries deduplicated by model. HS results were obtained through the local mcp-hs-code-query fallback data source (i5a6.com); confirm the final classification with a customs broker for the destination country and exact configuration.",
+    "retrieved_at":  "2026-09-03",
+    "products":  [
+                     {
+                         "model":  "Saros 20",
+                         "category":  "robot_vacuum_mop",
+                         "source_url":  "https://us.roborock.com/pages/roborock-saros-20",
+                         "headline_features":  [
+                                                   "AdaptiLift Chassis 3.0",
+                                                   "StarSight Autonomous System 2.0",
+                                                   "36,000 Pa suction",
+                                                   "dual anti-tangle",
+                                                   "RockDock"
+                                               ],
+                         "hs_code_query":  {
+                                               "query_product_name":  "扫地机器人",
+                                               "hs_code":  "85098090.00",
+                                               "product_name":  "其他家用电动器具",
+                                               "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:用途;4:机身重量;5:功率;6:品牌（中文或外文名称）;7:型号;8:GTIN;9:CAS;10:其他",
+                                               "first_unit":  "台",
+                                               "second_unit":  "千克",
+                                               "customs_supervision_conditions":  {
+                                                                                      "code":  "A",
+                                                                                      "details":  [
+                                                                                                      {
+                                                                                                          "code":  "A",
+                                                                                                          "name":  "入境货物通关单"
+                                                                                                      }
+                                                                                                  ]
+                                                                                  },
+                                               "inspection_quarantine":  {
+                                                                             "code":  "L/",
+                                                                             "details":  [
+                                                                                             {
+                                                                                                 "code":  "L",
+                                                                                                 "name":  "入境民用商品认证"
+                                                                                             }
+                                                                                         ]
+                                                                         },
+                                               "description":  "其他家用电动器具",
+                                               "search_success":  true,
+                                               "error_message":  "",
+                                               "data_source":  "i5a6.com",
+                                               "query_method":  "fallback"
+                                           }
+                     },
+                     {
+                         "model":  "Qrevo Edge 3 Pro",
+                         "category":  "robot_vacuum_mop",
+                         "source_url":  "https://us.roborock.com/pages/roborock-qrevo-edge-3-pro",
+                         "headline_features":  [
+                                                   "AdaptiLift Chassis 3.0",
+                                                   "7.95 cm low-clearance access",
+                                                   "tangle-free cleaning",
+                                                   "warm-water mopping"
+                                               ],
+                         "hs_code_query":  {
+                                               "query_product_name":  "扫地机器人",
+                                               "hs_code":  "85098090.00",
+                                               "product_name":  "其他家用电动器具",
+                                               "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:用途;4:机身重量;5:功率;6:品牌（中文或外文名称）;7:型号;8:GTIN;9:CAS;10:其他",
+                                               "first_unit":  "台",
+                                               "second_unit":  "千克",
+                                               "customs_supervision_conditions":  {
+                                                                                      "code":  "A",
+                                                                                      "details":  [
+                                                                                                      {
+                                                                                                          "code":  "A",
+                                                                                                          "name":  "入境货物通关单"
+                                                                                                      }
+                                                                                                  ]
+                                                                                  },
+                                               "inspection_quarantine":  {
+                                                                             "code":  "L/",
+                                                                             "details":  [
+                                                                                             {
+                                                                                                 "code":  "L",
+                                                                                                 "name":  "入境民用商品认证"
+                                                                                             }
+                                                                                         ]
+                                                                         },
+                                               "description":  "其他家用电动器具",
+                                               "search_success":  true,
+                                               "error_message":  "",
+                                               "data_source":  "i5a6.com",
+                                               "query_method":  "fallback"
+                                           }
+                     },
+                     {
+                         "model":  "Qrevo 2 Pro",
+                         "category":  "robot_vacuum_mop",
+                         "source_url":  "https://us.roborock.com/pages/roborock-qrevo-2-pro",
+                         "headline_features":  [
+                                                   "20,000 Pa suction",
+                                                   "dual anti-tangle",
+                                                   "auto mop detachment",
+                                                   "multifunctional dock"
+                                               ],
+                         "hs_code_query":  {
+                                               "query_product_name":  "扫地机器人",
+                                               "hs_code":  "85098090.00",
+                                               "product_name":  "其他家用电动器具",
+                                               "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:用途;4:机身重量;5:功率;6:品牌（中文或外文名称）;7:型号;8:GTIN;9:CAS;10:其他",
+                                               "first_unit":  "台",
+                                               "second_unit":  "千克",
+                                               "customs_supervision_conditions":  {
+                                                                                      "code":  "A",
+                                                                                      "details":  [
+                                                                                                      {
+                                                                                                          "code":  "A",
+                                                                                                          "name":  "入境货物通关单"
+                                                                                                      }
+                                                                                                  ]
+                                                                                  },
+                                               "inspection_quarantine":  {
+                                                                             "code":  "L/",
+                                                                             "details":  [
+                                                                                             {
+                                                                                                 "code":  "L",
+                                                                                                 "name":  "入境民用商品认证"
+                                                                                             }
+                                                                                         ]
+                                                                         },
+                                               "description":  "其他家用电动器具",
+                                               "search_success":  true,
+                                               "error_message":  "",
+                                               "data_source":  "i5a6.com",
+                                               "query_method":  "fallback"
+                                           }
+                     },
+                     {
+                         "model":  "F25 Ultra",
+                         "category":  "wet_dry_vacuum",
+                         "source_url":  "https://us.roborock.com/pages/roborock-f25-ultra",
+                         "headline_features":  [
+                                                   "VaporFlow steam cleaning",
+                                                   "WaveFlow",
+                                                   "22,000 Pa suction"
+                                               ],
+                         "hs_code_query":  {
+                                               "query_product_name":  "洗地机",
+                                               "hs_code":  "84798999.90",
+                                               "product_name":  "本章其他未列名机器及机械器具",
+                                               "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:用途;4:功能;5:品牌（中文或外文名称）;6:型号;7:GTIN;8:CAS;9:其他",
+                                               "first_unit":  "台",
+                                               "second_unit":  "千克",
+                                               "customs_supervision_conditions":  {
+                                                                                      "code":  "A",
+                                                                                      "details":  [
+                                                                                                      {
+                                                                                                          "code":  "A",
+                                                                                                          "name":  "入境货物通关单"
+                                                                                                      }
+                                                                                                  ]
+                                                                                  },
+                                               "inspection_quarantine":  {
+                                                                             "code":  "M/",
+                                                                             "details":  [
+                                                                                             {
+                                                                                                 "code":  "M",
+                                                                                                 "name":  "进口商品检验"
+                                                                                             }
+                                                                                         ]
+                                                                         },
+                                               "description":  "本章其他未列名机器及机械器具具有独立功能的",
+                                               "search_success":  true,
+                                               "error_message":  "",
+                                               "data_source":  "i5a6.com",
+                                               "query_method":  "fallback"
+                                           }
+                     },
+                     {
+                         "model":  "F25 ACE",
+                         "category":  "wet_dry_vacuum",
+                         "source_url":  "https://us.roborock.com/pages/roborock-f25-series",
+                         "headline_features":  [
+                                                   "one-stroke wet-and-dry cleaning",
+                                                   "FlatReach",
+                                                   "JawScrapers",
+                                                   "SlideTech 2.0"
+                                               ],
+                         "hs_code_query":  {
+                                               "query_product_name":  "洗地机",
+                                               "hs_code":  "84798999.90",
+                                               "product_name":  "本章其他未列名机器及机械器具",
+                                               "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:用途;4:功能;5:品牌（中文或外文名称）;6:型号;7:GTIN;8:CAS;9:其他",
+                                               "first_unit":  "台",
+                                               "second_unit":  "千克",
+                                               "customs_supervision_conditions":  {
+                                                                                      "code":  "A",
+                                                                                      "details":  [
+                                                                                                      {
+                                                                                                          "code":  "A",
+                                                                                                          "name":  "入境货物通关单"
+                                                                                                      }
+                                                                                                  ]
+                                                                                  },
+                                               "inspection_quarantine":  {
+                                                                             "code":  "M/",
+                                                                             "details":  [
+                                                                                             {
+                                                                                                 "code":  "M",
+                                                                                                 "name":  "进口商品检验"
+                                                                                             }
+                                                                                         ]
+                                                                         },
+                                               "description":  "本章其他未列名机器及机械器具具有独立功能的",
+                                               "search_success":  true,
+                                               "error_message":  "",
+                                               "data_source":  "i5a6.com",
+                                               "query_method":  "fallback"
+                                           }
+                     },
+                     {
+                         "model":  "F25 RT/GT",
+                         "category":  "wet_dry_vacuum",
+                         "source_url":  "https://us.roborock.com/pages/roborock-f25-series",
+                         "headline_features":  [
+                                                   "one-stroke wet-and-dry cleaning",
+                                                   "FlatReach",
+                                                   "JawScrapers"
+                                               ],
+                         "hs_code_query":  {
+                                               "query_product_name":  "洗地机",
+                                               "hs_code":  "84798999.90",
+                                               "product_name":  "本章其他未列名机器及机械器具",
+                                               "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:用途;4:功能;5:品牌（中文或外文名称）;6:型号;7:GTIN;8:CAS;9:其他",
+                                               "first_unit":  "台",
+                                               "second_unit":  "千克",
+                                               "customs_supervision_conditions":  {
+                                                                                      "code":  "A",
+                                                                                      "details":  [
+                                                                                                      {
+                                                                                                          "code":  "A",
+                                                                                                          "name":  "入境货物通关单"
+                                                                                                      }
+                                                                                                  ]
+                                                                                  },
+                                               "inspection_quarantine":  {
+                                                                             "code":  "M/",
+                                                                             "details":  [
+                                                                                             {
+                                                                                                 "code":  "M",
+                                                                                                 "name":  "进口商品检验"
+                                                                                             }
+                                                                                         ]
+                                                                         },
+                                               "description":  "本章其他未列名机器及机械器具具有独立功能的",
+                                               "search_success":  true,
+                                               "error_message":  "",
+                                               "data_source":  "i5a6.com",
+                                               "query_method":  "fallback"
+                                           }
+                     },
+                     {
+                         "model":  "H60 Hub Ultra",
+                         "category":  "cordless_stick_vacuum",
+                         "source_url":  "https://us.roborock.com/pages/roborock-h60-hub-series",
+                         "headline_features":  [
+                                                   "auto-empty dock",
+                                                   "detachable battery",
+                                                   "anti-tangle brush"
+                                               ],
+                         "hs_code_query":  {
+                                               "query_product_name":  "无线吸尘器",
+                                               "hs_code":  "33079000.00",
+                                               "product_name":  "其他编号未列名的芳香料制品",
+                                               "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:用途;4:包装规格;5:品牌（中文或外文名称）;6:型号（货号）;7:GTIN;8:CAS;9:其他",
+                                               "first_unit":  "千克",
+                                               "second_unit":  "",
+                                               "customs_supervision_conditions":  {
+                                                                                      "code":  "无",
+                                                                                      "details":  [
+
+                                                                                                  ]
+                                                                                  },
+                                               "inspection_quarantine":  {
+                                                                             "code":  "无",
+                                                                             "details":  [
+
+                                                                                         ]
+                                                                         },
+                                               "description":  "其他编号未列名的芳香料制品包括化妆盥洗品",
+                                               "search_success":  true,
+                                               "error_message":  "",
+                                               "data_source":  "i5a6.com",
+                                               "query_method":  "fallback"
+                                           }
+                     },
+                     {
+                         "model":  "H60 Ultra",
+                         "category":  "cordless_stick_vacuum",
+                         "source_url":  "https://us.roborock.com/pages/roborock-h60-series",
+                         "headline_features":  [
+                                                   "detachable battery",
+                                                   "flexible wand",
+                                                   "anti-tangle brush"
+                                               ],
+                         "hs_code_query":  {
+                                               "query_product_name":  "无线吸尘器",
+                                               "hs_code":  "33079000.00",
+                                               "product_name":  "其他编号未列名的芳香料制品",
+                                               "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:用途;4:包装规格;5:品牌（中文或外文名称）;6:型号（货号）;7:GTIN;8:CAS;9:其他",
+                                               "first_unit":  "千克",
+                                               "second_unit":  "",
+                                               "customs_supervision_conditions":  {
+                                                                                      "code":  "无",
+                                                                                      "details":  [
+
+                                                                                                  ]
+                                                                                  },
+                                               "inspection_quarantine":  {
+                                                                             "code":  "无",
+                                                                             "details":  [
+
+                                                                                         ]
+                                                                         },
+                                               "description":  "其他编号未列名的芳香料制品包括化妆盥洗品",
+                                               "search_success":  true,
+                                               "error_message":  "",
+                                               "data_source":  "i5a6.com",
+                                               "query_method":  "fallback"
+                                           }
+                     },
+                     {
+                         "model":  "H60",
+                         "category":  "cordless_stick_vacuum",
+                         "source_url":  "https://us.roborock.com/pages/roborock-h60-series",
+                         "headline_features":  [
+                                                   "detachable battery",
+                                                   "flexible wand",
+                                                   "anti-tangle brush"
+                                               ],
+                         "hs_code_query":  {
+                                               "query_product_name":  "无线吸尘器",
+                                               "hs_code":  "33079000.00",
+                                               "product_name":  "其他编号未列名的芳香料制品",
+                                               "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:用途;4:包装规格;5:品牌（中文或外文名称）;6:型号（货号）;7:GTIN;8:CAS;9:其他",
+                                               "first_unit":  "千克",
+                                               "second_unit":  "",
+                                               "customs_supervision_conditions":  {
+                                                                                      "code":  "无",
+                                                                                      "details":  [
+
+                                                                                                  ]
+                                                                                  },
+                                               "inspection_quarantine":  {
+                                                                             "code":  "无",
+                                                                             "details":  [
+
+                                                                                         ]
+                                                                         },
+                                               "description":  "其他编号未列名的芳香料制品包括化妆盥洗品",
+                                               "search_success":  true,
+                                               "error_message":  "",
+                                               "data_source":  "i5a6.com",
+                                               "query_method":  "fallback"
+                                           }
+                     }
+                 ],
+    "hs_queries":  {
+                       "扫地机器人":  {
+                                     "query_product_name":  "扫地机器人",
+                                     "hs_code":  "85098090.00",
+                                     "product_name":  "其他家用电动器具",
+                                     "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:用途;4:机身重量;5:功率;6:品牌（中文或外文名称）;7:型号;8:GTIN;9:CAS;10:其他",
+                                     "first_unit":  "台",
+                                     "second_unit":  "千克",
+                                     "customs_supervision_conditions":  {
+                                                                            "code":  "A",
+                                                                            "details":  [
+                                                                                            {
+                                                                                                "code":  "A",
+                                                                                                "name":  "入境货物通关单"
+                                                                                            }
+                                                                                        ]
+                                                                        },
+                                     "inspection_quarantine":  {
+                                                                   "code":  "L/",
+                                                                   "details":  [
+                                                                                   {
+                                                                                       "code":  "L",
+                                                                                       "name":  "入境民用商品认证"
+                                                                                   }
+                                                                               ]
+                                                               },
+                                     "description":  "其他家用电动器具",
+                                     "search_success":  true,
+                                     "error_message":  "",
+                                     "data_source":  "i5a6.com",
+                                     "query_method":  "fallback"
+                                 },
+                       "洗地机":  {
+                                   "query_product_name":  "洗地机",
+                                   "hs_code":  "84798999.90",
+                                   "product_name":  "本章其他未列名机器及机械器具",
+                                   "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:用途;4:功能;5:品牌（中文或外文名称）;6:型号;7:GTIN;8:CAS;9:其他",
+                                   "first_unit":  "台",
+                                   "second_unit":  "千克",
+                                   "customs_supervision_conditions":  {
+                                                                          "code":  "A",
+                                                                          "details":  [
+                                                                                          {
+                                                                                              "code":  "A",
+                                                                                              "name":  "入境货物通关单"
+                                                                                          }
+                                                                                      ]
+                                                                      },
+                                   "inspection_quarantine":  {
+                                                                 "code":  "M/",
+                                                                 "details":  [
+                                                                                 {
+                                                                                     "code":  "M",
+                                                                                     "name":  "进口商品检验"
+                                                                                 }
+                                                                             ]
+                                                             },
+                                   "description":  "本章其他未列名机器及机械器具具有独立功能的",
+                                   "search_success":  true,
+                                   "error_message":  "",
+                                   "data_source":  "i5a6.com",
+                                   "query_method":  "fallback"
+                               },
+                       "无线吸尘器":  {
+                                     "query_product_name":  "无线吸尘器",
+                                     "hs_code":  "33079000.00",
+                                     "product_name":  "其他编号未列名的芳香料制品",
+                                     "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:用途;4:包装规格;5:品牌（中文或外文名称）;6:型号（货号）;7:GTIN;8:CAS;9:其他",
+                                     "first_unit":  "千克",
+                                     "second_unit":  "",
+                                     "customs_supervision_conditions":  {
+                                                                            "code":  "无",
+                                                                            "details":  [
+
+                                                                                        ]
+                                                                        },
+                                     "inspection_quarantine":  {
+                                                                   "code":  "无",
+                                                                   "details":  [
+
+                                                                               ]
+                                                               },
+                                     "description":  "其他编号未列名的芳香料制品包括化妆盥洗品",
+                                     "search_success":  true,
+                                     "error_message":  "",
+                                     "data_source":  "i5a6.com",
+                                     "query_method":  "fallback"
+                                 }
+                   }
+}

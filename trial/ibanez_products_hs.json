@@ -1,0 +1,82 @@
+﻿{
+    "company":  "Ibanez",
+    "website":  "https://www.ibanez.com/jp/",
+    "retrieved_at":  "2026-09-03",
+    "scope_note":  "仅保留 Ibanez 日本官网 Electric Guitars 分类及其型号系列；已排除木吉他、原声吉他、贝斯、空心琴体、电子产品和所有配件。HS 结果来自 mcp-hs-code-query 备用数据源 i5a6.com，具体型号、材质、电子配置及目的国海关税则可能影响最终归类，需人工复核。",
+    "products":  [
+                     {
+                         "category":  "electric_guitars",
+                         "category_name":  "Electric Guitars",
+                         "families":  [
+                                          "AZ",
+                                          "AZES",
+                                          "AZS",
+                                          "P",
+                                          "RG",
+                                          "RGA",
+                                          "RGD",
+                                          "Q",
+                                          "S",
+                                          "SA",
+                                          "X",
+                                          "ALPHA",
+                                          "Iceman",
+                                          "AR",
+                                          "Gio"
+                                      ],
+                         "url":  "https://www.ibanez.com/jp/products/category/electric_guitars/",
+                         "hs_code_query":  {
+                                               "query_product_name":  "电吉他",
+                                               "hs_code":  "42022200.00",
+                                               "product_name":  "以塑料片或纺织材料作面的手提包",
+                                               "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:种类（手提包、晚宴包等）;4:表面材质及成分含量（皮革、再生皮革、塑料、纺织物等;5:品牌（中文或外文名称）;6:款号;7:GTIN;8:CAS;9:其他",
+                                               "first_unit":  "千克",
+                                               "second_unit":  "个",
+                                               "customs_supervision_conditions":  {
+                                                                                      "code":  "无",
+                                                                                      "details":  [
+
+                                                                                                  ]
+                                                                                  },
+                                               "inspection_quarantine":  {
+                                                                             "code":  "无",
+                                                                             "details":  [
+
+                                                                                         ]
+                                                                         },
+                                               "description":  "以塑料片或纺织材料作面的手提包不论是否有背带,包括无把手的",
+                                               "search_success":  true,
+                                               "error_message":  "",
+                                               "data_source":  "i5a6.com",
+                                               "query_method":  "fallback"
+                                           }
+                     }
+                 ],
+    "hs_queries":  {
+                       "electric_guitars":  {
+                                                "query_product_name":  "电吉他",
+                                                "hs_code":  "42022200.00",
+                                                "product_name":  "以塑料片或纺织材料作面的手提包",
+                                                "declaration_elements":  "1:品牌类型;2:出口享惠情况;3:种类（手提包、晚宴包等）;4:表面材质及成分含量（皮革、再生皮革、塑料、纺织物等;5:品牌（中文或外文名称）;6:款号;7:GTIN;8:CAS;9:其他",
+                                                "first_unit":  "千克",
+                                                "second_unit":  "个",
+                                                "customs_supervision_conditions":  {
+                                                                                       "code":  "无",
+                                                                                       "details":  [
+
+                                                                                                   ]
+                                                                                   },
+                                                "inspection_quarantine":  {
+                                                                              "code":  "无",
+                                                                              "details":  [
+
+                                                                                          ]
+                                                                          },
+                                                "description":  "以塑料片或纺织材料作面的手提包不论是否有背带,包括无把手的",
+                                                "search_success":  true,
+                                                "error_message":  "",
+                                                "data_source":  "i5a6.com",
+                                                "query_method":  "fallback"
+                                            }
+                   }
+}
