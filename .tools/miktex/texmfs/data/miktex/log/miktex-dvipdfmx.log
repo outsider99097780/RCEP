@@ -1,0 +1,154 @@
+2026-09-06 01:31:49,724+0800 INFO  miktex-dvipdfmx - this process (14176) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:31:49,724+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 01:31:49,906+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 01:31:50,112+0800 INFO  miktex-dvipdfmx - this process (14176) finishes with exit code 0
+2026-09-06 01:31:50,113+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:33:00,855+0800 INFO  miktex-dvipdfmx - this process (2212) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:33:00,856+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 01:33:00,997+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 01:33:01,201+0800 INFO  miktex-dvipdfmx - this process (2212) finishes with exit code 0
+2026-09-06 01:33:01,202+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:33:48,604+0800 INFO  miktex-dvipdfmx - this process (16620) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:33:48,604+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 01:33:48,735+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 01:33:48,978+0800 INFO  miktex-dvipdfmx - this process (16620) finishes with exit code 0
+2026-09-06 01:33:48,979+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:33:50,238+0800 INFO  miktex-dvipdfmx - this process (17532) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:33:50,238+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 01:33:50,371+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 01:33:50,598+0800 INFO  miktex-dvipdfmx - this process (17532) finishes with exit code 0
+2026-09-06 01:33:50,599+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:39:48,666+0800 INFO  miktex-dvipdfmx - this process (15524) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:39:48,666+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 01:39:48,811+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 01:39:49,013+0800 INFO  miktex-dvipdfmx - this process (15524) finishes with exit code 0
+2026-09-06 01:39:49,015+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:39:50,274+0800 INFO  miktex-dvipdfmx - this process (21628) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:39:50,274+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 01:39:50,359+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 01:39:50,560+0800 INFO  miktex-dvipdfmx - this process (21628) finishes with exit code 0
+2026-09-06 01:39:50,561+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:41:18,166+0800 INFO  miktex-dvipdfmx - this process (18860) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:41:18,166+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 01:41:18,261+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 01:41:18,453+0800 INFO  miktex-dvipdfmx - this process (18860) finishes with exit code 0
+2026-09-06 01:41:18,454+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:41:19,671+0800 INFO  miktex-dvipdfmx - this process (8) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:41:19,671+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 01:41:19,752+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 01:41:19,947+0800 INFO  miktex-dvipdfmx - this process (8) finishes with exit code 0
+2026-09-06 01:41:19,948+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:42:42,693+0800 INFO  miktex-dvipdfmx - this process (8504) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:42:42,694+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 01:42:42,799+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 01:42:43,037+0800 INFO  miktex-dvipdfmx - this process (8504) finishes with exit code 0
+2026-09-06 01:42:43,038+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:42:44,322+0800 INFO  miktex-dvipdfmx - this process (8572) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:42:44,322+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 01:42:44,454+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 01:42:44,681+0800 INFO  miktex-dvipdfmx - this process (8572) finishes with exit code 0
+2026-09-06 01:42:44,684+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:22:25,493+0800 INFO  miktex-dvipdfmx - this process (23580) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:22:25,493+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 02:22:25,771+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 02:22:25,799+0800 WARN  miktex-dvipdfmx - Object @figure.1 already defined.
+2026-09-06 02:22:25,807+0800 WARN  miktex-dvipdfmx - Object @table.2 already defined.
+2026-09-06 02:22:25,815+0800 WARN  miktex-dvipdfmx - Object @figure.2 already defined.
+2026-09-06 02:22:25,827+0800 WARN  miktex-dvipdfmx - Object @table.3 already defined.
+2026-09-06 02:22:25,854+0800 WARN  miktex-dvipdfmx - Object @table.4 already defined.
+2026-09-06 02:22:25,881+0800 WARN  miktex-dvipdfmx - Object @figure.3 already defined.
+2026-09-06 02:22:25,888+0800 WARN  miktex-dvipdfmx - Object @figure.4 already defined.
+2026-09-06 02:22:25,948+0800 WARN  miktex-dvipdfmx - Object @table.5 already defined.
+2026-09-06 02:22:25,961+0800 WARN  miktex-dvipdfmx - Object @table.6 already defined.
+2026-09-06 02:22:26,063+0800 INFO  miktex-dvipdfmx - this process (23580) finishes with exit code 0
+2026-09-06 02:22:26,064+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:26:26,940+0800 INFO  miktex-dvipdfmx - this process (24220) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:26:26,940+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 02:26:27,188+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 02:26:27,226+0800 WARN  miktex-dvipdfmx - Object @figure.1 already defined.
+2026-09-06 02:26:27,226+0800 WARN  miktex-dvipdfmx - Object @table.2 already defined.
+2026-09-06 02:26:27,254+0800 WARN  miktex-dvipdfmx - Object @figure.2 already defined.
+2026-09-06 02:26:27,268+0800 WARN  miktex-dvipdfmx - Object @table.3 already defined.
+2026-09-06 02:26:27,270+0800 WARN  miktex-dvipdfmx - Object @figure.3 already defined.
+2026-09-06 02:26:27,311+0800 WARN  miktex-dvipdfmx - Object @table.4 already defined.
+2026-09-06 02:26:27,322+0800 WARN  miktex-dvipdfmx - Object @figure.4 already defined.
+2026-09-06 02:26:27,335+0800 WARN  miktex-dvipdfmx - Object @figure.5 already defined.
+2026-09-06 02:26:27,364+0800 WARN  miktex-dvipdfmx - Object @table.5 already defined.
+2026-09-06 02:26:27,399+0800 WARN  miktex-dvipdfmx - Object @table.6 already defined.
+2026-09-06 02:26:27,494+0800 INFO  miktex-dvipdfmx - this process (24220) finishes with exit code 0
+2026-09-06 02:26:27,496+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:26:28,778+0800 INFO  miktex-dvipdfmx - this process (23008) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:26:28,779+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 02:26:29,013+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 02:26:29,032+0800 WARN  miktex-dvipdfmx - Object @figure.1 already defined.
+2026-09-06 02:26:29,032+0800 WARN  miktex-dvipdfmx - Object @table.2 already defined.
+2026-09-06 02:26:29,051+0800 WARN  miktex-dvipdfmx - Object @figure.2 already defined.
+2026-09-06 02:26:29,066+0800 WARN  miktex-dvipdfmx - Object @table.3 already defined.
+2026-09-06 02:26:29,068+0800 WARN  miktex-dvipdfmx - Object @figure.3 already defined.
+2026-09-06 02:26:29,095+0800 WARN  miktex-dvipdfmx - Object @table.4 already defined.
+2026-09-06 02:26:29,106+0800 WARN  miktex-dvipdfmx - Object @figure.4 already defined.
+2026-09-06 02:26:29,119+0800 WARN  miktex-dvipdfmx - Object @figure.5 already defined.
+2026-09-06 02:26:29,146+0800 WARN  miktex-dvipdfmx - Object @table.5 already defined.
+2026-09-06 02:26:29,181+0800 WARN  miktex-dvipdfmx - Object @table.6 already defined.
+2026-09-06 02:26:29,276+0800 INFO  miktex-dvipdfmx - this process (23008) finishes with exit code 0
+2026-09-06 02:26:29,277+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:27:36,532+0800 INFO  miktex-dvipdfmx - this process (22504) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:27:36,532+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 02:27:36,773+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 02:27:36,793+0800 WARN  miktex-dvipdfmx - Object @figure.1 already defined.
+2026-09-06 02:27:36,793+0800 WARN  miktex-dvipdfmx - Object @table.2 already defined.
+2026-09-06 02:27:36,814+0800 WARN  miktex-dvipdfmx - Object @figure.2 already defined.
+2026-09-06 02:27:36,831+0800 WARN  miktex-dvipdfmx - Object @table.3 already defined.
+2026-09-06 02:27:36,833+0800 WARN  miktex-dvipdfmx - Object @figure.3 already defined.
+2026-09-06 02:27:36,863+0800 WARN  miktex-dvipdfmx - Object @table.4 already defined.
+2026-09-06 02:27:36,874+0800 WARN  miktex-dvipdfmx - Object @figure.4 already defined.
+2026-09-06 02:27:36,888+0800 WARN  miktex-dvipdfmx - Object @figure.5 already defined.
+2026-09-06 02:27:36,919+0800 WARN  miktex-dvipdfmx - Object @table.5 already defined.
+2026-09-06 02:27:36,974+0800 WARN  miktex-dvipdfmx - Object @table.6 already defined.
+2026-09-06 02:27:37,076+0800 INFO  miktex-dvipdfmx - this process (22504) finishes with exit code 0
+2026-09-06 02:27:37,077+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:28:18,877+0800 INFO  miktex-dvipdfmx - this process (18076) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:28:18,877+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 02:28:19,114+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 02:28:19,134+0800 WARN  miktex-dvipdfmx - Object @figure.1 already defined.
+2026-09-06 02:28:19,134+0800 WARN  miktex-dvipdfmx - Object @table.2 already defined.
+2026-09-06 02:28:19,154+0800 WARN  miktex-dvipdfmx - Object @figure.2 already defined.
+2026-09-06 02:28:19,168+0800 WARN  miktex-dvipdfmx - Object @table.3 already defined.
+2026-09-06 02:28:19,170+0800 WARN  miktex-dvipdfmx - Object @figure.3 already defined.
+2026-09-06 02:28:19,202+0800 WARN  miktex-dvipdfmx - Object @table.4 already defined.
+2026-09-06 02:28:19,213+0800 WARN  miktex-dvipdfmx - Object @figure.4 already defined.
+2026-09-06 02:28:19,226+0800 WARN  miktex-dvipdfmx - Object @figure.5 already defined.
+2026-09-06 02:28:19,253+0800 WARN  miktex-dvipdfmx - Object @table.5 already defined.
+2026-09-06 02:28:19,306+0800 WARN  miktex-dvipdfmx - Object @table.6 already defined.
+2026-09-06 02:28:19,401+0800 INFO  miktex-dvipdfmx - this process (18076) finishes with exit code 0
+2026-09-06 02:28:19,402+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:58:38,556+0800 INFO  miktex-dvipdfmx - this process (23596) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:58:38,556+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 02:58:38,812+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 02:58:38,832+0800 WARN  miktex-dvipdfmx - Object @figure.1 already defined.
+2026-09-06 02:58:38,832+0800 WARN  miktex-dvipdfmx - Object @table.2 already defined.
+2026-09-06 02:58:38,851+0800 WARN  miktex-dvipdfmx - Object @figure.2 already defined.
+2026-09-06 02:58:38,865+0800 WARN  miktex-dvipdfmx - Object @table.3 already defined.
+2026-09-06 02:58:38,867+0800 WARN  miktex-dvipdfmx - Object @figure.3 already defined.
+2026-09-06 02:58:38,896+0800 WARN  miktex-dvipdfmx - Object @table.4 already defined.
+2026-09-06 02:58:38,909+0800 WARN  miktex-dvipdfmx - Object @figure.4 already defined.
+2026-09-06 02:58:38,922+0800 WARN  miktex-dvipdfmx - Object @figure.5 already defined.
+2026-09-06 02:58:38,949+0800 WARN  miktex-dvipdfmx - Object @table.5 already defined.
+2026-09-06 02:58:38,990+0800 WARN  miktex-dvipdfmx - Object @table.6 already defined.
+2026-09-06 02:58:39,083+0800 INFO  miktex-dvipdfmx - this process (23596) finishes with exit code 0
+2026-09-06 02:58:39,084+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:58:40,367+0800 INFO  miktex-dvipdfmx - this process (12780) started by xelatex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:58:40,367+0800 INFO  miktex-dvipdfmx - running on Windows 10.0.26200
+2026-09-06 02:58:40,607+0800 WARN  miktex-dvipdfmx - Object @table.1 already defined.
+2026-09-06 02:58:40,626+0800 WARN  miktex-dvipdfmx - Object @figure.1 already defined.
+2026-09-06 02:58:40,626+0800 WARN  miktex-dvipdfmx - Object @table.2 already defined.
+2026-09-06 02:58:40,644+0800 WARN  miktex-dvipdfmx - Object @figure.2 already defined.
+2026-09-06 02:58:40,659+0800 WARN  miktex-dvipdfmx - Object @table.3 already defined.
+2026-09-06 02:58:40,661+0800 WARN  miktex-dvipdfmx - Object @figure.3 already defined.
+2026-09-06 02:58:40,690+0800 WARN  miktex-dvipdfmx - Object @table.4 already defined.
+2026-09-06 02:58:40,701+0800 WARN  miktex-dvipdfmx - Object @figure.4 already defined.
+2026-09-06 02:58:40,713+0800 WARN  miktex-dvipdfmx - Object @figure.5 already defined.
+2026-09-06 02:58:40,740+0800 WARN  miktex-dvipdfmx - Object @table.5 already defined.
+2026-09-06 02:58:40,777+0800 WARN  miktex-dvipdfmx - Object @table.6 already defined.
+2026-09-06 02:58:40,867+0800 INFO  miktex-dvipdfmx - this process (12780) finishes with exit code 0
+2026-09-06 02:58:40,868+0800 ERROR miktex-dvipdfmx - major issue: So far, you have not checked for MiKTeX updates.

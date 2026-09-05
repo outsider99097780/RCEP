@@ -1,0 +1,851 @@
+2026-09-06 01:28:05,275+0800 INFO  xelatex - this process (3544) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:28:05,276+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:28:05,277+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:28:05,279+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:28:05,294+0800 INFO  xelatex - going to create file: xelatex.fmt
+2026-09-06 01:28:05,295+0800 INFO  xelatex.core - start process: miktex formats build xelatex --engine xetex
+2026-09-06 01:28:12,495+0800 WARN  xelatex.packagemanager - dependency problem: ms is required by _miktex-latex-packages
+2026-09-06 01:28:12,496+0800 WARN  xelatex.packagemanager - dependency problem: showframe is required by _miktex-latex-packages
+2026-09-06 01:28:12,496+0800 WARN  xelatex.packagemanager - dependency problem: thailatex is required by _miktex-latex-packages
+2026-09-06 01:28:12,497+0800 WARN  xelatex.packagemanager - dependency problem: luxi is required by _miktex-fonts-type1
+2026-09-06 01:29:06,586+0800 INFO  xelatex - this process (7636) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:29:06,586+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:29:06,588+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:29:06,589+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:29:07,197+0800 WARN  xelatex.packagemanager - dependency problem: ms is required by _miktex-latex-packages
+2026-09-06 01:29:07,197+0800 WARN  xelatex.packagemanager - dependency problem: showframe is required by _miktex-latex-packages
+2026-09-06 01:29:07,198+0800 WARN  xelatex.packagemanager - dependency problem: thailatex is required by _miktex-latex-packages
+2026-09-06 01:29:07,199+0800 WARN  xelatex.packagemanager - dependency problem: luxi is required by _miktex-fonts-type1
+2026-09-06 01:29:12,859+0800 INFO  xelatex - installing package ctex triggered by tex/latex/ctex\ctexart.cls
+2026-09-06 01:29:12,862+0800 INFO  xelatex.packagemanager - going to download https://api2.miktex.org/hello
+2026-09-06 01:29:13,513+0800 INFO  xelatex.packagemanager - going to download https://api2.miktex.org/repositories?&releaseState=Stable&orderBy=ranking&take=1&onlySecure=true
+2026-09-06 01:29:13,702+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:29:13,702+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:29:13,702+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:29:13,930+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:29:13,931+0800 INFO  xelatex - mpm: going to download 137645 bytes
+2026-09-06 01:29:13,931+0800 INFO  xelatex - mpm: going to install 73 file(s) (1 package(s))
+2026-09-06 01:29:14,282+0800 INFO  xelatex.packagemanager - installing package ctex
+2026-09-06 01:29:14,284+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/ctex.tar.lzma...
+2026-09-06 01:29:14,286+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/ctex.tar.lzma
+2026-09-06 01:29:14,643+0800 INFO  xelatex - mpm: 0.14 MB, 3.09 Mbit/s
+2026-09-06 01:29:14,648+0800 INFO  xelatex - mpm: extracting files from ctex.tar.lzma...
+2026-09-06 01:29:15,240+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:29:20,252+0800 INFO  xelatex - installing package xecjk triggered by tex/xelatex/xecjk\xeCJK.sty
+2026-09-06 01:29:20,253+0800 INFO  xelatex.packagemanager - going to download https://api2.miktex.org/repositories/27d2eb65a1523b9f049dfcb1008e4ddb
+2026-09-06 01:29:20,852+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:29:20,852+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:29:20,852+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:29:21,097+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:29:21,097+0800 INFO  xelatex - mpm: going to download 245669 bytes
+2026-09-06 01:29:21,097+0800 INFO  xelatex - mpm: going to install 14 file(s) (1 package(s))
+2026-09-06 01:29:21,457+0800 INFO  xelatex.packagemanager - installing package xecjk
+2026-09-06 01:29:21,458+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/xecjk.tar.lzma...
+2026-09-06 01:29:21,458+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/xecjk.tar.lzma
+2026-09-06 01:29:21,766+0800 INFO  xelatex - mpm: 0.25 MB, 6.40 Mbit/s
+2026-09-06 01:29:21,772+0800 INFO  xelatex - mpm: extracting files from xecjk.tar.lzma...
+2026-09-06 01:29:22,248+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:29:27,475+0800 INFO  xelatex - installing package cjk triggered by tex/latex/cjk\CJKfntef.sty
+2026-09-06 01:29:27,475+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:29:27,475+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:29:27,475+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:29:27,723+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:29:27,723+0800 INFO  xelatex - mpm: going to download 60198 bytes
+2026-09-06 01:29:27,723+0800 INFO  xelatex - mpm: going to install 212 file(s) (1 package(s))
+2026-09-06 01:29:28,090+0800 INFO  xelatex.packagemanager - installing package cjk
+2026-09-06 01:29:28,091+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/cjk.tar.lzma...
+2026-09-06 01:29:28,091+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/cjk.tar.lzma
+2026-09-06 01:29:28,289+0800 INFO  xelatex - mpm: 0.06 MB, 2.44 Mbit/s
+2026-09-06 01:29:28,295+0800 INFO  xelatex - mpm: extracting files from cjk.tar.lzma...
+2026-09-06 01:29:29,106+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:29:35,929+0800 INFO  xelatex - installing package zhnumber triggered by tex/latex/zhnumber\zhnumber.sty
+2026-09-06 01:29:35,930+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:29:35,930+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:29:35,930+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:29:36,175+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:29:36,175+0800 INFO  xelatex - mpm: going to download 8817 bytes
+2026-09-06 01:29:36,175+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:29:36,533+0800 INFO  xelatex.packagemanager - installing package zhnumber
+2026-09-06 01:29:36,535+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/zhnumber.tar.lzma...
+2026-09-06 01:29:36,535+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/zhnumber.tar.lzma
+2026-09-06 01:29:36,606+0800 INFO  xelatex - mpm: 0.01 MB, 1.01 Mbit/s
+2026-09-06 01:29:36,610+0800 INFO  xelatex - mpm: extracting files from zhnumber.tar.lzma...
+2026-09-06 01:29:37,089+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:29:39,082+0800 INFO  xelatex - installing package geometry triggered by tex/latex/geometry\geometry.sty
+2026-09-06 01:29:39,082+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:29:39,082+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:29:39,082+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:29:39,329+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:29:39,329+0800 INFO  xelatex - mpm: going to download 8974 bytes
+2026-09-06 01:29:39,329+0800 INFO  xelatex - mpm: going to install 3 file(s) (1 package(s))
+2026-09-06 01:29:39,680+0800 INFO  xelatex.packagemanager - installing package geometry
+2026-09-06 01:29:39,681+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/geometry.tar.lzma...
+2026-09-06 01:29:39,681+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/geometry.tar.lzma
+2026-09-06 01:29:39,740+0800 INFO  xelatex - mpm: 0.01 MB, 1.24 Mbit/s
+2026-09-06 01:29:39,747+0800 INFO  xelatex - mpm: extracting files from geometry.tar.lzma...
+2026-09-06 01:29:40,183+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:29:41,912+0800 INFO  xelatex - installing package booktabs triggered by tex/latex/booktabs\booktabs.sty
+2026-09-06 01:29:41,912+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:29:41,913+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:29:41,913+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:29:42,164+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:29:42,164+0800 INFO  xelatex - mpm: going to download 313410 bytes
+2026-09-06 01:29:42,164+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:29:42,522+0800 INFO  xelatex.packagemanager - installing package booktabs
+2026-09-06 01:29:42,524+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/booktabs.tar.lzma...
+2026-09-06 01:29:42,524+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/booktabs.tar.lzma
+2026-09-06 01:29:42,809+0800 INFO  xelatex - mpm: 0.31 MB, 8.83 Mbit/s
+2026-09-06 01:29:42,815+0800 INFO  xelatex - mpm: extracting files from booktabs.tar.lzma...
+2026-09-06 01:29:43,249+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:29:45,480+0800 INFO  xelatex - installing package kvsetkeys triggered by tex/latex/kvsetkeys\kvsetkeys.sty
+2026-09-06 01:29:45,480+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:29:45,480+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:29:45,480+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:29:45,728+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:29:45,728+0800 INFO  xelatex - mpm: going to download 3794 bytes
+2026-09-06 01:29:45,728+0800 INFO  xelatex - mpm: going to install 2 file(s) (1 package(s))
+2026-09-06 01:29:46,083+0800 INFO  xelatex.packagemanager - installing package kvsetkeys
+2026-09-06 01:29:46,084+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/kvsetkeys.tar.lzma...
+2026-09-06 01:29:46,084+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/kvsetkeys.tar.lzma
+2026-09-06 01:29:46,145+0800 INFO  xelatex - mpm: 0.00 MB, 0.51 Mbit/s
+2026-09-06 01:29:46,152+0800 INFO  xelatex - mpm: extracting files from kvsetkeys.tar.lzma...
+2026-09-06 01:29:46,566+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:29:48,772+0800 INFO  xelatex - installing package kvdefinekeys triggered by tex/generic/kvdefinekeys\kvdefinekeys.sty
+2026-09-06 01:29:48,772+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:29:48,772+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:29:48,772+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:29:49,024+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:29:49,024+0800 INFO  xelatex - mpm: going to download 304244 bytes
+2026-09-06 01:29:49,024+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:29:49,379+0800 INFO  xelatex.packagemanager - installing package kvdefinekeys
+2026-09-06 01:29:49,380+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/kvdefinekeys.tar.lzma...
+2026-09-06 01:29:49,380+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/kvdefinekeys.tar.lzma
+2026-09-06 01:29:49,666+0800 INFO  xelatex - mpm: 0.30 MB, 8.57 Mbit/s
+2026-09-06 01:29:49,672+0800 INFO  xelatex - mpm: extracting files from kvdefinekeys.tar.lzma...
+2026-09-06 01:29:50,114+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:29:52,250+0800 INFO  xelatex - installing package pdfescape triggered by tex/generic/pdfescape\pdfescape.sty
+2026-09-06 01:29:52,250+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:29:52,250+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:29:52,250+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:29:52,504+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:29:52,504+0800 INFO  xelatex - mpm: going to download 355594 bytes
+2026-09-06 01:29:52,504+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:29:52,865+0800 INFO  xelatex.packagemanager - installing package pdfescape
+2026-09-06 01:29:52,866+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/pdfescape.tar.lzma...
+2026-09-06 01:29:52,867+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/pdfescape.tar.lzma
+2026-09-06 01:29:53,153+0800 INFO  xelatex - mpm: 0.36 MB, 9.95 Mbit/s
+2026-09-06 01:29:53,160+0800 INFO  xelatex - mpm: extracting files from pdfescape.tar.lzma...
+2026-09-06 01:29:53,594+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:29:55,445+0800 INFO  xelatex - installing package ltxcmds triggered by tex/generic/ltxcmds\ltxcmds.sty
+2026-09-06 01:29:55,445+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:29:55,445+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:29:55,445+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:29:55,685+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:29:55,685+0800 INFO  xelatex - mpm: going to download 4317 bytes
+2026-09-06 01:29:55,685+0800 INFO  xelatex - mpm: going to install 2 file(s) (1 package(s))
+2026-09-06 01:29:56,038+0800 INFO  xelatex.packagemanager - installing package ltxcmds
+2026-09-06 01:29:56,040+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/ltxcmds.tar.lzma...
+2026-09-06 01:29:56,040+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/ltxcmds.tar.lzma
+2026-09-06 01:29:56,096+0800 INFO  xelatex - mpm: 0.00 MB, 0.62 Mbit/s
+2026-09-06 01:29:56,101+0800 INFO  xelatex - mpm: extracting files from ltxcmds.tar.lzma...
+2026-09-06 01:29:56,505+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:29:58,270+0800 INFO  xelatex - installing package infwarerr triggered by tex/generic/infwarerr\infwarerr.sty
+2026-09-06 01:29:58,270+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:29:58,270+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:29:58,270+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:29:58,519+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:29:58,519+0800 INFO  xelatex - mpm: going to download 293465 bytes
+2026-09-06 01:29:58,519+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:29:58,870+0800 INFO  xelatex.packagemanager - installing package infwarerr
+2026-09-06 01:29:58,871+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/infwarerr.tar.lzma...
+2026-09-06 01:29:58,871+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/infwarerr.tar.lzma
+2026-09-06 01:29:59,155+0800 INFO  xelatex - mpm: 0.29 MB, 8.30 Mbit/s
+2026-09-06 01:29:59,160+0800 INFO  xelatex - mpm: extracting files from infwarerr.tar.lzma...
+2026-09-06 01:29:59,606+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:01,447+0800 INFO  xelatex - installing package hycolor triggered by tex/latex/hycolor\hycolor.sty
+2026-09-06 01:30:01,447+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:01,447+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:01,447+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:01,690+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:01,690+0800 INFO  xelatex - mpm: going to download 389104 bytes
+2026-09-06 01:30:01,690+0800 INFO  xelatex - mpm: going to install 6 file(s) (1 package(s))
+2026-09-06 01:30:02,047+0800 INFO  xelatex.packagemanager - installing package hycolor
+2026-09-06 01:30:02,049+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/hycolor.tar.lzma...
+2026-09-06 01:30:02,049+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/hycolor.tar.lzma
+2026-09-06 01:30:02,343+0800 INFO  xelatex - mpm: 0.39 MB, 10.59 Mbit/s
+2026-09-06 01:30:02,351+0800 INFO  xelatex - mpm: extracting files from hycolor.tar.lzma...
+2026-09-06 01:30:02,833+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:02,972+0800 INFO  xelatex - this process (15716) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -no-shell-escape -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:30:02,972+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:30:02,974+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:30:02,975+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:30:02,985+0800 INFO  xelatex - disabling shell commands
+2026-09-06 01:30:04,031+0800 WARN  xelatex.packagemanager - dependency problem: ms is required by _miktex-latex-packages
+2026-09-06 01:30:04,032+0800 WARN  xelatex.packagemanager - dependency problem: showframe is required by _miktex-latex-packages
+2026-09-06 01:30:04,032+0800 WARN  xelatex.packagemanager - dependency problem: thailatex is required by _miktex-latex-packages
+2026-09-06 01:30:04,033+0800 WARN  xelatex.packagemanager - dependency problem: luxi is required by _miktex-fonts-type1
+2026-09-06 01:30:04,594+0800 INFO  xelatex - installing package refcount triggered by tex/latex/refcount\refcount.sty
+2026-09-06 01:30:04,596+0800 INFO  xelatex.packagemanager - going to download https://api2.miktex.org/repositories?&releaseState=Stable&orderBy=ranking&take=1&onlySecure=true
+2026-09-06 01:30:05,344+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:05,345+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:05,345+0800 INFO  xelatex - mpm: package repository: https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:05,456+0800 INFO  xelatex - installing package refcount triggered by tex/latex/refcount\refcount.sty
+2026-09-06 01:30:05,457+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:05,457+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:05,457+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:05,580+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:05,580+0800 INFO  xelatex - mpm: going to download 336386 bytes
+2026-09-06 01:30:05,580+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:30:05,930+0800 INFO  xelatex.packagemanager - installing package refcount
+2026-09-06 01:30:05,931+0800 INFO  xelatex - mpm: downloading https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/refcount.tar.lzma...
+2026-09-06 01:30:05,931+0800 INFO  xelatex.packagemanager - going to download https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/refcount.tar.lzma
+2026-09-06 01:30:06,231+0800 INFO  xelatex - mpm: 0.34 MB, 9.00 Mbit/s
+2026-09-06 01:30:06,237+0800 INFO  xelatex - mpm: extracting files from refcount.tar.lzma...
+2026-09-06 01:30:06,714+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:06,960+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:06,960+0800 INFO  xelatex - mpm: going to download 336386 bytes
+2026-09-06 01:30:06,960+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:30:07,320+0800 INFO  xelatex.packagemanager - installing package refcount
+2026-09-06 01:30:07,322+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/refcount.tar.lzma...
+2026-09-06 01:30:07,322+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/refcount.tar.lzma
+2026-09-06 01:30:07,638+0800 INFO  xelatex - mpm: 0.34 MB, 8.54 Mbit/s
+2026-09-06 01:30:07,643+0800 INFO  xelatex - mpm: extracting files from refcount.tar.lzma...
+2026-09-06 01:30:08,086+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:08,488+0800 INFO  xelatex - installing package gettitlestring triggered by tex/generic/gettitlestring\gettitlestring.sty
+2026-09-06 01:30:08,489+0800 INFO  xelatex.packagemanager - going to download https://api2.miktex.org/repositories/70615e42451a263b19e433e2d3aaf7a3
+2026-09-06 01:30:09,094+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:09,094+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:09,094+0800 INFO  xelatex - mpm: package repository: https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:09,342+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:09,342+0800 INFO  xelatex - mpm: going to download 327428 bytes
+2026-09-06 01:30:09,342+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:30:09,704+0800 INFO  xelatex.packagemanager - installing package gettitlestring
+2026-09-06 01:30:09,705+0800 INFO  xelatex - mpm: downloading https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/gettitlestring.tar.lzma...
+2026-09-06 01:30:09,705+0800 INFO  xelatex.packagemanager - going to download https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/gettitlestring.tar.lzma
+2026-09-06 01:30:09,818+0800 INFO  xelatex - mpm: 0.33 MB, 23.18 Mbit/s
+2026-09-06 01:30:09,826+0800 INFO  xelatex - mpm: extracting files from gettitlestring.tar.lzma...
+2026-09-06 01:30:09,875+0800 INFO  xelatex - installing package gettitlestring triggered by tex/generic/gettitlestring\gettitlestring.sty
+2026-09-06 01:30:09,876+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:09,876+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:09,876+0800 INFO  xelatex - mpm: package repository: https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:10,263+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:10,523+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:10,523+0800 INFO  xelatex - mpm: going to download 327428 bytes
+2026-09-06 01:30:10,523+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:30:10,881+0800 INFO  xelatex.packagemanager - installing package gettitlestring
+2026-09-06 01:30:10,883+0800 INFO  xelatex - mpm: downloading https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/gettitlestring.tar.lzma...
+2026-09-06 01:30:10,883+0800 INFO  xelatex.packagemanager - going to download https://mirrors.hit.edu.cn/CTAN/systems/win32/miktex/tm/packages/gettitlestring.tar.lzma
+2026-09-06 01:30:11,204+0800 INFO  xelatex - mpm: 0.33 MB, 8.19 Mbit/s
+2026-09-06 01:30:11,209+0800 INFO  xelatex - mpm: extracting files from gettitlestring.tar.lzma...
+2026-09-06 01:30:11,233+0800 ERROR xelatex.core - 另一个程序正在使用此文件，进程无法访问。
+
+2026-09-06 01:30:11,234+0800 ERROR xelatex.core - Function: DeleteFileW
+2026-09-06 01:30:11,234+0800 ERROR xelatex.core - Result: 32
+2026-09-06 01:30:11,234+0800 ERROR xelatex.core - Data: path="C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\tex\generic\gettitlestring\gettitlestring.sty"
+2026-09-06 01:30:11,234+0800 ERROR xelatex.core - Source: Libraries\MiKTeX\Core\File\win\winFile.cpp:320
+2026-09-06 01:30:11,271+0800 FATAL xelatex - Windows API error 32: 另一个程序正在使用此文件，进程无法访问。
+
+2026-09-06 01:30:11,271+0800 FATAL xelatex - Info: path="C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\tex\generic\gettitlestring\gettitlestring.sty"
+2026-09-06 01:30:11,271+0800 FATAL xelatex - Source: Libraries\MiKTeX\Core\File\win\winFile.cpp
+2026-09-06 01:30:11,271+0800 FATAL xelatex - Line: 320
+2026-09-06 01:30:11,277+0800 INFO  xelatex - this process (7636) finishes with exit code 1
+2026-09-06 01:30:11,279+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:30:11,314+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:30:11,314+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:30:11,315+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\tex/latex/hyperref\nameref.sty
+2026-09-06 01:30:11,315+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\tex/generic/gettitlestring\gettitlestring.sty
+2026-09-06 01:30:11,315+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:30:11,315+0800 WARN  xelatex.core - still open: main.tex
+2026-09-06 01:30:11,315+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\tex/latex/hyperref\hyperref.sty
+2026-09-06 01:30:12,584+0800 INFO  xelatex - installing package kvoptions triggered by tex/latex/kvoptions\kvoptions.sty
+2026-09-06 01:30:12,584+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:12,584+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:12,584+0800 INFO  xelatex - mpm: package repository: https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:12,850+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:12,850+0800 INFO  xelatex - mpm: going to download 8196 bytes
+2026-09-06 01:30:12,850+0800 INFO  xelatex - mpm: going to install 4 file(s) (1 package(s))
+2026-09-06 01:30:13,208+0800 INFO  xelatex.packagemanager - installing package kvoptions
+2026-09-06 01:30:13,209+0800 INFO  xelatex - mpm: downloading https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/kvoptions.tar.lzma...
+2026-09-06 01:30:13,209+0800 INFO  xelatex.packagemanager - going to download https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/kvoptions.tar.lzma
+2026-09-06 01:30:13,246+0800 INFO  xelatex - mpm: 0.01 MB, 1.82 Mbit/s
+2026-09-06 01:30:13,252+0800 INFO  xelatex - mpm: extracting files from kvoptions.tar.lzma...
+2026-09-06 01:30:13,682+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:15,429+0800 INFO  xelatex - installing package stringenc triggered by tex/generic/stringenc\stringenc.sty
+2026-09-06 01:30:15,430+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:15,430+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:15,430+0800 INFO  xelatex - mpm: package repository: https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:15,664+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:15,664+0800 INFO  xelatex - mpm: going to download 719569 bytes
+2026-09-06 01:30:15,664+0800 INFO  xelatex - mpm: going to install 45 file(s) (1 package(s))
+2026-09-06 01:30:16,021+0800 INFO  xelatex.packagemanager - installing package stringenc
+2026-09-06 01:30:16,023+0800 INFO  xelatex - mpm: downloading https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/stringenc.tar.lzma...
+2026-09-06 01:30:16,023+0800 INFO  xelatex.packagemanager - going to download https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/stringenc.tar.lzma
+2026-09-06 01:30:16,147+0800 INFO  xelatex - mpm: 0.72 MB, 47.18 Mbit/s
+2026-09-06 01:30:16,153+0800 INFO  xelatex - mpm: extracting files from stringenc.tar.lzma...
+2026-09-06 01:30:16,738+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:18,515+0800 INFO  xelatex - installing package intcalc triggered by tex/generic/intcalc\intcalc.sty
+2026-09-06 01:30:18,515+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:18,515+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:18,515+0800 INFO  xelatex - mpm: package repository: https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:18,757+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:18,757+0800 INFO  xelatex - mpm: going to download 441613 bytes
+2026-09-06 01:30:18,757+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:30:19,109+0800 INFO  xelatex.packagemanager - installing package intcalc
+2026-09-06 01:30:19,111+0800 INFO  xelatex - mpm: downloading https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/intcalc.tar.lzma...
+2026-09-06 01:30:19,111+0800 INFO  xelatex.packagemanager - going to download https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/intcalc.tar.lzma
+2026-09-06 01:30:19,197+0800 INFO  xelatex - mpm: 0.44 MB, 41.08 Mbit/s
+2026-09-06 01:30:19,203+0800 INFO  xelatex - mpm: extracting files from intcalc.tar.lzma...
+2026-09-06 01:30:19,648+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:21,395+0800 INFO  xelatex - installing package bitset triggered by tex/generic/bitset\bitset.sty
+2026-09-06 01:30:21,395+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:21,395+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:21,395+0800 INFO  xelatex - mpm: package repository: https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:21,631+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:21,632+0800 INFO  xelatex - mpm: going to download 638837 bytes
+2026-09-06 01:30:21,632+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:30:21,982+0800 INFO  xelatex.packagemanager - installing package bitset
+2026-09-06 01:30:21,983+0800 INFO  xelatex - mpm: downloading https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/bitset.tar.lzma...
+2026-09-06 01:30:21,983+0800 INFO  xelatex.packagemanager - going to download https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/bitset.tar.lzma
+2026-09-06 01:30:22,088+0800 INFO  xelatex - mpm: 0.64 MB, 49.14 Mbit/s
+2026-09-06 01:30:22,094+0800 INFO  xelatex - mpm: extracting files from bitset.tar.lzma...
+2026-09-06 01:30:22,525+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:24,158+0800 INFO  xelatex - installing package bigintcalc triggered by tex/generic/bigintcalc\bigintcalc.sty
+2026-09-06 01:30:24,158+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:24,158+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:24,158+0800 INFO  xelatex - mpm: package repository: https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:24,396+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:24,397+0800 INFO  xelatex - mpm: going to download 478294 bytes
+2026-09-06 01:30:24,397+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:30:24,750+0800 INFO  xelatex.packagemanager - installing package bigintcalc
+2026-09-06 01:30:24,752+0800 INFO  xelatex - mpm: downloading https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/bigintcalc.tar.lzma...
+2026-09-06 01:30:24,752+0800 INFO  xelatex.packagemanager - going to download https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/bigintcalc.tar.lzma
+2026-09-06 01:30:24,818+0800 INFO  xelatex - mpm: 0.48 MB, 58.87 Mbit/s
+2026-09-06 01:30:24,825+0800 INFO  xelatex - mpm: extracting files from bigintcalc.tar.lzma...
+2026-09-06 01:30:25,239+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:26,938+0800 INFO  xelatex - installing package rerunfilecheck triggered by tex/latex/rerunfilecheck\rerunfilecheck.sty
+2026-09-06 01:30:26,938+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:26,938+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:26,939+0800 INFO  xelatex - mpm: package repository: https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:27,190+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:27,190+0800 INFO  xelatex - mpm: going to download 3336 bytes
+2026-09-06 01:30:27,191+0800 INFO  xelatex - mpm: going to install 2 file(s) (1 package(s))
+2026-09-06 01:30:27,541+0800 INFO  xelatex.packagemanager - installing package rerunfilecheck
+2026-09-06 01:30:27,542+0800 INFO  xelatex - mpm: downloading https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/rerunfilecheck.tar.lzma...
+2026-09-06 01:30:27,542+0800 INFO  xelatex.packagemanager - going to download https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/rerunfilecheck.tar.lzma
+2026-09-06 01:30:27,568+0800 INFO  xelatex - mpm: 0.00 MB, 1.07 Mbit/s
+2026-09-06 01:30:27,572+0800 INFO  xelatex - mpm: extracting files from rerunfilecheck.tar.lzma...
+2026-09-06 01:30:27,964+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:35,936+0800 INFO  xelatex - installing package uniquecounter triggered by tex/generic/uniquecounter\uniquecounter.sty
+2026-09-06 01:30:35,937+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:35,937+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:35,937+0800 INFO  xelatex - mpm: package repository: https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:36,177+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:36,177+0800 INFO  xelatex - mpm: going to download 298441 bytes
+2026-09-06 01:30:36,178+0800 INFO  xelatex - mpm: going to install 6 file(s) (1 package(s))
+2026-09-06 01:30:36,531+0800 INFO  xelatex.packagemanager - installing package uniquecounter
+2026-09-06 01:30:36,532+0800 INFO  xelatex - mpm: downloading https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/uniquecounter.tar.lzma...
+2026-09-06 01:30:36,532+0800 INFO  xelatex.packagemanager - going to download https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/uniquecounter.tar.lzma
+2026-09-06 01:30:36,588+0800 INFO  xelatex - mpm: 0.30 MB, 43.41 Mbit/s
+2026-09-06 01:30:36,593+0800 INFO  xelatex - mpm: extracting files from uniquecounter.tar.lzma...
+2026-09-06 01:30:37,045+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:39,655+0800 INFO  xelatex - installing package enumitem triggered by tex/latex/enumitem\enumitem.sty
+2026-09-06 01:30:39,655+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:39,655+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:39,655+0800 INFO  xelatex - mpm: package repository: https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:39,909+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:39,909+0800 INFO  xelatex - mpm: going to download 14000 bytes
+2026-09-06 01:30:39,909+0800 INFO  xelatex - mpm: going to install 2 file(s) (1 package(s))
+2026-09-06 01:30:40,264+0800 INFO  xelatex.packagemanager - installing package enumitem
+2026-09-06 01:30:40,265+0800 INFO  xelatex - mpm: downloading https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/enumitem.tar.lzma...
+2026-09-06 01:30:40,266+0800 INFO  xelatex.packagemanager - going to download https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/enumitem.tar.lzma
+2026-09-06 01:30:40,351+0800 INFO  xelatex - mpm: 0.01 MB, 1.33 Mbit/s
+2026-09-06 01:30:40,356+0800 INFO  xelatex - mpm: extracting files from enumitem.tar.lzma...
+2026-09-06 01:30:40,777+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:43,526+0800 INFO  xelatex - installing package endnotes triggered by tex/latex/endnotes\endnotes.sty
+2026-09-06 01:30:43,526+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:43,526+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:43,526+0800 INFO  xelatex - mpm: package repository: https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:43,766+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:43,766+0800 INFO  xelatex - mpm: going to download 287468 bytes
+2026-09-06 01:30:43,766+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:30:44,122+0800 INFO  xelatex.packagemanager - installing package endnotes
+2026-09-06 01:30:44,123+0800 INFO  xelatex - mpm: downloading https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/endnotes.tar.lzma...
+2026-09-06 01:30:44,123+0800 INFO  xelatex.packagemanager - going to download https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/endnotes.tar.lzma
+2026-09-06 01:30:44,186+0800 INFO  xelatex - mpm: 0.29 MB, 36.50 Mbit/s
+2026-09-06 01:30:44,193+0800 INFO  xelatex - mpm: extracting files from endnotes.tar.lzma...
+2026-09-06 01:30:44,613+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:46,493+0800 INFO  xelatex - installing package float triggered by tex/latex/float\float.sty
+2026-09-06 01:30:46,494+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:30:46,494+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:30:46,494+0800 INFO  xelatex - mpm: package repository: https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/
+2026-09-06 01:30:46,738+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:30:46,738+0800 INFO  xelatex - mpm: going to download 127884 bytes
+2026-09-06 01:30:46,738+0800 INFO  xelatex - mpm: going to install 5 file(s) (1 package(s))
+2026-09-06 01:30:47,095+0800 INFO  xelatex.packagemanager - installing package float
+2026-09-06 01:30:47,097+0800 INFO  xelatex - mpm: downloading https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/float.tar.lzma...
+2026-09-06 01:30:47,097+0800 INFO  xelatex.packagemanager - going to download https://mirrors.sjtug.sjtu.edu.cn/ctan/systems/win32/miktex/tm/packages/float.tar.lzma
+2026-09-06 01:30:47,152+0800 INFO  xelatex - mpm: 0.13 MB, 18.60 Mbit/s
+2026-09-06 01:30:47,159+0800 INFO  xelatex - mpm: extracting files from float.tar.lzma...
+2026-09-06 01:30:47,570+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:30:48,564+0800 INFO  xelatex - this process (15716) finishes with exit code 1
+2026-09-06 01:30:48,565+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:30:48,591+0800 WARN  xelatex.core - still open: main.tex
+2026-09-06 01:30:48,591+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:30:48,591+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:30:48,591+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:30:48,591+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:31:06,609+0800 INFO  xelatex - this process (6100) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -interaction=errorstopmode -file-line-error main.tex
+2026-09-06 01:31:06,609+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:31:06,610+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:31:06,613+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:31:07,242+0800 INFO  xelatex - this process (6100) finishes with exit code 1
+2026-09-06 01:31:07,244+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:31:07,245+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:31:07,245+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:31:07,245+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:31:07,245+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:31:07,245+0800 WARN  xelatex.core - still open: main.tex
+2026-09-06 01:31:48,734+0800 INFO  xelatex - this process (8080) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:31:48,735+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:31:48,736+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:31:48,737+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:31:49,421+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:31:50,164+0800 INFO  xelatex - this process (8080) finishes with exit code 1
+2026-09-06 01:31:50,166+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: main.tex
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: main.ent
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 01:31:50,166+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 01:32:32,049+0800 INFO  xelatex - installing package ctex triggered by tex/latex/ctex\ctexart.cls
+2026-09-06 01:32:32,052+0800 INFO  xelatex.packagemanager - going to download https://api2.miktex.org/hello
+2026-09-06 01:32:32,837+0800 INFO  xelatex.packagemanager - going to download https://api2.miktex.org/repositories?&releaseState=Stable&orderBy=ranking&take=1&onlySecure=true
+2026-09-06 01:32:33,092+0800 INFO  xelatex - mpm: starting package maintenance...
+2026-09-06 01:32:33,092+0800 INFO  xelatex - mpm: installation directory: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install
+2026-09-06 01:32:33,092+0800 INFO  xelatex - mpm: package repository: https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/win32/miktex/tm/packages/
+2026-09-06 01:32:33,334+0800 INFO  xelatex - mpm: package repository digest: 29a1de8bc7d6eb836d6e1fcc95a48cff
+2026-09-06 01:32:33,334+0800 INFO  xelatex - mpm: going to download 137645 bytes
+2026-09-06 01:32:33,334+0800 INFO  xelatex - mpm: going to install 73 file(s) (1 package(s))
+2026-09-06 01:32:33,694+0800 INFO  xelatex.packagemanager - installing package ctex
+2026-09-06 01:32:33,696+0800 INFO  xelatex - mpm: downloading https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/win32/miktex/tm/packages/ctex.tar.lzma...
+2026-09-06 01:32:33,700+0800 INFO  xelatex.packagemanager - going to download https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/win32/miktex/tm/packages/ctex.tar.lzma
+2026-09-06 01:32:33,954+0800 INFO  xelatex - mpm: 0.14 MB, 4.34 Mbit/s
+2026-09-06 01:32:33,959+0800 INFO  xelatex - mpm: extracting files from ctex.tar.lzma...
+2026-09-06 01:32:34,549+0800 INFO  xelatex.core - start process: miktex fontmaps configure
+2026-09-06 01:32:36,048+0800 INFO  xelatex - this process (3544) finishes with exit code 1
+2026-09-06 01:32:36,049+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:32:36,081+0800 WARN  xelatex.core - still open: main.tex
+2026-09-06 01:32:36,081+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:32:36,081+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:32:36,081+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:32:36,081+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:32:59,924+0800 INFO  xelatex - this process (9764) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:32:59,924+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:32:59,926+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:32:59,927+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:33:00,599+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:33:01,251+0800 INFO  xelatex - this process (9764) finishes with exit code 1
+2026-09-06 01:33:01,253+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:33:01,253+0800 WARN  xelatex.core - still open: main.tex
+2026-09-06 01:33:01,253+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:33:01,253+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:33:01,253+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:33:01,253+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:33:01,253+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 01:33:01,253+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 01:33:01,253+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 01:33:01,253+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 01:33:01,253+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 01:33:01,253+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 01:33:01,253+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 01:33:01,254+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 01:33:01,254+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 01:33:01,254+0800 WARN  xelatex.core - still open: main.ent
+2026-09-06 01:33:47,671+0800 INFO  xelatex - this process (15580) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:33:47,671+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:33:47,673+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:33:47,674+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:33:48,349+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:33:49,026+0800 INFO  xelatex - this process (15580) finishes with exit code 0
+2026-09-06 01:33:49,028+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:33:49,028+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:33:49,028+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:33:49,028+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:33:49,028+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:33:49,028+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 01:33:49,028+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 01:33:49,028+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 01:33:49,028+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 01:33:49,028+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 01:33:49,029+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 01:33:49,029+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 01:33:49,029+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 01:33:49,029+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 01:33:49,307+0800 INFO  xelatex - this process (14748) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:33:49,308+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:33:49,309+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:33:49,311+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:33:49,974+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:33:50,644+0800 INFO  xelatex - this process (14748) finishes with exit code 0
+2026-09-06 01:33:50,646+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:33:50,646+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:33:50,646+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:33:50,646+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:33:50,646+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:33:50,646+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 01:33:50,646+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 01:33:50,646+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 01:33:50,646+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 01:33:50,646+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 01:33:50,646+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 01:33:50,646+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 01:33:50,646+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 01:33:50,646+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 01:39:02,722+0800 INFO  xelatex - this process (13104) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:39:02,723+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:39:02,724+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:39:02,725+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:39:03,337+0800 INFO  xelatex - this process (13104) finishes with exit code 1
+2026-09-06 01:39:03,338+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:39:03,339+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:39:03,339+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:39:03,339+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:39:03,339+0800 WARN  xelatex.core - still open: main.tex
+2026-09-06 01:39:03,339+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:39:47,728+0800 INFO  xelatex - this process (6016) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:39:47,729+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:39:47,730+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:39:47,731+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:39:48,402+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:39:49,065+0800 INFO  xelatex - this process (6016) finishes with exit code 1
+2026-09-06 01:39:49,066+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:39:49,066+0800 WARN  xelatex.core - still open: main.tex
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 01:39:49,067+0800 WARN  xelatex.core - still open: main.ent
+2026-09-06 01:39:49,360+0800 INFO  xelatex - this process (22176) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:39:49,360+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:39:49,362+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:39:49,363+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:39:50,019+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:39:50,612+0800 INFO  xelatex - this process (22176) finishes with exit code 1
+2026-09-06 01:39:50,613+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: main.tex
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: main.ent
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 01:39:50,613+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 01:41:17,262+0800 INFO  xelatex - this process (11984) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:41:17,262+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:41:17,263+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:41:17,265+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:41:17,905+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:41:18,507+0800 INFO  xelatex - this process (11984) finishes with exit code 1
+2026-09-06 01:41:18,508+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: main.tex
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: main.ent
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 01:41:18,509+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 01:41:18,796+0800 INFO  xelatex - this process (21748) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:41:18,796+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:41:18,797+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:41:18,799+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:41:19,420+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:41:19,995+0800 INFO  xelatex - this process (21748) finishes with exit code 1
+2026-09-06 01:41:19,996+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: main.tex
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: main.ent
+2026-09-06 01:41:19,996+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:42:41,787+0800 INFO  xelatex - this process (13460) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:42:41,787+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:42:41,789+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:42:41,790+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:42:42,412+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:42:43,087+0800 INFO  xelatex - this process (13460) finishes with exit code 0
+2026-09-06 01:42:43,089+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:42:43,089+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:42:43,089+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:42:43,089+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:42:43,089+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:42:43,089+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 01:42:43,089+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 01:42:43,089+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 01:42:43,089+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 01:42:43,089+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 01:42:43,089+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 01:42:43,089+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 01:42:43,089+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 01:42:43,089+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 01:42:43,378+0800 INFO  xelatex - this process (22052) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 01:42:43,378+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 01:42:43,380+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:42:43,381+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 01:42:44,051+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 01:42:44,730+0800 INFO  xelatex - this process (22052) finishes with exit code 0
+2026-09-06 01:42:44,731+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 01:42:44,732+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 01:42:44,732+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:42:44,732+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:42:44,732+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:42:44,732+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 01:42:44,732+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 01:42:44,732+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 01:42:44,732+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 01:42:44,732+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 01:42:44,732+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 01:42:44,732+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 01:42:44,732+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 01:42:44,732+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 02:22:24,496+0800 INFO  xelatex - this process (20824) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 02:22:24,496+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 02:22:24,498+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 02:22:24,499+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 02:22:25,188+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:22:26,110+0800 INFO  xelatex - this process (20824) finishes with exit code 0
+2026-09-06 02:22:26,111+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:22:26,112+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:22:26,112+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:22:26,112+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:22:26,112+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:22:26,112+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:22:26,113+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 02:22:26,113+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex8.tfm
+2026-09-06 02:22:26,113+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 02:22:26,113+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 02:22:26,113+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 02:22:26,113+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 02:22:26,113+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 02:22:26,113+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 02:22:26,113+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 02:22:26,113+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:22:26,113+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 02:22:26,113+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 02:22:26,113+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 02:26:25,984+0800 INFO  xelatex - this process (24524) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 02:26:25,984+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 02:26:25,986+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 02:26:25,987+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 02:26:26,678+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:26:27,541+0800 INFO  xelatex - this process (24524) finishes with exit code 0
+2026-09-06 02:26:27,542+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:26:27,542+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:26:27,542+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:26:27,542+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi10.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex8.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:26:27,543+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 02:26:27,816+0800 INFO  xelatex - this process (13988) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 02:26:27,816+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 02:26:27,818+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 02:26:27,819+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 02:26:28,514+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:26:29,323+0800 INFO  xelatex - this process (13988) finishes with exit code 0
+2026-09-06 02:26:29,324+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex8.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi10.tfm
+2026-09-06 02:26:29,325+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 02:27:35,583+0800 INFO  xelatex - this process (3724) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 02:27:35,583+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 02:27:35,585+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 02:27:35,586+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 02:27:36,282+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:27:37,124+0800 INFO  xelatex - this process (3724) finishes with exit code 0
+2026-09-06 02:27:37,125+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex8.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi10.tfm
+2026-09-06 02:27:37,126+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 02:28:17,952+0800 INFO  xelatex - this process (23620) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 02:28:17,952+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 02:28:17,954+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 02:28:17,955+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 02:28:18,624+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:28:19,449+0800 INFO  xelatex - this process (23620) finishes with exit code 0
+2026-09-06 02:28:19,450+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi10.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex8.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 02:28:19,451+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 02:28:19,452+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 02:58:37,574+0800 INFO  xelatex - this process (3768) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 02:58:37,574+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 02:58:37,576+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 02:58:37,577+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 02:58:38,276+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:58:39,130+0800 INFO  xelatex - this process (3768) finishes with exit code 0
+2026-09-06 02:58:39,132+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:58:39,132+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:58:39,132+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:58:39,132+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:58:39,132+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:58:39,132+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 02:58:39,132+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi10.tfm
+2026-09-06 02:58:39,132+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:58:39,132+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:58:39,132+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 02:58:39,133+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 02:58:39,133+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:58:39,133+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 02:58:39,133+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 02:58:39,133+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 02:58:39,133+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex8.tfm
+2026-09-06 02:58:39,133+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 02:58:39,133+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 02:58:39,133+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 02:58:39,133+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 02:58:39,133+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 02:58:39,133+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 02:58:39,133+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 02:58:39,409+0800 INFO  xelatex - this process (19300) started by powershell in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\miktex\bin\x64\xelatex.exe -file-line-error -interaction=nonstopmode -halt-on-error main.tex
+2026-09-06 02:58:39,410+0800 INFO  xelatex - running on Windows 10.0.26200
+2026-09-06 02:58:39,411+0800 INFO  xelatex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 02:58:39,412+0800 INFO  xelatex - allowing known shell commands
+2026-09-06 02:58:40,110+0800 INFO  xelatex.core - start process: miktex-dvipdfmx.exe -q -E -o main.pdf
+2026-09-06 02:58:40,915+0800 INFO  xelatex - this process (19300) finishes with exit code 0
+2026-09-06 02:58:40,917+0800 ERROR xelatex - major issue: So far, you have not checked for MiKTeX updates.
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi6.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy8.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi12.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex8.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr12.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/amsfonts/cmextra\cmex7.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi8.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy6.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr8.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr6.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi10.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/adobe/zapfding\pzdr.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 02:58:40,918+0800 WARN  xelatex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm

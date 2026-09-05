@@ -1,0 +1,6 @@
+﻿"indicator","direction","transform","entropy_weight","equal_weight","strategy_weight"
+"market_size","benefit","ln(1+x), then min-max","0.187171","0.2","0.3"
+"market_growth","benefit","min-max","0.217899","0.2","0.1"
+"china_share","benefit","min-max","0.18128","0.2","0.1"
+"untapped_amount","benefit","ln(1+x), then min-max","0.150976","0.2","0.3"
+"untapped_ratio","benefit","min-max","0.262673","0.2","0.2"

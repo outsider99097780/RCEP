@@ -1,0 +1,29 @@
+
+
+MiKTeX Setup Utility (Standalone) 5.5.0+1763023 Report
+
+Date: Sunday, September 06, 2026
+Time: 01:27:35
+OS version: Windows 10.0.26200
+SystemAdmin: false
+SharedSetup: false
+Setup path: C:\Users\99097\AppData\Local\Temp\miktex-setup\miktexsetup_standalone.exe
+UserRoots: <none specified>
+UserData: <none specified>
+UserConfig: <none specified>
+CommonRoots: <none specified>
+CommonData: <none specified>
+CommonConfig: <none specified>
+Installation: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs/install
+initexmf --principal=setup --portable=C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs/install --disable-installer --verbose:
+miktex --disable-installer --verbose fndb remove:
+Warning: Windows API error 3: 系统找不到指定的路径。
+mpm --register-components --verbose:
+miktex --disable-installer --verbose fndb refresh:
+miktex --disable-installer --verbose links install --force:
+miktex --disable-installer --verbose fontmaps configure:
+miktex --disable-installer --verbose languages configure:
+initexmf --default-paper-size=A4 --disable-installer --verbose:
+initexmf --set-config-value=[MPM]AutoInstall=2 --disable-installer --verbose:
+miktex --disable-installer --verbose fndb refresh:
+initexmf --report --disable-installer --verbose:

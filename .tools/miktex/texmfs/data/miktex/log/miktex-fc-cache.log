@@ -1,0 +1,81 @@
+2026-09-06 01:27:42,783+0800 INFO  miktex-fc-cache - this process (2016) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP with command line: miktex-fc-cache --verbose --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:27:42,783+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:27:45,721+0800 INFO  miktex-fc-cache - this process (2016) finishes with exit code 0
+2026-09-06 01:29:15,967+0800 INFO  miktex-fc-cache - this process (6432) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:29:16,002+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:29:16,150+0800 INFO  miktex-fc-cache - this process (6432) finishes with exit code 0
+2026-09-06 01:29:22,896+0800 INFO  miktex-fc-cache - this process (12672) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:29:22,896+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:29:22,993+0800 INFO  miktex-fc-cache - this process (12672) finishes with exit code 0
+2026-09-06 01:29:29,754+0800 INFO  miktex-fc-cache - this process (16620) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:29:29,754+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:29:29,854+0800 INFO  miktex-fc-cache - this process (16620) finishes with exit code 0
+2026-09-06 01:29:37,747+0800 INFO  miktex-fc-cache - this process (16620) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:29:37,747+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:29:37,837+0800 INFO  miktex-fc-cache - this process (16620) finishes with exit code 0
+2026-09-06 01:29:40,839+0800 INFO  miktex-fc-cache - this process (21844) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:29:40,839+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:29:40,936+0800 INFO  miktex-fc-cache - this process (21844) finishes with exit code 0
+2026-09-06 01:29:43,933+0800 INFO  miktex-fc-cache - this process (5948) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:29:43,933+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:29:44,034+0800 INFO  miktex-fc-cache - this process (5948) finishes with exit code 0
+2026-09-06 01:29:47,230+0800 INFO  miktex-fc-cache - this process (10520) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:29:47,230+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:29:47,327+0800 INFO  miktex-fc-cache - this process (10520) finishes with exit code 0
+2026-09-06 01:29:50,768+0800 INFO  miktex-fc-cache - this process (8572) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:29:50,768+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:29:50,864+0800 INFO  miktex-fc-cache - this process (8572) finishes with exit code 0
+2026-09-06 01:29:54,240+0800 INFO  miktex-fc-cache - this process (10192) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:29:54,241+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:29:54,354+0800 INFO  miktex-fc-cache - this process (10192) finishes with exit code 0
+2026-09-06 01:29:57,169+0800 INFO  miktex-fc-cache - this process (16644) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:29:57,169+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:29:57,286+0800 INFO  miktex-fc-cache - this process (16644) finishes with exit code 0
+2026-09-06 01:30:00,267+0800 INFO  miktex-fc-cache - this process (15976) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:00,267+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:00,367+0800 INFO  miktex-fc-cache - this process (15976) finishes with exit code 0
+2026-09-06 01:30:03,511+0800 INFO  miktex-fc-cache - this process (16004) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:03,512+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:03,654+0800 INFO  miktex-fc-cache - this process (16004) finishes with exit code 0
+2026-09-06 01:30:07,388+0800 INFO  miktex-fc-cache - this process (15796) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:07,389+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:07,525+0800 INFO  miktex-fc-cache - this process (15796) finishes with exit code 0
+2026-09-06 01:30:08,775+0800 INFO  miktex-fc-cache - this process (10096) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:08,775+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:08,873+0800 INFO  miktex-fc-cache - this process (10096) finishes with exit code 0
+2026-09-06 01:30:10,926+0800 INFO  miktex-fc-cache - this process (912) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:10,926+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:11,028+0800 INFO  miktex-fc-cache - this process (912) finishes with exit code 0
+2026-09-06 01:30:14,347+0800 INFO  miktex-fc-cache - this process (19212) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:14,347+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:14,489+0800 INFO  miktex-fc-cache - this process (19212) finishes with exit code 0
+2026-09-06 01:30:17,398+0800 INFO  miktex-fc-cache - this process (22420) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:17,398+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:17,536+0800 INFO  miktex-fc-cache - this process (22420) finishes with exit code 0
+2026-09-06 01:30:20,317+0800 INFO  miktex-fc-cache - this process (21308) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:20,317+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:20,411+0800 INFO  miktex-fc-cache - this process (21308) finishes with exit code 0
+2026-09-06 01:30:23,185+0800 INFO  miktex-fc-cache - this process (5664) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:23,185+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:23,289+0800 INFO  miktex-fc-cache - this process (5664) finishes with exit code 0
+2026-09-06 01:30:25,902+0800 INFO  miktex-fc-cache - this process (3368) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:25,902+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:26,006+0800 INFO  miktex-fc-cache - this process (3368) finishes with exit code 0
+2026-09-06 01:30:28,614+0800 INFO  miktex-fc-cache - this process (21460) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:28,614+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:28,716+0800 INFO  miktex-fc-cache - this process (21460) finishes with exit code 0
+2026-09-06 01:30:37,724+0800 INFO  miktex-fc-cache - this process (1032) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:37,724+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:37,839+0800 INFO  miktex-fc-cache - this process (1032) finishes with exit code 0
+2026-09-06 01:30:41,451+0800 INFO  miktex-fc-cache - this process (1456) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:41,451+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:41,568+0800 INFO  miktex-fc-cache - this process (1456) finishes with exit code 0
+2026-09-06 01:30:45,271+0800 INFO  miktex-fc-cache - this process (18196) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:45,271+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:45,370+0800 INFO  miktex-fc-cache - this process (18196) finishes with exit code 0
+2026-09-06 01:30:48,239+0800 INFO  miktex-fc-cache - this process (5844) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:30:48,240+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:30:48,357+0800 INFO  miktex-fc-cache - this process (5844) finishes with exit code 0
+2026-09-06 01:32:35,209+0800 INFO  miktex-fc-cache - this process (3200) started by miktex in directory C:\Users\99097\Documents\GitHub\RCEP\main with command line: miktex-fc-cache --miktex-disable-maintenance --miktex-disable-diagnose
+2026-09-06 01:32:35,209+0800 INFO  miktex-fc-cache - running on Windows 10.0.26200
+2026-09-06 01:32:35,316+0800 INFO  miktex-fc-cache - this process (3200) finishes with exit code 0

@@ -1,0 +1,6 @@
+2026-09-06 01:27:36,918+0800 INFO  mpmcli - this is mpmcli 4.5 (MiKTeX 26.5 Portable)
+2026-09-06 01:27:36,918+0800 INFO  mpmcli - this process (20776) started by 'miktexsetup_standalone' with command line: mpm --register-components --verbose
+2026-09-06 01:27:36,918+0800 INFO  mpmcli - Operating on the private (per-user) MiKTeX setup
+2026-09-06 01:27:36,960+0800 WARN  mpmcli.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fontconfig\config\fonts.conf.in
+2026-09-06 01:27:36,960+0800 WARN  mpmcli.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs/config\fontconfig\config\fonts.conf
+2026-09-06 01:27:36,960+0800 INFO  mpmcli - this process (20776) finishes with exit code 0

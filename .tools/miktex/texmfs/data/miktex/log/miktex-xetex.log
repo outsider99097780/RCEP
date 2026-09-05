@@ -1,0 +1,45 @@
+2026-09-06 01:28:06,232+0800 INFO  miktex-xetex - this process (12328) started by miktex-makefmt in directory C:\Users\99097\AppData\Local\Temp\mik94326 with command line: miktex-xetex.exe --miktex-disable-maintenance --miktex-disable-diagnose --interaction=nonstopmode --initialize --halt-on-error --alias=xelatex --job-name=xelatex --enable-etex xelatex.ini
+2026-09-06 01:28:06,232+0800 INFO  miktex-xetex - running on Windows 10.0.26200
+2026-09-06 01:28:06,232+0800 INFO  miktex-xetex - this is MiKTeX-XETEX 4.18.0 (0.999998) (MiKTeX 26.5 Portable)
+2026-09-06 01:28:06,233+0800 INFO  miktex-xetex - allowing known shell commands
+2026-09-06 01:28:11,630+0800 INFO  miktex-xetex - this process (12328) finishes with exit code 0
+2026-09-06 01:28:11,630+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/latex-fonts\line10.tfm
+2026-09-06 01:28:11,630+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/latex-fonts\lcircle10.tfm
+2026-09-06 01:28:11,630+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,630+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,630+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,630+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,630+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,630+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,630+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,630+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmex10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/latex-fonts\linew10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/latex-fonts\lcirclew10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr5.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr10.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi5.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy7.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmmi7.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmsy5.tfm
+2026-09-06 01:28:11,631+0800 WARN  miktex-xetex.core - still open: C:\Users\99097\Documents\GitHub\RCEP\.tools\miktex\texmfs\install\fonts/tfm/public/cm\cmr7.tfm

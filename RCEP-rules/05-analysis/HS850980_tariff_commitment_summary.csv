@@ -1,0 +1,15 @@
+destination_country,schedule_scope,national_tariff_line,description,base_rate,commitment_path_summary,source_file,pdf_page_1_based,interpretation_note
+Australia,common,8509.80.90,Other,0%,0% all listed years,03-tariff-schedules\australia\09_schedule_AU.pdf,102,Verify national classification
+Brunei,common,8509.80.90.00,Other,5.0%,Phased from 5.0% to 0.0%,03-tariff-schedules\brunei\23_schedule_BN.pdf,49,Map year using headnotes
+Cambodia,common,8509.80.90,Other,35%,35% through Year 20,03-tariff-schedules\cambodia\25_schedule_KH.pdf,161,Check lower current MFN rate
+Indonesia,for China,8509.80.90.00,Other,10.0%,0.0% from Year 1,03-tariff-schedules\indonesia\29_schedule_ID_for_CN.pdf,272,Partner-specific China schedule
+Japan,common,850980.000,Other appliances,Free,Free all listed years,03-tariff-schedules\japan\11_schedule_JP.pdf,1133,Verify national classification
+Laos,common,8509.80.90,Other,10%,Phased from 10% to 0%,03-tariff-schedules\laos\35_schedule_LA.pdf,307,Map year using headnotes
+Malaysia,common,8509.80 900,Other,20.0%,20.0% through listed years,03-tariff-schedules\malaysia\37_schedule_MY.pdf,208,Check lower current MFN rate
+Myanmar,common,8509.80.90.00,Other,7.5%,Phased from 7.5% to 0%,03-tariff-schedules\myanmar\40_schedule_MM.pdf,366,Map year using headnotes
+New Zealand,common,8509.80.29,Other,0.0%,0.0% all listed years,03-tariff-schedules\new-zealand\21_schedule_NZ.pdf,190,National split differs; confirm exact line
+Philippines,common plus China exceptions,8509.80.90,Other,5%,0% from Year 1 in common section,03-tariff-schedules\philippines\42_schedule_PH_common.pdf,306,No 850980 hit in China exception section; verify current customs tariff
+Singapore,all goods declaration,ALL,All originating goods,not line-listed,All customs duties eliminated from entry into force,03-tariff-schedules\singapore\48_schedule_SG.pdf,1,No line-level schedule by design
+South Korea,for China,8509.80.90.00,Other,8.0%,0.0% from Year 1,03-tariff-schedules\south-korea\16_schedule_KR_for_CN.pdf,302,Partner-specific China schedule
+Thailand,common,8509.80.90,Other,30%,Phased to 0% by Year 10,03-tariff-schedules\thailand\50_schedule_TH.pdf,157,Map year using headnotes
+Vietnam,for China,8509.80.90,Other,25,25 through Year 25,03-tariff-schedules\vietnam\55_schedule_VN_for_CN.pdf,278,Check unit/percent notation and lower current MFN rate
