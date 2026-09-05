@@ -1,0 +1,16 @@
+study_id: "20260905-CHN-Roborock-HS85098090-rcep-v01"
+product_name_zh: "石头科技扫地机相关产品组"
+product_name_en: "Roborock robot-vacuum related HS850980 product group"
+product_description: "User-specified China Customs code 85098090.00; modeled in ITC at HS6 850980"
+hs_code_user: "85098090.00"
+hs_code_itc: "850980"
+hs_level: 6
+hs_version: "ITC response; HS version recorded per raw files"
+exporter_iso3: "CHN"
+candidate_markets: ["Australia", "Brunei", "Cambodia", "Indonesia", "Japan", "Laos", "Malaysia", "Myanmar", "New Zealand", "Philippines", "Singapore", "South Korea", "Thailand", "Vietnam"]
+trade_flow: "export"
+years_annual: [2020, 2021, 2022, 2023, 2024, 2025]
+currency: "USD"
+trade_value_unit: "USD thousand"
+model_method: "equal_weight_topsis_screen"
+requested_outputs: ["raw_exports", "cleaned_tables", "epi_snapshot", "market_ranking", "source_ledger"]

@@ -1,0 +1,28 @@
+{
+  "item": {
+    "code": "392",
+    "name": "Japan",
+    "parent": {
+      "code": "4",
+      "name": "East Asia",
+      "color": "#3d8fc3",
+      "parent": {
+        "code": "3",
+        "name": "Asia",
+        "color": "#C0392B"
+      }
+    }
+  },
+  "value": 643300726.23,
+  "exportValue": 426068266.67,
+  "realizedPotential": 0.662315849,
+  "lineLength": 687.92230163,
+  "bubbleSize": 609310669.09,
+  "lineWidth": 2.1117792936,
+  "tariff": 0,
+  "xik": 6250842700,
+  "mjk": 536505833.33,
+  "xij": 166271765067,
+  "gap": 0.33768415100000004,
+  "rank": 3
+}

@@ -1,0 +1,28 @@
+{
+  "item": {
+    "code": "116",
+    "name": "Cambodia",
+    "parent": {
+      "code": "13",
+      "name": "Southeast Asia",
+      "color": "#dac20c",
+      "parent": {
+        "code": "3",
+        "name": "Asia",
+        "color": "#C0392B"
+      }
+    }
+  },
+  "value": 3205415.1217,
+  "exportValue": 1421666.6667,
+  "realizedPotential": 0.443520297,
+  "lineLength": 687.92230163,
+  "bubbleSize": 2828459.7742,
+  "lineWidth": 2.2070617943,
+  "tariff": 0,
+  "xik": 6250842700,
+  "mjk": 1872366.6667,
+  "xij": 13429285667,
+  "gap": 0.5564797029999999,
+  "rank": 80
+}

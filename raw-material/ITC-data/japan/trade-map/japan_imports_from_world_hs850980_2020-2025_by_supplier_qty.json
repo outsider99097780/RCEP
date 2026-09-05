@@ -1,0 +1,1572 @@
+{
+  "nbRecords": 35,
+  "page": 1,
+  "nbRecordPerPage": 500,
+  "nbPages": 1,
+  "records": [
+    {
+      "reporterCd": "392",
+      "partnerCd": "156",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 32969.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 41832.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 32382.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 27428.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 25304.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 27640.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "764",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 587.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 1539.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 1771.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 1848.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 1841.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 1775.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "410",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1194.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 1000.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 2027.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 2701.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 2197.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 1768.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "458",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2515.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 1382.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 1820.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 1871.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 1618.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 926.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "276",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 215.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 260.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 334.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 314.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 437.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 288.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "704",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 232.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 303.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 321.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 115.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 216.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 145.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "642",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 18.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 19.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 31.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "490",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 329.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 300.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 120.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 56.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 25.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 19.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "528",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 17.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "842",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 53.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 35.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 27.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 10.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 15.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 13.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "348",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 5.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 6.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 12.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 21.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 8.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "608",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 6.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 16.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 24.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 8.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "381",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 5.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 7.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "360",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 6.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "344",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "116",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "251",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 37.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "484",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "616",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "724",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "757",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 20.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 12.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "784",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "826",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "54",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "54",
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "036",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "040",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "056",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "076",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "100",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "188",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "191",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "372",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "554",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "620",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "705",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "392",
+      "partnerCd": "752",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    }
+  ],
+  "aggregateRecords": [
+    {
+      "reporterCd": "392",
+      "partnerCd": "000",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 38185.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 46703.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 38822.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 34380.0,
+          "flag": "4",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 31711.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 32644.0,
+          "flag": "4",
+          "unit": "Tons"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 17,
+      "countryCd": "392",
+      "label": null,
+      "labelEn": "Japanese Ministry of Finance",
+      "labelFr": "Ministère des finances japonais",
+      "labelEs": "Japanese Ministry of Finance",
+      "labelAr": "Japanese Ministry of Finance",
+      "labelRu": "Japanese Ministry of Finance",
+      "url": "http://www.customs.go.jp",
+      "startingDate": "2015"
+    }
+  ]
+}

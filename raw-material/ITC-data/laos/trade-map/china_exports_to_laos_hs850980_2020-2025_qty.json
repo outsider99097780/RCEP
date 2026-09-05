@@ -1,0 +1,153 @@
+{
+  "nbRecords": 2,
+  "page": 1,
+  "nbRecordPerPage": 10,
+  "nbPages": 1,
+  "records": [
+    {
+      "reporterCd": "156",
+      "partnerCd": "418",
+      "productCd": "850940",
+      "data": [
+        {
+          "period": 2020,
+          "value": 21.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 12.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 58.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 118.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 126.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 152.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "418",
+      "productCd": "850990",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    }
+  ],
+  "aggregateRecords": [
+    {
+      "reporterCd": "156",
+      "partnerCd": "418",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 5.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 7.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 34.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 10.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2025,
+          "value": 22.0,
+          "flag": null,
+          "unit": "Tons"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 9,
+      "countryCd": "156",
+      "label": null,
+      "labelEn": "General Customs Administration of China",
+      "labelFr": "Administration Générale des Douanes Chinoises",
+      "labelEs": "General Customs Administration of China",
+      "labelAr": "General Customs Administration of China",
+      "labelRu": "General Customs Administration of China",
+      "url": "http://www.customs.gov.cn",
+      "startingDate": "2015"
+    }
+  ]
+}

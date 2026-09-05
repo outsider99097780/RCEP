@@ -1,0 +1,135 @@
+{
+  "nbRecords": 2,
+  "page": 1,
+  "nbRecordPerPage": 10,
+  "nbPages": 1,
+  "records": [
+    {
+      "reporterCd": "156",
+      "partnerCd": "608",
+      "productCd": "850940",
+      "data": [
+        {
+          "period": 2020,
+          "value": 40460,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 50702,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 50379,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 49070,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 64160,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 54540,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "608",
+      "productCd": "850990",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1570,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1894,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1827,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1866,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1940,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 2605,
+          "flag": null
+        }
+      ]
+    }
+  ],
+  "aggregateRecords": [
+    {
+      "reporterCd": "156",
+      "partnerCd": "608",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 23656,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 39725,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 36545,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 26205,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 30181,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 34900,
+          "flag": null
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 9,
+      "countryCd": "156",
+      "label": null,
+      "labelEn": "General Customs Administration of China",
+      "labelFr": "Administration Générale des Douanes Chinoises",
+      "labelEs": "General Customs Administration of China",
+      "labelAr": "General Customs Administration of China",
+      "labelRu": "General Customs Administration of China",
+      "url": "http://www.customs.gov.cn",
+      "startingDate": "2015"
+    }
+  ]
+}

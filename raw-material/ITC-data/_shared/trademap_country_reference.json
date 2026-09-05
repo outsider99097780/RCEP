@@ -1,0 +1,1526 @@
+[
+  {
+    "countryCd": "000",
+    "labelEn": "World",
+    "labelFr": "Monde",
+    "labelEs": "Mundo"
+  },
+  {
+    "countryCd": "004",
+    "labelEn": "Afghanistan",
+    "labelFr": "Afghanistan",
+    "labelEs": "Afganistán"
+  },
+  {
+    "countryCd": "008",
+    "labelEn": "Albania",
+    "labelFr": "Albanie",
+    "labelEs": "Albania"
+  },
+  {
+    "countryCd": "012",
+    "labelEn": "Algeria",
+    "labelFr": "Algérie",
+    "labelEs": "Argelia"
+  },
+  {
+    "countryCd": "016",
+    "labelEn": "American Samoa",
+    "labelFr": "Samoa américaines",
+    "labelEs": "Samoa Americana"
+  },
+  {
+    "countryCd": "020",
+    "labelEn": "Andorra",
+    "labelFr": "Andorre",
+    "labelEs": "Andorra"
+  },
+  {
+    "countryCd": "024",
+    "labelEn": "Angola",
+    "labelFr": "Angola",
+    "labelEs": "Angola"
+  },
+  {
+    "countryCd": "028",
+    "labelEn": "Antigua and Barbuda",
+    "labelFr": "Antigua-et-Barbuda",
+    "labelEs": "Antigua y Barbuda"
+  },
+  {
+    "countryCd": "031",
+    "labelEn": "Azerbaijan",
+    "labelFr": "Azerbaïdjan",
+    "labelEs": "Azerbaiyán"
+  },
+  {
+    "countryCd": "032",
+    "labelEn": "Argentina",
+    "labelFr": "Argentine",
+    "labelEs": "Argentina"
+  },
+  {
+    "countryCd": "036",
+    "labelEn": "Australia",
+    "labelFr": "Australie",
+    "labelEs": "Australia"
+  },
+  {
+    "countryCd": "040",
+    "labelEn": "Austria",
+    "labelFr": "Autriche",
+    "labelEs": "Austria"
+  },
+  {
+    "countryCd": "044",
+    "labelEn": "Bahamas",
+    "labelFr": "Bahamas",
+    "labelEs": "Bahamas"
+  },
+  {
+    "countryCd": "048",
+    "labelEn": "Bahrain",
+    "labelFr": "Bahreïn",
+    "labelEs": "Bahrein"
+  },
+  {
+    "countryCd": "050",
+    "labelEn": "Bangladesh",
+    "labelFr": "Bangladesh",
+    "labelEs": "Bangladesh"
+  },
+  {
+    "countryCd": "051",
+    "labelEn": "Armenia",
+    "labelFr": "Arménie",
+    "labelEs": "Armenia"
+  },
+  {
+    "countryCd": "052",
+    "labelEn": "Barbados",
+    "labelFr": "Barbade",
+    "labelEs": "Barbados"
+  },
+  {
+    "countryCd": "056",
+    "labelEn": "Belgium",
+    "labelFr": "Belgique",
+    "labelEs": "Bélgica"
+  },
+  {
+    "countryCd": "060",
+    "labelEn": "Bermuda",
+    "labelFr": "Bermudes",
+    "labelEs": "Bermudas"
+  },
+  {
+    "countryCd": "064",
+    "labelEn": "Bhutan",
+    "labelFr": "Bhoutan",
+    "labelEs": "Bhután"
+  },
+  {
+    "countryCd": "068",
+    "labelEn": "Bolivia, Plurinational State of",
+    "labelFr": "Bolivie, Etat Plurinational de",
+    "labelEs": "Bolivia, Estado Plurinacional de"
+  },
+  {
+    "countryCd": "070",
+    "labelEn": "Bosnia and Herzegovina",
+    "labelFr": "Bosnie-Herzégovine",
+    "labelEs": "Bosnia y Herzegovina"
+  },
+  {
+    "countryCd": "072",
+    "labelEn": "Botswana",
+    "labelFr": "Botswana",
+    "labelEs": "Botsuana"
+  },
+  {
+    "countryCd": "074",
+    "labelEn": "Bouvet Island",
+    "labelFr": "Île Bouvet",
+    "labelEs": "Bouvet Island"
+  },
+  {
+    "countryCd": "076",
+    "labelEn": "Brazil",
+    "labelFr": "Brésil",
+    "labelEs": "Brasil"
+  },
+  {
+    "countryCd": "080",
+    "labelEn": "British Antarctic Territory",
+    "labelFr": "Territoire antarctique britannique",
+    "labelEs": "Territorio Antártico Británico"
+  },
+  {
+    "countryCd": "084",
+    "labelEn": "Belize",
+    "labelFr": "Belize",
+    "labelEs": "Belice"
+  },
+  {
+    "countryCd": "086",
+    "labelEn": "British Indian Ocean Territory",
+    "labelFr": "Territoire britannique de l'Océan Indien",
+    "labelEs": "Territorio Británico del Océano Índico"
+  },
+  {
+    "countryCd": "090",
+    "labelEn": "Solomon Islands",
+    "labelFr": "Iles Salomon",
+    "labelEs": "Islas Salomon"
+  },
+  {
+    "countryCd": "092",
+    "labelEn": "British Virgin Islands",
+    "labelFr": "Îles Vierges britanniques",
+    "labelEs": "Islas Vírgenes Británicas"
+  },
+  {
+    "countryCd": "096",
+    "labelEn": "Brunei Darussalam",
+    "labelFr": "Brunéi Darussalam",
+    "labelEs": "Brunei Darussalam"
+  },
+  {
+    "countryCd": "100",
+    "labelEn": "Bulgaria",
+    "labelFr": "Bulgarie",
+    "labelEs": "Bulgaria"
+  },
+  {
+    "countryCd": "104",
+    "labelEn": "Myanmar",
+    "labelFr": "Myanmar",
+    "labelEs": "Myanmar"
+  },
+  {
+    "countryCd": "108",
+    "labelEn": "Burundi",
+    "labelFr": "Burundi",
+    "labelEs": "Burundi"
+  },
+  {
+    "countryCd": "112",
+    "labelEn": "Belarus",
+    "labelFr": "Bélarus",
+    "labelEs": "Belarús"
+  },
+  {
+    "countryCd": "116",
+    "labelEn": "Cambodia",
+    "labelFr": "Cambodge",
+    "labelEs": "Camboya"
+  },
+  {
+    "countryCd": "120",
+    "labelEn": "Cameroon",
+    "labelFr": "Cameroun",
+    "labelEs": "Camerún"
+  },
+  {
+    "countryCd": "124",
+    "labelEn": "Canada",
+    "labelFr": "Canada",
+    "labelEs": "Canadá"
+  },
+  {
+    "countryCd": "129",
+    "labelEn": "Caribbean Nes",
+    "labelFr": "Caraïbes Nda",
+    "labelEs": "Caribe Nep"
+  },
+  {
+    "countryCd": "132",
+    "labelEn": "Cabo Verde",
+    "labelFr": "Cabo Verde",
+    "labelEs": "Cabo Verde"
+  },
+  {
+    "countryCd": "136",
+    "labelEn": "Cayman Islands",
+    "labelFr": "Îles Caïmans",
+    "labelEs": "Islas Caimanes"
+  },
+  {
+    "countryCd": "140",
+    "labelEn": "Central African Republic",
+    "labelFr": "République centrafricaine",
+    "labelEs": "República Centroafricana"
+  },
+  {
+    "countryCd": "144",
+    "labelEn": "Sri Lanka",
+    "labelFr": "Sri Lanka",
+    "labelEs": "Sri Lanka"
+  },
+  {
+    "countryCd": "148",
+    "labelEn": "Chad",
+    "labelFr": "Tchad",
+    "labelEs": "Chad"
+  },
+  {
+    "countryCd": "152",
+    "labelEn": "Chile",
+    "labelFr": "Chili",
+    "labelEs": "Chile"
+  },
+  {
+    "countryCd": "156",
+    "labelEn": "China",
+    "labelFr": "Chine",
+    "labelEs": "China"
+  },
+  {
+    "countryCd": "162",
+    "labelEn": "Christmas Island",
+    "labelFr": "Île Christmas",
+    "labelEs": "Isla de Navidad"
+  },
+  {
+    "countryCd": "166",
+    "labelEn": "Cocos (Keeling) Islands",
+    "labelFr": "Îles Cocos (Keeling)",
+    "labelEs": "Islas Cocos (Keeling)"
+  },
+  {
+    "countryCd": "170",
+    "labelEn": "Colombia",
+    "labelFr": "Colombie",
+    "labelEs": "Colombia"
+  },
+  {
+    "countryCd": "174",
+    "labelEn": "Comoros",
+    "labelFr": "Comores",
+    "labelEs": "Comoras"
+  },
+  {
+    "countryCd": "175",
+    "labelEn": "Mayotte",
+    "labelFr": "Mayotte",
+    "labelEs": "Mayotte"
+  },
+  {
+    "countryCd": "178",
+    "labelEn": "Congo",
+    "labelFr": "Congo",
+    "labelEs": "Congo"
+  },
+  {
+    "countryCd": "180",
+    "labelEn": "Congo, Democratic Republic of the",
+    "labelFr": "Congo, République démocratique du",
+    "labelEs": "Congo, República Democrática del"
+  },
+  {
+    "countryCd": "184",
+    "labelEn": "Cook Islands",
+    "labelFr": "Îles Cook",
+    "labelEs": "Islas Cook"
+  },
+  {
+    "countryCd": "188",
+    "labelEn": "Costa Rica",
+    "labelFr": "Costa Rica",
+    "labelEs": "Costa Rica"
+  },
+  {
+    "countryCd": "191",
+    "labelEn": "Croatia",
+    "labelFr": "Croatie",
+    "labelEs": "Croacia"
+  },
+  {
+    "countryCd": "192",
+    "labelEn": "Cuba",
+    "labelFr": "Cuba",
+    "labelEs": "Cuba"
+  },
+  {
+    "countryCd": "196",
+    "labelEn": "Cyprus",
+    "labelFr": "Chypre",
+    "labelEs": "Chipre"
+  },
+  {
+    "countryCd": "203",
+    "labelEn": "Czech Republic",
+    "labelFr": "République tchèque",
+    "labelEs": "República Checa"
+  },
+  {
+    "countryCd": "204",
+    "labelEn": "Benin",
+    "labelFr": "Bénin",
+    "labelEs": "Benin"
+  },
+  {
+    "countryCd": "208",
+    "labelEn": "Denmark",
+    "labelFr": "Danemark",
+    "labelEs": "Dinamarca"
+  },
+  {
+    "countryCd": "212",
+    "labelEn": "Dominica",
+    "labelFr": "Dominique",
+    "labelEs": "Dominica"
+  },
+  {
+    "countryCd": "214",
+    "labelEn": "Dominican Republic",
+    "labelFr": "République dominicaine",
+    "labelEs": "República Dominicana"
+  },
+  {
+    "countryCd": "218",
+    "labelEn": "Ecuador",
+    "labelFr": "Equateur",
+    "labelEs": "Ecuador"
+  },
+  {
+    "countryCd": "221",
+    "labelEn": "East Europe not elsewhere specified",
+    "labelFr": "Europe de l'Est non définie ailleurs",
+    "labelEs": "Otros Europa del Este"
+  },
+  {
+    "countryCd": "222",
+    "labelEn": "El Salvador",
+    "labelFr": "Le Salvador",
+    "labelEs": "El Salvador"
+  },
+  {
+    "countryCd": "226",
+    "labelEn": "Equatorial Guinea",
+    "labelFr": "Guinée équatoriale",
+    "labelEs": "Guinea Ecuatorial"
+  },
+  {
+    "countryCd": "231",
+    "labelEn": "Ethiopia",
+    "labelFr": "Ethiopie",
+    "labelEs": "Etiopía"
+  },
+  {
+    "countryCd": "232",
+    "labelEn": "Eritrea",
+    "labelFr": "Erythrée",
+    "labelEs": "Eritrea"
+  },
+  {
+    "countryCd": "233",
+    "labelEn": "Estonia",
+    "labelFr": "Estonie",
+    "labelEs": "Estonia"
+  },
+  {
+    "countryCd": "234",
+    "labelEn": "Faroe Islands",
+    "labelFr": "Îles Féroé",
+    "labelEs": "Islas Feroe"
+  },
+  {
+    "countryCd": "238",
+    "labelEn": "Falkland Islands (Malvinas)",
+    "labelFr": "Îles (Malvinas) Falkland",
+    "labelEs": "Islas (Malvinas) Falkland"
+  },
+  {
+    "countryCd": "242",
+    "labelEn": "Fiji",
+    "labelFr": "Fidji",
+    "labelEs": "Fiji"
+  },
+  {
+    "countryCd": "246",
+    "labelEn": "Finland",
+    "labelFr": "Finlande",
+    "labelEs": "Finlandia"
+  },
+  {
+    "countryCd": "251",
+    "labelEn": "France",
+    "labelFr": "France",
+    "labelEs": "Francia"
+  },
+  {
+    "countryCd": "258",
+    "labelEn": "French Polynesia",
+    "labelFr": "Polynésie française",
+    "labelEs": "Polinesia Francesa"
+  },
+  {
+    "countryCd": "260",
+    "labelEn": "French Southern and Antarctic Territories",
+    "labelFr": "Terres australes et antarctiques françaises",
+    "labelEs": "Tierras Australes y Antárticas Francesas"
+  },
+  {
+    "countryCd": "262",
+    "labelEn": "Djibouti",
+    "labelFr": "Djibouti",
+    "labelEs": "Djibouti"
+  },
+  {
+    "countryCd": "266",
+    "labelEn": "Gabon",
+    "labelFr": "Gabon",
+    "labelEs": "Gabón"
+  },
+  {
+    "countryCd": "268",
+    "labelEn": "Georgia",
+    "labelFr": "Géorgie",
+    "labelEs": "Georgia"
+  },
+  {
+    "countryCd": "270",
+    "labelEn": "Gambia",
+    "labelFr": "Gambie",
+    "labelEs": "Gambia"
+  },
+  {
+    "countryCd": "275",
+    "labelEn": "Palestine, State of",
+    "labelFr": "Palestine, Etat de",
+    "labelEs": "Palestina, Estado de"
+  },
+  {
+    "countryCd": "276",
+    "labelEn": "Germany",
+    "labelFr": "Allemagne",
+    "labelEs": "Alemania"
+  },
+  {
+    "countryCd": "288",
+    "labelEn": "Ghana",
+    "labelFr": "Ghana",
+    "labelEs": "Ghana"
+  },
+  {
+    "countryCd": "290",
+    "labelEn": "North Africa not elsewhere specified",
+    "labelFr": "Afr. N. non définie ailleurs",
+    "labelEs": "Otros Africa del Norte"
+  },
+  {
+    "countryCd": "292",
+    "labelEn": "Gibraltar",
+    "labelFr": "Gibraltar",
+    "labelEs": "Gibraltar"
+  },
+  {
+    "countryCd": "296",
+    "labelEn": "Kiribati",
+    "labelFr": "Kiribati",
+    "labelEs": "Kiribati"
+  },
+  {
+    "countryCd": "300",
+    "labelEn": "Greece",
+    "labelFr": "Grèce",
+    "labelEs": "Grecia"
+  },
+  {
+    "countryCd": "304",
+    "labelEn": "Greenland",
+    "labelFr": "Groenland",
+    "labelEs": "Groenlandia"
+  },
+  {
+    "countryCd": "308",
+    "labelEn": "Grenada",
+    "labelFr": "Grenade",
+    "labelEs": "Granada"
+  },
+  {
+    "countryCd": "316",
+    "labelEn": "Guam",
+    "labelFr": "Guam",
+    "labelEs": "Guam"
+  },
+  {
+    "countryCd": "320",
+    "labelEn": "Guatemala",
+    "labelFr": "Guatemala",
+    "labelEs": "Guatemala"
+  },
+  {
+    "countryCd": "324",
+    "labelEn": "Guinea",
+    "labelFr": "Guinée",
+    "labelEs": "Guinea"
+  },
+  {
+    "countryCd": "328",
+    "labelEn": "Guyana",
+    "labelFr": "Guyana",
+    "labelEs": "Guyana"
+  },
+  {
+    "countryCd": "332",
+    "labelEn": "Haiti",
+    "labelFr": "Haïti",
+    "labelEs": "Haití"
+  },
+  {
+    "countryCd": "340",
+    "labelEn": "Honduras",
+    "labelFr": "Honduras",
+    "labelEs": "Honduras"
+  },
+  {
+    "countryCd": "344",
+    "labelEn": "Hong Kong, China",
+    "labelFr": "Hong Kong, Chine",
+    "labelEs": "Hong Kong, China"
+  },
+  {
+    "countryCd": "348",
+    "labelEn": "Hungary",
+    "labelFr": "Hongrie",
+    "labelEs": "Hungría"
+  },
+  {
+    "countryCd": "352",
+    "labelEn": "Iceland",
+    "labelFr": "Islande",
+    "labelEs": "Islandia"
+  },
+  {
+    "countryCd": "360",
+    "labelEn": "Indonesia",
+    "labelFr": "Indonésie",
+    "labelEs": "Indonesia"
+  },
+  {
+    "countryCd": "364",
+    "labelEn": "Iran, Islamic Republic of",
+    "labelFr": "Iran, République islamique d'",
+    "labelEs": "Irán, República Islámica del"
+  },
+  {
+    "countryCd": "368",
+    "labelEn": "Iraq",
+    "labelFr": "Iraq",
+    "labelEs": "Iraq"
+  },
+  {
+    "countryCd": "372",
+    "labelEn": "Ireland",
+    "labelFr": "Irlande",
+    "labelEs": "Irlanda"
+  },
+  {
+    "countryCd": "376",
+    "labelEn": "Israel",
+    "labelFr": "Israël",
+    "labelEs": "Israel"
+  },
+  {
+    "countryCd": "381",
+    "labelEn": "Italy",
+    "labelFr": "Italie",
+    "labelEs": "Italia"
+  },
+  {
+    "countryCd": "384",
+    "labelEn": "Côte d'Ivoire",
+    "labelFr": "Côte d'Ivoire",
+    "labelEs": "Côte d'Ivoire"
+  },
+  {
+    "countryCd": "388",
+    "labelEn": "Jamaica",
+    "labelFr": "Jamaïque",
+    "labelEs": "Jamaica"
+  },
+  {
+    "countryCd": "392",
+    "labelEn": "Japan",
+    "labelFr": "Japon",
+    "labelEs": "Japón"
+  },
+  {
+    "countryCd": "398",
+    "labelEn": "Kazakhstan",
+    "labelFr": "Kazakhstan",
+    "labelEs": "Kazajstán"
+  },
+  {
+    "countryCd": "400",
+    "labelEn": "Jordan",
+    "labelFr": "Jordanie",
+    "labelEs": "Jordania"
+  },
+  {
+    "countryCd": "404",
+    "labelEn": "Kenya",
+    "labelFr": "Kenya",
+    "labelEs": "Kenya"
+  },
+  {
+    "countryCd": "408",
+    "labelEn": "Korea, Democratic People's Republic of",
+    "labelFr": "Corée, République Populaire Démocratique de",
+    "labelEs": "Corea, República Popular Democrática de"
+  },
+  {
+    "countryCd": "410",
+    "labelEn": "Korea, Republic of",
+    "labelFr": "Corée, République de",
+    "labelEs": "Corea, República de"
+  },
+  {
+    "countryCd": "414",
+    "labelEn": "Kuwait",
+    "labelFr": "Koweït",
+    "labelEs": "Kuwait"
+  },
+  {
+    "countryCd": "417",
+    "labelEn": "Kyrgyzstan",
+    "labelFr": "Kirghizistan",
+    "labelEs": "Kirguistán"
+  },
+  {
+    "countryCd": "418",
+    "labelEn": "Lao People's Democratic Republic",
+    "labelFr": "Lao, République démocratique populaire",
+    "labelEs": "Lao, República Democrática Popular"
+  },
+  {
+    "countryCd": "422",
+    "labelEn": "Lebanon",
+    "labelFr": "Liban",
+    "labelEs": "Líbano"
+  },
+  {
+    "countryCd": "426",
+    "labelEn": "Lesotho",
+    "labelFr": "Lésotho",
+    "labelEs": "Lesoto"
+  },
+  {
+    "countryCd": "428",
+    "labelEn": "Latvia",
+    "labelFr": "Lettonie",
+    "labelEs": "Letonia"
+  },
+  {
+    "countryCd": "430",
+    "labelEn": "Liberia",
+    "labelFr": "Libéria",
+    "labelEs": "Liberia"
+  },
+  {
+    "countryCd": "434",
+    "labelEn": "Libya, State of",
+    "labelFr": "Libye, Etat de",
+    "labelEs": "Libia Estado de"
+  },
+  {
+    "countryCd": "440",
+    "labelEn": "Lithuania",
+    "labelFr": "Lituanie",
+    "labelEs": "Lituania"
+  },
+  {
+    "countryCd": "442",
+    "labelEn": "Luxembourg",
+    "labelFr": "Luxembourg",
+    "labelEs": "Luxemburgo"
+  },
+  {
+    "countryCd": "446",
+    "labelEn": "Macao, China",
+    "labelFr": "Macao, Chine",
+    "labelEs": "Macao, China"
+  },
+  {
+    "countryCd": "450",
+    "labelEn": "Madagascar",
+    "labelFr": "Madagascar",
+    "labelEs": "Madagascar"
+  },
+  {
+    "countryCd": "454",
+    "labelEn": "Malawi",
+    "labelFr": "Malawi",
+    "labelEs": "Malawi"
+  },
+  {
+    "countryCd": "458",
+    "labelEn": "Malaysia",
+    "labelFr": "Malaisie",
+    "labelEs": "Malasia"
+  },
+  {
+    "countryCd": "462",
+    "labelEn": "Maldives",
+    "labelFr": "Maldives",
+    "labelEs": "Maldivas"
+  },
+  {
+    "countryCd": "466",
+    "labelEn": "Mali",
+    "labelFr": "Mali",
+    "labelEs": "Malí"
+  },
+  {
+    "countryCd": "470",
+    "labelEn": "Malta",
+    "labelFr": "Malte",
+    "labelEs": "Malta"
+  },
+  {
+    "countryCd": "471",
+    "labelEn": "Centr.Amer.Com.Market (CACM) Nes",
+    "labelFr": "Amér. Centrale non définie ailleurs",
+    "labelEs": "Otros Merca. Común Centroam."
+  },
+  {
+    "countryCd": "473",
+    "labelEn": "LAIA not elsewhere specified",
+    "labelFr": "AIAL non définie ailleurs",
+    "labelEs": "Otros AIAL"
+  },
+  {
+    "countryCd": "478",
+    "labelEn": "Mauritania",
+    "labelFr": "Mauritanie",
+    "labelEs": "Mauritania"
+  },
+  {
+    "countryCd": "480",
+    "labelEn": "Mauritius",
+    "labelFr": "Maurice",
+    "labelEs": "Mauricio"
+  },
+  {
+    "countryCd": "484",
+    "labelEn": "Mexico",
+    "labelFr": "Mexique",
+    "labelEs": "México"
+  },
+  {
+    "countryCd": "490",
+    "labelEn": "Chinese Taipei",
+    "labelFr": "Taipei Chinois",
+    "labelEs": "Taipei Chino"
+  },
+  {
+    "countryCd": "492",
+    "labelEn": "European Union Nes",
+    "labelFr": "Union européenne non définie ailleurs",
+    "labelEs": "Unión Europea Nep"
+  },
+  {
+    "countryCd": "496",
+    "labelEn": "Mongolia",
+    "labelFr": "Mongolie",
+    "labelEs": "Mongolia"
+  },
+  {
+    "countryCd": "498",
+    "labelEn": "Moldova, Republic of",
+    "labelFr": "Moldavie, République de",
+    "labelEs": "Moldova, República de"
+  },
+  {
+    "countryCd": "499",
+    "labelEn": "Montenegro",
+    "labelFr": "Monténégro",
+    "labelEs": "Montenegro"
+  },
+  {
+    "countryCd": "500",
+    "labelEn": "Montserrat",
+    "labelFr": "Montserrat",
+    "labelEs": "Montserrat"
+  },
+  {
+    "countryCd": "504",
+    "labelEn": "Morocco",
+    "labelFr": "Maroc",
+    "labelEs": "Marruecos"
+  },
+  {
+    "countryCd": "508",
+    "labelEn": "Mozambique",
+    "labelFr": "Mozambique",
+    "labelEs": "Mozambique"
+  },
+  {
+    "countryCd": "512",
+    "labelEn": "Oman",
+    "labelFr": "Oman",
+    "labelEs": "Omán"
+  },
+  {
+    "countryCd": "516",
+    "labelEn": "Namibia",
+    "labelFr": "Namibie",
+    "labelEs": "Namibia"
+  },
+  {
+    "countryCd": "520",
+    "labelEn": "Nauru",
+    "labelFr": "Nauru",
+    "labelEs": "Nauru"
+  },
+  {
+    "countryCd": "524",
+    "labelEn": "Nepal",
+    "labelFr": "Népal",
+    "labelEs": "Nepal"
+  },
+  {
+    "countryCd": "527",
+    "labelEn": "Oceania Nes",
+    "labelFr": "Oceanie non définie ailleurs",
+    "labelEs": "Oceania Nep"
+  },
+  {
+    "countryCd": "528",
+    "labelEn": "Netherlands",
+    "labelFr": "Pays-Bas",
+    "labelEs": "Países Bajos"
+  },
+  {
+    "countryCd": "530",
+    "labelEn": "Netherlands Antilles",
+    "labelFr": "Antilles néerlandaises",
+    "labelEs": "Antillas Holandesas"
+  },
+  {
+    "countryCd": "531",
+    "labelEn": "Curaçao",
+    "labelFr": "Curaçao",
+    "labelEs": "Curaçao"
+  },
+  {
+    "countryCd": "533",
+    "labelEn": "Aruba",
+    "labelFr": "Aruba",
+    "labelEs": "Aruba"
+  },
+  {
+    "countryCd": "534",
+    "labelEn": "Sint Maarten (Dutch part)",
+    "labelFr": "Saint-Martin (partie Néerlandaise)",
+    "labelEs": "San Martin (parte Holandesa)"
+  },
+  {
+    "countryCd": "535",
+    "labelEn": "Bonaire, Sint Eustatius and Saba",
+    "labelFr": "Bonaire, Saint-Eustache et Saba",
+    "labelEs": "Bonaire, San Estaquio y Saba"
+  },
+  {
+    "countryCd": "536",
+    "labelEn": "Neutral Zone",
+    "labelFr": "Zone neutre",
+    "labelEs": "Zona Neutral"
+  },
+  {
+    "countryCd": "540",
+    "labelEn": "New Caledonia",
+    "labelFr": "Nouvelle-Calédonie",
+    "labelEs": "Nueva Caledonia"
+  },
+  {
+    "countryCd": "548",
+    "labelEn": "Vanuatu",
+    "labelFr": "Vanuatu",
+    "labelEs": "Vanuatu"
+  },
+  {
+    "countryCd": "554",
+    "labelEn": "New Zealand",
+    "labelFr": "Nouvelle-Zélande",
+    "labelEs": "Nueva Zelandia"
+  },
+  {
+    "countryCd": "558",
+    "labelEn": "Nicaragua",
+    "labelFr": "Nicaragua",
+    "labelEs": "Nicaragua"
+  },
+  {
+    "countryCd": "562",
+    "labelEn": "Niger",
+    "labelFr": "Niger",
+    "labelEs": "Níger"
+  },
+  {
+    "countryCd": "566",
+    "labelEn": "Nigeria",
+    "labelFr": "Nigéria",
+    "labelEs": "Nigeria"
+  },
+  {
+    "countryCd": "568",
+    "labelEn": "Europe Othr. Nes",
+    "labelFr": "Europe Autre non définie ailleurs",
+    "labelEs": "Eur. Otros Nep"
+  },
+  {
+    "countryCd": "570",
+    "labelEn": "Niue",
+    "labelFr": "Nioué",
+    "labelEs": "Niué"
+  },
+  {
+    "countryCd": "574",
+    "labelEn": "Norfolk Island",
+    "labelFr": "Île Norfolk",
+    "labelEs": "Isla Norfolk"
+  },
+  {
+    "countryCd": "577",
+    "labelEn": "Africa not elsewhere specified",
+    "labelFr": "Afrique non définie ailleurs",
+    "labelEs": "Otros Africa"
+  },
+  {
+    "countryCd": "579",
+    "labelEn": "Norway",
+    "labelFr": "Norvège",
+    "labelEs": "Noruega"
+  },
+  {
+    "countryCd": "580",
+    "labelEn": "Northern Mariana Islands",
+    "labelFr": "Îles Mariannes du Nord",
+    "labelEs": "Islas Marianas del Norte"
+  },
+  {
+    "countryCd": "583",
+    "labelEn": "Micronesia, Federated States of",
+    "labelFr": "Micronésie, Etats fédérés de",
+    "labelEs": "Micronesia, Estados Federados de"
+  },
+  {
+    "countryCd": "584",
+    "labelEn": "Marshall Islands",
+    "labelFr": "Îles Marshall",
+    "labelEs": "Islas Marshall"
+  },
+  {
+    "countryCd": "585",
+    "labelEn": "Palau",
+    "labelFr": "Palaos",
+    "labelEs": "Palau"
+  },
+  {
+    "countryCd": "586",
+    "labelEn": "Pakistan",
+    "labelFr": "Pakistan",
+    "labelEs": "Pakistán"
+  },
+  {
+    "countryCd": "591",
+    "labelEn": "Panama",
+    "labelFr": "Panama",
+    "labelEs": "Panamá"
+  },
+  {
+    "countryCd": "598",
+    "labelEn": "Papua New Guinea",
+    "labelFr": "Papouasie-Nouvelle-Guinée",
+    "labelEs": "Papua Nueva Guinea"
+  },
+  {
+    "countryCd": "600",
+    "labelEn": "Paraguay",
+    "labelFr": "Paraguay",
+    "labelEs": "Paraguay"
+  },
+  {
+    "countryCd": "604",
+    "labelEn": "Peru",
+    "labelFr": "Pérou",
+    "labelEs": "Perú"
+  },
+  {
+    "countryCd": "608",
+    "labelEn": "Philippines",
+    "labelFr": "Philippines",
+    "labelEs": "Filipinas"
+  },
+  {
+    "countryCd": "612",
+    "labelEn": "Pitcairn",
+    "labelFr": "Pitcairn",
+    "labelEs": "Pitcairn"
+  },
+  {
+    "countryCd": "616",
+    "labelEn": "Poland",
+    "labelFr": "Pologne",
+    "labelEs": "Polonia"
+  },
+  {
+    "countryCd": "620",
+    "labelEn": "Portugal",
+    "labelFr": "Portugal",
+    "labelEs": "Portugal"
+  },
+  {
+    "countryCd": "624",
+    "labelEn": "Guinea-Bissau",
+    "labelFr": "Guinée-Bissau",
+    "labelEs": "Guinea-Bissau"
+  },
+  {
+    "countryCd": "626",
+    "labelEn": "Timor-Leste",
+    "labelFr": "Timor-Leste",
+    "labelEs": "Timor-Leste"
+  },
+  {
+    "countryCd": "634",
+    "labelEn": "Qatar",
+    "labelFr": "Qatar",
+    "labelEs": "Qatar"
+  },
+  {
+    "countryCd": "636",
+    "labelEn": "America not elsewhere specified",
+    "labelFr": "Amérique non définie ailleurs",
+    "labelEs": "Otros America"
+  },
+  {
+    "countryCd": "637",
+    "labelEn": "North America and Central America, nes",
+    "labelFr": "Amérique du nord et centrale, non définie ailleurs",
+    "labelEs": "North America and Central America, nes"
+  },
+  {
+    "countryCd": "642",
+    "labelEn": "Romania",
+    "labelFr": "Roumanie",
+    "labelEs": "Rumania"
+  },
+  {
+    "countryCd": "643",
+    "labelEn": "Russian Federation",
+    "labelFr": "Russie, Fédération de",
+    "labelEs": "Rusia, Federación de"
+  },
+  {
+    "countryCd": "646",
+    "labelEn": "Rwanda",
+    "labelFr": "Rwanda",
+    "labelEs": "Ruanda"
+  },
+  {
+    "countryCd": "654",
+    "labelEn": "Saint Helena",
+    "labelFr": "Sainte-Hélène",
+    "labelEs": "Santa Helena"
+  },
+  {
+    "countryCd": "659",
+    "labelEn": "Saint Kitts and Nevis",
+    "labelFr": "Saint-Kitts-et-Nevis",
+    "labelEs": "Saint Kitts y Nevis"
+  },
+  {
+    "countryCd": "660",
+    "labelEn": "Anguilla",
+    "labelFr": "Anguilla",
+    "labelEs": "Anguila"
+  },
+  {
+    "countryCd": "662",
+    "labelEn": "Saint Lucia",
+    "labelFr": "Sainte-Lucie",
+    "labelEs": "Santa Lucía"
+  },
+  {
+    "countryCd": "666",
+    "labelEn": "Saint Pierre and Miquelon",
+    "labelFr": "Saint-Pierre-et-Miquelon",
+    "labelEs": "San Pedro y Miquelón"
+  },
+  {
+    "countryCd": "670",
+    "labelEn": "Saint Vincent and the Grenadines",
+    "labelFr": "Saint-Vincent-et-les Grenadines",
+    "labelEs": "San Vicente y las Granadinas"
+  },
+  {
+    "countryCd": "678",
+    "labelEn": "Sao Tome and Principe",
+    "labelFr": "Sao Tomé-et-Principe",
+    "labelEs": "Sao Tomé y Príncipe"
+  },
+  {
+    "countryCd": "682",
+    "labelEn": "Saudi Arabia",
+    "labelFr": "Arabie saoudite",
+    "labelEs": "Arabia Saudita"
+  },
+  {
+    "countryCd": "686",
+    "labelEn": "Senegal",
+    "labelFr": "Sénégal",
+    "labelEs": "Senegal"
+  },
+  {
+    "countryCd": "688",
+    "labelEn": "Serbia",
+    "labelFr": "Serbie",
+    "labelEs": "Serbia"
+  },
+  {
+    "countryCd": "690",
+    "labelEn": "Seychelles",
+    "labelFr": "Seychelles",
+    "labelEs": "Seychelles"
+  },
+  {
+    "countryCd": "694",
+    "labelEn": "Sierra Leone",
+    "labelFr": "Sierra Leone",
+    "labelEs": "Sierra Leona"
+  },
+  {
+    "countryCd": "697",
+    "labelEn": "Europe EFTA not elsewhere specified",
+    "labelFr": "Europe AELE non définie ailleurs",
+    "labelEs": "Otros Europa AELI"
+  },
+  {
+    "countryCd": "699",
+    "labelEn": "India",
+    "labelFr": "Inde",
+    "labelEs": "India"
+  },
+  {
+    "countryCd": "702",
+    "labelEn": "Singapore",
+    "labelFr": "Singapour",
+    "labelEs": "Singapur"
+  },
+  {
+    "countryCd": "703",
+    "labelEn": "Slovakia",
+    "labelFr": "Slovaquie",
+    "labelEs": "Eslovaquia"
+  },
+  {
+    "countryCd": "704",
+    "labelEn": "Viet Nam",
+    "labelFr": "Viet Nam",
+    "labelEs": "Viet Nam"
+  },
+  {
+    "countryCd": "705",
+    "labelEn": "Slovenia",
+    "labelFr": "Slovénie",
+    "labelEs": "Eslovenia"
+  },
+  {
+    "countryCd": "706",
+    "labelEn": "Somalia",
+    "labelFr": "Somalie",
+    "labelEs": "Somalia"
+  },
+  {
+    "countryCd": "710",
+    "labelEn": "South Africa",
+    "labelFr": "Afrique du Sud",
+    "labelEs": "Sudáfrica"
+  },
+  {
+    "countryCd": "716",
+    "labelEn": "Zimbabwe",
+    "labelFr": "Zimbabwe",
+    "labelEs": "Zimbabwe"
+  },
+  {
+    "countryCd": "724",
+    "labelEn": "Spain",
+    "labelFr": "Espagne",
+    "labelEs": "España"
+  },
+  {
+    "countryCd": "728",
+    "labelEn": "South Sudan",
+    "labelFr": "Soudan du Sud",
+    "labelEs": "Sudán del Sur"
+  },
+  {
+    "countryCd": "729",
+    "labelEn": "Sudan",
+    "labelFr": "Soudan",
+    "labelEs": "Sudán"
+  },
+  {
+    "countryCd": "732",
+    "labelEn": "Western Sahara",
+    "labelFr": "Sahara occidental",
+    "labelEs": "Sahara occidental"
+  },
+  {
+    "countryCd": "736",
+    "labelEn": "Sudan (before 2012)",
+    "labelFr": "Soudan (avant 2012)",
+    "labelEs": "Sudán (antes de 2012)"
+  },
+  {
+    "countryCd": "740",
+    "labelEn": "Suriname",
+    "labelFr": "Suriname",
+    "labelEs": "Suriname"
+  },
+  {
+    "countryCd": "748",
+    "labelEn": "Eswatini",
+    "labelFr": "Eswatini",
+    "labelEs": "Eswatini"
+  },
+  {
+    "countryCd": "752",
+    "labelEn": "Sweden",
+    "labelFr": "Suède",
+    "labelEs": "Suecia"
+  },
+  {
+    "countryCd": "757",
+    "labelEn": "Switzerland",
+    "labelFr": "Suisse",
+    "labelEs": "Suiza"
+  },
+  {
+    "countryCd": "760",
+    "labelEn": "Syrian Arab Republic",
+    "labelFr": "République arabe syrienne",
+    "labelEs": "República Árabe Siria"
+  },
+  {
+    "countryCd": "762",
+    "labelEn": "Tajikistan",
+    "labelFr": "Tadjikistan",
+    "labelEs": "Tayikistán"
+  },
+  {
+    "countryCd": "764",
+    "labelEn": "Thailand",
+    "labelFr": "Thaïlande",
+    "labelEs": "Tailandia"
+  },
+  {
+    "countryCd": "768",
+    "labelEn": "Togo",
+    "labelFr": "Togo",
+    "labelEs": "Togo"
+  },
+  {
+    "countryCd": "772",
+    "labelEn": "Tokelau",
+    "labelFr": "Tokelau",
+    "labelEs": "Tokelau"
+  },
+  {
+    "countryCd": "776",
+    "labelEn": "Tonga",
+    "labelFr": "Tonga",
+    "labelEs": "Tonga"
+  },
+  {
+    "countryCd": "780",
+    "labelEn": "Trinidad and Tobago",
+    "labelFr": "Trinité-et-Tobago",
+    "labelEs": "Trinidad y Tobago"
+  },
+  {
+    "countryCd": "784",
+    "labelEn": "United Arab Emirates",
+    "labelFr": "Emirats arabes unis",
+    "labelEs": "Emiratos Árabes Unidos"
+  },
+  {
+    "countryCd": "788",
+    "labelEn": "Tunisia",
+    "labelFr": "Tunisie",
+    "labelEs": "Túnez"
+  },
+  {
+    "countryCd": "792",
+    "labelEn": "Türkiye",
+    "labelFr": "Türkiye",
+    "labelEs": "Türkiye"
+  },
+  {
+    "countryCd": "795",
+    "labelEn": "Turkmenistan",
+    "labelFr": "Turkménistan",
+    "labelEs": "Turkmenistán"
+  },
+  {
+    "countryCd": "796",
+    "labelEn": "Turks and Caicos Islands",
+    "labelFr": "Îles Turks et Caïques",
+    "labelEs": "Islas Turks y Caicos"
+  },
+  {
+    "countryCd": "798",
+    "labelEn": "Tuvalu",
+    "labelFr": "Tuvalu",
+    "labelEs": "Tuvalu"
+  },
+  {
+    "countryCd": "800",
+    "labelEn": "Uganda",
+    "labelFr": "Ouganda",
+    "labelEs": "Uganda"
+  },
+  {
+    "countryCd": "804",
+    "labelEn": "Ukraine",
+    "labelFr": "Ukraine",
+    "labelEs": "Ucrania"
+  },
+  {
+    "countryCd": "807",
+    "labelEn": "Macedonia, North",
+    "labelFr": "Macédoine du Nord",
+    "labelEs": "Macedonia del Norte"
+  },
+  {
+    "countryCd": "818",
+    "labelEn": "Egypt",
+    "labelFr": "Egypte",
+    "labelEs": "Egipto"
+  },
+  {
+    "countryCd": "826",
+    "labelEn": "United Kingdom",
+    "labelFr": "Royaume-Uni",
+    "labelEs": "Reino Unido"
+  },
+  {
+    "countryCd": "834",
+    "labelEn": "Tanzania, United Republic of",
+    "labelFr": "Tanzanie, République Unie de",
+    "labelEs": "Tanzanía, República Unida de"
+  },
+  {
+    "countryCd": "837",
+    "labelEn": "Ship stores and bunkers",
+    "labelFr": "Ship stores and bunkers",
+    "labelEs": "Rancho de naves y aeronaves"
+  },
+  {
+    "countryCd": "838",
+    "labelEn": "Free Zones",
+    "labelFr": "Zones franches",
+    "labelEs": "Zona franca"
+  },
+  {
+    "countryCd": "839",
+    "labelEn": "Special categories",
+    "labelFr": "Les catégories spéciales",
+    "labelEs": "Categoria especial"
+  },
+  {
+    "countryCd": "842",
+    "labelEn": "United States of America",
+    "labelFr": "Etats-Unis d'Amérique",
+    "labelEs": "Estados Unidos de América"
+  },
+  {
+    "countryCd": "849",
+    "labelEn": "United States Minor Outlying Islands",
+    "labelFr": "Îles mineures éloignées des Etats-Unis",
+    "labelEs": "Estados Unidos Minor periferico Islas"
+  },
+  {
+    "countryCd": "854",
+    "labelEn": "Burkina Faso",
+    "labelFr": "Burkina Faso",
+    "labelEs": "Burkina Faso"
+  },
+  {
+    "countryCd": "858",
+    "labelEn": "Uruguay",
+    "labelFr": "Uruguay",
+    "labelEs": "Uruguay"
+  },
+  {
+    "countryCd": "860",
+    "labelEn": "Uzbekistan",
+    "labelFr": "Ouzbékistan",
+    "labelEs": "Uzbekistán"
+  },
+  {
+    "countryCd": "862",
+    "labelEn": "Venezuela, Bolivarian Republic of",
+    "labelFr": "Venezuela, République bolivarienne du",
+    "labelEs": "Venezuela, República Bolivariana de"
+  },
+  {
+    "countryCd": "876",
+    "labelEn": "Wallis and Futuna Islands",
+    "labelFr": "Îles Wallis et Futuna",
+    "labelEs": "Islas Wallis y Fortuna"
+  },
+  {
+    "countryCd": "879",
+    "labelEn": "West Asia not elsewhere specified",
+    "labelFr": "Asie de l'ouest non définie ailleurs",
+    "labelEs": "Otros Asia del Oeste"
+  },
+  {
+    "countryCd": "882",
+    "labelEn": "Samoa",
+    "labelFr": "Samoa",
+    "labelEs": "Samoa"
+  },
+  {
+    "countryCd": "887",
+    "labelEn": "Yemen",
+    "labelFr": "Yémen",
+    "labelEs": "Yemen"
+  },
+  {
+    "countryCd": "891",
+    "labelEn": "Serbia and Montenegro",
+    "labelFr": "Serbie-et-Monténégro",
+    "labelEs": "Serbia y Montenegro"
+  },
+  {
+    "countryCd": "894",
+    "labelEn": "Zambia",
+    "labelFr": "Zambie",
+    "labelEs": "Zambia"
+  },
+  {
+    "countryCd": "899",
+    "labelEn": "Area Nes",
+    "labelFr": "Zones non définies ailleurs",
+    "labelEs": "Zona Nep"
+  },
+  {
+    "countryCd": "946",
+    "labelEn": "Asia not elsewhere specified",
+    "labelFr": "Asie non définie ailleurs",
+    "labelEs": "Otros Asia"
+  },
+  {
+    "countryCd": "999",
+    "labelEn": "Territory not allocated",
+    "labelFr": "Territoire non alloué",
+    "labelEs": "Territorio no definido"
+  }
+]

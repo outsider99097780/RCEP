@@ -1,0 +1,28 @@
+{
+  "item": {
+    "code": "702",
+    "name": "Singapore",
+    "parent": {
+      "code": "13",
+      "name": "Southeast Asia",
+      "color": "#dac20c",
+      "parent": {
+        "code": "3",
+        "name": "Asia",
+        "color": "#C0392B"
+      }
+    }
+  },
+  "value": 62440491.812,
+  "exportValue": 38670366.667,
+  "realizedPotential": 0.6193155362,
+  "lineLength": 687.92230163,
+  "bubbleSize": 61313337.058,
+  "lineWidth": 1.6893322929,
+  "tariff": 0,
+  "xik": 6250842700,
+  "mjk": 52456133.333,
+  "xij": 65836514333,
+  "gap": 0.3806844638,
+  "rank": 29
+}

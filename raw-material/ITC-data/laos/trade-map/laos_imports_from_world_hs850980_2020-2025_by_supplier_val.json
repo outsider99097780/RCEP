@@ -1,0 +1,295 @@
+{
+  "nbRecords": 6,
+  "page": 1,
+  "nbRecordPerPage": 500,
+  "nbPages": 1,
+  "records": [
+    {
+      "reporterCd": "418",
+      "partnerCd": "156",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 99,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 53,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 133,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 192,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "418",
+      "partnerCd": "348",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 15,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "418",
+      "partnerCd": "410",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "418",
+      "partnerCd": "704",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 9,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 34,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "418",
+      "partnerCd": "764",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 26,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 15,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 26,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "418",
+      "partnerCd": "899",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 10,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null
+        }
+      ]
+    }
+  ],
+  "aggregateRecords": [
+    {
+      "reporterCd": "418",
+      "partnerCd": "000",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 125,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 72,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 158,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 262,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 192,
+      "countryCd": "418",
+      "label": null,
+      "labelEn": "Lao Statistics Bureau",
+      "labelFr": "Lao Statistics Bureau",
+      "labelEs": "Lao Statistics Bureau",
+      "labelAr": "Lao Statistics Bureau",
+      "labelRu": "Lao Statistics Bureau",
+      "url": "https://www.lsb.gov.la/en/home/",
+      "startingDate": "2019"
+    },
+    {
+      "id": 1,
+      "countryCd": "418",
+      "label": null,
+      "labelEn": "UN COMTRADE",
+      "labelFr": "UN COMTRADE",
+      "labelEs": "UN COMTRADE",
+      "labelAr": "UN COMTRADE",
+      "labelRu": "UN COMTRADE",
+      "url": "http://comtrade.un.org",
+      "startingDate": "2022"
+    }
+  ]
+}

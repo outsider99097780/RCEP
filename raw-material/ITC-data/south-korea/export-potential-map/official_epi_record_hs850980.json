@@ -1,0 +1,28 @@
+{
+  "item": {
+    "code": "410",
+    "name": "Korea, Republic of",
+    "parent": {
+      "code": "4",
+      "name": "East Asia",
+      "color": "#3d8fc3",
+      "parent": {
+        "code": "3",
+        "name": "Asia",
+        "color": "#C0392B"
+      }
+    }
+  },
+  "value": 459297134.69,
+  "exportValue": 299156300,
+  "realizedPotential": 0.6513350017,
+  "lineLength": 687.92230163,
+  "bubbleSize": 397318063.98,
+  "lineWidth": 2.7470291737,
+  "tariff": 0,
+  "xik": 6250842700,
+  "mjk": 336798733.33,
+  "xij": 143920869867,
+  "gap": 0.3486649983,
+  "rank": 5
+}

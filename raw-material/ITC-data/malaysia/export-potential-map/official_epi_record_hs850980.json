@@ -1,0 +1,28 @@
+{
+  "item": {
+    "code": "458",
+    "name": "Malaysia",
+    "parent": {
+      "code": "13",
+      "name": "Southeast Asia",
+      "color": "#dac20c",
+      "parent": {
+        "code": "3",
+        "name": "Asia",
+        "color": "#C0392B"
+      }
+    }
+  },
+  "value": 63004636.178,
+  "exportValue": 47587533.333,
+  "realizedPotential": 0.7553020892,
+  "lineLength": 687.92230163,
+  "bubbleSize": 65237781.429,
+  "lineWidth": 2.19644119,
+  "tariff": 0,
+  "xik": 6250842700,
+  "mjk": 49693166.667,
+  "xij": 74404460400,
+  "gap": 0.24469791080000003,
+  "rank": 28
+}

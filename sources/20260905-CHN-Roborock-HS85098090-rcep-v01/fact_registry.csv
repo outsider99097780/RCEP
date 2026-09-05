@@ -1,0 +1,7 @@
+fact_id,fact,source_id,raw_file,citation_label
+F001,"ITC modeling product is HS6 850980, corresponding to the user-provided China Customs 85098090.00 input","HS-CORRESPONDENCE","raw-material/ITC-data/HS-CORRESPONDENCE.md","[ITC-HS-CORRESPONDENCE, accessed 2026-09-05]"
+F002,"Japan 2025 imports were USD 531,328 thousand and 2020-2025 CAGR was -3.5686%","TM-392-target_import_imports_by_supplier-VAL","raw-material/ITC-data/japan/derived/trade_indicators_2020-2025.csv","[ITC-TM-392, accessed 2026-09-05]"
+F003,"Korea 2025 imports were USD 307,301 thousand and 2020-2025 CAGR was 7.1221%","TM-410-target_import_imports_by_supplier-VAL","raw-material/ITC-data/south-korea/derived/trade_indicators_2020-2025.csv","[ITC-TM-410, accessed 2026-09-05]"
+F004,"Australia 2025 imports were USD 203,135 thousand and 2020-2025 CAGR was 6.1031%","TM-036-target_import_imports_by_supplier-VAL","raw-material/ITC-data/australia/derived/trade_indicators_2020-2025.csv","[ITC-TM-036, accessed 2026-09-05]"
+F005,"Japan, Korea and Australia have official EPM potential of USD 643.3m, USD 459.3m and USD 209.2m respectively","EPM-392;EPM-410;EPM-036","raw-material/ITC-data/{japan,south-korea,australia}/export-potential-map/official_epi_record_hs850980.json","[ITC-EPM-392/410/036, accessed 2026-09-05]"
+F006,"Applied tariff returned for the selected NTL rows is 0% for the three selected markets","MACMAP rows linked by raw_source_file","raw-material/ITC-data/{japan,south-korea,australia}/market-access-map/","[ITC-MACMAP, accessed 2026-09-05]"

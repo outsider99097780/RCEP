@@ -1,0 +1,28 @@
+{
+  "item": {
+    "code": "96",
+    "name": "Brunei Darussalam",
+    "parent": {
+      "code": "13",
+      "name": "Southeast Asia",
+      "color": "#dac20c",
+      "parent": {
+        "code": "3",
+        "name": "Asia",
+        "color": "#C0392B"
+      }
+    }
+  },
+  "value": 815186.31433,
+  "exportValue": 407466.66667,
+  "realizedPotential": 0.4998448324,
+  "lineLength": 687.92230163,
+  "bubbleSize": 638443.33292,
+  "lineWidth": 1.5153282313,
+  "tariff": 0,
+  "xik": 6250842700,
+  "mjk": 765200,
+  "xij": 744643933.33,
+  "gap": 0.5001551676,
+  "rank": 119
+}

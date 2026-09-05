@@ -1,0 +1,28 @@
+{
+  "item": {
+    "code": "608",
+    "name": "Philippines",
+    "parent": {
+      "code": "13",
+      "name": "Southeast Asia",
+      "color": "#dac20c",
+      "parent": {
+        "code": "3",
+        "name": "Asia",
+        "color": "#C0392B"
+      }
+    }
+  },
+  "value": 26755649.923,
+  "exportValue": 18231466.667,
+  "realizedPotential": 0.6814062345,
+  "lineLength": 687.92230163,
+  "bubbleSize": 28722375.852,
+  "lineWidth": 1.9514435852,
+  "tariff": 0,
+  "xik": 6250842700,
+  "mjk": 20110866.667,
+  "xij": 42721088867,
+  "gap": 0.31859376549999996,
+  "rank": 42
+}

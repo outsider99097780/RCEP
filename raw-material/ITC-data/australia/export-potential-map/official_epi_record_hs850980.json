@@ -1,0 +1,28 @@
+{
+  "item": {
+    "code": "36",
+    "name": "Australia",
+    "parent": {
+      "code": "10",
+      "name": "Pacific",
+      "color": "#d9b015",
+      "parent": {
+        "code": "5",
+        "name": "Pacific",
+        "color": "#309d6d"
+      }
+    }
+  },
+  "value": 209248488.47,
+  "exportValue": 146088800,
+  "realizedPotential": 0.698159404,
+  "lineLength": 687.92230163,
+  "bubbleSize": 237627066.36,
+  "lineWidth": 1.5410955649,
+  "tariff": 0,
+  "xik": 6250842700,
+  "mjk": 173895066.67,
+  "xij": 71125469800,
+  "gap": 0.301840596,
+  "rank": 14
+}

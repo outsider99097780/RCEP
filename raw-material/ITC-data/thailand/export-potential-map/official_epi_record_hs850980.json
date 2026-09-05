@@ -1,0 +1,28 @@
+{
+  "item": {
+    "code": "764",
+    "name": "Thailand",
+    "parent": {
+      "code": "13",
+      "name": "Southeast Asia",
+      "color": "#dac20c",
+      "parent": {
+        "code": "3",
+        "name": "Asia",
+        "color": "#C0392B"
+      }
+    }
+  },
+  "value": 49336387.734,
+  "exportValue": 33779533.333,
+  "realizedPotential": 0.6846778794,
+  "lineLength": 687.92230163,
+  "bubbleSize": 53868778.099,
+  "lineWidth": 1.996388678,
+  "tariff": 0,
+  "xik": 6250842700,
+  "mjk": 37176466.667,
+  "xij": 74635908467,
+  "gap": 0.3153221206,
+  "rank": 32
+}

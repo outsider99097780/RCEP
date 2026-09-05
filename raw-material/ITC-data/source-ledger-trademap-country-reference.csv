@@ -1,0 +1,2 @@
+"source_id","country","dataset","publisher","tool","accessed_at","url","query_parameters","raw_file","sha256","note"
+"TM-COUNTRY-REF","_shared","Trade Map country code reference","International Trade Centre (ITC)","Trade Map","2026-09-05T20:09:40+08:00","https://www.trademap.org/api/common/countries","none","_shared\trademap_country_reference.json","0b6fcfce7916704e0b615233be9b57f569b9e81360abc1f62b11cb6411d815a1","Official code-to-name reference used to label suppliers; no analytical values."

@@ -1,0 +1,2475 @@
+{
+  "nbRecords": 56,
+  "page": 1,
+  "nbRecordPerPage": 500,
+  "nbPages": 1,
+  "records": [
+    {
+      "reporterCd": "764",
+      "partnerCd": "156",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 1001689.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 968056.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 2038797.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 1782058.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "276",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 18096.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 18176.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 34568.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 70125.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 42008.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 63894.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "699",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 43.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 23.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 2771.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 4019.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "704",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 601.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 4105.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 12262.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 1253.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "410",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 5261.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 5546.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2025,
+          "value": 889.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "381",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2023,
+          "value": 1413.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 480.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 887.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "757",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 6.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 1713.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 234.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2025,
+          "value": 643.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "344",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 969.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 557.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 280.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 275.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 427.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "251",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2024,
+          "value": 722.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 192.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "036",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 23.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 27.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2025,
+          "value": 132.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "040",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 15.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 122.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 58.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 138.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 48.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "826",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2025,
+          "value": 46.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "724",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 21.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2025,
+          "value": 36.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "528",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 14.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2024,
+          "value": 28.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 34.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "764",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 56.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 2202.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 14.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 11.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 50.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 21.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "784",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 16.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 13.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 8.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 16.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 14.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "360",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 10.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 32.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 9.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "554",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 5.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 7.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 5.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "124",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2023,
+          "value": 5.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 8.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "208",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 10.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "682",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "703",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 12.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "484",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "392",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2024,
+          "value": 183.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "458",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 82131.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 183261.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 1064.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 10.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "490",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "608",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 9.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 46.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2024,
+          "value": 1804.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "642",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 494.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 804.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 592.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "702",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2023,
+          "value": 77.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 181.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "792",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 11.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 22.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 36121.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 36227.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 15922.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "842",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2024,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2025,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "048",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "056",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 16.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 7.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "096",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "100",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "104",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 7.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "116",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "152",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "191",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 21.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 7.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "203",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "246",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "300",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "348",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 102.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 502.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 8.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "372",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "376",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 6.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2024,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "418",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "440",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "512",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "579",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 18.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "600",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "616",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 48.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "620",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 1502.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "634",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "643",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 3.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "705",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 4.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 8.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "764",
+      "partnerCd": "752",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 12.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2021,
+          "value": 14.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2022,
+          "value": 8.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": 11.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    }
+  ],
+  "aggregateRecords": [
+    {
+      "reporterCd": "764",
+      "partnerCd": "000",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2021,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Mixed"
+        },
+        {
+          "period": 2023,
+          "value": 1084614.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2024,
+          "value": 2138439.0,
+          "flag": null,
+          "unit": "Units"
+        },
+        {
+          "period": 2025,
+          "value": 1857768.0,
+          "flag": null,
+          "unit": "Units"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 59,
+      "countryCd": "764",
+      "label": null,
+      "labelEn": "The customs department of the kingdom of Thailand",
+      "labelFr": "The customs department of the kingdom of Thailand",
+      "labelEs": "The customs department of the kingdom of Thailand",
+      "labelAr": "The customs department of the kingdom of Thailand",
+      "labelRu": "The customs department of the kingdom of Thailand",
+      "url": "http://www.customs.go.th/",
+      "startingDate": "2015"
+    }
+  ]
+}

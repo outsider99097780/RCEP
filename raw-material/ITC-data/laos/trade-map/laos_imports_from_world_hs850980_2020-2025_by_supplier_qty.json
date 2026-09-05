@@ -1,0 +1,337 @@
+{
+  "nbRecords": 6,
+  "page": 1,
+  "nbRecordPerPage": 500,
+  "nbPages": 1,
+  "records": [
+    {
+      "reporterCd": "418",
+      "partnerCd": "156",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 4.082,
+          "flag": "4",
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 16.052,
+          "flag": "4",
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 65.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 84.313,
+          "flag": "4",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "418",
+      "partnerCd": "348",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "418",
+      "partnerCd": "410",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "418",
+      "partnerCd": "704",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 7.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 14.93,
+          "flag": "4",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "418",
+      "partnerCd": "764",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 1.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 0.0,
+          "flag": "5",
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 11.417,
+          "flag": "4",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "418",
+      "partnerCd": "899",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2023,
+          "value": 4.391,
+          "flag": "4",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    }
+  ],
+  "aggregateRecords": [
+    {
+      "reporterCd": "418",
+      "partnerCd": "000",
+      "productCd": "850980",
+      "data": [
+        {
+          "period": 2020,
+          "value": 6.082,
+          "flag": "4",
+          "unit": "Tons"
+        },
+        {
+          "period": 2021,
+          "value": 21.052,
+          "flag": "4",
+          "unit": "Tons"
+        },
+        {
+          "period": 2022,
+          "value": 72.0,
+          "flag": null,
+          "unit": "Tons"
+        },
+        {
+          "period": 2023,
+          "value": 115.052,
+          "flag": "4",
+          "unit": "Tons"
+        },
+        {
+          "period": 2024,
+          "value": null,
+          "flag": null,
+          "unit": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null,
+          "unit": null
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 192,
+      "countryCd": "418",
+      "label": null,
+      "labelEn": "Lao Statistics Bureau",
+      "labelFr": "Lao Statistics Bureau",
+      "labelEs": "Lao Statistics Bureau",
+      "labelAr": "Lao Statistics Bureau",
+      "labelRu": "Lao Statistics Bureau",
+      "url": "https://www.lsb.gov.la/en/home/",
+      "startingDate": "2019"
+    },
+    {
+      "id": 1,
+      "countryCd": "418",
+      "label": null,
+      "labelEn": "UN COMTRADE",
+      "labelFr": "UN COMTRADE",
+      "labelEs": "UN COMTRADE",
+      "labelAr": "UN COMTRADE",
+      "labelRu": "UN COMTRADE",
+      "url": "http://comtrade.un.org",
+      "startingDate": "2022"
+    }
+  ]
+}

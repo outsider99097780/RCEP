@@ -1,0 +1,27 @@
+{
+  "success": false,
+  "command": "platform",
+  "query": "石头科技 扫地机器人 东盟 市占率 销售 价格",
+  "timestamp": "2026-09-05T00:37:05.544164",
+  "duration_ms": 1680,
+  "data": {
+    "platform": "duckduckgo",
+    "keyword": "石头科技 扫地机器人 东盟 市占率 销售 价格",
+    "success": false,
+    "error": "duckduckgo search failed: 错误: 'gbk' codec can't encode character '\\u200c' in position 1095: illegal multibyte sequence",
+    "items": [],
+    "total": 0,
+    "timestamp": "2026-09-05T00:37:03.915500",
+    "timing_ms": 1628,
+    "adapter_timing_ms": 1628
+  },
+  "errors": [
+    {
+      "code": "platform_error",
+      "message": "duckduckgo search failed: 错误: 'gbk' codec can't encode character '\\u200c' in position 1095: illegal multibyte sequence"
+    }
+  ],
+  "meta": {
+    "platform": "duckduckgo"
+  }
+}
