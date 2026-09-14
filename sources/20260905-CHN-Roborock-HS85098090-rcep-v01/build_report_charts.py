@@ -34,6 +34,8 @@ names = {
     "Indonesia": "印度尼西亚", "Japan": "日本", "Korea, Republic of": "韩国",
     "Malaysia": "马来西亚", "New Zealand": "新西兰", "Philippines": "菲律宾",
     "Singapore": "新加坡", "Thailand": "泰国", "Germany": "德国",
+    "Viet Nam": "越南", "Myanmar": "缅甸",
+    "Lao People's Democratic Republic": "老挝",
 }
 complete["market"] = complete["country_name"].map(names)
 
@@ -58,6 +60,7 @@ ax.text(0, -0.20, "气泡面积表示2025年中国供应份额；橙色为筛选
 ax.grid(axis="both", color="#d9dde2", lw=0.6, alpha=0.7)
 fig.tight_layout()
 fig.savefig(OUT / "market_size_growth.pdf", bbox_inches="tight")
+fig.savefig(OUT / "market_size_growth.png", bbox_inches="tight", dpi=220)
 plt.close(fig)
 
 # 2. EPI potential and untapped potential for all 14 markets.
@@ -74,6 +77,7 @@ ax.legend(frameon=False, loc="lower right")
 ax.grid(axis="x", color="#d9dde2", lw=0.6, alpha=0.7)
 fig.tight_layout()
 fig.savefig(OUT / "epi_untapped.pdf", bbox_inches="tight")
+fig.savefig(OUT / "epi_untapped.png", bbox_inches="tight", dpi=220)
 plt.close(fig)
 
 # 3. Supplier concentration in the three selected markets.
@@ -117,6 +121,7 @@ ax.legend(frameon=False, loc="upper center", ncol=3, bbox_to_anchor=(0.5, -0.12)
 ax.grid(axis="y", color="#d9dde2", lw=0.6, alpha=0.7)
 fig.tight_layout()
 fig.savefig(OUT / "supplier_concentration.pdf", bbox_inches="tight")
+fig.savefig(OUT / "supplier_concentration.png", bbox_inches="tight", dpi=220)
 plt.close(fig)
 
 # 4. Transparent normalized score. Amount indicators use log1p.
@@ -152,6 +157,7 @@ ax.set_title("五指标战略权重TOPSIS市场吸引力得分")
 ax.grid(axis="x", color="#d9dde2", lw=0.6, alpha=0.7)
 fig.tight_layout()
 fig.savefig(OUT / "market_score.pdf", bbox_inches="tight")
+fig.savefig(OUT / "market_score.png", bbox_inches="tight", dpi=220)
 plt.close(fig)
 
 # 5. Sensitivity: random weights around the five indicators, deterministic seed.
@@ -193,6 +199,7 @@ ax.set_title("5000组权重情景下的前三稳定性")
 ax.grid(axis="x", color="#d9dde2", lw=0.6, alpha=0.7)
 fig.tight_layout()
 fig.savefig(OUT / "ranking_sensitivity.pdf", bbox_inches="tight")
+fig.savefig(OUT / "ranking_sensitivity.png", bbox_inches="tight", dpi=220)
 plt.close(fig)
 
 ranked[["country_name", "market", "score"]].sort_values("score", ascending=False).to_csv(

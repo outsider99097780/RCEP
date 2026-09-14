@@ -1,0 +1,244 @@
+{
+  "dataset_title": "石头科技扫地机器人产品矩阵（官网口径）",
+  "brand": "Roborock / 石头科技",
+  "scope": "石头科技美国官网产品总览页与全球官网系列页中展示的扫地机器人；不含洗地机、手持吸尘器、割草机器人和配件",
+  "accessed_at": "2026-09-14",
+  "currency_note": "本文件不把促销价格作为产品分层依据；不同国家和日期的售价需另行核验。",
+  "availability_note": "官网展示不等于所有RCEP市场均已发售；型号名称、配置和供货可能因地区而异。",
+  "method": {
+    "discovery": "union-search 多源检索",
+    "verification": "逐项回到 Roborock 官方产品总览页、系列页和产品页核验",
+    "image_policy": "仅下载 Roborock 官方站 CDN 产品图，并保留原始图片URL"
+  },
+  "source_registry": {
+    "RR-US-OVERVIEW": "https://us.roborock.com/pages/robot-vacuums?name=s-series",
+    "RR-US-COLLECTION": "https://us.roborock.com/collections/robot-vacuums",
+    "RR-US-QREVO": "https://us.roborock.com/pages/roborock-qrevo-series",
+    "RR-GLOBAL-Q": "https://global.roborock.com/pages/roborock-q-series",
+    "RR-GLOBAL-Q7": "https://global.roborock.com/pages/roborock-q7-series"
+  },
+  "products": [
+    {
+      "family": "Saros",
+      "model": "Saros Z70",
+      "matrix_role": "机械臂旗舰",
+      "suction_pa": 22000,
+      "key_features": ["OmniGrip 五轴折叠机械臂", "StarSight Autonomous System 2.0", "7.98 cm超薄机身", "双重防缠绕", "多功能基站4.0"],
+      "official_page": "https://us.roborock.com/pages/roborock-saros-z70",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Saros_Z70_Silver_ID.png?v=1758785547",
+      "local_image": "images/saros-z70.png",
+      "source_refs": ["RR-US-OVERVIEW"]
+    },
+    {
+      "family": "Saros",
+      "model": "Saros 20",
+      "matrix_role": "视觉导航旗舰",
+      "suction_pa": 36000,
+      "key_features": ["AdaptiLift Chassis 3.0", "StarSight Autonomous System 2.0", "双重防缠绕"],
+      "official_page": "https://us.roborock.com/pages/roborock-saros-20",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Saros_20_Black_ID.png?v=1765951179",
+      "local_image": "images/saros-20.png",
+      "source_refs": ["RR-US-OVERVIEW"]
+    },
+    {
+      "family": "Saros",
+      "model": "Saros 20 Sonic",
+      "matrix_role": "声波拖地旗舰",
+      "suction_pa": 36000,
+      "key_features": ["VibraRise 5.0声波拖地", "AdaptiLift Chassis 3.0", "7.95 cm低矮空间通行"],
+      "official_page": "https://us.roborock.com/pages/roborock-saros-20-sonic",
+      "image_url": "https://us.roborock.com/cdn/shop/files/saros_20_sonic_Black_ID.png?v=1767862499",
+      "local_image": "images/saros-20-sonic.png",
+      "source_refs": ["RR-US-OVERVIEW"]
+    },
+    {
+      "family": "Saros",
+      "model": "Saros 10",
+      "matrix_role": "超薄声波拖地旗舰",
+      "suction_pa": null,
+      "key_features": ["7.98 cm超薄机身", "ReactiveAI 3.0避障", "VibraRise 4.0声波拖地", "双重防缠绕"],
+      "official_page": "https://us.roborock.com/pages/roborock-saros-10",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Saros_10_Black_ID.png?v=1758785564",
+      "local_image": "images/saros-10.png",
+      "source_refs": ["RR-US-OVERVIEW"]
+    },
+    {
+      "family": "Saros",
+      "model": "Saros 10R",
+      "matrix_role": "超薄全能旗舰",
+      "suction_pa": null,
+      "key_features": ["7.98 cm超薄机身", "StarSight Autonomous System 2.0", "AdaptiLift底盘", "双重防缠绕"],
+      "official_page": "https://us.roborock.com/pages/roborock-saros-10r",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Saros_10R_ID.png?v=1758785570",
+      "local_image": "images/saros-10r.png",
+      "source_refs": ["RR-US-OVERVIEW", "RR-US-COLLECTION"]
+    },
+    {
+      "family": "S",
+      "model": "S8 MaxV Ultra",
+      "matrix_role": "成熟全能旗舰",
+      "suction_pa": 10000,
+      "key_features": ["8合1 RockDock Ultra", "VibraRise 3.0拖地", "边角清洁"],
+      "official_page": "https://us.roborock.com/pages/robot-vacuums?name=s-series",
+      "image_url": "https://us.roborock.com/cdn/shop/files/S8_MaxV_Ultra_Black_ID.png?v=1758785614",
+      "local_image": "images/s8-maxv-ultra.png",
+      "source_refs": ["RR-US-OVERVIEW"]
+    },
+    {
+      "family": "Qrevo",
+      "model": "Qrevo Curv 2 Flow",
+      "matrix_role": "滚筒实时自清洁拖地",
+      "suction_pa": 20000,
+      "key_features": ["SpiraFlow实时自清洁拖布", "2.5倍拖地压力", "滚筒防护结构"],
+      "official_page": "https://us.roborock.com/pages/roborock-qrevo-curv-2-flow",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Qrevo_Curv_2_Flow_ID.png?v=1765527835",
+      "local_image": "images/qrevo-curv-2-flow.png",
+      "source_refs": ["RR-US-OVERVIEW", "RR-US-COLLECTION"]
+    },
+    {
+      "family": "Qrevo",
+      "model": "Qrevo CurvX",
+      "matrix_role": "超薄越障高端款",
+      "suction_pa": 22000,
+      "key_features": ["7.98 cm超薄机身", "AdaptiLift底盘", "双重防缠绕"],
+      "official_page": "https://us.roborock.com/pages/roborock-qrevo-curv-series",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Vivian_S_ID.png?v=1758785798",
+      "local_image": "images/qrevo-curvx.png",
+      "source_refs": ["RR-US-OVERVIEW", "RR-US-COLLECTION"]
+    },
+    {
+      "family": "Qrevo",
+      "model": "Qrevo Curv",
+      "matrix_role": "越障防缠绕高端款",
+      "suction_pa": 18500,
+      "key_features": ["AdaptiLift底盘", "DuoDivide主刷", "双重防缠绕"],
+      "official_page": "https://us.roborock.com/pages/roborock-qrevo-curv-series",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Vivian_C_ID.png?v=1758785991",
+      "local_image": "images/qrevo-curv.png",
+      "source_refs": ["RR-US-OVERVIEW"]
+    },
+    {
+      "family": "Qrevo",
+      "model": "Qrevo Edge 3 Pro",
+      "matrix_role": "低矮空间与热水拖地款",
+      "suction_pa": null,
+      "key_features": ["AdaptiLift Chassis 3.0", "7.95 cm低矮空间通行", "温水拖地"],
+      "official_page": "https://us.roborock.com/pages/roborock-qrevo-edge-3-pro",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Qrevo_Edge_3_Pro_ID_W.png?v=1783667624",
+      "local_image": "images/qrevo-edge-3-pro.png",
+      "source_refs": ["RR-US-OVERVIEW"]
+    },
+    {
+      "family": "Qrevo",
+      "model": "Qrevo Edge 2",
+      "matrix_role": "超薄强吸力款",
+      "suction_pa": 25000,
+      "key_features": ["7.98 cm超薄机身", "升级拖地系统", "FlexiArm边刷与拖布"],
+      "official_page": "https://us.roborock.com/pages/robot-vacuums?name=s-series",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Vivian_S_Pro_C_Black_ID.png?v=1776220180",
+      "local_image": "images/qrevo-edge-2.png",
+      "source_refs": ["RR-US-OVERVIEW"]
+    },
+    {
+      "family": "Qrevo",
+      "model": "Qrevo 2 Pro",
+      "matrix_role": "地毯友好全能款",
+      "suction_pa": 20000,
+      "key_features": ["地毯自动卸拖布", "双重防缠绕", "多功能基站"],
+      "official_page": "https://us.roborock.com/pages/roborock-qrevo-2-pro",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Quinn_Black_ID.png?v=1783997217",
+      "local_image": "images/qrevo-2-pro.png",
+      "source_refs": ["RR-US-OVERVIEW"]
+    },
+    {
+      "family": "Qrevo",
+      "model": "Qrevo S Pro",
+      "matrix_role": "高吸力全能基站款",
+      "suction_pa": 18500,
+      "key_features": ["多功能基站", "防缠绕边刷", "Reactive Tech避障"],
+      "official_page": "https://us.roborock.com/pages/roborock-qrevo-s-pro",
+      "image_url": "https://us.roborock.com/cdn/shop/files/PEH_Black_ID.png?v=1775205083",
+      "local_image": "images/qrevo-s-pro.png",
+      "source_refs": ["RR-US-OVERVIEW"]
+    },
+    {
+      "family": "Qrevo",
+      "model": "Qrevo Series",
+      "matrix_role": "全能基站主力系列",
+      "suction_pa": 12000,
+      "key_features": ["双重防缠绕", "FlexiArm沿边拖地", "Reactive Tech避障", "多功能基站"],
+      "official_page": "https://us.roborock.com/pages/roborock-qrevo-series",
+      "image_url": "https://us.roborock.com/cdn/shop/files/PE_Pro_Black_ID.png?v=1758785723",
+      "local_image": "images/qrevo-series.png",
+      "source_refs": ["RR-US-OVERVIEW", "RR-US-QREVO"]
+    },
+    {
+      "family": "Qrevo",
+      "model": "Qrevo Slim",
+      "matrix_role": "低矮家具场景款",
+      "suction_pa": 11000,
+      "key_features": ["8.2 cm超薄机身", "StarSight导航", "FlexiArm边刷与拖布"],
+      "official_page": "https://us.roborock.com/pages/roborock-qrevo-series",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Roborock_Qrevo_Slim_ID.png?v=1758785903",
+      "local_image": "images/qrevo-slim.png",
+      "source_refs": ["RR-US-OVERVIEW", "RR-US-QREVO"]
+    },
+    {
+      "family": "Qrevo",
+      "model": "Qrevo Master",
+      "matrix_role": "成熟高端基站款",
+      "suction_pa": 10000,
+      "key_features": ["多功能基站3.0", "FlexiArm边刷", "FlexiArm沿边拖地"],
+      "official_page": "https://us.roborock.com/pages/roborock-qrevo-series",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Roborock_Qrevo_Master_Black_ID.png?v=1758786305",
+      "local_image": "images/qrevo-master.png",
+      "source_refs": ["RR-US-OVERVIEW", "RR-US-QREVO"]
+    },
+    {
+      "family": "Qrevo",
+      "model": "Qrevo Pro",
+      "matrix_role": "成熟中高端基站款",
+      "suction_pa": null,
+      "key_features": ["多功能基站2.0", "FlexiArm沿边拖地", "10 mm拖布抬升"],
+      "official_page": "https://us.roborock.com/pages/roborock-qrevo-series",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Roborock_Qrevo_Pro_Black_ID.png?v=1758785834",
+      "local_image": "images/qrevo-pro.png",
+      "source_refs": ["RR-US-OVERVIEW", "RR-US-QREVO"]
+    },
+    {
+      "family": "Q / QV / QR",
+      "model": "QV / QR Series",
+      "matrix_role": "主流全能基站系列",
+      "suction_pa": 10000,
+      "suction_note": "官网同时展示8,000 Pa和10,000 Pa配置",
+      "key_features": ["多功能基站", "Reactive Tech避障", "防缠绕边刷", "双旋转拖布"],
+      "official_page": "https://global.roborock.com/pages/roborock-q-series",
+      "image_url": "https://us.roborock.com/cdn/shop/files/PE_Black_ID.png?v=1758785719",
+      "local_image": "images/qv-qr-series.png",
+      "source_refs": ["RR-US-OVERVIEW", "RR-GLOBAL-Q"]
+    },
+    {
+      "family": "Q",
+      "model": "Q10 Series",
+      "matrix_role": "自动集尘主流系列",
+      "suction_pa": 10000,
+      "key_features": ["自动集尘", "VibraRise 2.0拖地", "Reactive Tech避障", "PreciSense LiDAR导航"],
+      "official_page": "https://global.roborock.com/pages/roborock-q-series",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Talc_Plus_Black_ID.png?v=1758785812",
+      "local_image": "images/q10-series.png",
+      "source_refs": ["RR-US-OVERVIEW", "RR-GLOBAL-Q"]
+    },
+    {
+      "family": "Q",
+      "model": "Q7 Series",
+      "matrix_role": "基础可靠型系列",
+      "suction_pa": 13000,
+      "suction_note": "系列最高值；具体型号为8,000、10,000或13,000 Pa",
+      "key_features": ["双重防缠绕", "三级水量", "PreciSense LiDAR导航", "部分型号配自动集尘"],
+      "official_page": "https://global.roborock.com/pages/roborock-q7-series",
+      "image_url": "https://us.roborock.com/cdn/shop/files/Talc_C_Pro_Plus_Black_ID.png?v=1758785805",
+      "local_image": "images/q7-series.png",
+      "source_refs": ["RR-US-OVERVIEW", "RR-GLOBAL-Q", "RR-GLOBAL-Q7"]
+    }
+  ]
+}

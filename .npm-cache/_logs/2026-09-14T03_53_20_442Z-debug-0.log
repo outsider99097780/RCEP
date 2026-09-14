@@ -1,0 +1,65 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.9.0
+2 info using node@v24.14.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\99097\Documents\GitHub\RCEP\main\.npmrc
+5 silly config load:file:C:\Users\99097\.npmrc
+6 silly config load:file:C:\Users\99097\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm exec @marp-team/marp-cli --allow-local-files --pptx 石头科技RCEP市场开拓答辩.md -o 石头科技RCEP市场开拓答辩.pptx
+8 verbose argv "exec" "--yes" "--" "@marp-team/marp-cli" "--allow-local-files" "--pptx" "石头科技RCEP市场开拓答辩.md" "-o" "石头科技RCEP市场开拓答辩.pptx"
+9 verbose logfile logs-max:10 dir:C:\Users\99097\Documents\GitHub\RCEP\.npm-cache\_logs\2026-09-14T03_53_20_442Z-
+10 verbose logfile C:\Users\99097\Documents\GitHub\RCEP\.npm-cache\_logs\2026-09-14T03_53_20_442Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 http fetch GET https://registry.npmjs.org/@marp-team%2fmarp-cli attempt 1 failed with EACCES
+14 http fetch GET https://registry.npmjs.org/@marp-team%2fmarp-cli attempt 2 failed with EACCES
+15 http fetch GET https://registry.npmjs.org/@marp-team%2fmarp-cli attempt 3 failed with EACCES
+16 http fetch GET 200 https://registry.npmjs.org/@marp-team%2fmarp-cli 70061ms (cache stale)
+17 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+18 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+19 silly idealTree buildDeps
+20 silly fetch manifest @marp-team/marp-cli@4.5.1
+21 silly packumentCache full:https://registry.npmjs.org/@marp-team%2fmarp-cli cache-miss
+22 http fetch GET https://registry.npmjs.org/@marp-team%2fmarp-cli attempt 1 failed with EACCES
+23 http fetch GET https://registry.npmjs.org/@marp-team%2fmarp-cli attempt 2 failed with EACCES
+24 http fetch GET https://registry.npmjs.org/@marp-team%2fmarp-cli attempt 3 failed with EACCES
+25 silly placeDep ROOT @marp-team/marp-cli@ OK for:  want: 4.5.1
+26 verbose type system
+27 verbose stack FetchError: request to https://registry.npmjs.org/@marp-team%2fmarp-cli failed, reason: 
+27 verbose stack     at ClientRequest.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\minipass-fetch\lib\index.js:130:14)
+27 verbose stack     at ClientRequest.emit (node:events:508:28)
+27 verbose stack     at emitErrorEvent (node:_http_client:108:11)
+27 verbose stack     at _destroy (node:_http_client:963:9)
+27 verbose stack     at onSocketNT (node:_http_client:983:5)
+27 verbose stack     at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+28 error code EACCES
+29 error errno EACCES
+30 error FetchError: request to https://registry.npmjs.org/@marp-team%2fmarp-cli failed, reason: 
+30 error     at ClientRequest.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\minipass-fetch\lib\index.js:130:14)
+30 error     at ClientRequest.emit (node:events:508:28)
+30 error     at emitErrorEvent (node:_http_client:108:11)
+30 error     at _destroy (node:_http_client:963:9)
+30 error     at onSocketNT (node:_http_client:983:5)
+30 error     at process.processTicksAndRejections (node:internal/process/task_queues:91:21) {
+30 error   code: 'EACCES',
+30 error   errno: 'EACCES',
+30 error   type: 'system',
+30 error   requiredBy: '.'
+30 error }
+31 error
+31 error The operation was rejected by your operating system.
+31 error It's possible that the file was already in use (by a text editor or antivirus),
+31 error or that you lack permissions to access it.
+31 error
+31 error If you believe this might be a permissions issue, please double-check the
+31 error permissions of the file and its containing directories, or try running
+31 error the command again as root/Administrator.
+32 silly unfinished npm timer reify 1789358071463
+33 silly unfinished npm timer reify:loadTrees 1789358071464
+34 verbose cwd C:\Users\99097\Documents\GitHub\RCEP\main
+35 verbose os Windows_NT 10.0.26200
+36 verbose node v24.14.0
+37 verbose npm  v11.9.0
+38 verbose exit 1
+39 verbose code 1
+40 error A complete log of this run can be found in: C:\Users\99097\Documents\GitHub\RCEP\.npm-cache\_logs\2026-09-14T03_53_20_442Z-debug-0.log

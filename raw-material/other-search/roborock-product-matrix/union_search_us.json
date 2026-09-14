@@ -1,0 +1,231 @@
+{
+  "success": false,
+  "command": "search",
+  "query": "site:us.roborock.com/pages OR site:us.roborock.com/products Roborock robot vacuum Saros Qrevo",
+  "timestamp": "2026-09-14T12:35:35.344622",
+  "duration_ms": 15711,
+  "data": {
+    "keyword": "site:us.roborock.com/pages OR site:us.roborock.com/products Roborock robot vacuum Saros Qrevo",
+    "platforms": [
+      "google_direct",
+      "bing_int_direct",
+      "duckduckgo_html",
+      "yahoo_direct",
+      "qwant_direct"
+    ],
+    "limit_per_platform": 10,
+    "timestamp": "2026-09-14T12:35:19.681718",
+    "results": {
+      "bing_int_direct": {
+        "platform": "bing_int_direct",
+        "keyword": "site:us.roborock.com/pages OR site:us.roborock.com/products Roborock robot vacuum Saros Qrevo",
+        "success": false,
+        "error": "bing_int_direct JSON parse failed: Empty output",
+        "items": [],
+        "total": 0,
+        "timestamp": "2026-09-14T12:35:19.683707",
+        "timing_ms": 957
+      },
+      "google_direct": {
+        "platform": "google_direct",
+        "keyword": "site:us.roborock.com/pages OR site:us.roborock.com/products Roborock robot vacuum Saros Qrevo",
+        "success": false,
+        "error": "google_direct search failed: urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\adapters.py\", line 696, in send\n    resp = conn.urlopen(\n           ^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\connectionpool.py\", line 842, in urlopen\n    retries = retries.increment(\n              ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\util\\retry.py\", line 543, in increment\n    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nurllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=site%3Aus.roborock.com/pages%20OR%20site%3Aus.roborock.com/products%20Roborock%20robot%20vacuum%20Saros%20Qrevo (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\google_search\\base_engine.py\", line 80, in search\n    response = self.session.get(search_url, timeout=timeout)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\sessions.py\", line 671, in get\n    return self.request(\"GET\", url, params=params, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\sessions.py\", line 651, in request\n    resp = self.send(prep, **send_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\sessions.py\", line 784, in send\n    r = adapter.send(request, **kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\adapters.py\", line 727, in send\n    raise SSLError(e, request=request)\nrequests.exceptions.SSLError: HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=site%3Aus.roborock.com/pages%20OR%20site%3Aus.roborock.com/products%20Roborock%20robot%20vacuum%20Saros%20Qrevo (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\google_search\\google_no_api.py\", line 98, in <module>\n    results = search_google(args.query, args.max_results, args.proxy)\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\google_search\\google_no_api.py\", line 82, in search_google\n    return engine.search(query, max_results=max_results, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\google_search\\base_engine.py\", line 89, in search\n    raise Exception(f\"{self.ENGINE_DISPLAY_NAME} 鎼滅储澶辫触锛歿str(e)}\")\nException: Google 鎼滅储 鎼滅储澶辫触锛欻TTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=site%3Aus.roborock.com/pages%20OR%20site%3Aus.roborock.com/products%20Roborock%20robot%20vacuum%20Saros%20Qrevo (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
+        "items": [],
+        "total": 0,
+        "timestamp": "2026-09-14T12:35:19.682708",
+        "timing_ms": 5635
+      },
+      "yahoo_direct": {
+        "platform": "yahoo_direct",
+        "keyword": "site:us.roborock.com/pages OR site:us.roborock.com/products Roborock robot vacuum Saros Qrevo",
+        "success": false,
+        "error": "yahoo_direct search failed: urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\adapters.py\", line 696, in send\n    resp = conn.urlopen(\n           ^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\connectionpool.py\", line 842, in urlopen\n    retries = retries.increment(\n              ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\util\\retry.py\", line 543, in increment\n    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nurllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='search.yahoo.com', port=443): Max retries exceeded with url: /search?p=site%3Aus.roborock.com/pages%20OR%20site%3Aus.roborock.com/products%20Roborock%20robot%20vacuum%20Saros%20Qrevo (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\yahoo\\base_engine.py\", line 80, in search\n    response = self.session.get(search_url, timeout=timeout)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\sessions.py\", line 671, in get\n    return self.request(\"GET\", url, params=params, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\sessions.py\", line 651, in request\n    resp = self.send(prep, **send_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\sessions.py\", line 784, in send\n    r = adapter.send(request, **kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\adapters.py\", line 727, in send\n    raise SSLError(e, request=request)\nrequests.exceptions.SSLError: HTTPSConnectionPool(host='search.yahoo.com', port=443): Max retries exceeded with url: /search?p=site%3Aus.roborock.com/pages%20OR%20site%3Aus.roborock.com/products%20Roborock%20robot%20vacuum%20Saros%20Qrevo (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\yahoo\\yahoo_no_api.py\", line 79, in <module>\n    results = search_yahoo(args.query, args.max_results, args.proxy)\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\yahoo\\yahoo_no_api.py\", line 63, in search_yahoo\n    return engine.search(query, max_results=max_results, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\yahoo\\base_engine.py\", line 89, in search\n    raise Exception(f\"{self.ENGINE_DISPLAY_NAME} 鎼滅储澶辫触锛歿str(e)}\")\nException: Yahoo 鎼滅储 鎼滅储澶辫触锛欻TTPSConnectionPool(host='search.yahoo.com', port=443): Max retries exceeded with url: /search?p=site%3Aus.roborock.com/pages%20OR%20site%3Aus.roborock.com/products%20Roborock%20robot%20vacuum%20Saros%20Qrevo (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
+        "items": [],
+        "total": 0,
+        "timestamp": "2026-09-14T12:35:19.683707",
+        "timing_ms": 5735
+      },
+      "duckduckgo_html": {
+        "platform": "duckduckgo_html",
+        "keyword": "site:us.roborock.com/pages OR site:us.roborock.com/products Roborock robot vacuum Saros Qrevo",
+        "success": true,
+        "error": null,
+        "items": [
+          {
+            "title": "Shop Robot Vacuums & Mops - Roborock US Official StoreRobot Vacuums | Roborock US Official StoreApp Robot Vacuums | Roborock US Official StoreRoborock Q Series | Roborock US Official StoreWelcome to Roborock CES 2026 | Roborock US Official StoreCompare Robot Vacuums - Roborock US Official StoreRoborock US Official Store | Intelligent Robot Vacuum Cleaner and MopHow to Choose Roborock | Roborock US Official StoreStore Collections | Roborock US Official StoreRoborock S6 & S6 Pure Robot Vacuum Cleaner - Roborock US Official Store",
+            "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dstore&rut=26cd6183c322cbe0cbf848fdad96bea1d6ecb478c4c0b3165c10839535a821b5//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Frobot%2Dvacuums%3Fname%3Dsaros%2Dseries&rut=33264b57ef6012b5e40890f8b2d3e996dedce7df83c891b691585af48bfa50f9//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fapp%2Drobot%2Dlist&rut=1c3b94a4767f4ef8748c579ba7bcfd8c050c8e5df18fa526910756d35fdbacbc//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dq%2Dseries&rut=d631d940c6771d187eb46adecf8174b4f2dcbeee7933d74eb7b9cef55f0b384a//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2F2026%2D123123&rut=2b16bdf5a34adc321686fdda94cf6aa3756ac78f82d2b18eb846ebc1f2d6b6b2//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fcompare%2Drobot%2Dvacuums&rut=00498912ead25773b296d77dfc357c992e262fd87aebda0cecb7d7208d10a07a//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Ds7%2Dmaxv%2520&rut=ce4f3b0c52291d062c2bc9f6b48527e43d8925ede76cd84f28deb45014904c31//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fhelp%2Dme%2Dchoose&rut=c2d1980b3814cfbea6e4efa81604d443e2346effaf08776901516319dab260ed//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fstore%2Dcollections&rut=9300515b52d2bc3d9378c66789fe5b3658393ef9f0136f33afe5d6a7359d11e3//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Ds6&rut=c8ef753ddc279fe28fc03f0822616e4ff4825be065ade7bea2fade36e6cd914d",
+            "body": "Roborock - the global leader in Robot Vacuums with a great range of products including Robot Vacuums, RockDock, Wet Dry Vacuum and Cordless Stick Vacuum.Roborock robot vacuum can clean your whole home, automatically, every day. Sweeping & Mopping, Intelligent Route Planning, App Control, Pet-Friendly and even more! Learn more about Roborock robot cleaner and find out the right Roborock robot vacuum cleaner for your home.Roborock's intelligent automatic robot vacuum cleaners turn time spent vacuuming and mopping into free time for you to spend on the better things in life.The Roborock Q Series delivers Roborock's signature durability and smart tech. Whether you prioritize hands-free maintenance, tangle-free cleaning, or versatile mopping, there's a Q Series model tailored for you.Compared to the Roborock Qrevo Curv with mopping pressure up to 6N. The current model delivers mopping pressure up to 15N, based on internal testing conducted by the manufacturer.Compare Roborock robot vacuums by suction, mopping, obstacle avoidance, dock features, and smart cleaning tech to find the best model for your home.The Roborock S7 MaxV Ultra is the ultimate in robot floor cleaning convenience. A robot vacuum able to vacuum and mop with sonic scrubbing, and auto empty, mop-wash, and refill. With precision structured light obstacle avoidance too. Also available is the S7 MaxV Plus with Auto-Empty Dock, and the S7 MaxV only.Which Roborock for you? Take the quiz and answer a few simple questions, find the Roborock model that best suits your needs.Roborock's intelligent automatic robot vacuum cleaners turn time spent vacuuming and mopping into free time for you to spend on the better things in life.Defeat dirt with Roborock S6 and S6 Pure. Housekeeping has never been this easy and smart, map out your home and clean with a few taps on your phone.",
+            "engine": "duckduckgo_html"
+          },
+          {
+            "title": "Shop Robot Vacuums & Mops - Roborock US Official StoreRobot Vacuums | Roborock US Official StoreApp Robot Vacuums | Roborock US Official StoreRoborock Q Series | Roborock US Official StoreWelcome to Roborock CES 2026 | Roborock US Official StoreCompare Robot Vacuums - Roborock US Official StoreRoborock US Official Store | Intelligent Robot Vacuum Cleaner and MopHow to Choose Roborock | Roborock US Official StoreStore Collections | Roborock US Official StoreRoborock S6 & S6 Pure Robot Vacuum Cleaner - Roborock US Official Store",
+            "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dstore&rut=26cd6183c322cbe0cbf848fdad96bea1d6ecb478c4c0b3165c10839535a821b5//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Frobot%2Dvacuums%3Fname%3Dsaros%2Dseries&rut=33264b57ef6012b5e40890f8b2d3e996dedce7df83c891b691585af48bfa50f9//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fapp%2Drobot%2Dlist&rut=1c3b94a4767f4ef8748c579ba7bcfd8c050c8e5df18fa526910756d35fdbacbc//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dq%2Dseries&rut=d631d940c6771d187eb46adecf8174b4f2dcbeee7933d74eb7b9cef55f0b384a//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2F2026%2D123123&rut=2b16bdf5a34adc321686fdda94cf6aa3756ac78f82d2b18eb846ebc1f2d6b6b2//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fcompare%2Drobot%2Dvacuums&rut=00498912ead25773b296d77dfc357c992e262fd87aebda0cecb7d7208d10a07a//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Ds7%2Dmaxv%2520&rut=ce4f3b0c52291d062c2bc9f6b48527e43d8925ede76cd84f28deb45014904c31//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fhelp%2Dme%2Dchoose&rut=c2d1980b3814cfbea6e4efa81604d443e2346effaf08776901516319dab260ed//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fstore%2Dcollections&rut=9300515b52d2bc3d9378c66789fe5b3658393ef9f0136f33afe5d6a7359d11e3//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Ds6&rut=c8ef753ddc279fe28fc03f0822616e4ff4825be065ade7bea2fade36e6cd914d",
+            "body": "Roborock - the global leader in Robot Vacuums with a great range of products including Robot Vacuums, RockDock, Wet Dry Vacuum and Cordless Stick Vacuum.Roborock robot vacuum can clean your whole home, automatically, every day. Sweeping & Mopping, Intelligent Route Planning, App Control, Pet-Friendly and even more! Learn more about Roborock robot cleaner and find out the right Roborock robot vacuum cleaner for your home.Roborock's intelligent automatic robot vacuum cleaners turn time spent vacuuming and mopping into free time for you to spend on the better things in life.The Roborock Q Series delivers Roborock's signature durability and smart tech. Whether you prioritize hands-free maintenance, tangle-free cleaning, or versatile mopping, there's a Q Series model tailored for you.Compared to the Roborock Qrevo Curv with mopping pressure up to 6N. The current model delivers mopping pressure up to 15N, based on internal testing conducted by the manufacturer.Compare Roborock robot vacuums by suction, mopping, obstacle avoidance, dock features, and smart cleaning tech to find the best model for your home.The Roborock S7 MaxV Ultra is the ultimate in robot floor cleaning convenience. A robot vacuum able to vacuum and mop with sonic scrubbing, and auto empty, mop-wash, and refill. With precision structured light obstacle avoidance too. Also available is the S7 MaxV Plus with Auto-Empty Dock, and the S7 MaxV only.Which Roborock for you? Take the quiz and answer a few simple questions, find the Roborock model that best suits your needs.Roborock's intelligent automatic robot vacuum cleaners turn time spent vacuuming and mopping into free time for you to spend on the better things in life.Defeat dirt with Roborock S6 and S6 Pure. Housekeeping has never been this easy and smart, map out your home and clean with a few taps on your phone.",
+            "engine": "duckduckgo_html"
+          },
+          {
+            "title": "Shop Robot Vacuums & Mops - Roborock US Official Store",
+            "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dstore&rut=26cd6183c322cbe0cbf848fdad96bea1d6ecb478c4c0b3165c10839535a821b5",
+            "body": "Roborock - the global leader in Robot Vacuums with a great range of products including Robot Vacuums, RockDock, Wet Dry Vacuum and Cordless Stick Vacuum.",
+            "engine": "duckduckgo_html"
+          },
+          {
+            "title": "Shop Robot Vacuums & Mops - Roborock US Official Store",
+            "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dstore&rut=26cd6183c322cbe0cbf848fdad96bea1d6ecb478c4c0b3165c10839535a821b5",
+            "body": "Roborock - the global leader in Robot Vacuums with a great range of products including Robot Vacuums, RockDock, Wet Dry Vacuum and Cordless Stick Vacuum.",
+            "engine": "duckduckgo_html"
+          },
+          {
+            "title": "Robot Vacuums | Roborock US Official Store",
+            "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Frobot%2Dvacuums%3Fname%3Dsaros%2Dseries&rut=33264b57ef6012b5e40890f8b2d3e996dedce7df83c891b691585af48bfa50f9",
+            "body": "Roborock robot vacuum can clean your whole home, automatically, every day. Sweeping & Mopping, Intelligent Route Planning, App Control, Pet-Friendly and even more! Learn more about Roborock robot cleaner and find out the right Roborock robot vacuum cleaner for your home.",
+            "engine": "duckduckgo_html"
+          },
+          {
+            "title": "Robot Vacuums | Roborock US Official Store",
+            "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Frobot%2Dvacuums%3Fname%3Dsaros%2Dseries&rut=33264b57ef6012b5e40890f8b2d3e996dedce7df83c891b691585af48bfa50f9",
+            "body": "Roborock robot vacuum can clean your whole home, automatically, every day. Sweeping & Mopping, Intelligent Route Planning, App Control, Pet-Friendly and even more! Learn more about Roborock robot cleaner and find out the right Roborock robot vacuum cleaner for your home.",
+            "engine": "duckduckgo_html"
+          },
+          {
+            "title": "App Robot Vacuums | Roborock US Official Store",
+            "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fapp%2Drobot%2Dlist&rut=1c3b94a4767f4ef8748c579ba7bcfd8c050c8e5df18fa526910756d35fdbacbc",
+            "body": "Roborock's intelligent automatic robot vacuum cleaners turn time spent vacuuming and mopping into free time for you to spend on the better things in life.",
+            "engine": "duckduckgo_html"
+          },
+          {
+            "title": "App Robot Vacuums | Roborock US Official Store",
+            "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fapp%2Drobot%2Dlist&rut=1c3b94a4767f4ef8748c579ba7bcfd8c050c8e5df18fa526910756d35fdbacbc",
+            "body": "Roborock's intelligent automatic robot vacuum cleaners turn time spent vacuuming and mopping into free time for you to spend on the better things in life.",
+            "engine": "duckduckgo_html"
+          },
+          {
+            "title": "Roborock Q Series | Roborock US Official Store",
+            "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dq%2Dseries&rut=d631d940c6771d187eb46adecf8174b4f2dcbeee7933d74eb7b9cef55f0b384a",
+            "body": "The Roborock Q Series delivers Roborock's signature durability and smart tech. Whether you prioritize hands-free maintenance, tangle-free cleaning, or versatile mopping, there's a Q Series model tailored for you.",
+            "engine": "duckduckgo_html"
+          },
+          {
+            "title": "Roborock Q Series | Roborock US Official Store",
+            "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dq%2Dseries&rut=d631d940c6771d187eb46adecf8174b4f2dcbeee7933d74eb7b9cef55f0b384a",
+            "body": "The Roborock Q Series delivers Roborock's signature durability and smart tech. Whether you prioritize hands-free maintenance, tangle-free cleaning, or versatile mopping, there's a Q Series model tailored for you.",
+            "engine": "duckduckgo_html"
+          }
+        ],
+        "total": 10,
+        "timestamp": "2026-09-14T12:35:19.683707",
+        "timing_ms": 9694,
+        "has_results": true
+      },
+      "qwant_direct": {
+        "platform": "qwant_direct",
+        "keyword": "site:us.roborock.com/pages OR site:us.roborock.com/products Roborock robot vacuum Saros Qrevo",
+        "success": false,
+        "error": "qwant_direct search failed: Traceback (most recent call last):\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\connectionpool.py\", line 774, in urlopen\n    self._prepare_proxy(conn)\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\connectionpool.py\", line 1055, in _prepare_proxy\n    conn.connect()\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\connection.py\", line 796, in connect\n    sock_and_verified = _ssl_wrap_socket_and_match_hostname(\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\connection.py\", line 975, in _ssl_wrap_socket_and_match_hostname\n    ssl_sock = ssl_wrap_socket(\n               ^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\util\\ssl_.py\", line 433, in ssl_wrap_socket\n    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\util\\ssl_.py\", line 477, in _ssl_wrap_socket_impl\n    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-python\\cpython-3.12-windows-x86_64-none\\Lib\\ssl.py\", line 455, in wrap_socket\n    return self.sslsocket_class._create(\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-python\\cpython-3.12-windows-x86_64-none\\Lib\\ssl.py\", line 1041, in _create\n    self.do_handshake()\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-python\\cpython-3.12-windows-x86_64-none\\Lib\\ssl.py\", line 1319, in do_handshake\n    self._sslobj.do_handshake()\nTimeoutError: _ssl.c:993: The handshake operation timed out\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\adapters.py\", line 696, in send\n    resp = conn.urlopen(\n           ^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\connectionpool.py\", line 842, in urlopen\n    retries = retries.increment(\n              ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\util\\retry.py\", line 498, in increment\n    raise reraise(type(error), error, _stacktrace)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\util\\util.py\", line 39, in reraise\n    raise value\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\connectionpool.py\", line 776, in urlopen\n    self._raise_timeout(\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\urllib3\\connectionpool.py\", line 367, in _raise_timeout\n    raise ReadTimeoutError(\nurllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.qwant.com', port=443): Read timed out. (read timeout=15)\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\qwant\\base_engine.py\", line 80, in search\n    response = self.session.get(search_url, timeout=timeout)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\sessions.py\", line 671, in get\n    return self.request(\"GET\", url, params=params, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\sessions.py\", line 651, in request\n    resp = self.send(prep, **send_kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\sessions.py\", line 784, in send\n    r = adapter.send(request, **kwargs)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\adapters.py\", line 742, in send\n    raise ReadTimeout(e, request=request)\nrequests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.qwant.com', port=443): Read timed out. (read timeout=15)\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\qwant\\qwant_no_api.py\", line 87, in <module>\n    results = search_qwant(args.query, args.max_results, args.proxy)\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\qwant\\qwant_no_api.py\", line 71, in search_qwant\n    return engine.search(query, max_results=max_results, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\qwant\\base_engine.py\", line 89, in search\n    raise Exception(f\"{self.ENGINE_DISPLAY_NAME} 鎼滅储澶辫触锛歿str(e)}\")\nException: Qwant 鎼滅储澶辫触锛欻TTPSConnectionPool(host='www.qwant.com', port=443): Read timed out. (read timeout=15)",
+        "items": [],
+        "total": 0,
+        "timestamp": "2026-09-14T12:35:19.684708",
+        "timing_ms": 15658
+      }
+    },
+    "summary": {
+      "total_platforms": 5,
+      "successful": 1,
+      "failed": 4,
+      "total_items": 5,
+      "raw_total_items": 10,
+      "deduplicated_total_items": 5,
+      "deduplicated_removed": 5,
+      "deduplicate_enabled": true,
+      "downloadable_items": 5
+    },
+    "final_items": [
+      {
+        "title": "Shop Robot Vacuums & Mops - Roborock US Official StoreRobot Vacuums | Roborock US Official StoreApp Robot Vacuums | Roborock US Official StoreRoborock Q Series | Roborock US Official StoreWelcome to Roborock CES 2026 | Roborock US Official StoreCompare Robot Vacuums - Roborock US Official StoreRoborock US Official Store | Intelligent Robot Vacuum Cleaner and MopHow to Choose Roborock | Roborock US Official StoreStore Collections | Roborock US Official StoreRoborock S6 & S6 Pure Robot Vacuum Cleaner - Roborock US Official Store",
+        "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dstore&rut=26cd6183c322cbe0cbf848fdad96bea1d6ecb478c4c0b3165c10839535a821b5//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Frobot%2Dvacuums%3Fname%3Dsaros%2Dseries&rut=33264b57ef6012b5e40890f8b2d3e996dedce7df83c891b691585af48bfa50f9//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fapp%2Drobot%2Dlist&rut=1c3b94a4767f4ef8748c579ba7bcfd8c050c8e5df18fa526910756d35fdbacbc//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dq%2Dseries&rut=d631d940c6771d187eb46adecf8174b4f2dcbeee7933d74eb7b9cef55f0b384a//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2F2026%2D123123&rut=2b16bdf5a34adc321686fdda94cf6aa3756ac78f82d2b18eb846ebc1f2d6b6b2//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fcompare%2Drobot%2Dvacuums&rut=00498912ead25773b296d77dfc357c992e262fd87aebda0cecb7d7208d10a07a//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Ds7%2Dmaxv%2520&rut=ce4f3b0c52291d062c2bc9f6b48527e43d8925ede76cd84f28deb45014904c31//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fhelp%2Dme%2Dchoose&rut=c2d1980b3814cfbea6e4efa81604d443e2346effaf08776901516319dab260ed//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fstore%2Dcollections&rut=9300515b52d2bc3d9378c66789fe5b3658393ef9f0136f33afe5d6a7359d11e3//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Ds6&rut=c8ef753ddc279fe28fc03f0822616e4ff4825be065ade7bea2fade36e6cd914d",
+        "body": "Roborock - the global leader in Robot Vacuums with a great range of products including Robot Vacuums, RockDock, Wet Dry Vacuum and Cordless Stick Vacuum.Roborock robot vacuum can clean your whole home, automatically, every day. Sweeping & Mopping, Intelligent Route Planning, App Control, Pet-Friendly and even more! Learn more about Roborock robot cleaner and find out the right Roborock robot vacuum cleaner for your home.Roborock's intelligent automatic robot vacuum cleaners turn time spent vacuuming and mopping into free time for you to spend on the better things in life.The Roborock Q Series delivers Roborock's signature durability and smart tech. Whether you prioritize hands-free maintenance, tangle-free cleaning, or versatile mopping, there's a Q Series model tailored for you.Compared to the Roborock Qrevo Curv with mopping pressure up to 6N. The current model delivers mopping pressure up to 15N, based on internal testing conducted by the manufacturer.Compare Roborock robot vacuums by suction, mopping, obstacle avoidance, dock features, and smart cleaning tech to find the best model for your home.The Roborock S7 MaxV Ultra is the ultimate in robot floor cleaning convenience. A robot vacuum able to vacuum and mop with sonic scrubbing, and auto empty, mop-wash, and refill. With precision structured light obstacle avoidance too. Also available is the S7 MaxV Plus with Auto-Empty Dock, and the S7 MaxV only.Which Roborock for you? Take the quiz and answer a few simple questions, find the Roborock model that best suits your needs.Roborock's intelligent automatic robot vacuum cleaners turn time spent vacuuming and mopping into free time for you to spend on the better things in life.Defeat dirt with Roborock S6 and S6 Pure. Housekeeping has never been this easy and smart, map out your home and clean with a few taps on your phone.",
+        "engine": "duckduckgo_html",
+        "_source_platform": "duckduckgo_html"
+      },
+      {
+        "title": "Shop Robot Vacuums & Mops - Roborock US Official Store",
+        "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dstore&rut=26cd6183c322cbe0cbf848fdad96bea1d6ecb478c4c0b3165c10839535a821b5",
+        "body": "Roborock - the global leader in Robot Vacuums with a great range of products including Robot Vacuums, RockDock, Wet Dry Vacuum and Cordless Stick Vacuum.",
+        "engine": "duckduckgo_html",
+        "_source_platform": "duckduckgo_html"
+      },
+      {
+        "title": "Robot Vacuums | Roborock US Official Store",
+        "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Frobot%2Dvacuums%3Fname%3Dsaros%2Dseries&rut=33264b57ef6012b5e40890f8b2d3e996dedce7df83c891b691585af48bfa50f9",
+        "body": "Roborock robot vacuum can clean your whole home, automatically, every day. Sweeping & Mopping, Intelligent Route Planning, App Control, Pet-Friendly and even more! Learn more about Roborock robot cleaner and find out the right Roborock robot vacuum cleaner for your home.",
+        "engine": "duckduckgo_html",
+        "_source_platform": "duckduckgo_html"
+      },
+      {
+        "title": "App Robot Vacuums | Roborock US Official Store",
+        "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fapp%2Drobot%2Dlist&rut=1c3b94a4767f4ef8748c579ba7bcfd8c050c8e5df18fa526910756d35fdbacbc",
+        "body": "Roborock's intelligent automatic robot vacuum cleaners turn time spent vacuuming and mopping into free time for you to spend on the better things in life.",
+        "engine": "duckduckgo_html",
+        "_source_platform": "duckduckgo_html"
+      },
+      {
+        "title": "Roborock Q Series | Roborock US Official Store",
+        "href": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dq%2Dseries&rut=d631d940c6771d187eb46adecf8174b4f2dcbeee7933d74eb7b9cef55f0b384a",
+        "body": "The Roborock Q Series delivers Roborock's signature durability and smart tech. Whether you prioritize hands-free maintenance, tangle-free cleaning, or versatile mopping, there's a Q Series model tailored for you.",
+        "engine": "duckduckgo_html",
+        "_source_platform": "duckduckgo_html"
+      }
+    ],
+    "download_candidates": [
+      {
+        "index": 1,
+        "platform": "duckduckgo_html",
+        "title": "Shop Robot Vacuums & Mops - Roborock US Official StoreRobot Vacuums | Roborock US Official StoreApp Robot Vacuums | Roborock US Official StoreRoborock Q Series | Roborock US Official StoreWelcome to Roborock CES 2026 | Roborock US Official StoreCompare Robot Vacuums - Roborock US Official StoreRoborock US Official Store | Intelligent Robot Vacuum Cleaner and MopHow to Choose Roborock | Roborock US Official StoreStore Collections | Roborock US Official StoreRoborock S6 & S6 Pure Robot Vacuum Cleaner - Roborock US Official Store",
+        "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dstore&rut=26cd6183c322cbe0cbf848fdad96bea1d6ecb478c4c0b3165c10839535a821b5//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Frobot%2Dvacuums%3Fname%3Dsaros%2Dseries&rut=33264b57ef6012b5e40890f8b2d3e996dedce7df83c891b691585af48bfa50f9//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fapp%2Drobot%2Dlist&rut=1c3b94a4767f4ef8748c579ba7bcfd8c050c8e5df18fa526910756d35fdbacbc//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dq%2Dseries&rut=d631d940c6771d187eb46adecf8174b4f2dcbeee7933d74eb7b9cef55f0b384a//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2F2026%2D123123&rut=2b16bdf5a34adc321686fdda94cf6aa3756ac78f82d2b18eb846ebc1f2d6b6b2//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fcompare%2Drobot%2Dvacuums&rut=00498912ead25773b296d77dfc357c992e262fd87aebda0cecb7d7208d10a07a//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Ds7%2Dmaxv%2520&rut=ce4f3b0c52291d062c2bc9f6b48527e43d8925ede76cd84f28deb45014904c31//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fhelp%2Dme%2Dchoose&rut=c2d1980b3814cfbea6e4efa81604d443e2346effaf08776901516319dab260ed//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fstore%2Dcollections&rut=9300515b52d2bc3d9378c66789fe5b3658393ef9f0136f33afe5d6a7359d11e3//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Ds6&rut=c8ef753ddc279fe28fc03f0822616e4ff4825be065ade7bea2fade36e6cd914d"
+      },
+      {
+        "index": 2,
+        "platform": "duckduckgo_html",
+        "title": "Shop Robot Vacuums & Mops - Roborock US Official Store",
+        "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dstore&rut=26cd6183c322cbe0cbf848fdad96bea1d6ecb478c4c0b3165c10839535a821b5"
+      },
+      {
+        "index": 3,
+        "platform": "duckduckgo_html",
+        "title": "Robot Vacuums | Roborock US Official Store",
+        "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Frobot%2Dvacuums%3Fname%3Dsaros%2Dseries&rut=33264b57ef6012b5e40890f8b2d3e996dedce7df83c891b691585af48bfa50f9"
+      },
+      {
+        "index": 4,
+        "platform": "duckduckgo_html",
+        "title": "App Robot Vacuums | Roborock US Official Store",
+        "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Fapp%2Drobot%2Dlist&rut=1c3b94a4767f4ef8748c579ba7bcfd8c050c8e5df18fa526910756d35fdbacbc"
+      },
+      {
+        "index": 5,
+        "platform": "duckduckgo_html",
+        "title": "Roborock Q Series | Roborock US Official Store",
+        "url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fus.roborock.com%2Fpages%2Froborock%2Dq%2Dseries&rut=d631d940c6771d187eb46adecf8174b4f2dcbeee7933d74eb7b9cef55f0b384a"
+      }
+    ],
+    "adapter_timing_ms": 15662
+  },
+  "errors": [
+    {
+      "code": "partial_failure",
+      "message": "4 platforms failed"
+    }
+  ],
+  "meta": {
+    "failed_platforms": 4,
+    "selected_platforms": [
+      "google_direct",
+      "bing_int_direct",
+      "duckduckgo_html",
+      "yahoo_direct",
+      "qwant_direct"
+    ],
+    "downloadable_items": 5
+  }
+}

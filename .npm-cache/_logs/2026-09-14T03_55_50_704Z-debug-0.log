@@ -1,0 +1,42 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.9.0
+2 info using node@v24.14.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\99097\Documents\GitHub\RCEP\.npmrc
+5 silly config load:file:C:\Users\99097\.npmrc
+6 silly config load:file:C:\Users\99097\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm exec @marp-team/marp-cli --version
+8 verbose argv "exec" "--offline" "--yes" "--" "@marp-team/marp-cli" "--version"
+9 verbose logfile logs-max:10 dir:C:\Users\99097\Documents\GitHub\RCEP\.npm-cache\_logs\2026-09-14T03_55_50_704Z-
+10 verbose logfile C:\Users\99097\Documents\GitHub\RCEP\.npm-cache\_logs\2026-09-14T03_55_50_704Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 http fetch GET 200 https://registry.npmjs.org/@marp-team%2fmarp-cli 14ms (cache stale)
+14 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+15 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+16 silly idealTree buildDeps
+17 silly fetch manifest @marp-team/marp-cli@4.5.1
+18 silly packumentCache full:https://registry.npmjs.org/@marp-team%2fmarp-cli cache-miss
+19 silly placeDep ROOT @marp-team/marp-cli@ OK for:  want: 4.5.1
+20 verbose stack Error: request to https://registry.npmjs.org/@marp-team%2fmarp-cli failed: cache mode is 'only-if-cached' but no cached response is available.
+20 verbose stack     at cacheFetch (C:\Program Files\nodejs\node_modules\npm\node_modules\make-fetch-happen\lib\cache\index.js:12:13)
+20 verbose stack     at async fetch (C:\Program Files\nodejs\node_modules\npm\node_modules\make-fetch-happen\lib\fetch.js:98:7)
+20 verbose stack     at async RegistryFetcher.packument (C:\Program Files\nodejs\node_modules\npm\node_modules\pacote\lib\registry.js:90:19)
+20 verbose stack     at async RegistryFetcher.manifest (C:\Program Files\nodejs\node_modules\npm\node_modules\pacote\lib\registry.js:128:23)
+20 verbose stack     at async #fetchManifest (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:1214:20)
+20 verbose stack     at async #nodeFromEdge (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:1052:19)
+20 verbose stack     at async #buildDepStep (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:916:11)
+20 verbose stack     at async Arborist.buildIdealTree (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:170:7)
+20 verbose stack     at async Promise.all (index 1)
+20 verbose stack     at async Arborist.reify (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\reify.js:110:5)
+21 error code ENOTCACHED
+22 error request to https://registry.npmjs.org/@marp-team%2fmarp-cli failed: cache mode is 'only-if-cached' but no cached response is available.
+23 silly unfinished npm timer reify 1789358151666
+24 silly unfinished npm timer reify:loadTrees 1789358151667
+25 verbose cwd C:\Users\99097\Documents\GitHub\RCEP
+26 verbose os Windows_NT 10.0.26200
+27 verbose node v24.14.0
+28 verbose npm  v11.9.0
+29 verbose exit 1
+30 verbose code 1
+31 error A complete log of this run can be found in: C:\Users\99097\Documents\GitHub\RCEP\.npm-cache\_logs\2026-09-14T03_55_50_704Z-debug-0.log

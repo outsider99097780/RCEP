@@ -1,0 +1,10 @@
+{
+  "name": "rcep-report-slides",
+  "private": true,
+  "scripts": {
+    "ppt:build": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File main/build-ppt.ps1"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "4.5.1"
+  }
+}

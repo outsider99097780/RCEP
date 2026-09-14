@@ -1,0 +1,12 @@
+{
+  "markdown.marp.html": "all",
+  "markdown.marp.browser": "chrome",
+  "markdown.marp.browserPath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "markdown.marp.exportType": "pptx",
+  "markdown.marp.exportAutoOpen": true,
+  "markdown.marp.diagnostics.slideContentOverflow": true,
+  "markdown.marp.pptx.editable": "off",
+  "workbench.editorAssociations": {
+    "*.pptx": "cweijan.officeViewer"
+  }
+}

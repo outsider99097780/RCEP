@@ -1,0 +1,143 @@
+{
+  "success": false,
+  "command": "search",
+  "query": "site:global.roborock.com robot vacuum products Saros Qrevo S series",
+  "timestamp": "2026-09-14T12:33:44.100091",
+  "duration_ms": 3011,
+  "data": {
+    "keyword": "site:global.roborock.com robot vacuum products Saros Qrevo S series",
+    "platforms": [
+      "baidu_direct",
+      "so360_direct",
+      "sogou_direct",
+      "duckduckgo_html",
+      "startpage_direct",
+      "brave_direct"
+    ],
+    "limit_per_platform": 10,
+    "timestamp": "2026-09-14T12:33:41.157106",
+    "results": {
+      "baidu_direct": {
+        "platform": "baidu_direct",
+        "keyword": "site:global.roborock.com robot vacuum products Saros Qrevo S series",
+        "success": true,
+        "error": null,
+        "items": [],
+        "total": 0,
+        "timestamp": "2026-09-14T12:33:41.158097",
+        "timing_ms": 1869,
+        "has_results": false,
+        "warning": "No results returned (may indicate API rate limit or network issue)"
+      },
+      "so360_direct": {
+        "platform": "so360_direct",
+        "keyword": "site:global.roborock.com robot vacuum products Saros Qrevo S series",
+        "success": true,
+        "error": null,
+        "items": [
+          {
+            "title": "Roborock Global Official Store | Intelligent Robot Vacuum Cleaner and Mop",
+            "href": "https://www.so.com/link?m=eSqos362TNSlzGELc46Q8%2B2bH54nA%2BKfF5vSQPhgVfVYDdF2rk8fkpi8vkU5Ik6kE67Ssbkxiythq%2Fg7bI61QSdkpMUhSEfqxcRNJQ%2Fg8usuOCapAvnYnWpkDRoOuC8mZ%2FIDpRy5B8St8RIlCUzzlvsYrBVxE3u5YW1adv0b91i1VsI5ET45MUQGaSOoo03TgMme%2B2g%3D%3D",
+            "body": "",
+            "engine": "so360"
+          }
+        ],
+        "total": 1,
+        "timestamp": "2026-09-14T12:33:41.158097",
+        "timing_ms": 1963,
+        "has_results": true
+      },
+      "sogou_direct": {
+        "platform": "sogou_direct",
+        "keyword": "site:global.roborock.com robot vacuum products Saros Qrevo S series",
+        "success": true,
+        "error": null,
+        "items": [],
+        "total": 0,
+        "timestamp": "2026-09-14T12:33:41.159098",
+        "timing_ms": 2020,
+        "has_results": false,
+        "warning": "No results returned (may indicate API rate limit or network issue)"
+      },
+      "startpage_direct": {
+        "platform": "startpage_direct",
+        "keyword": "site:global.roborock.com robot vacuum products Saros Qrevo S series",
+        "success": true,
+        "error": null,
+        "items": [],
+        "total": 0,
+        "timestamp": "2026-09-14T12:33:41.160097",
+        "timing_ms": 2156,
+        "has_results": false,
+        "warning": "No results returned (may indicate API rate limit or network issue)"
+      },
+      "duckduckgo_html": {
+        "platform": "duckduckgo_html",
+        "keyword": "site:global.roborock.com robot vacuum products Saros Qrevo S series",
+        "success": false,
+        "error": "duckduckgo_html search failed: Traceback (most recent call last):\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\duckduckgo\\duckduckgo_no_api.py\", line 82, in <module>\n    print(json.dumps({'results': results}, ensure_ascii=False, indent=2))\nUnicodeEncodeError: 'gbk' codec can't encode character '\\u30fb' in position 3892: illegal multibyte sequence",
+        "items": [],
+        "total": 0,
+        "timestamp": "2026-09-14T12:33:41.159098",
+        "timing_ms": 2460
+      },
+      "brave_direct": {
+        "platform": "brave_direct",
+        "keyword": "site:global.roborock.com robot vacuum products Saros Qrevo S series",
+        "success": false,
+        "error": "brave_direct search failed: Traceback (most recent call last):\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\brave\\base_engine.py\", line 83, in search\n    response.raise_for_status()\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\.uv-cache\\archive-v0\\BX9uYrrz5n7_GEtWt5ec0\\Lib\\site-packages\\requests\\models.py\", line 1167, in raise_for_status\n    raise HTTPError(http_error_msg, response=self)\nrequests.exceptions.HTTPError: 429 Client Error: Too Many Requests for url: https://search.brave.com/search?q=site%3Aglobal.roborock.com%20robot%20vacuum%20products%20Saros%20Qrevo%20S%20series\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\brave\\brave_no_api.py\", line 79, in <module>\n    results = search_brave(args.query, args.max_results, args.proxy)\n              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\brave\\brave_no_api.py\", line 63, in search_brave\n    return engine.search(query, max_results=max_results, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\99097\\Documents\\GitHub\\RCEP\\basic-skills\\union-search\\scripts\\brave\\base_engine.py\", line 91, in search\n    raise Exception(f\"{self.ENGINE_DISPLAY_NAME} 搜索失败：{str(e)}\")\nException: Brave 搜索 搜索失败：429 Client Error: Too Many Requests for url: https://search.brave.com/search?q=site%3Aglobal.roborock.com%20robot%20vacuum%20products%20Saros%20Qrevo%20S%20series",
+        "items": [],
+        "total": 0,
+        "timestamp": "2026-09-14T12:33:43.028559",
+        "timing_ms": 1069
+      }
+    },
+    "summary": {
+      "total_platforms": 6,
+      "successful": 4,
+      "failed": 2,
+      "total_items": 1,
+      "raw_total_items": 1,
+      "deduplicated_total_items": 1,
+      "deduplicated_removed": 0,
+      "deduplicate_enabled": true,
+      "downloadable_items": 1
+    },
+    "final_items": [
+      {
+        "title": "Roborock Global Official Store | Intelligent Robot Vacuum Cleaner and Mop",
+        "href": "https://www.so.com/link?m=eSqos362TNSlzGELc46Q8%2B2bH54nA%2BKfF5vSQPhgVfVYDdF2rk8fkpi8vkU5Ik6kE67Ssbkxiythq%2Fg7bI61QSdkpMUhSEfqxcRNJQ%2Fg8usuOCapAvnYnWpkDRoOuC8mZ%2FIDpRy5B8St8RIlCUzzlvsYrBVxE3u5YW1adv0b91i1VsI5ET45MUQGaSOoo03TgMme%2B2g%3D%3D",
+        "body": "",
+        "engine": "so360",
+        "_source_platform": "so360_direct"
+      }
+    ],
+    "download_candidates": [
+      {
+        "index": 1,
+        "platform": "so360_direct",
+        "title": "Roborock Global Official Store | Intelligent Robot Vacuum Cleaner and Mop",
+        "url": "https://www.so.com/link?m=eSqos362TNSlzGELc46Q8%2B2bH54nA%2BKfF5vSQPhgVfVYDdF2rk8fkpi8vkU5Ik6kE67Ssbkxiythq%2Fg7bI61QSdkpMUhSEfqxcRNJQ%2Fg8usuOCapAvnYnWpkDRoOuC8mZ%2FIDpRy5B8St8RIlCUzzlvsYrBVxE3u5YW1adv0b91i1VsI5ET45MUQGaSOoo03TgMme%2B2g%3D%3D"
+      }
+    ],
+    "adapter_timing_ms": 2942
+  },
+  "errors": [
+    {
+      "code": "partial_failure",
+      "message": "2 platforms failed"
+    }
+  ],
+  "meta": {
+    "failed_platforms": 2,
+    "selected_platforms": [
+      "baidu_direct",
+      "so360_direct",
+      "sogou_direct",
+      "duckduckgo_html",
+      "startpage_direct",
+      "brave_direct"
+    ],
+    "downloadable_items": 1
+  }
+}
