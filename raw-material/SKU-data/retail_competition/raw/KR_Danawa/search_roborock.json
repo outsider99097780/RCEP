@@ -1,0 +1,253 @@
+{
+  "source_url": "https://search.danawa.com/dsearch.php?query=%EB%A1%9C%EB%B3%B4%EB%9D%BD%20%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0",
+  "query": "로보락 로봇청소기",
+  "accessed_at": "2026-10-02T22:48:13+08:00",
+  "http_status": 200,
+  "page_title": "로보락 로봇청소기 : 다나와 통합검색",
+  "content_sha256": "6f13eb1d2eca82c39656a48810eb5bc1d1e252f4756e1ac840619c37fba52883",
+  "candidate_count": 40,
+  "selected_count": 20,
+  "selection_rule": "first 20 eligible ItemList entries in public search order",
+  "candidates": [
+    {
+      "pcode": "106736861",
+      "url": "https://prod.danawa.com/info/?pcode=106736861",
+      "name": "로보락 S10 MaxV Ultra (화이트)",
+      "position": "1"
+    },
+    {
+      "pcode": "124034050",
+      "url": "https://prod.danawa.com/info/?pcode=124034050",
+      "name": "로보락 Qrevo L Pro",
+      "position": "2"
+    },
+    {
+      "pcode": "106734668",
+      "url": "https://prod.danawa.com/info/?pcode=106734668",
+      "name": "로보락 S10 MaxV Ultra 직배수 (화이트)",
+      "position": "3"
+    },
+    {
+      "pcode": "90500882",
+      "url": "https://prod.danawa.com/info/?pcode=90500882",
+      "name": "로보락 Q8 Plus",
+      "position": "4"
+    },
+    {
+      "pcode": "122638245",
+      "url": "https://prod.danawa.com/info/?pcode=122638245",
+      "name": "로보락 S10 MaxV Slim 직배수",
+      "position": "5"
+    },
+    {
+      "pcode": "93806333",
+      "url": "https://prod.danawa.com/info/?pcode=93806333",
+      "name": "로보락 S9 MaxV Ultra 직배수 (화이트)",
+      "position": "6"
+    },
+    {
+      "pcode": "103752161",
+      "url": "https://prod.danawa.com/info/?pcode=103752161&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Qrevo Curv 2 Flow",
+      "position": 8
+    },
+    {
+      "pcode": "122638233",
+      "url": "https://prod.danawa.com/info/?pcode=122638233&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S10 MaxV Slim",
+      "position": 10
+    },
+    {
+      "pcode": "122677231",
+      "url": "https://prod.danawa.com/info/?pcode=122677231&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Qrevo Edge 2",
+      "position": 11
+    },
+    {
+      "pcode": "93805973",
+      "url": "https://prod.danawa.com/info/?pcode=93805973&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S8 Pro Plus",
+      "position": 12
+    },
+    {
+      "pcode": "90434336",
+      "url": "https://prod.danawa.com/info/?pcode=90434336&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Q8 Max Pro Plus",
+      "position": 14
+    },
+    {
+      "pcode": "123695610",
+      "url": "https://prod.danawa.com/info/?pcode=123695610&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Qrevo 2 Pro",
+      "position": 15
+    },
+    {
+      "pcode": "93806297",
+      "url": "https://prod.danawa.com/info/?pcode=93806297&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S9 MaxV Ultra",
+      "position": 17
+    },
+    {
+      "pcode": "98768915",
+      "url": "https://prod.danawa.com/info/?pcode=98768915&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Qrevo C Pro",
+      "position": 18
+    },
+    {
+      "pcode": "19522775",
+      "url": "https://prod.danawa.com/info/?pcode=19522775&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S8 Pro Ultra",
+      "position": 19
+    },
+    {
+      "pcode": "89526515",
+      "url": "https://prod.danawa.com/info/?pcode=89526515&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Qrevo L",
+      "position": 20
+    },
+    {
+      "pcode": "93806468",
+      "url": "https://prod.danawa.com/info/?pcode=93806468&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S9 MaxV Slim 직배수",
+      "position": 21
+    },
+    {
+      "pcode": "123806395",
+      "url": "https://prod.danawa.com/info/?pcode=123806395&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=102207",
+      "name": "로보락 F25 Ultra + 로봇 청소기 Q8 Max Pro Plus",
+      "position": 22
+    },
+    {
+      "pcode": "90886772",
+      "url": "https://prod.danawa.com/info/?pcode=90886772&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Q8",
+      "position": 23
+    },
+    {
+      "pcode": "49829777",
+      "url": "https://prod.danawa.com/info/?pcode=49829777&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Qrevo Pro",
+      "position": 24
+    },
+    {
+      "pcode": "15140549",
+      "url": "https://prod.danawa.com/info/?pcode=15140549&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S7 Plus",
+      "position": 25
+    },
+    {
+      "pcode": "76509278",
+      "url": "https://prod.danawa.com/info/?pcode=76509278&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S9 MaxV Slim",
+      "position": 26
+    },
+    {
+      "pcode": "123806323",
+      "url": "https://prod.danawa.com/info/?pcode=123806323&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=102207",
+      "name": "로보락 F25 Ace Pro + 로봇 청소기 Q8 Max Pro Plus",
+      "position": 27
+    },
+    {
+      "pcode": "46568612",
+      "url": "https://prod.danawa.com/info/?pcode=46568612&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S8 MaxV Ultra",
+      "position": 28
+    },
+    {
+      "pcode": "78781088",
+      "url": "https://prod.danawa.com/info/?pcode=78781088&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Qrevo Edge C",
+      "position": 29
+    },
+    {
+      "pcode": "19702394",
+      "url": "https://prod.danawa.com/info/?pcode=19702394&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S8 Plus",
+      "position": 30
+    },
+    {
+      "pcode": "91351283",
+      "url": "https://prod.danawa.com/info/?pcode=91351283&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Saros Z70",
+      "position": 31
+    },
+    {
+      "pcode": "93805949",
+      "url": "https://prod.danawa.com/info/?pcode=93805949&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S8 Pro",
+      "position": 32
+    },
+    {
+      "pcode": "74546438",
+      "url": "https://prod.danawa.com/info/?pcode=74546438&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Qrevo Pro 직배수",
+      "position": 33
+    },
+    {
+      "pcode": "109599746",
+      "url": "https://prod.danawa.com/info/?pcode=109599746&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S10 MaxV Ultra + 핸디스틱 청소기 H60 Hub Ultra",
+      "position": 34
+    },
+    {
+      "pcode": "71422415",
+      "url": "https://prod.danawa.com/info/?pcode=71422415&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Qrevo Curv",
+      "position": 35
+    },
+    {
+      "pcode": "20504012",
+      "url": "https://prod.danawa.com/info/?pcode=20504012&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S7 Max Ultra",
+      "position": 36
+    },
+    {
+      "pcode": "93806048",
+      "url": "https://prod.danawa.com/info/?pcode=93806048&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Saros Z70 직배수",
+      "position": 37
+    },
+    {
+      "pcode": "28597646",
+      "url": "https://prod.danawa.com/info/?pcode=28597646&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Q8 Max Plus",
+      "position": 38
+    },
+    {
+      "pcode": "30622235",
+      "url": "https://prod.danawa.com/info/?pcode=30622235&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Qrevo",
+      "position": 39
+    },
+    {
+      "pcode": "88135769",
+      "url": "https://prod.danawa.com/info/?pcode=88135769&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Qrevo C",
+      "position": 40
+    },
+    {
+      "pcode": "19702361",
+      "url": "https://prod.danawa.com/info/?pcode=19702361&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S8",
+      "position": 41
+    },
+    {
+      "pcode": "17735891",
+      "url": "https://prod.danawa.com/info/?pcode=17735891&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S7 MaxV Ultra",
+      "position": 42
+    },
+    {
+      "pcode": "65370506",
+      "url": "https://prod.danawa.com/info/?pcode=65370506&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 Qrevo S",
+      "position": 43
+    },
+    {
+      "pcode": "46607414",
+      "url": "https://prod.danawa.com/info/?pcode=46607414&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "로보락 S8 Max Ultra",
+      "position": 44
+    }
+  ]
+}

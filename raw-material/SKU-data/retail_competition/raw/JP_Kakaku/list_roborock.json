@@ -1,0 +1,33 @@
+{
+  "source_url": "https://kakaku.com/kaden/robot-cleaner/itemlist.aspx?pdf_ma=18793",
+  "accessed_at": "2026-10-02T22:36:45+08:00",
+  "http_status": 200,
+  "page_title": "価格.com - Roborockのロボット掃除機 比較 2026年人気売れ筋ランキング",
+  "content_sha256": "3b5eda3914f546a8aaed1c5c4dab0a5333ff45f5251a55f307acdcb48d74ee63",
+  "brand": "Roborock",
+  "candidate_count": 20,
+  "selected_count": 20,
+  "selection_rule": "first 20 unique product pages in public brand category order",
+  "candidate_urls": [
+    "https://kakaku.com/item/K0001691577/",
+    "https://kakaku.com/item/K0001764901/",
+    "https://kakaku.com/item/K0001785912/",
+    "https://kakaku.com/item/K0001693090/",
+    "https://kakaku.com/item/K0001693087/",
+    "https://kakaku.com/item/K0001691578/",
+    "https://kakaku.com/item/K0001804136/",
+    "https://kakaku.com/item/K0001798973/",
+    "https://kakaku.com/item/K0001691579/",
+    "https://kakaku.com/item/K0001701115/",
+    "https://kakaku.com/item/K0001693088/",
+    "https://kakaku.com/item/K0001609148/",
+    "https://kakaku.com/item/K0001691580/",
+    "https://kakaku.com/item/K0001646859/",
+    "https://kakaku.com/item/K0001378494/",
+    "https://kakaku.com/item/K0001590654/",
+    "https://kakaku.com/item/K0001670756/",
+    "https://kakaku.com/item/K0001430400/",
+    "https://kakaku.com/item/K0001646858/",
+    "https://kakaku.com/item/K0001798974/"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_url": "https://search.danawa.com/dsearch.php?query=%EB%82%98%EB%A5%B4%EC%99%88%20%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0",
+  "query": "나르왈 로봇청소기",
+  "accessed_at": "2026-10-02T22:50:34+08:00",
+  "http_status": 200,
+  "page_title": "나르왈 로봇청소기 : 다나와 통합검색",
+  "content_sha256": "35645a591acdd168d506288a092922f215568c538c923df4c572a101d48e6d7c",
+  "candidate_count": 13,
+  "selected_count": 13,
+  "selection_rule": "first 20 eligible ItemList entries in public search order",
+  "candidates": [
+    {
+      "pcode": "78234203",
+      "url": "https://prod.danawa.com/info/?pcode=78234203",
+      "name": "나르왈 Freo Z10 Ultra",
+      "position": "1"
+    },
+    {
+      "pcode": "29620616",
+      "url": "https://prod.danawa.com/info/?pcode=29620616",
+      "name": "나르왈 Freo X Ultra (일반구매)",
+      "position": "2"
+    },
+    {
+      "pcode": "99895796",
+      "url": "https://prod.danawa.com/info/?pcode=99895796",
+      "name": "나르왈 Flow 직배수",
+      "position": "3"
+    },
+    {
+      "pcode": "90116402",
+      "url": "https://prod.danawa.com/info/?pcode=90116402",
+      "name": "나르왈 Freo Z10",
+      "position": "4"
+    },
+    {
+      "pcode": "70333835",
+      "url": "https://prod.danawa.com/info/?pcode=70333835",
+      "name": "나르왈 Freo Z Ultra (일반구매)",
+      "position": "5"
+    },
+    {
+      "pcode": "99895748",
+      "url": "https://prod.danawa.com/info/?pcode=99895748",
+      "name": "나르왈 Flow",
+      "position": "6"
+    },
+    {
+      "pcode": "17974391",
+      "url": "https://prod.danawa.com/info/?pcode=17974391&keyword=%EB%82%98%EB%A5%B4%EC%99%88+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "나르왈 Freo",
+      "position": 8
+    },
+    {
+      "pcode": "109915900",
+      "url": "https://prod.danawa.com/info/?pcode=109915900&keyword=%EB%82%98%EB%A5%B4%EC%99%88+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "나르왈 Freo Z10 Ultra 직배수",
+      "position": 10
+    },
+    {
+      "pcode": "75935846",
+      "url": "https://prod.danawa.com/info/?pcode=75935846&keyword=%EB%82%98%EB%A5%B4%EC%99%88+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "나르왈 Freo PRO",
+      "position": 11
+    },
+    {
+      "pcode": "46894550",
+      "url": "https://prod.danawa.com/info/?pcode=46894550&keyword=%EB%82%98%EB%A5%B4%EC%99%88+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "나르왈 Freo X Plus",
+      "position": 12
+    },
+    {
+      "pcode": "31473011",
+      "url": "https://prod.danawa.com/info/?pcode=31473011&keyword=%EB%82%98%EB%A5%B4%EC%99%88+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "나르왈 J4 LITE",
+      "position": 14
+    },
+    {
+      "pcode": "29619356",
+      "url": "https://prod.danawa.com/info/?pcode=29619356&keyword=%EB%82%98%EB%A5%B4%EC%99%88+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "나르왈 J3",
+      "position": 15
+    },
+    {
+      "pcode": "108401843",
+      "url": "https://prod.danawa.com/info/?pcode=108401843&keyword=%EB%82%98%EB%A5%B4%EC%99%88+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10253382",
+      "name": "나르왈 Freo, Flow 전용 먼지봉투",
+      "position": 18
+    }
+  ]
+}

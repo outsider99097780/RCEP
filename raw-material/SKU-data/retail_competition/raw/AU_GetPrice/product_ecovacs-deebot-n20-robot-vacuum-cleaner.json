@@ -1,0 +1,73 @@
+{
+  "source_url": "https://www.getprice.com.au/product/ecovacs-deebot-n20-robot-vacuum-cleaner",
+  "accessed_at": "2026-10-02T22:46:21+08:00",
+  "http_status": 200,
+  "page_title": "Best Ecovacs Deebot N20 Prices in Australia | Getprice",
+  "content_sha256": "476dca02cadb4783b20efeaa0f7b0eb597ec000b5abe6153876641f91fbf1d4d",
+  "parsed_product": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Ecovacs Deebot N20",
+    "image": "https://images.getprice.com.au/images/products/264351.jpeg?bg-color=ffffff&format=webp&fit=bounds&optimize=low&canvas=350,350&height=350&width=350",
+    "url": "/product/ecovacs-deebot-n20-robot-vacuum-cleaner",
+    "brand": {
+      "@context": "https://schema.org",
+      "@type": "Brand",
+      "name": "Ecovacs"
+    },
+    "offers": {
+      "@context": "https://schema.org",
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "priceCurrency": "AUD",
+      "highPrice": 469.95,
+      "lowPrice": 284,
+      "offerCount": 3
+    }
+  },
+  "parsed_offers": [
+    {
+      "retailer_name": "Amazon AU Logo",
+      "offer_price": 284,
+      "currency": "AUD",
+      "shipping": "+ Shipping",
+      "stock_status": "",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "ECOVACS DEEBOT N20 Robot Vacuum Cleaner and Mop,8000Pa Strong Suction $284 62% off RRP + Shipping Go to Shop"
+    },
+    {
+      "retailer_name": "",
+      "offer_price": 359,
+      "currency": "AUD",
+      "shipping": "+ Shipping",
+      "stock_status": "",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "DEEBOT N20 Black Robot Vacuum & Mop with Mapping (Anti-Tangle, Voice Control, App) $359 + Shipping Go to Shop"
+    },
+    {
+      "retailer_name": "eBay Logo",
+      "offer_price": 469,
+      "currency": "AUD",
+      "shipping": "+ Shipping",
+      "stock_status": "",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "Ecovacs Deebot N20 Robot Vacuum Cleaner And Mop,8000pa Strong Suction, Zerotangl $469.95 + Shipping Go to Shop"
+    }
+  ],
+  "evidence_excerpt": "Best Ecovacs Deebot N20 Prices in Australia | Getprice Get the best deals and the lowest prices Discount coupons Deals, news & guides Sign up to our newsletter Browse by category Electronics Phones & Mobile Accessories Mobile Phones Smartwatches Mobile Phone Accessories Smartwatch Accessories Power banks See All Cameras & Video Cameras Digital Cameras Video Cameras Camera Lenses Drones Camera Accessories See All Home Audio Headphones Speakers Home Theatre Systems Radios Hi-Fi Mini Systems See All TV & Video Televisions Media Streaming Devices Blu-ray Players Projectors TV Mounts & Brackets See All Portable Electronics Bluetooth & Portable Speakers EReaders EReader Accessories Boomboxes Portable CD Players See All Audio Visual Equipment Audio & Video Accessories Studio And Stage Equipment Audio Visual Cables Studio Microphones See All Accessories Security Systems & Surveillance Remote Controls Electronic Components Home Automation Batteries See All Musical Instruments Drums Musical Instrument Accessories Guitars Other String Instruments Flutes See All Smart Home Smart Speakers Smart Displays Smart Lights See All PDAs & Mobile Electronics PDAs MP3 & Media Players GPS Devices PDA Acce"
+}

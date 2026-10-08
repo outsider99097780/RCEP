@@ -1,0 +1,171 @@
+{
+  "source_url": "https://kakaku.com/item/K0001764901/",
+  "accessed_at": "2026-10-02T22:36:48+08:00",
+  "http_status": 200,
+  "page_title": "Roborock Qrevo Curv 2 Pro 価格比較 - 価格.com",
+  "content_sha256": "0082d9b4df91711a1e1e97bde112e72081fec35850c69654264ee906bc082116",
+  "parsed_product": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Qrevo Curv 2 Pro",
+    "image": "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001764901.jpg",
+    "url": "https://kakaku.com/item/K0001764901/",
+    "brand": {
+      "@type": "Brand",
+      "name": "Roborock"
+    },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "99800",
+      "priceCurrency": "JPY"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.00",
+      "reviewCount": "2"
+    }
+  },
+  "parsed_offers": [
+    {
+      "retailer_name": "アーチ 代引は平日15時・土曜14時までのご注文、振込は平日15時・土曜14時までにご入金確認で当日発送（一部商品を除く） 振込 その他",
+      "offer_price": 99800,
+      "currency": "JPY",
+      "shipping": "無料",
+      "stock_status": "in_stock",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "99,800 円 (最安) 無料 在庫あり 店頭販売あり アーチ 代引は平日15時・土曜14時までのご注文、振込は平日15時・土曜14時までにご入金確認で当日発送（一部商品を除く） 振込 その他 ショップの 売り場へ行く"
+    },
+    {
+      "retailer_name": "アーチ",
+      "offer_price": 99800,
+      "currency": "JPY",
+      "shipping": "無料",
+      "stock_status": "in_stock",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "99,800 円 (最安) 無料 在庫あり アーチ ★クレジットカード・PayPay・コンビニ決済のお支払いに対応しております★ クレカ 振込 その他 ショップの 売り場へ行く"
+    },
+    {
+      "retailer_name": "楽天市場",
+      "offer_price": 153300,
+      "currency": "JPY",
+      "shipping": "無料",
+      "stock_status": "inquiry",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "153,300 円 (+53,500) 1,393 円相当 無料 問合せ 楽天市場 ★★楽天市場★★なら、いつでもポイントがもらえる、使える！ ショップに 問い合わせる"
+    },
+    {
+      "retailer_name": "アーチ 代引は平日15時・土曜14時までのご注文、振込は平日15時・土曜14時までにご入金確認で当日発送（一部商品を除く） 代引 振込",
+      "offer_price": 99800,
+      "currency": "JPY",
+      "shipping": "無料",
+      "stock_status": "in_stock",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "1 99,800 円 (最安) 無料 在庫あり 店頭販売あり アーチ 代引は平日15時・土曜14時までのご注文、振込は平日15時・土曜14時までにご入金確認で当日発送（一部商品を除く） 代引 振込 ショップの 売り場へ行く"
+    },
+    {
+      "retailer_name": "アーチ カートに入れる",
+      "offer_price": 99800,
+      "currency": "JPY",
+      "shipping": "無料",
+      "stock_status": "in_stock",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "1 99,800 円 (最安) 無料 在庫あり アーチ カートに入れる ★クレジットカード・PayPay・コンビニ決済のお支払いに対応しております★ クレカ 代引 振込 価格.comID購入 ショップの 売り場へ行く"
+    },
+    {
+      "retailer_name": "e-zoa-lite.com 東証スタンダード上場の安心ショップ。15時までなら最短当日発送も可能。コンビニ決済も使えます。 代引 振込 延長保証",
+      "offer_price": 149160,
+      "currency": "JPY",
+      "shipping": "無料",
+      "stock_status": "in_stock",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "3 149,160 円 (+49,360) 無料 在庫あり e-zoa-lite.com 東証スタンダード上場の安心ショップ。15時までなら最短当日発送も可能。コンビニ決済も使えます。 代引 振込 延長保証 ショップの 売り場へ行く"
+    },
+    {
+      "retailer_name": "ECカレント 15時までの注文で当日出荷！Vポイントが貯まる、使える！/AmazonPay、楽天ペイ、PayPay、d払いご利用可能！ クレカ 代引 振込 延長保証",
+      "offer_price": 153780,
+      "currency": "JPY",
+      "shipping": "無料",
+      "stock_status": "in_stock",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "5 153,780 円 (+53,980) 無料 在庫あり ECカレント 15時までの注文で当日出荷！Vポイントが貯まる、使える！/AmazonPay、楽天ペイ、PayPay、d払いご利用可能！ クレカ 代引 振込 延長保証 ショップの 売り場へ行く"
+    },
+    {
+      "retailer_name": "特価COM 15時までの注文で当日出荷！安さを追求！[銀行振込][代引き]のみで現金特価を実現！ 代引 振込 延長保証",
+      "offer_price": 153780,
+      "currency": "JPY",
+      "shipping": "無料",
+      "stock_status": "in_stock",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "5 153,780 円 (+53,980) 無料 在庫あり 特価COM 15時までの注文で当日出荷！安さを追求！[銀行振込][代引き]のみで現金特価を実現！ 代引 振込 延長保証 ショップの 売り場へ行く"
+    },
+    {
+      "retailer_name": "eBEST 15時までの注文で当日出荷！AmazonPay、PayPay、ｄ払いご利用可能！Vポイントが貯まる、使える！ クレカ 代引 振込 延長保証",
+      "offer_price": 153780,
+      "currency": "JPY",
+      "shipping": "無料",
+      "stock_status": "in_stock",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "5 153,780 円 (+53,980) 無料 在庫あり eBEST 15時までの注文で当日出荷！AmazonPay、PayPay、ｄ払いご利用可能！Vポイントが貯まる、使える！ クレカ 代引 振込 延長保証 ショップの 売り場へ行く"
+    },
+    {
+      "retailer_name": "e-zoa.com Amazon Pay導入しました！Amazonアカウントで“すぐ買える”便利な通販サイトです。 クレカ 代引 振込 延長保証",
+      "offer_price": 153780,
+      "currency": "JPY",
+      "shipping": "無料",
+      "stock_status": "in_stock",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "5 153,780 円 (+53,980) 無料 在庫あり e-zoa.com Amazon Pay導入しました！Amazonアカウントで“すぐ買える”便利な通販サイトです。 クレカ 代引 振込 延長保証 ショップの 売り場へ行く"
+    }
+  ],
+  "evidence_excerpt": "Roborock Qrevo Curv 2 Pro 価格比較 - 価格.com Roborock Qrevo Curv 2 Pro 価格比較 ホーム 家電 掃除機 掃除機 ロボット掃除機 Roborock 掃除機 Roborock ロボット掃除機 Roborock Qrevo Curv 2 Pro ※認定販売店以外で購入された製品は、保証期間内の故障でも無償修理の対象外となる場合がございます。保証に関しては購入ショップへお問い合わせください。 Roborock Roborock Qrevo Curv 2 Pro 最安価格 99,800 円 価格推移グラフ メーカー希望小売価格： オープン 売れ筋ランキング 109 位 (4814製品中) レビュー 5.00 (2件) クチコミ 3 件 お気に入り お気に入り (51人) スペック・仕様 すべてのスペック・仕様を見る タイプ ロボット メーカー公式情報 メーカートップページ メーカー製品情報ページ Qrevo Curv 2 Pro 価格： 153,300 円 1,393 円相当 ★★楽天市場★★なら、いつでもポイントがもらえる、使える！ 絞り込み サービス 延長保証あり 価格.comID購入に対応 支払方法 クレジットカード 銀行振込 コンビニ決済 代金引換 ショッピングローン 現金書留 価格.com決済のみ 価格.com決済とは ご利用の流れ 価格.comIDで決済可能、商品未着時の返金サービス付きの安心・便利な決済方法です。手数料は原則無料でご利用可能です。 このショップが対応している価格.com決済 クレジットカード: 価格.comIDに登録したカードで支払可能 銀行振込 (ペイジー): ATM・ネットバンキングで支払可能 コンビニ決済: コンビニで支払可能 在庫・発送の目安 指定なし 在庫あり （発送 当日〜2営業日） 3営業日以内 4営業日以内 5営業日以内 10営業日以内 店頭販売あり ※在庫の有無は事前にショップまでご確認ください この条件で変更 最安値ショップ 価格.comに掲載しているショップの中で、最安値のショップを表示しています。 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 新潟県 山梨県 長野県 富山県 石川県 福井県 岐阜県 静岡県 愛知県 三重県 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 鳥取県 島根県 岡山県 広島県 山口県 徳島県 香川県 愛媛県 高知県 福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県 沖縄県 送料込み 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 新潟県 山梨県 長野県 富山県 石川県 福井県 岐阜県 静岡県"
+}

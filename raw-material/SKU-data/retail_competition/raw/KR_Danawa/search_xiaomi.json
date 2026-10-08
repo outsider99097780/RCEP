@@ -1,0 +1,253 @@
+{
+  "source_url": "https://search.danawa.com/dsearch.php?query=%EC%83%A4%EC%98%A4%EB%AF%B8%20%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0",
+  "query": "샤오미 로봇청소기",
+  "accessed_at": "2026-10-02T22:49:24+08:00",
+  "http_status": 200,
+  "page_title": "샤오미 로봇청소기 : 다나와 통합검색",
+  "content_sha256": "a27df447a09c8566a209e79698f9eca558c392b8349ad7376750fb675b81abb0",
+  "candidate_count": 40,
+  "selected_count": 20,
+  "selection_rule": "first 20 eligible ItemList entries in public search order",
+  "candidates": [
+    {
+      "pcode": "67624655",
+      "url": "https://prod.danawa.com/info/?pcode=67624655",
+      "name": "샤오미 S20",
+      "position": "1"
+    },
+    {
+      "pcode": "44905913",
+      "url": "https://prod.danawa.com/info/?pcode=44905913",
+      "name": "샤오미 미지아 M30S D103CN (해외구매)",
+      "position": "2"
+    },
+    {
+      "pcode": "15047528",
+      "url": "https://prod.danawa.com/info/?pcode=15047528",
+      "name": "샤오미 미홀 C66S (해외구매)",
+      "position": "3"
+    },
+    {
+      "pcode": "67581767",
+      "url": "https://prod.danawa.com/info/?pcode=67581767",
+      "name": "샤오미 E10",
+      "position": "4"
+    },
+    {
+      "pcode": "97569560",
+      "url": "https://prod.danawa.com/info/?pcode=97569560",
+      "name": "샤오미 미지아 5C 직배수 (해외구매)",
+      "position": "5"
+    },
+    {
+      "pcode": "91346171",
+      "url": "https://prod.danawa.com/info/?pcode=91346171",
+      "name": "샤오미 미지아 M40S (해외구매)",
+      "position": "6"
+    },
+    {
+      "pcode": "4541478",
+      "url": "https://prod.danawa.com/info/?pcode=4541478&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 로봇 청소기 1세대",
+      "position": 8
+    },
+    {
+      "pcode": "124181947",
+      "url": "https://prod.danawa.com/info/?pcode=124181947&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 H50 Pro",
+      "position": 10
+    },
+    {
+      "pcode": "28158248",
+      "url": "https://prod.danawa.com/info/?pcode=28158248&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 X10 Plus",
+      "position": 11
+    },
+    {
+      "pcode": "95421062",
+      "url": "https://prod.danawa.com/info/?pcode=95421062&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미홀 C9 ALL",
+      "position": 12
+    },
+    {
+      "pcode": "30361877",
+      "url": "https://prod.danawa.com/info/?pcode=30361877&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 M30 Pro C107",
+      "position": 14
+    },
+    {
+      "pcode": "18007598",
+      "url": "https://prod.danawa.com/info/?pcode=18007598&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 1S B116",
+      "position": 15
+    },
+    {
+      "pcode": "71500928",
+      "url": "https://prod.danawa.com/info/?pcode=71500928&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미홀 C77S AIR",
+      "position": 17
+    },
+    {
+      "pcode": "65915708",
+      "url": "https://prod.danawa.com/info/?pcode=65915708&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미홀 M9 Lite",
+      "position": 18
+    },
+    {
+      "pcode": "68364548",
+      "url": "https://prod.danawa.com/info/?pcode=68364548&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 M40",
+      "position": 19
+    },
+    {
+      "pcode": "16898933",
+      "url": "https://prod.danawa.com/info/?pcode=16898933&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 B101CN",
+      "position": 20
+    },
+    {
+      "pcode": "68538818",
+      "url": "https://prod.danawa.com/info/?pcode=68538818&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 ArtDog S6",
+      "position": 21
+    },
+    {
+      "pcode": "97569173",
+      "url": "https://prod.danawa.com/info/?pcode=97569173&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 5C",
+      "position": 22
+    },
+    {
+      "pcode": "123961377",
+      "url": "https://prod.danawa.com/info/?pcode=123961377&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 6",
+      "position": 23
+    },
+    {
+      "pcode": "11534015",
+      "url": "https://prod.danawa.com/info/?pcode=11534015&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 HUTT DDC55",
+      "position": 24
+    },
+    {
+      "pcode": "124181966",
+      "url": "https://prod.danawa.com/info/?pcode=124181966&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 H50",
+      "position": 25
+    },
+    {
+      "pcode": "17577893",
+      "url": "https://prod.danawa.com/info/?pcode=17577893&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 HUTT C6",
+      "position": 26
+    },
+    {
+      "pcode": "123961291",
+      "url": "https://prod.danawa.com/info/?pcode=123961291&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 6 Max",
+      "position": 27
+    },
+    {
+      "pcode": "25704764",
+      "url": "https://prod.danawa.com/info/?pcode=25704764&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 스마트 올인원 로봇 청소기 2세대 C102CN",
+      "position": 28
+    },
+    {
+      "pcode": "45247829",
+      "url": "https://prod.danawa.com/info/?pcode=45247829&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 M30S D103CN 직배수",
+      "position": 29
+    },
+    {
+      "pcode": "16866575",
+      "url": "https://prod.danawa.com/info/?pcode=16866575&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미홀 M8 lite",
+      "position": 30
+    },
+    {
+      "pcode": "78096323",
+      "url": "https://prod.danawa.com/info/?pcode=78096323&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 H40",
+      "position": 31
+    },
+    {
+      "pcode": "98924015",
+      "url": "https://prod.danawa.com/info/?pcode=98924015&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 5 Pro",
+      "position": 32
+    },
+    {
+      "pcode": "15191684",
+      "url": "https://prod.danawa.com/info/?pcode=15191684&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 HUTT W600",
+      "position": 33
+    },
+    {
+      "pcode": "71643902",
+      "url": "https://prod.danawa.com/info/?pcode=71643902&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 HUTT DDC56",
+      "position": 34
+    },
+    {
+      "pcode": "16865399",
+      "url": "https://prod.danawa.com/info/?pcode=16865399&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 3C",
+      "position": 35
+    },
+    {
+      "pcode": "20419844",
+      "url": "https://prod.danawa.com/info/?pcode=20419844&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 3S",
+      "position": 36
+    },
+    {
+      "pcode": "17694683",
+      "url": "https://prod.danawa.com/info/?pcode=17694683&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미홀 2세대 PRO C77S",
+      "position": 37
+    },
+    {
+      "pcode": "71502302",
+      "url": "https://prod.danawa.com/info/?pcode=71502302&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 X20 Pro",
+      "position": 38
+    },
+    {
+      "pcode": "27649793",
+      "url": "https://prod.danawa.com/info/?pcode=27649793&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 3C Pro",
+      "position": 39
+    },
+    {
+      "pcode": "14242328",
+      "url": "https://prod.danawa.com/info/?pcode=14242328&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 HUTT W77",
+      "position": 40
+    },
+    {
+      "pcode": "55470260",
+      "url": "https://prod.danawa.com/info/?pcode=55470260&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 미지아 M30 D102",
+      "position": 41
+    },
+    {
+      "pcode": "19879298",
+      "url": "https://prod.danawa.com/info/?pcode=19879298&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 ArtDog S8",
+      "position": 42
+    },
+    {
+      "pcode": "12240263",
+      "url": "https://prod.danawa.com/info/?pcode=12240263&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "샤오미 HUTT W66",
+      "position": 43
+    },
+    {
+      "pcode": "99698555",
+      "url": "https://prod.danawa.com/info/?pcode=99698555&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=16249278",
+      "name": "샤오미 BRR-2P4S-5200S 로봇 진공 청소기 배터리 Roborock S55 S60 MAX 부품 E45/S45 오리지널 셀 ..",
+      "position": 44
+    }
+  ]
+}

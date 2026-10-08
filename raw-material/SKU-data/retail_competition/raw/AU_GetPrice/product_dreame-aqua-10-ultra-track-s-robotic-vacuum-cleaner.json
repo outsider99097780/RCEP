@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.getprice.com.au/product/dreame-aqua-10-ultra-track-s-robotic-vacuum-cleaner",
+  "accessed_at": "2026-10-02T22:46:36+08:00",
+  "http_status": 200,
+  "page_title": "Best Dreame Aqua 10 Ultra Track S Robotic Prices in Australia | Getprice",
+  "content_sha256": "570f7c701d7d0fdc4da6ddc3da9f99a6deca2e840cda7683813c7664c7471c31",
+  "parsed_product": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Dreame Aqua 10 Ultra Track S Robotic",
+    "image": "https://images.getprice.com.au/images/products/267023.jpeg?bg-color=ffffff&format=webp&fit=bounds&optimize=low&canvas=350,350&height=350&width=350",
+    "url": "/product/dreame-aqua-10-ultra-track-s-robotic-vacuum-cleaner",
+    "brand": {
+      "@context": "https://schema.org",
+      "@type": "Brand",
+      "name": "Dreame"
+    },
+    "offers": {
+      "@context": "https://schema.org",
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "priceCurrency": "AUD",
+      "highPrice": 2999,
+      "lowPrice": 1797,
+      "offerCount": 2
+    }
+  },
+  "parsed_offers": [
+    {
+      "retailer_name": "The Good Guys Logo",
+      "offer_price": 1797,
+      "currency": "AUD",
+      "shipping": "+ Shipping",
+      "stock_status": "",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "Dreame Aqua10 Ultra Track S Robot Vacuum $1,797 + Shipping Go to Shop"
+    },
+    {
+      "retailer_name": "JB Hi-Fi Logo",
+      "offer_price": 2999,
+      "currency": "AUD",
+      "shipping": "+ Shipping",
+      "stock_status": "",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "Dreame Aqua10 Ultra Track S Robot Vacuum Cleaner $2,999 + Shipping Go to Shop"
+    }
+  ],
+  "evidence_excerpt": "Best Dreame Aqua 10 Ultra Track S Robotic Prices in Australia | Getprice Get the best deals and the lowest prices Discount coupons Deals, news & guides Sign up to our newsletter Browse by category Electronics Phones & Mobile Accessories Mobile Phones Smartwatches Mobile Phone Accessories Smartwatch Accessories Power banks See All Cameras & Video Cameras Digital Cameras Video Cameras Camera Lenses Drones Camera Accessories See All Home Audio Headphones Speakers Home Theatre Systems Radios Hi-Fi Mini Systems See All TV & Video Televisions Media Streaming Devices Blu-ray Players Projectors TV Mounts & Brackets See All Portable Electronics Bluetooth & Portable Speakers EReaders EReader Accessories Boomboxes Portable CD Players See All Audio Visual Equipment Audio & Video Accessories Studio And Stage Equipment Audio Visual Cables Studio Microphones See All Accessories Security Systems & Surveillance Remote Controls Electronic Components Home Automation Batteries See All Musical Instruments Drums Musical Instrument Accessories Guitars Other String Instruments Flutes See All Smart Home Smart Speakers Smart Displays Smart Lights See All PDAs & Mobile Electronics PDAs MP3 & Media Players GP"
+}

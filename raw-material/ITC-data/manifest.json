@@ -1,13 +1,13 @@
 {
-  "created_at": "2026-09-05T20:06:32+08:00",
-  "scope": "China exports of ITC HS6 850980 to the 14 other RCEP members; target-market imports from World by supplier",
+  "created_at": "2026-10-03T16:48:55+08:00",
+  "scope": "China exports of ITC HS6 850811 to the 14 other RCEP members; target-market imports from World by supplier",
   "raw_only": false,
   "values_unit": "USD thousand",
   "quantity_unit": "Read the unit field per observation; do not assume if missing",
   "period": "2020-2025",
-  "product_input_china": "85098090.00",
-  "itc_hs6": "850980",
-  "product_label": "Electromechanical domestic appliances, with self-contained electric motor (exclusions apply)",
+  "product_input_china": "85081100",
+  "itc_hs6": "850811",
+  "product_label": "Vacuum cleaners, with self-contained electric motor, power not exceeding 1,500 W and dust bag or other receptacle capacity not exceeding 20 litres",
   "countries": [
     {
       "code": "036",
@@ -80,7 +80,7 @@
       "name": "Viet Nam"
     }
   ],
-  "caveat": "HS 850980 is broader than robotic vacuum cleaners and may contain other domestic appliances. Product correspondence must be treated as a classification caveat.",
+  "caveat": "HS 850811 is broader than robotic vacuum cleaners: it also contains non-robotic vacuum cleaners meeting the power and receptacle-capacity limits.",
   "separation": "Raw tool responses remain under trade-map, market-access-map, export-potential-map; calculations under derived and _modeling-output.",
   "ledger": "source-ledger-master.csv",
   "inventory": "file-inventory-sha256.csv"

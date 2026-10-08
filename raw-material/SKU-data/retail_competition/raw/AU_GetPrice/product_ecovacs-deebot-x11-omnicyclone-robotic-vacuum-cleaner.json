@@ -1,0 +1,45 @@
+{
+  "source_url": "https://www.getprice.com.au/product/ecovacs-deebot-x11-omnicyclone-robotic-vacuum-cleaner",
+  "accessed_at": "2026-10-02T22:46:20+08:00",
+  "http_status": 200,
+  "page_title": "Best Ecovacs Deebot X11 Omnicyclone Robotic Prices in Australia | Getprice",
+  "content_sha256": "50e10c8d09283c2376c51b6ee16dea58e5e37b76d6c62b29c005ab3c1358c2de",
+  "parsed_product": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Ecovacs Deebot X11 Omnicyclone Robotic",
+    "image": "https://images.getprice.com.au/images/products/267029.jpeg?bg-color=ffffff&format=webp&fit=bounds&optimize=low&canvas=350,350&height=350&width=350",
+    "url": "/product/ecovacs-deebot-x11-omnicyclone-robotic-vacuum-cleaner",
+    "brand": {
+      "@context": "https://schema.org",
+      "@type": "Brand",
+      "name": "Ecovacs"
+    },
+    "offers": {
+      "@context": "https://schema.org",
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "priceCurrency": "AUD",
+      "highPrice": 2999,
+      "lowPrice": 899,
+      "offerCount": 6
+    }
+  },
+  "parsed_offers": [
+    {
+      "retailer_name": "Amazon AU Logo",
+      "offer_price": 2999,
+      "currency": "AUD",
+      "shipping": "+ Shipping",
+      "stock_status": "",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "ECOVACS DEEBOT X11 PRO Omni Robot Vacuum&Roller Mop Instant Self-Washing, 75°C Hot Wash, PowerBoost 1000m² Coverage, 19500Pa Suction, AI Agent YIKO, Self-Cleaning for Carpets Pet Hair $899 67% off RRP + Shipping Go to Shop Show more (1) Show less ECOVACS DEEBOT X11 OmniCyclone Robot Vacuum Mop, Bagless Self-Empty Station $2,999 + Shipping Go to Shop"
+    }
+  ],
+  "evidence_excerpt": "Best Ecovacs Deebot X11 Omnicyclone Robotic Prices in Australia | Getprice Get the best deals and the lowest prices Discount coupons Deals, news & guides Sign up to our newsletter Browse by category Electronics Phones & Mobile Accessories Mobile Phones Smartwatches Mobile Phone Accessories Smartwatch Accessories Power banks See All Cameras & Video Cameras Digital Cameras Video Cameras Camera Lenses Drones Camera Accessories See All Home Audio Headphones Speakers Home Theatre Systems Radios Hi-Fi Mini Systems See All TV & Video Televisions Media Streaming Devices Blu-ray Players Projectors TV Mounts & Brackets See All Portable Electronics Bluetooth & Portable Speakers EReaders EReader Accessories Boomboxes Portable CD Players See All Audio Visual Equipment Audio & Video Accessories Studio And Stage Equipment Audio Visual Cables Studio Microphones See All Accessories Security Systems & Surveillance Remote Controls Electronic Components Home Automation Batteries See All Musical Instruments Drums Musical Instrument Accessories Guitars Other String Instruments Flutes See All Smart Home Smart Speakers Smart Displays Smart Lights See All PDAs & Mobile Electronics PDAs MP3 & Media Players "
+}

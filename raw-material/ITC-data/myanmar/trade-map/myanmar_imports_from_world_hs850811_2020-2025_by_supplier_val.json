@@ -1,0 +1,246 @@
+{
+  "nbRecords": 5,
+  "page": 1,
+  "nbRecordPerPage": 500,
+  "nbPages": 1,
+  "records": [
+    {
+      "reporterCd": "104",
+      "partnerCd": "156",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 207,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 157,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 202,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 99,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 71,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "104",
+      "partnerCd": "276",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "104",
+      "partnerCd": "410",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "104",
+      "partnerCd": "458",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 31,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 24,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 5,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 9,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "104",
+      "partnerCd": "764",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null
+        }
+      ]
+    }
+  ],
+  "aggregateRecords": [
+    {
+      "reporterCd": "104",
+      "partnerCd": "000",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 242,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 182,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 209,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 113,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 72,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": null,
+          "flag": null
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "countryCd": "104",
+      "label": null,
+      "labelEn": "UN COMTRADE",
+      "labelFr": "UN COMTRADE",
+      "labelEs": "UN COMTRADE",
+      "labelAr": "UN COMTRADE",
+      "labelRu": "UN COMTRADE",
+      "url": "http://comtrade.un.org",
+      "startingDate": "2010"
+    }
+  ]
+}

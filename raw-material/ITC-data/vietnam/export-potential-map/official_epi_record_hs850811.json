@@ -1,0 +1,28 @@
+{
+  "item": {
+    "code": "704",
+    "name": "Viet Nam",
+    "parent": {
+      "code": "13",
+      "name": "Southeast Asia",
+      "color": "#dac20c",
+      "parent": {
+        "code": "3",
+        "name": "Asia",
+        "color": "#C0392B"
+      }
+    }
+  },
+  "value": 77386488.444,
+  "exportValue": 41793433.333,
+  "realizedPotential": 0.5400611163,
+  "lineLength": 531.15597049,
+  "bubbleSize": 94368516.64,
+  "lineWidth": 2.0109766109,
+  "tariff": 0.05,
+  "xik": 6890294100,
+  "mjk": 43748966.667,
+  "xij": 133577549667,
+  "gap": 0.4599388837,
+  "rank": 26
+}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.14)  14 SEP 2026 12:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.8.14)  6 OCT 2026 03:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -739,194 +739,213 @@ File: ctex-zhmap-windows.tex 2026/07/22 v2.6.4 Windows font map loader for pdfTe
 \openout3 = `main.ent'.
 
  [3]
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 []|\OT1/cmr/m/n/10.95 2025\C70/rm/m/n/10.95/5e t \C70/rm/m/n/10.95/8f € \C70/rm/m/n/10.95/53 „ \C70/rm/m/n/10.95/98 ù|\C70/rm/m/n/10.95/30 ^^A| \OT1/cmr/m/n/10.95 2020--
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 \OT1/cmr/m/n/10.95 2025\C70/rm/m/n/10.95/5e t\OT1/cmr/m/n/10.95 CAGR|\C70/rm/m/n/10.95/30 ^^A| \C70/rm/m/n/10.95/4e - \C70/rm/m/n/10.95/56 ˝ \C70/rm/m/n/10.95/4f õ \C70/rm/m/n/10.95/5e î \C70/rm/m/n/10.95/4e ˝
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--70
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
 []|\OT1/cmr/m/n/10.95 Market Ac-cess
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 []|\C70/rm/m/n/10.95/88 a \C70/rm/m/n/10.95/91 œ \C70/rm/m/n/10.95/5e ^^B \C70/rm/m/n/10.95/57 : \C70/rm/m/n/10.95/51 ∆ e \C70/rm/m/n/10.95/62 ^^P \C70/rm/m/n/10.95/67 , \C70/rm/m/n/10.95/5e v \C70/rm/m/n/10.95/68 8
  []
 
-<graphics/market_size_growth.pdf, id=351, 613.98132pt x 365.45479pt>
+[4]
+Overfull \hbox (35.26578pt too wide) in paragraph at lines 91--92
+\C70/rm/m/n/12/4e - \C70/rm/m/n/12/56 ˝ \C70/rm/m/n/12/4f õ \C70/rm/m/n/12/5e î \C70/rm/m/n/12/55 F \C70/rm/m/n/12/63 í \C70/rm/m/n/12/54 ^^M \C70/rm/m/n/12/57 G \C70/rm/m/n/12/4e : \C70/rm/m/n/12/7b ,\OT1/cmr/m/n/12 1\C70/rm/m/n/12/4f M|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e - \C70/rm/m/n/12/56 ˝ \C70/rm/m/n/12/57 ( \C70/rm/m/n/12/4e 	 \C70/rm/m/n/12/56 ˝ \C70/rm/m/n/12/8f € \C70/rm/m/n/12/53 „ \C70/rm/m/n/12/4e - \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/4e ˝ \C70/rm/m/n/12/98 ù \C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/4e :\OT1/cmr/m/n/12 73.8088%|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 84.1195%\C70/rm/m/n/12/54 å\OT1/cmr/m/n/12 85.1193%|\C70/rm/m/n/12/30 ^^B|
+ []
+
+<graphics/market_size_growth.pdf, id=395, 613.98132pt x 365.45479pt>
 File: graphics/market_size_growth.pdf Graphic file (type pdf)
 <use graphics/market_size_growth.pdf>
-Package pdftex.def Info: graphics/market_size_growth.pdf  used on input line 85.
+Package pdftex.def Info: graphics/market_size_growth.pdf  used on input line 95.
 (pdftex.def)             Requested size: 418.82375pt x 249.29224pt.
-[4
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.92 
-     ]
-Overfull \hbox (8.7448pt too wide) in paragraph at lines 116--117
+
+Overfull \hbox (8.7448pt too wide) in paragraph at lines 103--104
 \C70/rm/m/n/12/98 ù \C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/67 	\OT1/cmr/m/n/12 38.5\C70/rm/m/n/12/4e ^^G \C70/rm/m/n/12/7f é \C70/rm/m/n/12/51 C \C70/rm/m/n/12/54 å\OT1/cmr/m/n/12 2,097.5\C70/rm/m/n/12/4e ^^G \C70/rm/m/n/12/7f é \C70/rm/m/n/12/51 C|\C70/rm/m/n/12/ff ^^[| \C70/rm/m/n/12/65 Â \C70/rm/m/n/12/67 , \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/8f € \C70/rm/m/n/12/53 „ \C70/rm/m/n/12/98 ù \C70/rm/m/n/12/8f æ \C70/rm/m/n/12/52 0\OT1/cmr/m/n/12 5.313\C70/rm/m/n/12/4e ø \C70/rm/m/n/12/7f é \C70/rm/m/n/12/51 C|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4f F \C70/rm/m/n/12/4e î \C70/rm/m/n/12/5e t\OT1/cmr/m/n/12 CAGR\C70/rm/m/n/12/4e :
  []
 
 [5
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.104 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.121 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.121 
-       <./graphics/market_size_growth.pdf>]
-<graphics/epi_untapped.pdf, id=468, 614.79688pt x 440.38275pt>
-File: graphics/epi_untapped.pdf Graphic file (type pdf)
-<use graphics/epi_untapped.pdf>
-Package pdftex.def Info: graphics/epi_untapped.pdf  used on input line 124.
-(pdftex.def)             Requested size: 418.82375pt x 300.00731pt.
- [6
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.139 
-       <./graphics/epi_untapped.pdf>]
-<graphics/supplier_concentration.pdf, id=547, 614.16328pt x 337.03323pt>
-File: graphics/supplier_concentration.pdf Graphic file (type pdf)
-<use graphics/supplier_concentration.pdf>
-Package pdftex.def Info: graphics/supplier_concentration.pdf  used on input line 163.
-(pdftex.def)             Requested size: 382.40338pt x 209.84811pt.
- [7
-pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.179 \subsection
-                 {ÂÖ≥Á®é‰∏é‰∫ßÂìÅÂΩíÁ±ª}
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.179 \subsection
-                 {ÂÖ≥Á®é‰∏é‰∫ßÂìÅÂΩíÁ±ª} <./graphics/supplier_concentration.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+l.104 
+       <./graphics/market_size_growth.pdf>] [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|$[]\OT1/cmr/m/n/10.95 (1 + \OML/cmm/m/it/10.95 x\OT1/cmr/m/n/10.95 )$\C70/rm/m/n/10.95/54 ^^N\OT1/cmr/m/n/10.95 Min--
  []
 
 
-Underfull \hbox (badness 7047) in paragraph at lines 220--220
+Underfull \hbox (badness 7047) in paragraph at lines 177--177
 []|\OT1/cmr/m/n/10.95 2025\C70/rm/m/n/10.95/5e t \C70/rm/m/n/10.95/4e - \C70/rm/m/n/10.95/56 ˝ \C70/rm/m/n/10.95/4f õ \C70/rm/m/n/10.95/5e î \C70/rm/m/n/10.95/4e ˝
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
 []|$[]\OT1/cmr/m/n/10.95 (1 + \OML/cmm/m/it/10.95 x\OT1/cmr/m/n/10.95 )$\C70/rm/m/n/10.95/54 ^^N\OT1/cmr/m/n/10.95 Min--
  []
 
-[8]
-<graphics/market_score.pdf, id=644, 614.79688pt x 382.22487pt>
-File: graphics/market_score.pdf Graphic file (type pdf)
-<use graphics/market_score.pdf>
-Package pdftex.def Info: graphics/market_score.pdf  used on input line 252.
-(pdftex.def)             Requested size: 409.71692pt x 254.73041pt.
- [9
-pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
+
+Overfull \hbox (10.71866pt too wide) in paragraph at lines 188--189
+[]\C70/rm/m/n/12/8f € \C70/rm/m/n/12/53 „ \C70/rm/m/n/12/89 ƒ \C70/rm/m/n/12/6a ! \C70/rm/m/n/12/54 å \C70/rm/m/n/12/67 * \C70/rm/m/n/12/5b û \C70/rm/m/n/12/73 ∞ \C70/rm/m/n/12/6f \ \C70/rm/m/n/12/52 õ \C70/rm/m/n/12/54 ^^D \C70/rm/m/n/12/53 `\OT1/cmr/m/n/12 30%|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/52 ^^F + \C70/rm/m/n/12/88 a \C70/rm/m/n/12/91 œ \C70/rm/m/n/12/73 ∞ \C70/rm/m/n/12/67 	 \C70/rm/m/n/12/97 ^^@ \C70/rm/m/n/12/6c B \C70/rm/m/n/12/54 å \C70/rm/m/n/12/53 Ô \C70/rm/m/n/12/62 ” \C70/rm/m/n/12/5c U \C70/rm/m/n/12/7a z \C70/rm/m/n/12/95 Ù|\C70/rm/m/n/12/ff ^^[| \C70/rm/m/n/12/6f \ \C70/rm/m/n/12/52 õ \C70/rm/m/n/12/6b ‘ \C70/rm/m/n/12/4f ã \C70/rm/m/n/12/53 `\OT1/cmr/m/n/12 20%|\C70/rm/m/n/12/ff ^^L|
+ []
+
+<graphics/epi_untapped.pdf, id=533, 614.79688pt x 440.38275pt>
+File: graphics/epi_untapped.pdf Graphic file (type pdf)
+<use graphics/epi_untapped.pdf>
+Package pdftex.def Info: graphics/epi_untapped.pdf  used on input line 211.
+(pdftex.def)             Requested size: 418.82375pt x 300.00731pt.
+[8
+pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.259 
+l.218 
       ]
-<graphics/ranking_sensitivity.pdf, id=657, 614.34505pt x 382.56677pt>
+<graphics/market_score.pdf, id=546, 614.79688pt x 382.22487pt>
+File: graphics/market_score.pdf Graphic file (type pdf)
+<use graphics/market_score.pdf>
+Package pdftex.def Info: graphics/market_score.pdf  used on input line 244.
+(pdftex.def)             Requested size: 409.71692pt x 254.73041pt.
+ [9
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.251 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.251 
+       <./graphics/epi_untapped.pdf>]
+<graphics/ranking_sensitivity.pdf, id=623, 614.34505pt x 382.56677pt>
 File: graphics/ranking_sensitivity.pdf Graphic file (type pdf)
 <use graphics/ranking_sensitivity.pdf>
-Package pdftex.def Info: graphics/ranking_sensitivity.pdf  used on input line 268.
+Package pdftex.def Info: graphics/ranking_sensitivity.pdf  used on input line 260.
 (pdftex.def)             Requested size: 409.71692pt x 255.15091pt.
  [10
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.267 
+       <./graphics/market_score.pdf>]
+Overfull \hbox (11.914pt too wide) in paragraph at lines 284--285
+\C70/rm/m/n/12/6a ! \C70/rm/m/n/12/54 å \C70/rm/m/n/12/58 û \C70/rm/m/n/12/95 ^^? \C70/rm/m/n/12/51 q \C70/rm/m/n/12/54 ^^L \C70/rm/m/n/12/65 / \C70/rm/m/n/12/64 ë \C70/rm/m/n/12/51 v \C70/rm/m/n/12/62 ^^X \C70/rm/m/n/12/75 e \C70/rm/m/n/12/67 C \C70/rm/m/n/12/91 Õ \C70/rm/m/n/12/63 í \C70/rm/m/n/12/54 ^^M|\C70/rm/m/n/12/30 ^^B| \C70/rm/m/n/12/6f ≥ \C70/rm/m/n/12/59 ' \C70/rm/m/n/12/52 ) \C70/rm/m/n/12/4e ö \C70/rm/m/n/12/8f € \C70/rm/m/n/12/53 „ \C70/rm/m/n/12/98 ù \C70/rm/m/n/12/4e :\OT1/cmr/m/n/12 2.031\C70/rm/m/n/12/4e ø \C70/rm/m/n/12/7f é \C70/rm/m/n/12/51 C|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e î \C70/rm/m/n/12/5e t\OT1/cmr/m/n/12 CAGR\C70/rm/m/n/12/4e :\OT1/cmr/m/n/12 6.10%|\C70/rm/m/n/12/ff ^^L|
+ []
+
+[11
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.275 
-       <./graphics/market_score.pdf>] [11
-pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
+l.285 
+       <./graphics/ranking_sensitivity.pdf>]
+<graphics/supplier_concentration.pdf, id=783, 614.16328pt x 337.03323pt>
+File: graphics/supplier_concentration.pdf Graphic file (type pdf)
+<use graphics/supplier_concentration.pdf>
+Package pdftex.def Info: graphics/supplier_concentration.pdf  used on input line 313.
+(pdftex.def)             Requested size: 382.40338pt x 209.84811pt.
+ [12
+pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.287 
-       <./graphics/ranking_sensitivity.pdf>] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
-[]|\OT1/cmr/m/n/10.95 ITC\C70/rm/m/n/10.95/5f S \C70/rm/m/n/10.95/52 M \C70/rm/m/n/10.95/8f ‘ \C70/rm/m/n/10.95/56 ﬁ \C70/rm/m/n/10.95/7a ^^N
+l.320 
+      ]
+Overfull \hbox (21.31737pt too wide) in paragraph at lines 325--326
+[]\C70/rm/m/n/12/73 ∞ \C70/rm/m/n/12/67 	 \C70/rm/m/n/12/4f õ \C70/rm/m/n/12/5e î \C70/rm/m/n/12/56 ˝ \C70/rm/m/n/12/65 p \C70/rm/m/n/12/63 n \C70/rm/m/n/12/53 Í \C70/rm/m/n/12/80 ˝ \C70/rm/m/n/12/63 œ \C70/rm/m/n/12/8f  \C70/rm/m/n/12/56 ˝ \C70/rm/m/n/12/5b ∂ \C70/rm/m/n/12/5c B \C70/rm/m/n/12/97 b \C70/rm/m/n/12/76 Ñ \C70/rm/m/n/12/7a ﬁ \C70/rm/m/n/12/4e â \C70/rm/m/n/12/80 Ã \C70/rm/m/n/12/66 o|\C70/rm/m/n/12/ff ^^L| \C70/rm/m/n/12/4e ^^M \C70/rm/m/n/12/80 ˝ \C70/rm/m/n/12/66 ˇ \C70/rm/m/n/12/4e „\OT1/cmr/m/n/12 Roborock|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 Ecovacs|\C70/rm/m/n/12/30 ^^A| \OT1/cmr/m/n/12 Xiaomi|\C70/rm/m/n/12/30 ^^A|
  []
 
 [13
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.340 
+       <./graphics/supplier_concentration.pdf>] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+[]|\OT1/cmr/m/n/10.95 ITC\C70/rm/m/n/10.95/5f S \C70/rm/m/n/10.95/52 M \C70/rm/m/n/10.95/8f ‘ \C70/rm/m/n/10.95/56 ﬁ \C70/rm/m/n/10.95/7a ^^N
+ []
+
+[15
 pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.344 Âèñ
+l.403 Âèñ
          Âæó‰ºòÊÉ†ÂæÖÈÅáÁöÑÂâçÊèêËêΩÂú®Á¨¨3Á´†„ÄÇÁ¨¨3.2Êù°ËßÑÂÆöÂéü‰∫ßË¥ßÁâ©...]
-Overfull \hbox (58.94919pt too wide) in paragraph at lines 350--351
+Overfull \hbox (58.94919pt too wide) in paragraph at lines 409--410
 []\C70/rm/m/n/12/8f Ÿ \C70/rm/m/n/12/4e õ \C70/rm/m/n/12/67 a \C70/rm/m/n/12/6b > \C70/rm/m/n/12/53 Ô \C70/rm/m/n/12/8f l \C70/rm/m/n/12/53 ^^V \C70/rm/m/n/12/4e : ^^@ \C70/rm/m/n/12/59 W \C70/rm/m/n/12/51 ˙ \C70/rm/m/n/12/53 „ \C70/rm/m/n/12/8b ¡ \C70/rm/m/n/12/63 n \C70/rm/m/n/12/94 ˛|\C70/rm/m/n/12/ff ^^Z| \C70/rm/m/n/12/4e ß \C70/rm/m/n/12/54 ¡ \C70/rm/m/n/12/57 ã \C70/rm/m/n/12/53 ˜ \C70/rm/m/n/12/5b ˘ \C70/rm/m/n/12/5e î \C70/rm/m/n/12/8f € \C70/rm/m/n/12/53 „ \C70/rm/m/n/12/56 ˝ \C70/rm/m/n/12/7a ^^N \C70/rm/m/n/12/52 ^^Y \C70/rm/m/n/12/7e ø|\C70/rm/m/n/12/ff ^^L| \OT1/cmr/m/n/12 BOM\C70/rm/m/n/12/5b ˘ \C70/rm/m/n/12/5e î\OT1/cmr/m/n/12 CTSH\C70/rm/m/n/12/62 ^^V\OT1/cmr/m/n/12 RVC40\C70/rm/m/n/12/8b °
  []
 
-
-Underfull \hbox (badness 2809) in paragraph at lines 367--367
+[16]
+Underfull \hbox (badness 2809) in paragraph at lines 432--432
 []|\C70/rm/m/n/10.95/7b ,\OT1/cmr/m/n/10.95 1\C70/rm/m/n/10.95/5b c \C70/rm/m/n/10.95/5e ¶|\C70/rm/m/n/10.95/ff ^^Z| \C70/rm/m/n/10.95/5f R \C70/rm/m/n/10.95/7c {|\C70/rm/m/n/10.95/30 ^^A| \C70/rm/m/n/10.95/8b §
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--367
+Underfull \hbox (badness 10000) in paragraph at lines 432--432
 []|\C70/rm/m/n/10.95/4e 	 \C70/rm/m/n/10.95/56 ˝ \C70/rm/m/n/10.95/7a ^^N \C70/rm/m/n/10.95/52 ^^Y \C70/rm/m/n/10.95/7e ø \C70/rm/m/n/10.95/78 n \C70/rm/m/n/10.95/8b §|\C70/rm/m/n/10.95/30 ^^A|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--367
+Underfull \hbox (badness 10000) in paragraph at lines 432--432
 \OT1/cmr/m/n/10.95 CTSH\C70/rm/m/n/10.95/62 ^^V\OT1/cmr/m/n/10.95 RVC40\C70/rm/m/n/10.95/5e ï \C70/rm/m/n/10.95/7a ?|\C70/rm/m/n/10.95/30 ^^A| \C70/rm/m/n/10.95/68 8
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--368
+Underfull \hbox (badness 10000) in paragraph at lines 433--433
 []|\C70/rm/m/n/10.95/7b ,\OT1/cmr/m/n/10.95 2\C70/rm/m/n/10.95/5b c \C70/rm/m/n/10.95/5e ¶ \C70/rm/m/n/10.95/81 Û \C70/rm/m/n/10.95/7b ,\OT1/cmr/m/n/10.95 3\C70/rm/m/n/10.95/5b c \C70/rm/m/n/10.95/5e ¶|\C70/rm/m/n/10.95/ff ^^Z|
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 368--368
+Underfull \hbox (badness 1043) in paragraph at lines 433--433
 \OT1/cmr/m/n/10.95 Prime Day\C70/rm/m/n/10.95/52 M \C70/rm/m/n/10.95/54 ^^N \C70/rm/m/n/10.95/99 ñ \C70/rm/m/n/10.95/8f n
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--369
+Underfull \hbox (badness 10000) in paragraph at lines 434--434
 []|\C70/rm/m/n/10.95/7b ,\OT1/cmr/m/n/10.95 4\C70/rm/m/n/10.95/5b c \C70/rm/m/n/10.95/5e ¶ \C70/rm/m/n/10.95/54 ^^N|\C70/rm/m/n/10.95/ff ^^Z| \OT1/cmr/m/n/10.95 Black
  []
 
-[14] (main.ent [15
+(main.ent [17
 pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.54 \@endanenote
+l.30 \@endanenote
                  ]
-Underfull \hbox (badness 10000) in paragraph at lines 68--71
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
 
  []
 
-) [16] (main.aux)
+) [18] (main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026/07/13>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 57AFF5B4DDF095C2A5EF3203E264D193;2958.
+(rerunfilecheck)             Checksum: 4BA109332B6159BB554E9FD80C2CC85E;4028.
  ) 
 Here is how much of TeX's memory you used:
- 16523 strings out of 467501
- 289310 string characters out of 5408550
- 693385 words of memory out of 5000000
- 44963 multiletter control sequences out of 15000+600000
- 733744 words of font info for 428 fonts, out of 8000000 for 9000
+ 16590 strings out of 467501
+ 290489 string characters out of 5408550
+ 695397 words of memory out of 5000000
+ 45006 multiletter control sequences out of 15000+600000
+ 736714 words of font info for 439 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  78i,11n,92p,774b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (16 pages, 1205494 bytes).
+<C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/99097/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (18 pages, 1237042 bytes).
 PDF statistics:
- 1389 PDF objects out of 1440 (max. 8388607)
- 64 named destinations out of 1000 (max. 500000)
- 562 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1448 PDF objects out of 1728 (max. 8388607)
+ 73 named destinations out of 1000 (max. 500000)
+ 610 words of extra memory for PDF output out of 10000 (max. 10000000)
 

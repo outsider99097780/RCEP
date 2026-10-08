@@ -1,0 +1,171 @@
+﻿crosswalk_group_id,brand,normalized_model_key,country_code,source_site,source_product_id,market_model_name,markets_in_group,match_method,confidence,official_equivalence_verified,include_in_exact_cross_market_comparison,notes
+XW-0001,Dreame,10,KOR,KR_Danawa,96979046,드리미 아쿠아10 울트라 롤러,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0001,Dreame,10,KOR,KR_Danawa,96650003,드리미 매트릭스10 울트라,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0002,Dreame,20,KOR,KR_Danawa,124248500,드리미 아쿠아20 울트라 롤러 마스터 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0002,Dreame,20,KOR,KR_Danawa,123962663,드리미 아쿠아20 울트라 롤러,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0003,Dreame,aqua10roller,AUS,AU_GetPrice,dreame-aqua-10-roller-robotic-vacuum-cleaner,Aqua 10 Roller,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0004,Dreame,aqua10ultraroller,AUS,AU_GetPrice,dreame-aqua-10-ultra-roller-robotic-vacuum-cleaner,Aqua 10 Ultra Roller,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0005,Dreame,aqua10ultrarollerrlh71de,JPN,JP_Kakaku,K0001778984,Aqua10 Ultra Roller RLH71DE,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0006,Dreame,aqua10ultratracks,AUS,AU_GetPrice,dreame-aqua-10-ultra-track-s-robotic-vacuum-cleaner,Aqua 10 Ultra Track S,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0007,Dreame,botd10plusrls3d,JPN,JP_Kakaku,K0001609447,Bot D10 Plus RLS3D,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0008,Dreame,botl10sproultraheatrll82ce,JPN,JP_Kakaku,K0001709329,Bot L10s Pro Ultra Heat RLL82CE,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0009,Dreame,botl10sultrarls6ladc,JPN,JP_Kakaku,K0001546063,Bot L10s Ultra RLS6LADC,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0010,Dreame,botl20ultracomplete,JPN,JP_Kakaku,K0001574418,Bot L20 Ultra Complete,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0011,Dreame,botx30ultrarlx56ce,JPN,JP_Kakaku,K0001655796,Bot X30 Ultra RLX56CE,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0012,Dreame,d10plusgen2,KOR,KR_Danawa,58849616,드리미 D10 Plus GEN2,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0013,Dreame,d20prodreot000004,JPN,JP_Kakaku,K0001696779,D20 Pro DRE-OT-000004,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0014,Dreame,d20proplusdreot000003,JPN,JP_Kakaku,K0001696778,D20 Pro Plus DRE-OT-000003,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0015,Dreame,d20rld35ga,JPN,JP_Kakaku,K0001718756,D20 RLD35GA,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0016,Dreame,d20ultra,JPN,JP_Kakaku,K0001771549,D20 Ultra,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0017,Dreame,f9,KOR,KR_Danawa,11570810,드리미 F9,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0018,Dreame,l10sheat,KOR,KR_Danawa,37927583,드리미 L10s Heat,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0019,Dreame,l10sultragen2,JPN,JP_Kakaku,K0001660238,L10s Ultra Gen2,JPN;KOR,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0019,Dreame,l10sultragen2,KOR,KR_Danawa,67512206,드리미 L10s Ultra Gen2,JPN;KOR,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0020,Dreame,l10sultragen3,KOR,KR_Danawa,103413488,드리미 L10s Ultra Gen3,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0021,Dreame,l30splus,KOR,KR_Danawa,123606305,드리미 L30s Plus,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0022,Dreame,l40sproultra,KOR,KR_Danawa,92104061,드리미 L40s Pro Ultra,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0023,Dreame,l40ultraaerll77se,JPN,JP_Kakaku,K0001693496,L40 Ultra AE RLL77SE,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0024,Dreame,l50spronano,KOR,KR_Danawa,122663063,드리미 L50s Pro Nano 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0025,Dreame,l50sproultra,KOR,KR_Danawa,122663015,드리미 L50s Pro Ultra,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0026,Dreame,matrix10ultra,AUS,AU_GetPrice,dreame-matrix-10-ultra-robotic-vacuum-cleaner,Matrix 10 Ultra,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0027,Dreame,w10,KOR,KR_Danawa,15572600,드리미 W10,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0028,Dreame,x40ultra,KOR,KR_Danawa,54316316,드리미 X40 Ultra,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0029,Dreame,x50master,KOR,KR_Danawa,74335256,드리미 X50 Master 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0030,Dreame,x50sproultra,KOR,KR_Danawa,90112778,드리미 X50s Pro Ultra,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0031,Dreame,x50ultra,KOR,KR_Danawa,74335175,드리미 X50 Ultra,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0032,Dreame,x50ultrarlx85ce,JPN,JP_Kakaku,K0001680231,X50 Ultra RLX85CE,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0033,Dreame,x60master,KOR,KR_Danawa,107723801,드리미 X60 Master 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0034,Dreame,x60ultra,KOR,KR_Danawa,107991857,드리미 X60 Ultra,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0035,Ecovacs,deebotmini2djx2801ee,JPN,JP_Kakaku,K0001781249,DEEBOT mini2 DJX28-01EE,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0036,Ecovacs,deebotn20,AUS,AU_GetPrice,ecovacs-deebot-n20-robot-vacuum-cleaner,Deebot N20,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0037,Ecovacs,deebotn20plus,AUS,AU_GetPrice,ecovacs-deebot-n20-plus-robot-vacuum-cleaner,Deebot N20 Plus,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0038,Ecovacs,deebotn20proplus,JPN,JP_Kakaku,K0001635192,DEEBOT N20 PRO PLUS,AUS;JPN,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0038,Ecovacs,deebotn20proplus,AUS,AU_GetPrice,ecovacs-deebot-n20-pro-plus-robot-vacuum-cleaner,Deebot N20 Pro Plus,AUS;JPN,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0039,Ecovacs,deebotn30ydlx1132df,JPN,JP_Kakaku,K0001711542,DEEBOT N30 YDLX11-32DF,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0040,Ecovacs,deebotozmo950dx9g,JPN,JP_Kakaku,K0001188043,DEEBOT OZMO 950 DX9G,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0041,Ecovacs,deebotozmot8dlx1154,JPN,JP_Kakaku,K0001267682,DEEBOT OZMO T8+ DLX11-54,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0042,Ecovacs,deebott20omnidlx23,JPN,JP_Kakaku,K0001536226,DEEBOT T20 OMNI DLX23,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0043,Ecovacs,deebott30proomniddx1412ee,JPN,JP_Kakaku,K0001616419,DEEBOT T30 PRO OMNI DDX14-12EE,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0044,Ecovacs,deebott30spro,AUS,AU_GetPrice,ecovacs-deebot-t30s-pro-robot-vacuum-cleaner,Deebot T30S Pro,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0045,Ecovacs,deebott30sprodsx3912ee,JPN,JP_Kakaku,K0001657227,DEEBOT T30S PRO DSX39-12EE,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0046,Ecovacs,deebott50proomni,AUS,AU_GetPrice,ecovacs-deebot-t50-pro-omni-robotic-vacuum-cleaner,Deebot T50 Pro Omni,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0047,Ecovacs,deebott50proomniddx6712ee,JPN,JP_Kakaku,K0001679972,DEEBOT T50 PRO OMNI DDX67-12EE,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0048,Ecovacs,deebott90maxproomnizj25760701,JPN,JP_Kakaku,K0001804225,DEEBOT T90 MAX PRO OMNI ZJ2576-0701,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0049,Ecovacs,deebott90proomni,AUS,AU_GetPrice,ecovacs-deebot-t90-pro-omni-robotic-vacuum-cleaner,Deebot T90 Pro Omni,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0050,Ecovacs,deebott90proomnidex9512ee,JPN,JP_Kakaku,K0001770084,DEEBOT T90 PRO OMNI DEX95-12EE,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0051,Ecovacs,deebotx11omnicyclone,AUS,AU_GetPrice,ecovacs-deebot-x11-omnicyclone-robotic-vacuum-cleaner,Deebot X11 Omnicyclone,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0052,Ecovacs,deebotx11omnicyclonedex9910ee,JPN,JP_Kakaku,K0001708441,DEEBOT X11 OmniCyclone DEX99-10EE,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0053,Ecovacs,deebotx12sproomnizj2570,JPN,JP_Kakaku,K0001804224,DEEBOT X12S PRO OMNI ZJ2570,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0054,Ecovacs,deebotx1omnidex11,JPN,JP_Kakaku,K0001431330,DEEBOT X1 OMNI DEX11,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0055,Ecovacs,deebotx8proomni,AUS,AU_GetPrice,ecovacs-deebot-x8-pro-omni-robotic-vacuum-cleaner,Deebot X8 Pro Omni,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0056,Ecovacs,deebotx8proomnidex5614ee,JPN,JP_Kakaku,K0001678808,DEEBOT X8 PRO OMNI DEX56-14EE,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0057,Ecovacs,deeboty1prodlx3422ee,JPN,JP_Kakaku,K0001616422,DEEBOT Y1 PRO DLX34-22EE,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0058,Ecovacs,n20,KOR,KR_Danawa,67407635,에코백스 디봇 N20 프로 플러스,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0059,Ecovacs,n30,KOR,KR_Danawa,68776505,에코백스 디봇 N30 프로 옴니,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0060,Ecovacs,t20,KOR,KR_Danawa,20359253,에코백스 디봇 T20 옴니,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0061,Ecovacs,t30,KOR,KR_Danawa,44996018,에코백스 디봇 T30 프로 옴니,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0062,Ecovacs,t50,KOR,KR_Danawa,96582521,에코백스 디봇 T50 프로 옴니,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0062,Ecovacs,t50,KOR,KR_Danawa,98771135,에코백스 디봇 T50 프로 옴니 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0063,Ecovacs,t80,KOR,KR_Danawa,91345565,에코백스 디봇 T80 옴니,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0064,Ecovacs,t90,KOR,KR_Danawa,106687118,에코백스 디봇 T90 프로 옴니 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0064,Ecovacs,t90,KOR,KR_Danawa,106687076,에코백스 디봇 T90 프로 옴니,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0065,Ecovacs,t9plus,KOR,KR_Danawa,13863530,에코백스 디봇 오즈모 T9 Plus,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0066,Ecovacs,x1,KOR,KR_Danawa,16566839,에코백스 디봇 X1 옴니,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0067,Ecovacs,x11,KOR,KR_Danawa,99326447,에코백스 디봇 X11 옴니 사이클론,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0068,Ecovacs,x2,KOR,KR_Danawa,32486072,에코백스 디봇 X2 옴니,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0069,Ecovacs,x8,KOR,KR_Danawa,75372764,에코백스 디봇 X8 프로 옴니,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0069,Ecovacs,x8,KOR,KR_Danawa,75989948,에코백스 디봇 X8 프로 옴니 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0070,Ecovacs,y1,KOR,KR_Danawa,56273429,에코백스 디봇 Y1 프로 플러스,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0071,Narwal,flow,KOR,KR_Danawa,99895796,나르왈 Flow 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0071,Narwal,flow,KOR,KR_Danawa,99895748,나르왈 Flow,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0072,Narwal,flowperformanceyjcc026a,JPN,JP_Kakaku,K0001774522,Flow Performance YJCC026A,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0073,Narwal,flowyjcc026,JPN,JP_Kakaku,K0001715217,Flow YJCC026,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0074,Narwal,freo,KOR,KR_Danawa,17974391,나르왈 Freo,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0075,Narwal,freopro,KOR,KR_Danawa,75935846,나르왈 Freo PRO,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0076,Narwal,freoproyjcc023,JPN,JP_Kakaku,K0001685792,Freo Pro YJCC023,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0077,Narwal,freosyjcc032,JPN,JP_Kakaku,K0001715220,Freo S YJCC032,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0078,Narwal,freoxplus,JPN,JP_Kakaku,K0001622522,Freo X Plus,JPN;KOR,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0078,Narwal,freoxplus,KOR,KR_Danawa,46894550,나르왈 Freo X Plus,JPN;KOR,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0079,Narwal,freoxultra,JPN,JP_Kakaku,K0001619213,Freo X Ultra,JPN;KOR,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0079,Narwal,freoxultra,KOR,KR_Danawa,29620616,나르왈 Freo X Ultra,JPN;KOR,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0080,Narwal,freoyjcc012,JPN,JP_Kakaku,K0001592511,Freo YJCC012,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0081,Narwal,freoz10,JPN,JP_Kakaku,K0001676915,Freo Z10,JPN;KOR,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0081,Narwal,freoz10,KOR,KR_Danawa,90116402,나르왈 Freo Z10,JPN;KOR,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0082,Narwal,freoz10ultra,KOR,KR_Danawa,78234203,나르왈 Freo Z10 Ultra,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0082,Narwal,freoz10ultra,KOR,KR_Danawa,109915900,나르왈 Freo Z10 Ultra 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0083,Narwal,freozultra,KOR,KR_Danawa,70333835,나르왈 Freo Z Ultra,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0084,Narwal,j3,KOR,KR_Danawa,29619356,나르왈 J3,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0085,Narwal,j4lite,KOR,KR_Danawa,31473011,나르왈 J4 LITE,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0086,Roborock,f25ultraq8maxproplus,KOR,KR_Danawa,123806395,로보락 F25 Ultra + 로봇청소기 Q8 Max Pro Plus,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0087,Roborock,q10pq10pp0204,JPN,JP_Kakaku,K0001693088,Q10P+ Q10PP02-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0088,Roborock,q5proq5prp5204,JPN,JP_Kakaku,K0001609148,Q5 Pro+ Q5PRP52-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0089,Roborock,q7bplus,AUS,AU_GetPrice,roborock-q7b-plus-robotic-vacuum-cleaner,Q7B Plus,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0090,Roborock,q7bq7b5204,JPN,JP_Kakaku,K0001701115,Q7B Q7B52-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0091,Roborock,q7tplus,AUS,AU_GetPrice,roborock-q7t-plus-robotic-vacuum-cleaner,Q7T Plus,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0092,Roborock,q7tq7t0204,JPN,JP_Kakaku,K0001691579,Q7T Q7T02-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0093,Roborock,q7tq7tp0204,JPN,JP_Kakaku,K0001691578,Q7T+ Q7TP02-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0094,Roborock,q8,KOR,KR_Danawa,90886772,로보락 Q8,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0095,Roborock,q8maxproplus,KOR,KR_Danawa,90434336,로보락 Q8 Max Pro Plus,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0096,Roborock,q8maxq8mp0204,JPN,JP_Kakaku,K0001646859,Q8 Max+ Q8MP02-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0097,Roborock,q8plus,KOR,KR_Danawa,90500882,로보락 Q8 Plus,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0098,Roborock,qrevo2pro,JPN,JP_Kakaku,K0001804136,Qrevo 2 Pro,JPN;KOR,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0098,Roborock,qrevo2pro,KOR,KR_Danawa,123695610,로보락 Qrevo 2 Pro,JPN;KOR,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0099,Roborock,qrevocpro,AUS,AU_GetPrice,roborock-qrevo-c-pro-robotic-vacuum-cleaner,Qrevo C Pro,AUS;KOR,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0099,Roborock,qrevocpro,KOR,KR_Danawa,98768915,로보락 Qrevo C Pro,AUS;KOR,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0100,Roborock,qrevocqrrc5204,JPN,JP_Kakaku,K0001691577,Qrevo C QRRC52-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0101,Roborock,qrevocurv2flow,KOR,KR_Danawa,103752161,로보락 Qrevo Curv 2 Flow,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0102,Roborock,qrevocurv2pro,JPN,JP_Kakaku,K0001764901,Qrevo Curv 2 Pro,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0103,Roborock,qrevocurvqrc0204,JPN,JP_Kakaku,K0001670756,Qrevo Curv QRC02-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0104,Roborock,qrevoedge2,KOR,KR_Danawa,122677231,로보락 Qrevo Edge 2,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0105,Roborock,qrevoedge2pro,AUS,AU_GetPrice,roborock-qrevo-edge-2-pro-robotic-vacuum-cleaner,Qrevo Edge 2 Pro,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0106,Roborock,qrevoedgec,AUS,AU_GetPrice,roborock-qrevo-edge-c-robotic-vacuum-cleaner,Qrevo Edge C,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0107,Roborock,qrevol,KOR,KR_Danawa,89526515,로보락 Qrevo L,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0108,Roborock,qrevolpro,KOR,KR_Danawa,124034050,로보락 Qrevo L Pro,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0109,Roborock,qrevolqrl0204,JPN,JP_Kakaku,K0001693087,Qrevo L QRL02-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0110,Roborock,qrevopro,KOR,KR_Danawa,49829777,로보락 Qrevo Pro,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0111,Roborock,qrevoqr5204,JPN,JP_Kakaku,K0001590654,Q Revo QR52-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0112,Roborock,s10maxvslim,KOR,KR_Danawa,122638245,로보락 S10 MaxV Slim 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0112,Roborock,s10maxvslim,KOR,KR_Danawa,122638233,로보락 S10 MaxV Slim,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0113,Roborock,s10maxvultra,KOR,KR_Danawa,106736861,로보락 S10 MaxV Ultra,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0113,Roborock,s10maxvultra,KOR,KR_Danawa,106734668,로보락 S10 MaxV Ultra 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0114,Roborock,s7maxvpluss7mp5204,JPN,JP_Kakaku,K0001430400,S7 MaxV Plus S7MP52-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0115,Roborock,s7s7p0204,JPN,JP_Kakaku,K0001378494,S7+ S7P02-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0116,Roborock,s8maxultras8mu5204,JPN,JP_Kakaku,K0001646858,S8 Max Ultra S8MU52-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0117,Roborock,s8proplus,KOR,KR_Danawa,93805973,로보락 S8 Pro Plus,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0118,Roborock,s8proultra,KOR,KR_Danawa,19522775,로보락 S8 Pro Ultra,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0119,Roborock,s9maxvslim,KOR,KR_Danawa,93806468,로보락 S9 MaxV Slim 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0120,Roborock,s9maxvultra,KOR,KR_Danawa,93806333,로보락 S9 MaxV Ultra 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0120,Roborock,s9maxvultra,KOR,KR_Danawa,93806297,로보락 S9 MaxV Ultra,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0121,Roborock,saros10r,AUS,AU_GetPrice,roborock-saros-10r-robotic-vacuum-cleaner,Saros 10R,AUS,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0122,Roborock,saros10rs10r5204,JPN,JP_Kakaku,K0001693090,Saros 10R S10R52-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0123,Roborock,saros10s105204,JPN,JP_Kakaku,K0001691580,Saros 10 S1052-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0124,Roborock,saros20,JPN,JP_Kakaku,K0001798974,Saros 20 洗剤セット,AUS;JPN,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0124,Roborock,saros20,AUS,AU_GetPrice,roborock-saros-20-robotic-vacuum-cleaner,Saros 20,AUS;JPN,normalized_marketing_name_exact,medium,no,no,Marketing-name match only; official regional equivalence requires manual verification.
+XW-0125,Roborock,saros20s205204,JPN,JP_Kakaku,K0001798973,Saros 20 S2052-04,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0126,Roborock,saros20sonic,JPN,JP_Kakaku,K0001785912,Saros 20 Sonic,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0127,Xiaomi,1,KOR,KR_Danawa,4541478,샤오미 미지아 1세대,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0128,Xiaomi,1sb116,KOR,KR_Danawa,18007598,샤오미 미지아 1S B116,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0129,Xiaomi,5c,KOR,KR_Danawa,97569560,샤오미 미지아 5C 직배수,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0129,Xiaomi,5c,KOR,KR_Danawa,97569173,샤오미 미지아 5C,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0130,Xiaomi,5ov31gl,JPN,JP_Kakaku,K0001711141,ロボット掃除機 5 OV31GL,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0131,Xiaomi,5proov21gl,JPN,JP_Kakaku,K0001711140,ロボット掃除機 5 Pro OV21GL,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0132,Xiaomi,6,KOR,KR_Danawa,123961377,샤오미 6,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0133,Xiaomi,artdogs6,KOR,KR_Danawa,68538818,샤오미 ArtDog S6,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0134,Xiaomi,b101cn,KOR,KR_Danawa,16898933,샤오미 미지아 B101CN,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0135,Xiaomi,c66s,KOR,KR_Danawa,15047528,샤오미 미홀 C66S,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0136,Xiaomi,c77sair,KOR,KR_Danawa,71500928,샤오미 미홀 C77S AIR,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0137,Xiaomi,c9all,KOR,KR_Danawa,95421062,샤오미 미홀 C9 ALL,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0138,Xiaomi,e10,KOR,KR_Danawa,67581767,샤오미 E10,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0139,Xiaomi,e10b112,JPN,JP_Kakaku,K0001655585,ロボット掃除機 E10 B112,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0140,Xiaomi,h50pro,KOR,KR_Danawa,124181947,샤오미 H50 Pro,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0141,Xiaomi,huttddc55,KOR,KR_Danawa,11534015,샤오미 HUTT DDC55,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0142,Xiaomi,m30proc107,KOR,KR_Danawa,30361877,샤오미 미지아 M30 Pro C107,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0143,Xiaomi,m30sd103cn,KOR,KR_Danawa,44905913,샤오미 미지아 M30S D103CN,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0144,Xiaomi,m40,KOR,KR_Danawa,68364548,샤오미 미지아 M40,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0145,Xiaomi,m40s,KOR,KR_Danawa,91346171,샤오미 미지아 M40S,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0146,Xiaomi,m9lite,KOR,KR_Danawa,65915708,샤오미 미홀 M9 Lite,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0147,Xiaomi,s20,KOR,KR_Danawa,67624655,샤오미 S20,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0148,Xiaomi,x10plus,KOR,KR_Danawa,28158248,샤오미 X10 Plus,KOR,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0149,Xiaomi,x20,JPN,JP_Kakaku,K0001648921,ロボット掃除機 X20+,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0150,Xiaomi,x20maxd109gl,JPN,JP_Kakaku,K0001658127,ロボット掃除機 X20 Max D109GL,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.
+XW-0151,Xiaomi,x20prod102gl,JPN,JP_Kakaku,K0001658128,ロボット掃除機 X20 Pro D102GL,JPN,normalized_marketing_name_exact,not_cross_market,no,no,No cross-market match in collected records.

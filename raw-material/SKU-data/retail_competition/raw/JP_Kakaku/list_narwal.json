@@ -1,0 +1,21 @@
+{
+  "source_url": "https://kakaku.com/kaden/robot-cleaner/itemlist.aspx?pdf_ma=24861",
+  "accessed_at": "2026-10-02T22:38:12+08:00",
+  "http_status": 200,
+  "page_title": "価格.com - Narwal(ナーワル)のロボット掃除機 比較 2026年人気売れ筋ランキング",
+  "content_sha256": "f63e858d59b488c1374395999f11738d0df5cbcdad5139c977b878bc5e6f5a5c",
+  "brand": "Narwal",
+  "candidate_count": 8,
+  "selected_count": 8,
+  "selection_rule": "first 20 unique product pages in public brand category order",
+  "candidate_urls": [
+    "https://kakaku.com/item/K0001715217/",
+    "https://kakaku.com/item/K0001676915/",
+    "https://kakaku.com/item/K0001774522/",
+    "https://kakaku.com/item/K0001715220/",
+    "https://kakaku.com/item/K0001685792/",
+    "https://kakaku.com/item/K0001619213/",
+    "https://kakaku.com/item/K0001622522/",
+    "https://kakaku.com/item/K0001592511/"
+  ]
+}

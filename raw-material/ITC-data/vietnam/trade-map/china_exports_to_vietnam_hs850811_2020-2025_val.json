@@ -1,0 +1,172 @@
+{
+  "nbRecords": 3,
+  "page": 1,
+  "nbRecordPerPage": 10,
+  "nbPages": 1,
+  "records": [
+    {
+      "reporterCd": "156",
+      "partnerCd": "704",
+      "productCd": "850870",
+      "data": [
+        {
+          "period": 2020,
+          "value": 24576,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 62893,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 89278,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 143981,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 177408,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 295725,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "704",
+      "productCd": "850819",
+      "data": [
+        {
+          "period": 2020,
+          "value": 4996,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 7009,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 7836,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 7283,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 7502,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 7242,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "704",
+      "productCd": "850860",
+      "data": [
+        {
+          "period": 2020,
+          "value": 203,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 420,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 551,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 704,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 197,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 513,
+          "flag": null
+        }
+      ]
+    }
+  ],
+  "aggregateRecords": [
+    {
+      "reporterCd": "156",
+      "partnerCd": "704",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 28480,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 33740,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 45158,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 52672,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 54405,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 98347,
+          "flag": null
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 9,
+      "countryCd": "156",
+      "label": null,
+      "labelEn": "General Customs Administration of China",
+      "labelFr": "Administration Générale des Douanes Chinoises",
+      "labelEs": "General Customs Administration of China",
+      "labelAr": "General Customs Administration of China",
+      "labelRu": "General Customs Administration of China",
+      "url": "http://www.customs.gov.cn",
+      "startingDate": "2015"
+    }
+  ]
+}

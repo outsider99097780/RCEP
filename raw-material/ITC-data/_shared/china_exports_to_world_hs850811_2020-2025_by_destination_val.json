@@ -1,0 +1,7572 @@
+{
+  "nbRecords": 203,
+  "page": 1,
+  "nbRecordPerPage": 500,
+  "nbPages": 1,
+  "records": [
+    {
+      "reporterCd": "156",
+      "partnerCd": "276",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 505912,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 638922,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 545557,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 583401,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 615046,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 910360,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "842",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2025106,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1940866,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1566001,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1253695,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1067888,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 747104,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "392",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 409989,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 498624,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 462703,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 422712,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 459024,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 462655,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "528",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 247633,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 403762,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 279218,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 262303,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 345308,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 444655,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "826",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 420519,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 503440,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 307690,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 384934,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 412004,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 404989,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "410",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 206209,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 238595,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 177876,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 183809,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 211749,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 380307,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "643",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 169366,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 207185,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 182669,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 301028,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 321750,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 335964,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "251",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 164437,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 249517,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 190791,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 198963,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 250108,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 246720,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "036",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 131857,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 134053,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 174627,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 178882,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 207885,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 235134,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "616",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 93364,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 122143,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 75903,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 101791,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 165845,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 214260,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "724",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 210307,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 161583,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 111249,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 117484,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 141401,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 168577,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "381",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 94139,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 143715,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 106690,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 121455,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 122850,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 162058,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "124",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 137705,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 163881,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 158292,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 130082,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 125821,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 137345,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "792",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 28118,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 63885,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 58246,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 85606,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 83050,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 122111,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "704",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 28480,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 33740,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 45158,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 52672,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 54405,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 98347,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "076",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 62798,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 73966,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 36804,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 57875,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 91339,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 92047,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "752",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 30276,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 59186,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 36138,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 42272,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 50766,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 87176,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "699",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 24429,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 30885,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 30563,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 45451,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 58788,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 82198,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "490",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 49051,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 54860,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 59468,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 62175,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 64532,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 80139,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "344",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 107864,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 84330,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 41703,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 47000,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 48726,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 75927,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "056",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 76972,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 87417,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 47368,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 51909,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 58958,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 74967,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "458",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 39340,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 80460,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 66415,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 113608,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 120789,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 68883,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "376",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 14050,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 23755,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 20140,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 21719,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 35160,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 68060,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "784",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 19306,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 30386,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 31933,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 41358,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 61467,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 65685,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "398",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 6764,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 9003,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 13880,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 28210,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 58037,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 61941,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "764",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 34506,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 49572,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 44755,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 47823,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 56644,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 52634,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "702",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 27262,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 19966,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 45575,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 85031,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 75055,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 46747,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "203",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 43249,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 56795,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 30686,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 34379,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 40019,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 41846,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "703",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 21620,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 34430,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 30310,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 35288,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 52293,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 37337,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "757",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 15662,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 28278,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 22979,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 18296,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 24043,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 36630,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "682",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 14080,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 19584,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 17140,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 21090,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 25884,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 33381,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "484",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 9784,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 16206,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 15549,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 25945,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 29814,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 31133,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "032",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 8252,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 10505,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 11815,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 9901,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 15592,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 29114,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "360",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 20227,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 27742,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 26308,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 27934,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 36365,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 29063,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "705",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 21971,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 32136,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 17842,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 8985,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 14776,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 26830,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "348",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 25474,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 42176,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 25709,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 28542,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 32567,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 26506,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "608",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 13749,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 26074,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 19801,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 22576,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 29095,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 26316,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "208",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 28079,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 28338,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 17010,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 16283,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 15204,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 26162,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "417",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 496,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 4748,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 6262,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 8770,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 23147,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 25623,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "554",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 10737,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 16206,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 15587,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 13478,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 21292,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 20560,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "300",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 9897,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 26381,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 11975,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 13312,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 21903,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 19572,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "642",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 10746,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 14291,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 8337,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 8453,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 15935,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 18564,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "152",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 18848,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 37441,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 12168,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 9054,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 12837,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 17110,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "579",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 906,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2531,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 5249,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 5479,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 3575,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 15804,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "368",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2658,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2337,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 7358,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 5595,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 12107,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 15500,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "710",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 8742,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 12585,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 7727,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 7586,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 10699,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 13382,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "112",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 6784,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 10116,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 3938,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 5747,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 10182,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 12724,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "428",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1711,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2174,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 756,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 674,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 3643,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 11814,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "688",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 693,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2231,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 2925,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 12962,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 10969,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 9008,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "170",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 4600,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 5732,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 4186,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 4690,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 6305,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 8270,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "504",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1327,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2789,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 2808,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 4153,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 8373,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 8241,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "191",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 4193,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 6185,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 4896,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 4153,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 8726,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 7841,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "040",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 4287,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 7476,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 11409,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 3407,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 5316,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 7002,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "804",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 12843,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 13919,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 3974,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 4514,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 4043,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 6586,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "620",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 5876,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 8634,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 5784,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 4993,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 4870,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 5991,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "858",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2748,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2493,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 3910,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 3496,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 5096,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 5902,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "268",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 484,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 568,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 771,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 2049,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 4019,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 5815,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "246",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 5624,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 9492,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 4498,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 2398,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 4175,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 5036,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "031",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 311,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 789,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 531,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 750,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1154,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 4846,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "604",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2847,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 4065,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 2450,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 2808,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 4107,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 3847,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "422",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 172,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 319,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 769,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 2137,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 2099,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 3701,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "400",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 637,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 956,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1428,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1717,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1788,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 3591,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "434",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 618,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1016,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1231,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 2904,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 3839,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 3510,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "440",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 5735,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 8225,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 3197,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 4972,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 6826,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 3424,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "100",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1431,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1971,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1991,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1190,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 2080,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 3398,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "372",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2152,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1938,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1992,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 3632,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 4311,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 3225,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "860",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 509,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 371,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 373,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1096,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 2509,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 3213,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "591",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 841,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2239,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1776,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 2077,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 2518,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 3110,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "012",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 266,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 704,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 387,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1282,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 3541,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 2836,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "818",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1464,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1131,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1318,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1804,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1873,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 2384,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "218",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1616,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1858,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1562,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1783,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 2007,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 2104,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "008",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 272,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 278,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 164,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 722,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1395,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 2042,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "887",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 120,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 144,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 271,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 311,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 381,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1838,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "414",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 800,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2478,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1808,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1085,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1174,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1636,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "364",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 604,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 524,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1499,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1429,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1964,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1608,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "600",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 276,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 528,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 470,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1312,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1033,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1442,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "188",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 973,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1613,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 961,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 840,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1369,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1405,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "862",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 90,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 159,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 417,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 486,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1343,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1298,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "496",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 548,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1038,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1276,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1162,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 2302,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1191,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "834",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 47,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 124,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 447,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1007,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 684,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1165,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "762",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 222,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 536,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1653,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 2535,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1227,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1157,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "116",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 139,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 328,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 683,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 438,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 865,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1138,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "404",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 221,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 621,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 572,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 529,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 714,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1030,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "634",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 650,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 772,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1207,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1045,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1004,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 984,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "144",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 599,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1018,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 334,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 166,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 769,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 970,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "795",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 24,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 101,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 98,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 472,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 504,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 945,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "512",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 363,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 470,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 553,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 716,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1028,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 902,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "566",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 156,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 446,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 629,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 515,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 904,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 878,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "480",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 184,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 236,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 274,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 361,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 648,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 765,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "788",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 159,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 326,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 160,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 381,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 685,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 733,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "051",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 15,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 103,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 21,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 137,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 389,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 702,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "320",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 322,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 549,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 383,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 439,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1124,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 693,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "096",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 324,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 430,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 410,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 364,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 502,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 670,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "233",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 5661,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 9796,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 4032,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1266,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1349,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 648,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "222",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 243,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 721,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 147,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 268,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 374,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 622,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "048",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 75,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 220,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 338,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 616,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1075,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 596,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "807",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 149,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1033,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 207,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 200,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 430,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 583,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "288",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 57,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 122,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 215,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 255,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 297,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 544,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "214",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 64,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 314,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 202,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 399,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 585,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 539,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "586",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 428,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 982,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 612,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1632,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 676,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 512,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "462",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 58,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 103,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 113,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 130,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 636,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 502,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "340",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 31,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 152,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 96,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 188,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 425,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 482,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "275",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 63,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 56,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 73,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 387,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 377,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 464,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "498",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 48,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 41,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 120,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 70,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 273,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 434,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "446",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 136,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 129,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 487,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 288,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 694,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 427,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "196",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 298,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1076,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 406,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 94,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 368,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 423,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "760",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 46,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 5,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 387,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "070",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 116,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 365,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 303,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 169,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 415,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 379,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "050",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 224,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 334,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 478,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 323,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 410,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 331,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "384",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 33,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 234,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 147,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 151,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 173,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 319,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "524",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 40,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 155,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 408,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 170,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 391,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 316,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "104",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 203,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 256,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 443,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 226,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 131,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 267,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "508",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 41,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 420,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 271,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 678,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 523,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 267,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "780",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 76,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 154,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 113,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 95,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 200,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 222,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "004",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 297,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 329,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 213,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "328",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 13,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 47,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 14,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 100,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 127,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 213,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "024",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 23,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 226,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 73,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 181,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 153,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 204,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "388",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 27,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 42,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 13,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 148,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 157,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 203,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "686",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 44,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 37,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 210,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 257,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 147,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 190,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "499",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 8,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 7,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 56,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 99,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 183,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "262",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 42,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 133,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 59,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 223,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 93,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 176,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "740",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 86,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 76,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 83,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 46,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 43,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 149,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "558",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 11,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 22,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 18,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 79,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 71,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 134,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "418",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 16,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 19,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 90,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 51,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 92,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 124,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "470",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 278,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1216,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 232,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 248,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 258,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 123,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "540",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 35,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 97,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 55,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 92,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 79,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 116,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "120",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 13,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 16,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 42,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 149,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 130,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 111,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "180",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 24,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 27,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 18,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 52,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 106,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 111,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "258",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 53,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 55,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 47,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 13,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 35,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 108,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "068",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 233,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 384,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 149,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 172,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 198,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 106,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "768",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 38,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 46,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 8,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 75,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 97,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 102,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "242",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 16,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 82,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 89,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 56,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 83,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 96,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "800",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 34,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 23,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 75,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 82,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "450",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 8,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 87,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 31,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 40,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 89,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 80,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "598",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 29,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 70,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 40,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 43,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 91,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 80,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "478",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 5,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 7,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 29,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 61,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 73,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "706",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 74,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 29,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 23,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 69,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 83,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 71,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "072",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 27,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 240,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 18,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 20,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 67,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "231",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 19,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 20,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 425,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 268,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 57,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "266",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 12,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 20,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 27,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 64,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 30,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 52,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "516",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 41,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 36,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 58,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 52,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "531",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 7,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 16,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 12,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 22,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 51,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "626",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 7,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 15,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 17,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 47,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "690",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 9,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 9,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 17,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 20,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 42,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "324",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 14,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 11,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 64,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 31,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 40,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "332",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 8,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 14,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 8,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 40,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "352",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 46,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 68,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 32,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 36,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "204",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 31,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 56,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 52,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 35,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "178",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 15,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 9,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 24,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 26,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 26,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "729",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 23,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 21,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 8,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 26,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "296",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 17,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 20,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "084",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 5,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 14,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 27,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 35,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 19,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "533",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 5,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 17,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "716",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 19,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 10,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 37,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 11,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 28,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 15,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "894",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 8,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 36,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 12,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 22,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 15,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "192",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 11,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 30,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 18,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 11,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "234",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 11,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "548",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 16,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 37,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 29,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 11,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "694",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 11,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "776",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 23,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 11,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "028",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 9,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "074",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 29,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 8,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "882",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 7,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 8,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "052",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 20,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 13,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 5,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 7,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "226",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 10,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 9,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 7,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "646",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 43,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 7,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "270",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 9,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 6,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "430",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 10,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 7,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 7,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 8,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 6,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "670",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 6,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "184",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 5,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "308",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 5,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 5,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 5,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "442",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 95,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 212,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 217,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 9,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 44,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 5,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "876",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 5,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "132",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 24,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 4,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "136",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 10,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 4,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "044",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 5,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 111,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 3,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "534",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 23,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 18,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 3,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "662",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 3,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "426",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 2,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "090",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 9,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "174",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 9,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 89,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "232",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "584",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "624",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 143,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "678",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "748",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 8,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "854",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 1,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "020",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "060",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "064",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 11,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "108",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "148",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 2,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 5,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "212",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 257,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 12,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "316",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 4,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 5,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "408",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 5,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "454",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 17,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "466",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 27,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 8,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "527",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 34,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 60,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 13,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "562",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 30,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "583",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 10,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "636",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 1,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "659",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 6,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    },
+    {
+      "reporterCd": "156",
+      "partnerCd": "728",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 3,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 0,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 64,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 0,
+          "flag": null
+        }
+      ]
+    }
+  ],
+  "aggregateRecords": [
+    {
+      "reporterCd": "156",
+      "partnerCd": "000",
+      "productCd": "850811",
+      "data": [
+        {
+          "period": 2020,
+          "value": 5737390,
+          "flag": null
+        },
+        {
+          "period": 2021,
+          "value": 6677208,
+          "flag": null
+        },
+        {
+          "period": 2022,
+          "value": 5321513,
+          "flag": null
+        },
+        {
+          "period": 2023,
+          "value": 5453362,
+          "flag": null
+        },
+        {
+          "period": 2024,
+          "value": 5951583,
+          "flag": null
+        },
+        {
+          "period": 2025,
+          "value": 6593169,
+          "flag": null
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 9,
+      "countryCd": "156",
+      "label": null,
+      "labelEn": "General Customs Administration of China",
+      "labelFr": "Administration Générale des Douanes Chinoises",
+      "labelEs": "General Customs Administration of China",
+      "labelAr": "General Customs Administration of China",
+      "labelRu": "General Customs Administration of China",
+      "url": "http://www.customs.gov.cn",
+      "startingDate": "2015"
+    }
+  ]
+}

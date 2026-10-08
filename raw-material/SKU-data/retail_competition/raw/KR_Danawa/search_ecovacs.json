@@ -1,0 +1,253 @@
+{
+  "source_url": "https://search.danawa.com/dsearch.php?query=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4%20%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0",
+  "query": "에코백스 로봇청소기",
+  "accessed_at": "2026-10-02T22:48:49+08:00",
+  "http_status": 200,
+  "page_title": "에코백스 로봇청소기 : 다나와 통합검색",
+  "content_sha256": "780647fab8437e57248adaf1383983d41dc6eaf6dbdce9cc655b68f87aa173d0",
+  "candidate_count": 40,
+  "selected_count": 20,
+  "selection_rule": "first 20 eligible ItemList entries in public search order",
+  "candidates": [
+    {
+      "pcode": "106687118",
+      "url": "https://prod.danawa.com/info/?pcode=106687118",
+      "name": "에코백스 디봇 T90 프로 옴니 직배수",
+      "position": "1"
+    },
+    {
+      "pcode": "96582521",
+      "url": "https://prod.danawa.com/info/?pcode=96582521",
+      "name": "에코백스 디봇 T50 프로 옴니 (단품)",
+      "position": "2"
+    },
+    {
+      "pcode": "106687076",
+      "url": "https://prod.danawa.com/info/?pcode=106687076",
+      "name": "에코백스 디봇 T90 프로 옴니",
+      "position": "3"
+    },
+    {
+      "pcode": "76402685",
+      "url": "https://prod.danawa.com/info/?pcode=76402685",
+      "name": "에코백스 윈봇 미니 WG841 (일반구매)",
+      "position": "4"
+    },
+    {
+      "pcode": "98771135",
+      "url": "https://prod.danawa.com/info/?pcode=98771135",
+      "name": "에코백스 디봇 T50 프로 옴니 직배수 (단품)",
+      "position": "5"
+    },
+    {
+      "pcode": "91345565",
+      "url": "https://prod.danawa.com/info/?pcode=91345565",
+      "name": "에코백스 디봇 T80 옴니 (단품)",
+      "position": "6"
+    },
+    {
+      "pcode": "20359253",
+      "url": "https://prod.danawa.com/info/?pcode=20359253&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 T20 옴니",
+      "position": 8
+    },
+    {
+      "pcode": "53780207",
+      "url": "https://prod.danawa.com/info/?pcode=53780207&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 윈봇 W2 옴니",
+      "position": 10
+    },
+    {
+      "pcode": "16566839",
+      "url": "https://prod.danawa.com/info/?pcode=16566839&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 X1 옴니",
+      "position": 11
+    },
+    {
+      "pcode": "68776505",
+      "url": "https://prod.danawa.com/info/?pcode=68776505&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 N30 프로 옴니",
+      "position": 12
+    },
+    {
+      "pcode": "122618465",
+      "url": "https://prod.danawa.com/info/?pcode=122618465&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 윈봇 W3 옴니",
+      "position": 14
+    },
+    {
+      "pcode": "32486072",
+      "url": "https://prod.danawa.com/info/?pcode=32486072&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 X2 옴니",
+      "position": 15
+    },
+    {
+      "pcode": "75372764",
+      "url": "https://prod.danawa.com/info/?pcode=75372764&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 X8 프로 옴니",
+      "position": 17
+    },
+    {
+      "pcode": "75989948",
+      "url": "https://prod.danawa.com/info/?pcode=75989948&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 X8 프로 옴니 직배수",
+      "position": 18
+    },
+    {
+      "pcode": "99326447",
+      "url": "https://prod.danawa.com/info/?pcode=99326447&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 X11 옴니 사이클론",
+      "position": 19
+    },
+    {
+      "pcode": "13863530",
+      "url": "https://prod.danawa.com/info/?pcode=13863530&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 오즈모 T9 Plus",
+      "position": 20
+    },
+    {
+      "pcode": "124198307",
+      "url": "https://prod.danawa.com/info/?pcode=124198307&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 T90 프로 옴니 직배수 + 윈봇 미니",
+      "position": 21
+    },
+    {
+      "pcode": "44996018",
+      "url": "https://prod.danawa.com/info/?pcode=44996018&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 T30 프로 옴니",
+      "position": 22
+    },
+    {
+      "pcode": "67407635",
+      "url": "https://prod.danawa.com/info/?pcode=67407635&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 N20 프로 플러스",
+      "position": 23
+    },
+    {
+      "pcode": "56273429",
+      "url": "https://prod.danawa.com/info/?pcode=56273429&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 Y1 프로 플러스",
+      "position": 24
+    },
+    {
+      "pcode": "103519082",
+      "url": "https://prod.danawa.com/info/?pcode=103519082&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 X11 프로 옴니 직배수",
+      "position": 25
+    },
+    {
+      "pcode": "20078822",
+      "url": "https://prod.danawa.com/info/?pcode=20078822&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 윈봇 W1 PRO",
+      "position": 26
+    },
+    {
+      "pcode": "16566824",
+      "url": "https://prod.danawa.com/info/?pcode=16566824&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 X1 터보",
+      "position": 27
+    },
+    {
+      "pcode": "124198299",
+      "url": "https://prod.danawa.com/info/?pcode=124198299&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 T90 프로 옴니 + 윈봇 W2 옴니",
+      "position": 28
+    },
+    {
+      "pcode": "104044940",
+      "url": "https://prod.danawa.com/info/?pcode=104044940&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 X11 프로 옴니",
+      "position": 29
+    },
+    {
+      "pcode": "17288747",
+      "url": "https://prod.danawa.com/info/?pcode=17288747&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 T10 터보",
+      "position": 30
+    },
+    {
+      "pcode": "55340252",
+      "url": "https://prod.danawa.com/info/?pcode=55340252&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 윈봇 W1S",
+      "position": 31
+    },
+    {
+      "pcode": "66139394",
+      "url": "https://prod.danawa.com/info/?pcode=66139394&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 X5 프로 옴니",
+      "position": 32
+    },
+    {
+      "pcode": "13870013",
+      "url": "https://prod.danawa.com/info/?pcode=13870013&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 N8 프로",
+      "position": 33
+    },
+    {
+      "pcode": "104751263",
+      "url": "https://prod.danawa.com/info/?pcode=104751263&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 PRO K1 VAC",
+      "position": 34
+    },
+    {
+      "pcode": "35223872",
+      "url": "https://prod.danawa.com/info/?pcode=35223872&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 X2 프로 옴니",
+      "position": 35
+    },
+    {
+      "pcode": "56460578",
+      "url": "https://prod.danawa.com/info/?pcode=56460578&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 T30 프로 옴니 직배수",
+      "position": 36
+    },
+    {
+      "pcode": "63143108",
+      "url": "https://prod.danawa.com/info/?pcode=63143108&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 T30S 콤보",
+      "position": 37
+    },
+    {
+      "pcode": "124198290",
+      "url": "https://prod.danawa.com/info/?pcode=124198290&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 T90 프로 옴니 직배수 + 윈봇 W2 옴니",
+      "position": 38
+    },
+    {
+      "pcode": "124198304",
+      "url": "https://prod.danawa.com/info/?pcode=124198304&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 T90 프로 옴니 + 윈봇 미니",
+      "position": 39
+    },
+    {
+      "pcode": "19518506",
+      "url": "https://prod.danawa.com/info/?pcode=19518506&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 N10",
+      "position": 40
+    },
+    {
+      "pcode": "60239207",
+      "url": "https://prod.danawa.com/info/?pcode=60239207&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 T30 옴니 DDX11",
+      "position": 41
+    },
+    {
+      "pcode": "35223905",
+      "url": "https://prod.danawa.com/info/?pcode=35223905&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 X2 프로 옴니 직배수",
+      "position": 42
+    },
+    {
+      "pcode": "19600049",
+      "url": "https://prod.danawa.com/info/?pcode=19600049&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "에코백스 디봇 T20 PRO PLUS",
+      "position": 43
+    },
+    {
+      "pcode": "16165124",
+      "url": "https://prod.danawa.com/info/?pcode=16165124&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10253382",
+      "name": "에코백스 오즈모 T8, T8 AIVI 전용 다회용걸레포",
+      "position": 44
+    }
+  ]
+}

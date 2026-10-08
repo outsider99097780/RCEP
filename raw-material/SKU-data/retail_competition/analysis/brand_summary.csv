@@ -1,0 +1,14 @@
+﻿country_code,brand,currency,sku_count,minimum_representative_price,median_representative_price,maximum_representative_price,median_price_index_vs_market,average_seller_count,rating_coverage_rate,review_count_coverage_rate,notes
+JPN,Roborock,JPY,20,25800,94390.0,201300,1.3523,5.85,0.55,0.55,Descriptive only; local currencies are not converted or compared across markets.
+JPN,Ecovacs,JPY,16,16390.5,84800.0,229900,1.2149,11.75,0.75,0.75,Descriptive only; local currencies are not converted or compared across markets.
+JPN,Xiaomi,JPY,6,16800,59850.0,108000,0.8574,3.17,0.3333,0.3333,Descriptive only; local currencies are not converted or compared across markets.
+JPN,Dreame,JPY,13,22823,54800,239800,0.7851,8.0,0.3846,0.3846,Descriptive only; local currencies are not converted or compared across markets.
+JPN,Narwal,JPY,8,44800,63389.5,149800,0.9082,4.25,0.75,0.75,Descriptive only; local currencies are not converted or compared across markets.
+KOR,Roborock,KRW,20,352515,1277500.0,2375000,1.195,22.25,1.0,1.0,Descriptive only; local currencies are not converted or compared across markets.
+KOR,Ecovacs,KRW,16,411110,968430.0,3100000,0.9059,13.31,1.0,1.0,Descriptive only; local currencies are not converted or compared across markets.
+KOR,Xiaomi,KRW,9,69890,218000,1190000,0.2039,7.78,0.5556,0.5556,Descriptive only; local currencies are not converted or compared across markets.
+KOR,Dreame,KRW,19,419775,1085200,2389130,1.0152,16.58,1.0,1.0,Descriptive only; local currencies are not converted or compared across markets.
+KOR,Narwal,KRW,10,1052800,1679750.0,3024220,1.5713,5.4,0.9,0.9,Descriptive only; local currencies are not converted or compared across markets.
+AUS,Roborock,AUD,7,279,897,2999,0.6905,2.86,0.0,0.0,Descriptive only; local currencies are not converted or compared across markets.
+AUS,Ecovacs,AUD,8,359,749.0,2999,0.5766,3.62,0.0,0.0,Descriptive only; local currencies are not converted or compared across markets.
+AUS,Dreame,AUD,4,1299,1792.5,1994,1.3799,2.5,0.0,0.0,Descriptive only; local currencies are not converted or compared across markets.

@@ -1,0 +1,60 @@
+{
+  "source_url": "https://www.getprice.com.au/product/roborock-q7t-plus-robotic-vacuum-cleaner",
+  "accessed_at": "2026-10-02T22:46:17+08:00",
+  "http_status": 200,
+  "page_title": "Best Roborock Q7T Plus Robotic Prices in Australia | Getprice",
+  "content_sha256": "4b20fdf90c7d629528b2dde1f22309a75658d92edea07601372a5448a3028647",
+  "parsed_product": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Roborock Q7T Plus Robotic",
+    "description": "The Roborock Q7T Plus is a feature-rich robotic vacuum and mop designed to simplify home cleaning with intelligent automation and powerful performance. Launched in Australia in mid-2025, it offers a compelling blend of suction strength, smart navigation, and hands-free maintenance, making it a strong contender for households seeking a reliable cleaning companion.  At the heart of the Q7T Plus is its impressive 10,000Pa HyperForce suction system, which delivers deep cleaning across a variety of floor types. Whether tackling fine dust on hardwood or embedded debris in carpets, the vacuum adjusts its power dynamically to suit the surface, ensuring thorough results. Complementing this is the DuoRoller anti-tangle brush system, which effectively captures hair and fibres without clogging—a boon for pet owners and those with long hair.   Navigation is handled by Roborock's PreciSense LiDAR technology, enabling the robot to map your home with precision. This allows for efficient route planning and the ability to save up to four distinct floor maps, ideal for multi-level homes. The system also intelligently identifies challenging areas, such as under furniture, and suggests No-Go Zones to prevent mishaps.  Mopping duties are managed by a consistent water flow system with three adjustable levels, ensuring even distribution and effective cleaning without over-wetting. The mop function is particularly adept at following the grain of floorboards, enhancing its ability to lift grime from grooves and seams.  One of the standout features is the RockDock Plus auto-emptying station. This dock automatically empties the vacuum's dustbin into a larger 2.7-litre bag, capable of holding up to seven weeks' worth of debris. This significantly reduces the frequency of manual emptying, adding to the convenience factor.  Energy efficiency is another consideration, with the Q7T Plus supporting off-peak charging schedules via the Roborock app. This feature allows users to take advantage of lower electricity rates, aligning with sustainable living practices. The app also provides comprehensive control over cleaning schedules, suction power, water flow, and map management, offering a tailored cleaning experience.  Safety features include a child lock to prevent accidental activation, ensuring peace of mind in households with young children. The vacuum operates at a low noise level, making it suitable for use at any time without causing disturbances.  In terms of pricing, the Roborock Q7T Plus is available in Australia with prices starting around $780 AUD, depending on the retailer and any ongoing promotions. This positions it competitively within the market, offering a suite of premium features typically found in higher-end models.  Overall, the Roborock Q7T Plus combines powerful cleaning capabilities with intelligent features and user-friendly controls, making it a valuable addition to modern households seeking to streamline their cleaning routines.  This description was last updated July 2025.",
+    "image": "https://images.getprice.com.au/images/products/265931.jpeg?bg-color=ffffff&format=webp&fit=bounds&optimize=low&canvas=350,350&height=350&width=350",
+    "url": "/product/roborock-q7t-plus-robotic-vacuum-cleaner",
+    "brand": {
+      "@context": "https://schema.org",
+      "@type": "Brand",
+      "name": "Roborock"
+    },
+    "offers": {
+      "@context": "https://schema.org",
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "priceCurrency": "AUD",
+      "highPrice": 349,
+      "lowPrice": 279,
+      "offerCount": 2
+    }
+  },
+  "parsed_offers": [
+    {
+      "retailer_name": "Amazon AU Logo",
+      "offer_price": 279,
+      "currency": "AUD",
+      "shipping": "+ Shipping",
+      "stock_status": "",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "roborock Q7T+ Robot Vacuum & Mop, All-in-one Vacuum Cleaner, Top 10,000Pa Suction, DuoRoller Anti-Tangle Brush, Hands-Free Cleaning 7 Weeks, Precise Navigation, Perfect for Pet Hair【Q8 Max+ Upgraded】 $279 72% off RRP + Shipping Go to Shop"
+    },
+    {
+      "retailer_name": "Kogan Australia Logo",
+      "offer_price": 349,
+      "currency": "AUD",
+      "shipping": "+ Shipping",
+      "stock_status": "",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "Roborock Q7T+ Vacuum Cleaner (Black) $349 + Shipping Go to Shop"
+    }
+  ],
+  "evidence_excerpt": "Best Roborock Q7T Plus Robotic Prices in Australia | Getprice Get the best deals and the lowest prices Discount coupons Deals, news & guides Sign up to our newsletter Browse by category Electronics Phones & Mobile Accessories Mobile Phones Smartwatches Mobile Phone Accessories Smartwatch Accessories Power banks See All Cameras & Video Cameras Digital Cameras Video Cameras Camera Lenses Drones Camera Accessories See All Home Audio Headphones Speakers Home Theatre Systems Radios Hi-Fi Mini Systems See All TV & Video Televisions Media Streaming Devices Blu-ray Players Projectors TV Mounts & Brackets See All Portable Electronics Bluetooth & Portable Speakers EReaders EReader Accessories Boomboxes Portable CD Players See All Audio Visual Equipment Audio & Video Accessories Studio And Stage Equipment Audio Visual Cables Studio Microphones See All Accessories Security Systems & Surveillance Remote Controls Electronic Components Home Automation Batteries See All Musical Instruments Drums Musical Instrument Accessories Guitars Other String Instruments Flutes See All Smart Home Smart Speakers Smart Displays Smart Lights See All PDAs & Mobile Electronics PDAs MP3 & Media Players GPS Devices P"
+}

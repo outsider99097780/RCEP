@@ -1,0 +1,19 @@
+{
+  "source_url": "https://www.getprice.com.au/search/ecovacs-robot-vacuum",
+  "accessed_at": "2026-10-02T22:46:18+08:00",
+  "http_status": 200,
+  "page_title": "Best ecovacs robot vacuum prices we found",
+  "content_sha256": "51b598931140836e188766a11d8ee9a952e5bde1c0b7af591a15dc6efdc638ab",
+  "candidate_count": 8,
+  "selected_count": 8,
+  "candidate_urls": [
+    "https://www.getprice.com.au/product/ecovacs-deebot-x11-omnicyclone-robotic-vacuum-cleaner",
+    "https://www.getprice.com.au/product/ecovacs-deebot-n20-robot-vacuum-cleaner",
+    "https://www.getprice.com.au/product/ecovacs-deebot-x8-pro-omni-robotic-vacuum-cleaner",
+    "https://www.getprice.com.au/product/ecovacs-deebot-t90-pro-omni-robotic-vacuum-cleaner",
+    "https://www.getprice.com.au/product/ecovacs-deebot-n20-plus-robot-vacuum-cleaner",
+    "https://www.getprice.com.au/product/ecovacs-deebot-t50-pro-omni-robotic-vacuum-cleaner",
+    "https://www.getprice.com.au/product/ecovacs-deebot-t30s-pro-robot-vacuum-cleaner",
+    "https://www.getprice.com.au/product/ecovacs-deebot-n20-pro-plus-robot-vacuum-cleaner"
+  ]
+}

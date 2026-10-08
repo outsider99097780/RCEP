@@ -1,0 +1,18 @@
+collection:
+  retrieved_at: 2026-10-02T22:39:57+08:00
+  max_product_details_per_brand_per_site: 20
+  request_delay_seconds: 1.0
+  scope: public robot-vacuum brand/search results only
+  forbidden: [captcha_bypass, hidden_api, access_control_bypass, full_html_mirror]
+price_rules:
+  representative_three_or_more: median_normal_offers
+  representative_one_or_two: lowest_available_<3_offers
+  missing_value: blank
+  excluded_or_flagged: [membership, card_only, coupon, points, used, refurbished, accessory, overseas_purchase]
+korea:
+  main_purchase_type: general_purchase
+  overseas_purchase: stored_separately_and_excluded_from_representative_price
+ranking:
+  Kakaku: site_category_rank_only
+  Danawa: captured_search_position_only
+  GetPrice: NA

@@ -1,0 +1,19 @@
+{
+  "source_url": "https://kakaku.com/kaden/robot-cleaner/itemlist.aspx?pdf_ma=15481",
+  "accessed_at": "2026-10-02T22:37:43+08:00",
+  "http_status": 200,
+  "page_title": "価格.com - Xiaomi(シャオミ)のロボット掃除機 比較 2026年人気売れ筋ランキング",
+  "content_sha256": "187881ab720d2258e3d791973deeee8bd9de963f86e3e17e1d28e1bb7a733f0e",
+  "brand": "Xiaomi",
+  "candidate_count": 6,
+  "selected_count": 6,
+  "selection_rule": "first 20 unique product pages in public brand category order",
+  "candidate_urls": [
+    "https://kakaku.com/item/K0001648921/",
+    "https://kakaku.com/item/K0001658127/",
+    "https://kakaku.com/item/K0001655585/",
+    "https://kakaku.com/item/K0001658128/",
+    "https://kakaku.com/item/K0001711141/",
+    "https://kakaku.com/item/K0001711140/"
+  ]
+}

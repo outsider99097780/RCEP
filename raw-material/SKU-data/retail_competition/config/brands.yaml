@@ -1,0 +1,21 @@
+brands:
+  - canonical: Roborock
+    japan_label: Roborock
+    korea_label: 로보락
+    australia_label: roborock
+  - canonical: Ecovacs
+    japan_label: ECOVACS
+    korea_label: 에코백스
+    australia_label: ecovacs
+  - canonical: Xiaomi
+    japan_label: Xiaomi
+    korea_label: 샤오미
+    australia_label: xiaomi
+  - canonical: Dreame
+    japan_label: Dreame
+    korea_label: 드리미
+    australia_label: dreame
+  - canonical: Narwal
+    japan_label: Narwal
+    korea_label: 나르왈
+    australia_label: narwal

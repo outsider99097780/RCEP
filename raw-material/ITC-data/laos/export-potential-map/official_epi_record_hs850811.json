@@ -1,0 +1,28 @@
+{
+  "item": {
+    "code": "418",
+    "name": "Lao People's Democratic Republic",
+    "parent": {
+      "code": "13",
+      "name": "Southeast Asia",
+      "color": "#dac20c",
+      "parent": {
+        "code": "3",
+        "name": "Asia",
+        "color": "#C0392B"
+      }
+    }
+  },
+  "value": 205781.19792,
+  "exportValue": 65866.666667,
+  "realizedPotential": 0.3200810732,
+  "lineLength": 531.15597049,
+  "bubbleSize": 137539.7731,
+  "lineWidth": 2.9595978304,
+  "tariff": 0,
+  "xik": 6890294100,
+  "mjk": 178266.66667,
+  "xij": 2903824200,
+  "gap": 0.6799189268,
+  "rank": 128
+}

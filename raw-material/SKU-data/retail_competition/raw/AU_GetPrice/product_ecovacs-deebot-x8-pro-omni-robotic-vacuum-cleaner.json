@@ -1,0 +1,59 @@
+{
+  "source_url": "https://www.getprice.com.au/product/ecovacs-deebot-x8-pro-omni-robotic-vacuum-cleaner",
+  "accessed_at": "2026-10-02T22:46:22+08:00",
+  "http_status": 200,
+  "page_title": "Best Ecovacs Deebot X8 Pro Omni Robotic Prices in Australia | Getprice",
+  "content_sha256": "05d984f00c59b187e10ad5569c83e2c2e33e25320ab973d358b088919131a993",
+  "parsed_product": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Ecovacs Deebot X8 Pro Omni Robotic",
+    "image": "https://images.getprice.com.au/images/products/265457.jpeg?bg-color=ffffff&format=webp&fit=bounds&optimize=low&canvas=350,350&height=350&width=350",
+    "url": "/product/ecovacs-deebot-x8-pro-omni-robotic-vacuum-cleaner",
+    "brand": {
+      "@context": "https://schema.org",
+      "@type": "Brand",
+      "name": "Ecovacs"
+    },
+    "offers": {
+      "@context": "https://schema.org",
+      "@type": "AggregateOffer",
+      "availability": "https://schema.org/InStock",
+      "priceCurrency": "AUD",
+      "highPrice": 2499,
+      "lowPrice": 999,
+      "offerCount": 4
+    }
+  },
+  "parsed_offers": [
+    {
+      "retailer_name": "JB Hi-Fi Logo",
+      "offer_price": 999,
+      "currency": "AUD",
+      "shipping": "+ Shipping",
+      "stock_status": "",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "ECOVACS DEEBOT X8 Pro Omni Robotic Vacuum Cleaner (Black) $999 + Shipping Go to Shop"
+    },
+    {
+      "retailer_name": "eBay Logo",
+      "offer_price": 2499,
+      "currency": "AUD",
+      "shipping": "+ Shipping",
+      "stock_status": "",
+      "offer_url": "",
+      "purchase_type": "general_purchase",
+      "price_type": "normal",
+      "is_promoted": "no",
+      "is_normal_offer": "yes",
+      "exclusion_reason": "",
+      "evidence_text": "Ecovacs Deebot X8 Pro Omni 0.22 L Dust Bag Black $2,213.49 + Shipping Go to Shop Show more (1) Show less Ecovacs Deebot Robot Vacuum And Mop, X8 Pro Omni $2,499 + Shipping Go to Shop"
+    }
+  ],
+  "evidence_excerpt": "Best Ecovacs Deebot X8 Pro Omni Robotic Prices in Australia | Getprice Get the best deals and the lowest prices Discount coupons Deals, news & guides Sign up to our newsletter Browse by category Electronics Phones & Mobile Accessories Mobile Phones Smartwatches Mobile Phone Accessories Smartwatch Accessories Power banks See All Cameras & Video Cameras Digital Cameras Video Cameras Camera Lenses Drones Camera Accessories See All Home Audio Headphones Speakers Home Theatre Systems Radios Hi-Fi Mini Systems See All TV & Video Televisions Media Streaming Devices Blu-ray Players Projectors TV Mounts & Brackets See All Portable Electronics Bluetooth & Portable Speakers EReaders EReader Accessories Boomboxes Portable CD Players See All Audio Visual Equipment Audio & Video Accessories Studio And Stage Equipment Audio Visual Cables Studio Microphones See All Accessories Security Systems & Surveillance Remote Controls Electronic Components Home Automation Batteries See All Musical Instruments Drums Musical Instrument Accessories Guitars Other String Instruments Flutes See All Smart Home Smart Speakers Smart Displays Smart Lights See All PDAs & Mobile Electronics PDAs MP3 & Media Players GPS "
+}

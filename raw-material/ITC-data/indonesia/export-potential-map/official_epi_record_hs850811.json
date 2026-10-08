@@ -1,0 +1,28 @@
+{
+  "item": {
+    "code": "360",
+    "name": "Indonesia",
+    "parent": {
+      "code": "13",
+      "name": "Southeast Asia",
+      "color": "#dac20c",
+      "parent": {
+        "code": "3",
+        "name": "Asia",
+        "color": "#C0392B"
+      }
+    }
+  },
+  "value": 42108184.816,
+  "exportValue": 27433266.667,
+  "realizedPotential": 0.6514948765,
+  "lineLength": 531.15597049,
+  "bubbleSize": 55998599.359,
+  "lineWidth": 2.085046508,
+  "tariff": 0,
+  "xik": 6890294100,
+  "mjk": 30497900,
+  "xij": 66243538233,
+  "gap": 0.34850512349999996,
+  "rank": 38
+}

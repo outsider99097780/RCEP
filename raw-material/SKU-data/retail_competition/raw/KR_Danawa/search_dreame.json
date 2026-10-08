@@ -1,0 +1,229 @@
+{
+  "source_url": "https://search.danawa.com/dsearch.php?query=%EB%93%9C%EB%A6%AC%EB%AF%B8%20%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0",
+  "query": "드리미 로봇청소기",
+  "accessed_at": "2026-10-02T22:49:59+08:00",
+  "http_status": 200,
+  "page_title": "드리미 로봇청소기 : 다나와 통합검색",
+  "content_sha256": "239c53fcdd65db1a667f22f094e12a3b00079499e2c70f4305960ad3a5a85699",
+  "candidate_count": 36,
+  "selected_count": 20,
+  "selection_rule": "first 20 eligible ItemList entries in public search order",
+  "candidates": [
+    {
+      "pcode": "107991857",
+      "url": "https://prod.danawa.com/info/?pcode=107991857",
+      "name": "드리미 X60 Ultra (화이트)",
+      "position": "1"
+    },
+    {
+      "pcode": "92104061",
+      "url": "https://prod.danawa.com/info/?pcode=92104061",
+      "name": "드리미 L40s Pro Ultra",
+      "position": "2"
+    },
+    {
+      "pcode": "107723801",
+      "url": "https://prod.danawa.com/info/?pcode=107723801",
+      "name": "드리미 X60 Master 직배수",
+      "position": "3"
+    },
+    {
+      "pcode": "103413488",
+      "url": "https://prod.danawa.com/info/?pcode=103413488",
+      "name": "드리미 L10s Ultra Gen3",
+      "position": "4"
+    },
+    {
+      "pcode": "124248500",
+      "url": "https://prod.danawa.com/info/?pcode=124248500",
+      "name": "드리미 아쿠아20 울트라 롤러 마스터 직배수",
+      "position": "5"
+    },
+    {
+      "pcode": "123962663",
+      "url": "https://prod.danawa.com/info/?pcode=123962663",
+      "name": "드리미 아쿠아20 울트라 롤러",
+      "position": "6"
+    },
+    {
+      "pcode": "96979046",
+      "url": "https://prod.danawa.com/info/?pcode=96979046&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 아쿠아10 울트라 롤러",
+      "position": 8
+    },
+    {
+      "pcode": "37927583",
+      "url": "https://prod.danawa.com/info/?pcode=37927583&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 L10s Heat",
+      "position": 10
+    },
+    {
+      "pcode": "122663015",
+      "url": "https://prod.danawa.com/info/?pcode=122663015&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 L50s Pro Ultra",
+      "position": 11
+    },
+    {
+      "pcode": "15572600",
+      "url": "https://prod.danawa.com/info/?pcode=15572600&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 W10",
+      "position": 12
+    },
+    {
+      "pcode": "122663063",
+      "url": "https://prod.danawa.com/info/?pcode=122663063&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 L50s Pro Nano 직배수",
+      "position": 14
+    },
+    {
+      "pcode": "123606305",
+      "url": "https://prod.danawa.com/info/?pcode=123606305&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 L30s Plus",
+      "position": 15
+    },
+    {
+      "pcode": "90112778",
+      "url": "https://prod.danawa.com/info/?pcode=90112778&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 X50s Pro Ultra",
+      "position": 17
+    },
+    {
+      "pcode": "74335256",
+      "url": "https://prod.danawa.com/info/?pcode=74335256&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 X50 Master 직배수",
+      "position": 18
+    },
+    {
+      "pcode": "67512206",
+      "url": "https://prod.danawa.com/info/?pcode=67512206&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 L10s Ultra Gen2",
+      "position": 19
+    },
+    {
+      "pcode": "96650003",
+      "url": "https://prod.danawa.com/info/?pcode=96650003&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 매트릭스10 울트라",
+      "position": 20
+    },
+    {
+      "pcode": "54316316",
+      "url": "https://prod.danawa.com/info/?pcode=54316316&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 X40 Ultra",
+      "position": 21
+    },
+    {
+      "pcode": "74335175",
+      "url": "https://prod.danawa.com/info/?pcode=74335175&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 X50 Ultra",
+      "position": 22
+    },
+    {
+      "pcode": "11570810",
+      "url": "https://prod.danawa.com/info/?pcode=11570810&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 F9",
+      "position": 23
+    },
+    {
+      "pcode": "58849616",
+      "url": "https://prod.danawa.com/info/?pcode=58849616&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 D10 Plus GEN2",
+      "position": 24
+    },
+    {
+      "pcode": "71642741",
+      "url": "https://prod.danawa.com/info/?pcode=71642741&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 L10s Plus",
+      "position": 25
+    },
+    {
+      "pcode": "123805604",
+      "url": "https://prod.danawa.com/info/?pcode=123805604&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 L30s Pro Ultra Heat",
+      "position": 26
+    },
+    {
+      "pcode": "16655162",
+      "url": "https://prod.danawa.com/info/?pcode=16655162&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 W10 Pro",
+      "position": 27
+    },
+    {
+      "pcode": "98919707",
+      "url": "https://prod.danawa.com/info/?pcode=98919707&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 아쿠아10 울트라 롤러 마스터 직배수",
+      "position": 28
+    },
+    {
+      "pcode": "12991763",
+      "url": "https://prod.danawa.com/info/?pcode=12991763&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 D9 RLS5-WHO",
+      "position": 29
+    },
+    {
+      "pcode": "74804618",
+      "url": "https://prod.danawa.com/info/?pcode=74804618&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 X50 Pro",
+      "position": 30
+    },
+    {
+      "pcode": "17986118",
+      "url": "https://prod.danawa.com/info/?pcode=17986118&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 D10 Plus",
+      "position": 31
+    },
+    {
+      "pcode": "15305648",
+      "url": "https://prod.danawa.com/info/?pcode=15305648&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 L10 프로",
+      "position": 32
+    },
+    {
+      "pcode": "74804648",
+      "url": "https://prod.danawa.com/info/?pcode=74804648&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+      "name": "드리미 X50 Pro 직배수",
+      "position": 33
+    },
+    {
+      "pcode": "123606508",
+      "url": "https://prod.danawa.com/info/?pcode=123606508&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10253382",
+      "name": "드림스테이 드리미 직배수 로봇 청소기 리폼 + 직배수키트 설치",
+      "position": 34
+    },
+    {
+      "pcode": "123606445",
+      "url": "https://prod.danawa.com/info/?pcode=123606445&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10253382",
+      "name": "드림스테이 드리미 직배수 로봇 청소기 리폼",
+      "position": 36
+    },
+    {
+      "pcode": "123606478",
+      "url": "https://prod.danawa.com/info/?pcode=123606478&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10253382",
+      "name": "드림스테이 드리미 일반형 로봇 청소기 리폼",
+      "position": 37
+    },
+    {
+      "pcode": "94090238",
+      "url": "https://prod.danawa.com/info/?pcode=94090238&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10253382",
+      "name": "드리미 L40s Pro Ultra 호환 메인브러쉬",
+      "position": 39
+    },
+    {
+      "pcode": "106686914",
+      "url": "https://prod.danawa.com/info/?pcode=106686914&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10253382",
+      "name": "드리미 D10 Plus GEN2 전용 먼지봉투",
+      "position": 40
+    },
+    {
+      "pcode": "95520104",
+      "url": "https://prod.danawa.com/info/?pcode=95520104&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10253382",
+      "name": "드리미 L40s Pro Ultra 호환 먼지봉투",
+      "position": 41
+    },
+    {
+      "pcode": "106686911",
+      "url": "https://prod.danawa.com/info/?pcode=106686911&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10253382",
+      "name": "드리미 L40s Pro Ultra 전용 먼지봉투",
+      "position": 43
+    }
+  ]
+}
