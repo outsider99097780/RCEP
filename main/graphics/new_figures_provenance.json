@@ -1,0 +1,972 @@
+{
+  "generated_at": "2026-10-10",
+  "source_access_dates": {
+    "retail": "2026-10-02",
+    "local_report_review": "2026-10-10"
+  },
+  "financial": {
+    "data": "company_financial_trend_data.csv",
+    "unit_conversion": "Wind万元 /10000 = 亿元人民币",
+    "source_sha256": "775a938ba957135238f7184eb78967da5b5ee73b6698574c25f1ba6efd1c1690",
+    "crosscheck": {
+      "file": "sources\\report\\石头科技2025年度报告.pdf",
+      "pdf_page": 10,
+      "sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "tolerance_cny": 60
+    },
+    "excluded_conflict": "Wind地区表缺少显式金额单位，且2025国外收入与年报分地区主营收入不同；正文分地区数值采用年报第54--55页，不用于本图。"
+  },
+  "retail": {
+    "data": "retail_brand_price_data.csv",
+    "source_file": "data\\macro-market\\competition\\retail-website-data\\cleaned\\products.csv",
+    "source_sha256": "3adf8084197a3158458af717f5ca01c0365f46e44077b673744f1ae1689cf6bc",
+    "ledger_sha256": "2ba45173e84f323324309957cf32e664b4537da02794466748f7a016db40a1d0",
+    "grain": "一条网站产品ID/变体；不按销量加权，不跨国汇率折算，不推断全市场品牌份额",
+    "selection": "排除韩国海外购与缺失价格；代表价沿用清洗层：正常报价至少3条取中位数，否则取最低正常报价",
+    "sensitivity": "同品牌另算normal_offer_count>=3子样本中位数，见CSV；不是置信区间",
+    "rows_by_market": {
+      "JPN": 63,
+      "AUS": 19,
+      "KOR": 88
+    },
+    "missing_observations": "AU Xiaomi/Narwal为未采得样本，不能解释为没有市场销售",
+    "product_citations": [
+      {
+        "ledger_id": "SRC-0005",
+        "url": "https://kakaku.com/item/K0001691577/",
+        "accessed_at": "2026-10-02T22:36:47+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001691577.json"
+      },
+      {
+        "ledger_id": "SRC-0006",
+        "url": "https://kakaku.com/item/K0001764901/",
+        "accessed_at": "2026-10-02T22:36:48+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001764901.json"
+      },
+      {
+        "ledger_id": "SRC-0007",
+        "url": "https://kakaku.com/item/K0001785912/",
+        "accessed_at": "2026-10-02T22:36:49+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001785912.json"
+      },
+      {
+        "ledger_id": "SRC-0008",
+        "url": "https://kakaku.com/item/K0001693090/",
+        "accessed_at": "2026-10-02T22:36:51+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001693090.json"
+      },
+      {
+        "ledger_id": "SRC-0009",
+        "url": "https://kakaku.com/item/K0001693087/",
+        "accessed_at": "2026-10-02T22:36:52+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001693087.json"
+      },
+      {
+        "ledger_id": "SRC-0010",
+        "url": "https://kakaku.com/item/K0001691578/",
+        "accessed_at": "2026-10-02T22:36:53+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001691578.json"
+      },
+      {
+        "ledger_id": "SRC-0011",
+        "url": "https://kakaku.com/item/K0001804136/",
+        "accessed_at": "2026-10-02T22:36:55+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001804136.json"
+      },
+      {
+        "ledger_id": "SRC-0012",
+        "url": "https://kakaku.com/item/K0001798973/",
+        "accessed_at": "2026-10-02T22:36:56+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001798973.json"
+      },
+      {
+        "ledger_id": "SRC-0013",
+        "url": "https://kakaku.com/item/K0001691579/",
+        "accessed_at": "2026-10-02T22:36:58+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001691579.json"
+      },
+      {
+        "ledger_id": "SRC-0014",
+        "url": "https://kakaku.com/item/K0001701115/",
+        "accessed_at": "2026-10-02T22:36:59+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001701115.json"
+      },
+      {
+        "ledger_id": "SRC-0015",
+        "url": "https://kakaku.com/item/K0001693088/",
+        "accessed_at": "2026-10-02T22:37:00+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001693088.json"
+      },
+      {
+        "ledger_id": "SRC-0016",
+        "url": "https://kakaku.com/item/K0001609148/",
+        "accessed_at": "2026-10-02T22:37:02+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001609148.json"
+      },
+      {
+        "ledger_id": "SRC-0017",
+        "url": "https://kakaku.com/item/K0001691580/",
+        "accessed_at": "2026-10-02T22:37:03+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001691580.json"
+      },
+      {
+        "ledger_id": "SRC-0018",
+        "url": "https://kakaku.com/item/K0001646859/",
+        "accessed_at": "2026-10-02T22:37:04+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001646859.json"
+      },
+      {
+        "ledger_id": "SRC-0019",
+        "url": "https://kakaku.com/item/K0001378494/",
+        "accessed_at": "2026-10-02T22:37:06+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001378494.json"
+      },
+      {
+        "ledger_id": "SRC-0020",
+        "url": "https://kakaku.com/item/K0001590654/",
+        "accessed_at": "2026-10-02T22:37:07+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001590654.json"
+      },
+      {
+        "ledger_id": "SRC-0021",
+        "url": "https://kakaku.com/item/K0001670756/",
+        "accessed_at": "2026-10-02T22:37:09+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001670756.json"
+      },
+      {
+        "ledger_id": "SRC-0022",
+        "url": "https://kakaku.com/item/K0001430400/",
+        "accessed_at": "2026-10-02T22:37:10+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001430400.json"
+      },
+      {
+        "ledger_id": "SRC-0023",
+        "url": "https://kakaku.com/item/K0001646858/",
+        "accessed_at": "2026-10-02T22:37:11+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001646858.json"
+      },
+      {
+        "ledger_id": "SRC-0024",
+        "url": "https://kakaku.com/item/K0001798974/",
+        "accessed_at": "2026-10-02T22:37:13+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001798974.json"
+      },
+      {
+        "ledger_id": "SRC-0026",
+        "url": "https://kakaku.com/item/K0001770084/",
+        "accessed_at": "2026-10-02T22:37:15+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001770084.json"
+      },
+      {
+        "ledger_id": "SRC-0027",
+        "url": "https://kakaku.com/item/K0001804225/",
+        "accessed_at": "2026-10-02T22:37:17+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001804225.json"
+      },
+      {
+        "ledger_id": "SRC-0028",
+        "url": "https://kakaku.com/item/K0001635192/",
+        "accessed_at": "2026-10-02T22:37:18+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001635192.json"
+      },
+      {
+        "ledger_id": "SRC-0029",
+        "url": "https://kakaku.com/item/K0001708441/",
+        "accessed_at": "2026-10-02T22:37:20+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001708441.json"
+      },
+      {
+        "ledger_id": "SRC-0031",
+        "url": "https://kakaku.com/item/K0001267682/",
+        "accessed_at": "2026-10-02T22:37:22+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001267682.json"
+      },
+      {
+        "ledger_id": "SRC-0032",
+        "url": "https://kakaku.com/item/K0001781249/",
+        "accessed_at": "2026-10-02T22:37:24+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001781249.json"
+      },
+      {
+        "ledger_id": "SRC-0033",
+        "url": "https://kakaku.com/item/K0001678808/",
+        "accessed_at": "2026-10-02T22:37:25+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001678808.json"
+      },
+      {
+        "ledger_id": "SRC-0034",
+        "url": "https://kakaku.com/item/K0001536226/",
+        "accessed_at": "2026-10-02T22:37:27+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001536226.json"
+      },
+      {
+        "ledger_id": "SRC-0035",
+        "url": "https://kakaku.com/item/K0001616419/",
+        "accessed_at": "2026-10-02T22:37:28+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001616419.json"
+      },
+      {
+        "ledger_id": "SRC-0038",
+        "url": "https://kakaku.com/item/K0001188043/",
+        "accessed_at": "2026-10-02T22:37:32+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001188043.json"
+      },
+      {
+        "ledger_id": "SRC-0039",
+        "url": "https://kakaku.com/item/K0001711542/",
+        "accessed_at": "2026-10-02T22:37:34+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001711542.json"
+      },
+      {
+        "ledger_id": "SRC-0040",
+        "url": "https://kakaku.com/item/K0001804224/",
+        "accessed_at": "2026-10-02T22:37:35+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001804224.json"
+      },
+      {
+        "ledger_id": "SRC-0042",
+        "url": "https://kakaku.com/item/K0001679972/",
+        "accessed_at": "2026-10-02T22:37:38+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001679972.json"
+      },
+      {
+        "ledger_id": "SRC-0043",
+        "url": "https://kakaku.com/item/K0001616422/",
+        "accessed_at": "2026-10-02T22:37:39+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001616422.json"
+      },
+      {
+        "ledger_id": "SRC-0044",
+        "url": "https://kakaku.com/item/K0001657227/",
+        "accessed_at": "2026-10-02T22:37:41+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001657227.json"
+      },
+      {
+        "ledger_id": "SRC-0045",
+        "url": "https://kakaku.com/item/K0001431330/",
+        "accessed_at": "2026-10-02T22:37:42+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001431330.json"
+      },
+      {
+        "ledger_id": "SRC-0047",
+        "url": "https://kakaku.com/item/K0001648921/",
+        "accessed_at": "2026-10-02T22:37:45+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001648921.json"
+      },
+      {
+        "ledger_id": "SRC-0048",
+        "url": "https://kakaku.com/item/K0001658127/",
+        "accessed_at": "2026-10-02T22:37:46+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001658127.json"
+      },
+      {
+        "ledger_id": "SRC-0049",
+        "url": "https://kakaku.com/item/K0001655585/",
+        "accessed_at": "2026-10-02T22:37:47+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001655585.json"
+      },
+      {
+        "ledger_id": "SRC-0050",
+        "url": "https://kakaku.com/item/K0001658128/",
+        "accessed_at": "2026-10-02T22:37:49+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001658128.json"
+      },
+      {
+        "ledger_id": "SRC-0051",
+        "url": "https://kakaku.com/item/K0001711141/",
+        "accessed_at": "2026-10-02T22:37:50+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001711141.json"
+      },
+      {
+        "ledger_id": "SRC-0052",
+        "url": "https://kakaku.com/item/K0001711140/",
+        "accessed_at": "2026-10-02T22:37:51+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001711140.json"
+      },
+      {
+        "ledger_id": "SRC-0054",
+        "url": "https://kakaku.com/item/K0001778984/",
+        "accessed_at": "2026-10-02T22:37:54+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001778984.json"
+      },
+      {
+        "ledger_id": "SRC-0055",
+        "url": "https://kakaku.com/item/K0001609447/",
+        "accessed_at": "2026-10-02T22:37:55+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001609447.json"
+      },
+      {
+        "ledger_id": "SRC-0056",
+        "url": "https://kakaku.com/item/K0001660238/",
+        "accessed_at": "2026-10-02T22:37:57+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001660238.json"
+      },
+      {
+        "ledger_id": "SRC-0057",
+        "url": "https://kakaku.com/item/K0001693496/",
+        "accessed_at": "2026-10-02T22:37:58+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001693496.json"
+      },
+      {
+        "ledger_id": "SRC-0058",
+        "url": "https://kakaku.com/item/K0001771549/",
+        "accessed_at": "2026-10-02T22:38:00+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001771549.json"
+      },
+      {
+        "ledger_id": "SRC-0059",
+        "url": "https://kakaku.com/item/K0001680231/",
+        "accessed_at": "2026-10-02T22:38:01+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001680231.json"
+      },
+      {
+        "ledger_id": "SRC-0060",
+        "url": "https://kakaku.com/item/K0001655796/",
+        "accessed_at": "2026-10-02T22:38:02+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001655796.json"
+      },
+      {
+        "ledger_id": "SRC-0061",
+        "url": "https://kakaku.com/item/K0001696779/",
+        "accessed_at": "2026-10-02T22:38:04+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001696779.json"
+      },
+      {
+        "ledger_id": "SRC-0062",
+        "url": "https://kakaku.com/item/K0001574418/",
+        "accessed_at": "2026-10-02T22:38:05+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001574418.json"
+      },
+      {
+        "ledger_id": "SRC-0063",
+        "url": "https://kakaku.com/item/K0001696778/",
+        "accessed_at": "2026-10-02T22:38:07+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001696778.json"
+      },
+      {
+        "ledger_id": "SRC-0064",
+        "url": "https://kakaku.com/item/K0001718756/",
+        "accessed_at": "2026-10-02T22:38:08+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001718756.json"
+      },
+      {
+        "ledger_id": "SRC-0065",
+        "url": "https://kakaku.com/item/K0001546063/",
+        "accessed_at": "2026-10-02T22:38:09+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001546063.json"
+      },
+      {
+        "ledger_id": "SRC-0066",
+        "url": "https://kakaku.com/item/K0001709329/",
+        "accessed_at": "2026-10-02T22:38:11+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001709329.json"
+      },
+      {
+        "ledger_id": "SRC-0068",
+        "url": "https://kakaku.com/item/K0001715217/",
+        "accessed_at": "2026-10-02T22:38:13+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001715217.json"
+      },
+      {
+        "ledger_id": "SRC-0069",
+        "url": "https://kakaku.com/item/K0001676915/",
+        "accessed_at": "2026-10-02T22:38:15+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001676915.json"
+      },
+      {
+        "ledger_id": "SRC-0070",
+        "url": "https://kakaku.com/item/K0001774522/",
+        "accessed_at": "2026-10-02T22:38:16+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001774522.json"
+      },
+      {
+        "ledger_id": "SRC-0071",
+        "url": "https://kakaku.com/item/K0001715220/",
+        "accessed_at": "2026-10-02T22:38:18+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001715220.json"
+      },
+      {
+        "ledger_id": "SRC-0072",
+        "url": "https://kakaku.com/item/K0001685792/",
+        "accessed_at": "2026-10-02T22:38:19+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001685792.json"
+      },
+      {
+        "ledger_id": "SRC-0073",
+        "url": "https://kakaku.com/item/K0001619213/",
+        "accessed_at": "2026-10-02T22:38:20+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001619213.json"
+      },
+      {
+        "ledger_id": "SRC-0074",
+        "url": "https://kakaku.com/item/K0001622522/",
+        "accessed_at": "2026-10-02T22:38:22+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001622522.json"
+      },
+      {
+        "ledger_id": "SRC-0075",
+        "url": "https://kakaku.com/item/K0001592511/",
+        "accessed_at": "2026-10-02T22:38:23+08:00",
+        "raw_record_path": "raw/JP_Kakaku/product_K0001592511.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0003",
+        "url": "https://www.getprice.com.au/product/roborock-saros-20-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:10+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_roborock-saros-20-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0004",
+        "url": "https://www.getprice.com.au/product/roborock-qrevo-c-pro-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:11+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_roborock-qrevo-c-pro-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0005",
+        "url": "https://www.getprice.com.au/product/roborock-qrevo-edge-2-pro-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:13+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_roborock-qrevo-edge-2-pro-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0006",
+        "url": "https://www.getprice.com.au/product/roborock-saros-10r-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:14+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_roborock-saros-10r-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0007",
+        "url": "https://www.getprice.com.au/product/roborock-qrevo-edge-c-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:15+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_roborock-qrevo-edge-c-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0008",
+        "url": "https://www.getprice.com.au/product/roborock-q7b-plus-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:16+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_roborock-q7b-plus-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0009",
+        "url": "https://www.getprice.com.au/product/roborock-q7t-plus-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:17+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_roborock-q7t-plus-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0011",
+        "url": "https://www.getprice.com.au/product/ecovacs-deebot-x11-omnicyclone-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:20+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_ecovacs-deebot-x11-omnicyclone-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0012",
+        "url": "https://www.getprice.com.au/product/ecovacs-deebot-n20-robot-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:21+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_ecovacs-deebot-n20-robot-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0013",
+        "url": "https://www.getprice.com.au/product/ecovacs-deebot-x8-pro-omni-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:22+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_ecovacs-deebot-x8-pro-omni-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0014",
+        "url": "https://www.getprice.com.au/product/ecovacs-deebot-t90-pro-omni-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:23+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_ecovacs-deebot-t90-pro-omni-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0015",
+        "url": "https://www.getprice.com.au/product/ecovacs-deebot-n20-plus-robot-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:25+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_ecovacs-deebot-n20-plus-robot-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0016",
+        "url": "https://www.getprice.com.au/product/ecovacs-deebot-t50-pro-omni-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:26+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_ecovacs-deebot-t50-pro-omni-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0017",
+        "url": "https://www.getprice.com.au/product/ecovacs-deebot-t30s-pro-robot-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:27+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_ecovacs-deebot-t30s-pro-robot-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0018",
+        "url": "https://www.getprice.com.au/product/ecovacs-deebot-n20-pro-plus-robot-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:28+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_ecovacs-deebot-n20-pro-plus-robot-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0021",
+        "url": "https://www.getprice.com.au/product/dreame-matrix-10-ultra-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:32+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_dreame-matrix-10-ultra-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0022",
+        "url": "https://www.getprice.com.au/product/dreame-aqua-10-roller-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:33+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_dreame-aqua-10-roller-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0023",
+        "url": "https://www.getprice.com.au/product/dreame-aqua-10-ultra-roller-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:34+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_dreame-aqua-10-ultra-roller-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-AUS-0024",
+        "url": "https://www.getprice.com.au/product/dreame-aqua-10-ultra-track-s-robotic-vacuum-cleaner",
+        "accessed_at": "2026-10-02T22:46:36+08:00",
+        "raw_record_path": "raw/AU_GetPrice/product_dreame-aqua-10-ultra-track-s-robotic-vacuum-cleaner.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0003",
+        "url": "https://prod.danawa.com/info/?pcode=106736861",
+        "accessed_at": "2026-10-02T22:48:17+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_106736861.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0004",
+        "url": "https://prod.danawa.com/info/?pcode=124034050",
+        "accessed_at": "2026-10-02T22:48:19+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_124034050.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0005",
+        "url": "https://prod.danawa.com/info/?pcode=106734668",
+        "accessed_at": "2026-10-02T22:48:21+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_106734668.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0006",
+        "url": "https://prod.danawa.com/info/?pcode=90500882",
+        "accessed_at": "2026-10-02T22:48:22+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_90500882.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0007",
+        "url": "https://prod.danawa.com/info/?pcode=122638245",
+        "accessed_at": "2026-10-02T22:48:24+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_122638245.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0008",
+        "url": "https://prod.danawa.com/info/?pcode=93806333",
+        "accessed_at": "2026-10-02T22:48:25+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_93806333.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0009",
+        "url": "https://prod.danawa.com/info/?pcode=103752161&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:48:27+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_103752161.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0010",
+        "url": "https://prod.danawa.com/info/?pcode=122638233&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:48:29+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_122638233.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0011",
+        "url": "https://prod.danawa.com/info/?pcode=122677231&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:48:30+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_122677231.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0012",
+        "url": "https://prod.danawa.com/info/?pcode=93805973&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:48:32+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_93805973.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0013",
+        "url": "https://prod.danawa.com/info/?pcode=90434336&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:48:33+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_90434336.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0014",
+        "url": "https://prod.danawa.com/info/?pcode=123695610&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:48:35+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_123695610.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0015",
+        "url": "https://prod.danawa.com/info/?pcode=93806297&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:48:36+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_93806297.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0016",
+        "url": "https://prod.danawa.com/info/?pcode=98768915&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:48:38+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_98768915.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0017",
+        "url": "https://prod.danawa.com/info/?pcode=19522775&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:48:40+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_19522775.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0018",
+        "url": "https://prod.danawa.com/info/?pcode=89526515&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:48:41+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_89526515.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0019",
+        "url": "https://prod.danawa.com/info/?pcode=93806468&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:48:43+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_93806468.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0020",
+        "url": "https://prod.danawa.com/info/?pcode=123806395&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=102207",
+        "accessed_at": "2026-10-02T22:48:45+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_123806395.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0021",
+        "url": "https://prod.danawa.com/info/?pcode=90886772&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:48:46+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_90886772.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0022",
+        "url": "https://prod.danawa.com/info/?pcode=49829777&keyword=%EB%A1%9C%EB%B3%B4%EB%9D%BD+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:48:48+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_49829777.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0024",
+        "url": "https://prod.danawa.com/info/?pcode=106687118",
+        "accessed_at": "2026-10-02T22:48:52+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_106687118.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0025",
+        "url": "https://prod.danawa.com/info/?pcode=96582521",
+        "accessed_at": "2026-10-02T22:48:54+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_96582521.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0026",
+        "url": "https://prod.danawa.com/info/?pcode=106687076",
+        "accessed_at": "2026-10-02T22:48:55+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_106687076.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0028",
+        "url": "https://prod.danawa.com/info/?pcode=98771135",
+        "accessed_at": "2026-10-02T22:48:58+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_98771135.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0029",
+        "url": "https://prod.danawa.com/info/?pcode=91345565",
+        "accessed_at": "2026-10-02T22:49:00+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_91345565.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0030",
+        "url": "https://prod.danawa.com/info/?pcode=20359253&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:02+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_20359253.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0032",
+        "url": "https://prod.danawa.com/info/?pcode=16566839&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:05+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_16566839.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0033",
+        "url": "https://prod.danawa.com/info/?pcode=68776505&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:07+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_68776505.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0035",
+        "url": "https://prod.danawa.com/info/?pcode=32486072&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:10+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_32486072.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0036",
+        "url": "https://prod.danawa.com/info/?pcode=75372764&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:11+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_75372764.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0037",
+        "url": "https://prod.danawa.com/info/?pcode=75989948&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:13+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_75989948.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0038",
+        "url": "https://prod.danawa.com/info/?pcode=99326447&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:15+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_99326447.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0039",
+        "url": "https://prod.danawa.com/info/?pcode=13863530&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:16+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_13863530.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0041",
+        "url": "https://prod.danawa.com/info/?pcode=44996018&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:19+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_44996018.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0042",
+        "url": "https://prod.danawa.com/info/?pcode=67407635&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:21+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_67407635.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0043",
+        "url": "https://prod.danawa.com/info/?pcode=56273429&keyword=%EC%97%90%EC%BD%94%EB%B0%B1%EC%8A%A4+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:22+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_56273429.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0045",
+        "url": "https://prod.danawa.com/info/?pcode=67624655",
+        "accessed_at": "2026-10-02T22:49:27+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_67624655.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0048",
+        "url": "https://prod.danawa.com/info/?pcode=67581767",
+        "accessed_at": "2026-10-02T22:49:32+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_67581767.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0052",
+        "url": "https://prod.danawa.com/info/?pcode=124181947&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:38+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_124181947.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0053",
+        "url": "https://prod.danawa.com/info/?pcode=28158248&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:40+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_28158248.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0054",
+        "url": "https://prod.danawa.com/info/?pcode=95421062&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:41+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_95421062.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0057",
+        "url": "https://prod.danawa.com/info/?pcode=71500928&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:46+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_71500928.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0058",
+        "url": "https://prod.danawa.com/info/?pcode=65915708&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:48+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_65915708.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0061",
+        "url": "https://prod.danawa.com/info/?pcode=68538818&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:52+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_68538818.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0063",
+        "url": "https://prod.danawa.com/info/?pcode=123961377&keyword=%EC%83%A4%EC%98%A4%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:49:56+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_123961377.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0066",
+        "url": "https://prod.danawa.com/info/?pcode=107991857",
+        "accessed_at": "2026-10-02T22:50:02+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_107991857.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0067",
+        "url": "https://prod.danawa.com/info/?pcode=92104061",
+        "accessed_at": "2026-10-02T22:50:04+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_92104061.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0068",
+        "url": "https://prod.danawa.com/info/?pcode=107723801",
+        "accessed_at": "2026-10-02T22:50:05+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_107723801.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0069",
+        "url": "https://prod.danawa.com/info/?pcode=103413488",
+        "accessed_at": "2026-10-02T22:50:07+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_103413488.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0070",
+        "url": "https://prod.danawa.com/info/?pcode=124248500",
+        "accessed_at": "2026-10-02T22:50:08+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_124248500.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0071",
+        "url": "https://prod.danawa.com/info/?pcode=123962663",
+        "accessed_at": "2026-10-02T22:50:10+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_123962663.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0072",
+        "url": "https://prod.danawa.com/info/?pcode=96979046&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:11+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_96979046.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0073",
+        "url": "https://prod.danawa.com/info/?pcode=37927583&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:13+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_37927583.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0074",
+        "url": "https://prod.danawa.com/info/?pcode=122663015&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:15+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_122663015.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0075",
+        "url": "https://prod.danawa.com/info/?pcode=15572600&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:16+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_15572600.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0076",
+        "url": "https://prod.danawa.com/info/?pcode=122663063&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:18+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_122663063.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0077",
+        "url": "https://prod.danawa.com/info/?pcode=123606305&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:20+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_123606305.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0078",
+        "url": "https://prod.danawa.com/info/?pcode=90112778&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:21+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_90112778.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0079",
+        "url": "https://prod.danawa.com/info/?pcode=74335256&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:23+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_74335256.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0080",
+        "url": "https://prod.danawa.com/info/?pcode=67512206&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:24+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_67512206.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0081",
+        "url": "https://prod.danawa.com/info/?pcode=96650003&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:26+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_96650003.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0082",
+        "url": "https://prod.danawa.com/info/?pcode=54316316&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:28+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_54316316.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0083",
+        "url": "https://prod.danawa.com/info/?pcode=74335175&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:29+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_74335175.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0085",
+        "url": "https://prod.danawa.com/info/?pcode=58849616&keyword=%EB%93%9C%EB%A6%AC%EB%AF%B8+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:32+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_58849616.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0087",
+        "url": "https://prod.danawa.com/info/?pcode=78234203",
+        "accessed_at": "2026-10-02T22:50:37+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_78234203.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0088",
+        "url": "https://prod.danawa.com/info/?pcode=29620616",
+        "accessed_at": "2026-10-02T22:50:38+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_29620616.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0089",
+        "url": "https://prod.danawa.com/info/?pcode=99895796",
+        "accessed_at": "2026-10-02T22:50:40+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_99895796.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0090",
+        "url": "https://prod.danawa.com/info/?pcode=90116402",
+        "accessed_at": "2026-10-02T22:50:41+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_90116402.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0091",
+        "url": "https://prod.danawa.com/info/?pcode=70333835",
+        "accessed_at": "2026-10-02T22:50:43+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_70333835.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0092",
+        "url": "https://prod.danawa.com/info/?pcode=99895748",
+        "accessed_at": "2026-10-02T22:50:45+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_99895748.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0093",
+        "url": "https://prod.danawa.com/info/?pcode=17974391&keyword=%EB%82%98%EB%A5%B4%EC%99%88+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:46+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_17974391.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0094",
+        "url": "https://prod.danawa.com/info/?pcode=109915900&keyword=%EB%82%98%EB%A5%B4%EC%99%88+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:48+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_109915900.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0095",
+        "url": "https://prod.danawa.com/info/?pcode=75935846&keyword=%EB%82%98%EB%A5%B4%EC%99%88+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:49+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_75935846.json"
+      },
+      {
+        "ledger_id": "SRC-KOR-0096",
+        "url": "https://prod.danawa.com/info/?pcode=46894550&keyword=%EB%82%98%EB%A5%B4%EC%99%88+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0&cate=10243069",
+        "accessed_at": "2026-10-02T22:50:51+08:00",
+        "raw_record_path": "raw/KR_Danawa/product_46894550.json"
+      }
+    ]
+  }
+}

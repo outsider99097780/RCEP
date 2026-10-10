@@ -1,0 +1,19 @@
+{
+  "main_tex_sha256": "be76e3a8236c2d8e89edf5901e532236ce1d75b9fac463dac888b0ba7b5cc03a",
+  "pdf_sha256": "5e9ceb8b9418056ed2c529405e96e6c7af4cf24fade1369d0750133cc24127be",
+  "data_and_sources_unchanged": true,
+  "legacy_graphics_unchanged": true,
+  "backup": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\main\\.history\\evidence-update-20261010",
+  "new_graphics": [
+    "company_financial_trend.pdf",
+    "company_financial_trend.png",
+    "company_financial_trend_data.csv",
+    "retail_brand_price_comparison.pdf",
+    "retail_brand_price_comparison.png",
+    "retail_brand_price_data.csv",
+    "new_figures_provenance.json"
+  ],
+  "pdf_pages": 24,
+  "final_engine": "XeLaTeX",
+  "input_hashes_rechecked_after_publication": true
+}

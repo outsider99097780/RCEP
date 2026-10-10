@@ -5,18 +5,32 @@ macro:->石头科技，《2025年年度报告》，第15--17页。
 macro:->石头科技，《2025年年度报告》，第14页。
 \@endanenote 
 \@doanenote {3}
-macro:->中华人民共和国海关进出口税则，税号85098090；国际贸易中心（ITC），Trade
-Map与Export
-Potential
-Map，HS850980产品说明，访问日期2026年9月5日。
+macro:->本地数据\path
+{data/HS-verification/2026-china-export-850811.csv}、\path
+{data/HS-verification/2026-china-export-85081110.csv}，海关统计数据在线查询平台，2026年1--8月，\url
+{http://stats.customs.gov.cn/}；\path
+{data/macro-market/ITC/ITC-data/source-ledger.csv}，产品HS850811，访问日期2026年10月3日。既有模型见\path
+{data/macro-market/ITC/ITC-model-analysis-procedure/model_inputs.csv}，读取日期2026年10月10日。
 \@endanenote 
 \@doanenote {4}
-macro:->石头科技，《2025年年度报告》，第10、15--16页。
+macro:->北京石头世纪科技股份有限公司，《2024年年度报告》，PDF第18页、印刷第17页；《2025年年度报告》，第19页。两份年报均转引IDC。本地证据记录RR26-0001及2025年报原表，读取日期2026年10月10日。
 \@endanenote 
 \@doanenote {5}
-macro:->北京石头世纪科技股份有限公司，《2025年年度报告》，第13--16页。
+macro:->开源证券，《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，封面日期2026年2月4日，第17页图21，转引欧睿。采用图中2024年柱形标签；本地证据记录RR26-0008、RR26-0009、RR26-0027。
 \@endanenote 
 \@doanenote {6}
+macro:->石头科技，《2025年年度报告》，第10、15--16页。
+\@endanenote 
+\@doanenote {7}
+macro:->北京石头世纪科技股份有限公司，《2025年年度报告》，第26页；本地证据记录RR26-0168、RR26-0169、RR26-0173。
+\@endanenote 
+\@doanenote {8}
+macro:->北京石头世纪科技股份有限公司，《2025年年度报告》，第13--16页。
+\@endanenote 
+\@doanenote {9}
+macro:->北京石头世纪科技股份有限公司，《2025年年度报告》，第20、26、54页。两项收入占比分别按15,172,943,325/18,680,324,995和10,441,601,948/18,680,324,995计算；分母均为主营业务收入，不是营业总收入。全球份额为年报转引IDC口径。本地证据记录RR26-0004及年报原表，读取日期2026年10月10日。
+\@endanenote 
+\@doanenote {10}
 macro:->国际贸易中心（ITC），Trade
 Map、Export
 Potential
@@ -24,64 +38,153 @@ Map与Market
 Access
 Map；产品HS850980，出口国为中国，目的市场为RCEP成员国，访问日期2026年9月5日。
 \@endanenote 
-\@doanenote {7}
+\@doanenote {11}
 macro:->国际贸易中心（ITC），Trade
 Map，HS850980：日本、韩国和澳大利亚2020--2025年进口额及2025年按供应国进口数据，访问日期2026年9月5日。
 \@endanenote 
-\@doanenote {8}
+\@doanenote {12}
 macro:->国际贸易中心（ITC），Trade
 Map，HS850980：中国对日本、韩国和澳大利亚出口及三国自中国进口数据，2025年，访问日期2026年9月5日。
 \@endanenote 
-\@doanenote {9}
+\@doanenote {13}
+macro:->中华人民共和国海关总署，海关统计数据在线查询平台，\url
+{http://stats.customs.gov.cn/}。本地原表\path
+{data/HS-verification/2026-china-export-850811.csv}与\path
+{data/HS-verification/2026-china-export-85081110.csv}，对应贸易伙伴编码116、133、601、502；比例表\path
+{data/HS-verification/2026-china-export-85081110-share-by-country.csv}保留分子、分母、公式和原表SHA-256。读取日期2026年10月10日。
+\@endanenote 
+\@doanenote {14}
 macro:->石头科技，《2025年年度报告》，第13--17页。
 \@endanenote 
-\@doanenote {10}
+\@doanenote {15}
+macro:->Wind，《石头科技[688169.SH]财务摘要》，2023--2025年合并报表，营业总收入、归属母公司股东的净利润、经营活动现金净流量三行；本地JSON保留原工作簿和单元格信息。数值与《2025年年度报告》第10页逐项核对；经营原因见该年报第53--55页。读取日期2026年10月10日。
+\@endanenote 
+\@doanenote {16}
+macro:->Wind财务摘要，本地目录\path
+{data/roborock-company/wind-financial-data/}中的“石头科技[688169.SH]-财务摘要--sheet1.json”，B--D列第5、14、40行；北京石头世纪科技股份有限公司，《2025年年度报告》，第10页。图表底表与溯源信息保存在\path
+{main/graphics/company_financial_trend_data.csv}及\path
+{main/graphics/new_figures_provenance.json}。
+\@endanenote 
+\@doanenote {17}
+macro:->北京石头世纪科技股份有限公司，《2025年年度报告》，第54--55页，主营业务分产品情况及产销量情况分析表。销量原值5,618,978台，智能扫地机及配件收入同比39.86\%。
+\@endanenote 
+\@doanenote {18}
 macro:->国际贸易中心（ITC），Market
 Access
-Map，中国出口至日本、韩国和澳大利亚的HS850980相关税则线及实际适用税率，访问日期2026年9月5日。
+Map，中国出口至日本、韩国和澳大利亚的HS850980相关税则线及实际适用税率，访问日期2026年9月5日；此处保留旧口径记录，HS850811归类下的税则线需另行对应。
 \@endanenote 
-\@doanenote {11}
+\@doanenote {19}
 macro:->国际贸易中心（ITC），Export
 Potential
 Map方法说明及中国向RCEP成员国出口HS850980的EPI记录，访问日期2026年9月5日。
 \@endanenote 
-\@doanenote {12}
+\@doanenote {20}
 macro:->本研究根据ITC
 Trade
 Map与Export
 Potential
 Map数据构建标准化矩阵，并分别采用战略权重、等权和熵权进行TOPSIS排序；模型运行日期2026年9月6日。
 \@endanenote 
-\@doanenote {13}
+\@doanenote {21}
 macro:->本研究基于ITC五项市场指标计算的战略权重TOPSIS结果，模型运行日期2026年9月6日。
 \@endanenote 
-\@doanenote {14}
+\@doanenote {22}
+macro:->北京石头世纪科技股份有限公司，《2022年年度报告》，第12页；《2025年年度报告》，第22页。本地证据记录RR26-0045、RR26-0046、RR26-0049、RR26-0050。
+\@endanenote 
+\@doanenote {23}
+macro:->公司经营基础见上引年报；开源证券，2026年2月4日公司深度报告，第28页图43及正文，转引欧睿；原文未明确品牌份额为销额或销量口径，沿用“份额”名称。零售计数据\path
+{data/macro-market/competition/retail-website-data/cleaned/products.csv}，对应来源见该资料包\path
+{metadata/source_ledger.csv}。
+\@endanenote 
+\@doanenote {24}
+macro:->开源证券，2026年2月4日公司深度报告，第27页图37、图38及正文，转引欧睿；本地证据记录RR26-0033、RR26-0034。销售额与五年CAGR取该页明确列示值，2024年同比采用图题标注。两国零售销售额不与ITC进口额相加或计算同口径占比。
+\@endanenote 
+\@doanenote {25}
 macro:->国际贸易中心（ITC），Trade
 Map，HS850980：日本、韩国和澳大利亚2025年按供应国进口排名，访问日期2026年9月5日。
 \@endanenote 
-\@doanenote {15}
-macro:->北京石头世纪科技股份有限公司，《2025年年度报告》，“销售季节性风险”部分。
+\@doanenote {26}
+macro:->开源证券，2026年2月4日公司深度报告，第28页图43及正文，转引欧睿；本地证据记录RR26-0035、RR26-0036。保留2024年统计值，不用该研报对2025年的估计替代实绩。
 \@endanenote 
-\@doanenote {16}
-macro:->北京石头世纪科技股份有限公司，《2025年年度报告》，“海外市场”和“全价格段布局”相关内容。
+\@doanenote {27}
+macro:->価格.com（Kakaku）、Danawa、GetPrice，五品牌公开产品页，采集日期2026年10月2日。本地底表\path
+{data/macro-market/competition/retail-website-data/cleaned/products.csv}及\path
+{analysis/brand_summary.csv}；逐条产品URL、访问时间、原始响应与校验值见同资料包\path
+{metadata/source_ledger.csv}。网站入口分别为\url
+{https://kakaku.com/}、\url
+{https://www.danawa.com/}、\url
+{https://www.getprice.com.au/}。
 \@endanenote 
-\@doanenote {17}
+\@doanenote {28}
+macro:->北京石头世纪科技股份有限公司，《2025年年度报告》，第48页，“销售季节性风险”；本地证据记录RR26-0182。
+\@endanenote 
+\@doanenote {29}
+macro:->开源证券，2026年2月4日公司深度报告，第27页，2025年黑五公司销售表现，本地证据记录RR26-0042、RR26-0043；开源证券，《收入错期、费用前置下业绩阶段性承压，看好2024Q4内外销实现高增》，2024年10月31日，第1页，转引公司战报，本地证据记录RR26-0044。
+\@endanenote 
+\@doanenote {30}
+macro:->北京石头世纪科技股份有限公司，《2025年年度报告》，第20--22页；Kakaku、Danawa，2026年10月2日产品快照。本地\path
+{data/macro-market/competition/retail-website-data/analysis/brand_summary.csv}及\path
+{cleaned/products.csv}。Roborock日本最低、最高价格记录分别为SRC-0014、SRC-0024；全部产品出处见\path
+{metadata/source_ledger.csv}。
+\@endanenote 
+\@doanenote {31}
+macro:->底表\path
+{data/macro-market/competition/retail-website-data/cleaned/products.csv}，逐条URL与访问时间见\path
+{metadata/source_ledger.csv}。图中日本、韩国、澳大利亚分别含63、74、19条有价一般购买产品；韩国排除海外购。计算底表\path
+{main/graphics/retail_brand_price_data.csv}，可回溯source\_ledger\_ids。
+\@endanenote 
+\@doanenote {32}
+macro:->GetPrice，2026年10月2日产品快照，Roborock来源SRC-AUS-0003至SRC-AUS-0009；至少3条正常报价的记录为Saros
+20（代表价2,999澳元）与Qrevo
+Edge
+2
+Pro（2,798澳元）。本研究据清洗层normal\_offer\_count筛选并计算；底表\path
+{main/graphics/retail_brand_price_data.csv}。
+\@endanenote 
+\@doanenote {33}
+macro:->北京石头世纪科技股份有限公司，《2022年年度报告》，第12页；《2023年年度报告》，第15页；《2024年年度报告》，PDF第44页、印刷第43页。180多家为2023年美国Target门店；2024年1,398家及900家保留年报“北美”区域口径。本地证据记录RR26-0055--RR26-0057。
+\@endanenote 
+\@doanenote {34}
+macro:->Roborock官方产品页，2026年9月14日资料快照；本地\path
+{data/roborock-company/product-matrix/roborock_product_matrix.json}，Saros
+10R、Qrevo
+2
+Pro、Q10
+Series三项。页面分别为\url
+{https://us.roborock.com/pages/roborock-saros-10r}、\url
+{https://us.roborock.com/pages/roborock-qrevo-2-pro}、\url
+{https://global.roborock.com/pages/roborock-q-series}。
+\@endanenote 
+\@doanenote {35}
+macro:->Kakaku、Danawa，2026年10月2日产品样本，见\path
+{data/macro-market/competition/retail-website-data/cleaned/products.csv}；开源证券，2026年2月4日公司深度报告，第13页，关于云鲸产品与海外需求错配的分析，本地证据记录RR26-0175。该原因判断为券商分析，不作为三国消费者调查结论。
+\@endanenote 
+\@doanenote {36}
+macro:->北京石头世纪科技股份有限公司，《2025年年度报告》，第54--55页，分地区、分销售模式收入成本表及变动原因说明。直营收入原值8,972,779,823元；上述毛利率均为公司分部披露，不是三国单独指标。
+\@endanenote 
+\@doanenote {37}
+macro:->北京石头世纪科技股份有限公司，《2022年年度报告》，第12页；开源证券，《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，封面日期2026年9月6日，第17页“亚太”，本地证据记录RR26-0041。FSD及费用承担为该研报描述，未推广为日本或澳大利亚的渠道模式。
+\@endanenote 
+\@doanenote {38}
+macro:->北京石头世纪科技股份有限公司，《2025年年度报告》，第49--50页，海外经营与经销商管理风险；本地证据记录RR26-0184--RR26-0186。
+\@endanenote 
+\@doanenote {39}
 macro:->《区域全面经济伙伴关系协定》第2章“货物贸易”，第2.4、2.6、2.7和2.14条。
 \@endanenote 
-\@doanenote {18}
+\@doanenote {40}
 macro:->《区域全面经济伙伴关系协定》附件一关税承诺表：日本表第1133页、韩国对中国表第302页、澳大利亚表第102页；国际贸易中心（ITC），Market
 Access
 Map三国实际适用税率，访问日期2026年9月5日。
 \@endanenote 
-\@doanenote {19}
+\@doanenote {41}
 macro:->《区域全面经济伙伴关系协定》第3章第3.2条；《产品特定原产地规则（HS2022）》，税目8509.80，第118页。
 \@endanenote 
-\@doanenote {20}
+\@doanenote {42}
 macro:->《区域全面经济伙伴关系协定》第3章“原产地规则”，第3.4条“累积”。
 \@endanenote 
-\@doanenote {21}
+\@doanenote {43}
 macro:->《区域全面经济伙伴关系协定》第3章第3.6、3.7、3.15、3.16--3.18和3.27条；《中华人民共和国海关〈区域全面经济伙伴关系协定〉项下进出口货物原产地管理办法》，海关总署令第255号。
 \@endanenote 
-\@doanenote {22}
+\@doanenote {44}
 macro:->《区域全面经济伙伴关系协定》第4章“海关程序和贸易便利化”及第6章“标准、技术法规和合格评定程序”。
 \@endanenote 
