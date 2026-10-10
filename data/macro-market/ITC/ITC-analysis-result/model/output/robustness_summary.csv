@@ -1,0 +1,12 @@
+﻿country_code,country_name,base_rank,scenario_count,mean_rank,best_rank,worst_rank,rank_std,top3_share,conclusion
+036,Australia,2,20,2.3,2,4,0.6403124237432849,0.9,rankings sensitive to weighting/indicator choices
+096,Brunei Darussalam,11,20,11.0,11,11,0.0,0.0,consistently outside top three in tested deterministic scenarios
+116,Cambodia,9,20,8.35,4,10,1.5256146302392357,0.0,consistently outside top three in tested deterministic scenarios
+360,Indonesia,6,20,5.65,3,7,1.0136567466356645,0.1,rankings sensitive to weighting/indicator choices
+392,Japan,5,20,5.0,2,8,1.3416407864998738,0.1,rankings sensitive to weighting/indicator choices
+410,"Korea, Republic of",1,20,1.0,1,1,0.0,1.0,consistently inside top three in tested deterministic scenarios
+458,Malaysia,3,20,3.25,2,6,0.9420721840708386,0.75,rankings sensitive to weighting/indicator choices
+554,New Zealand,4,20,4.35,3,6,0.9096702699330126,0.15,rankings sensitive to weighting/indicator choices
+608,Philippines,8,20,8.15,8,9,0.3570714214271425,0.0,consistently outside top three in tested deterministic scenarios
+702,Singapore,10,20,9.95,9,10,0.21794494717703367,0.0,consistently outside top three in tested deterministic scenarios
+764,Thailand,7,20,7.0,5,9,0.8366600265340756,0.0,consistently outside top three in tested deterministic scenarios

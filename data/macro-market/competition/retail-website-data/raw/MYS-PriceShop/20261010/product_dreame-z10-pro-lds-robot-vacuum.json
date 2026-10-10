@@ -1,0 +1,209 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "dreame-z10-pro-lds-robot-vacuum",
+  "url": "https://my.priceshop.com/product/dreame-z10-pro-lds-robot-vacuum",
+  "title_raw": "Dreame Z10 Pro LDS Robot Vacuum",
+  "source_cache_age_raw": "today",
+  "accessed_at": "2026-10-10T11:08:31.923Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 400,
+  "reader_captured_lines": 400,
+  "summary_price_raw": "RM2,609.00 - RM2,899.00",
+  "declared_seller_count_raw": "From 5 sellers",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 369,
+      "value_line": 371
+    },
+    "Dust Capacity": {
+      "value_raw": "0.45 L",
+      "section": "Capacity",
+      "line": 375,
+      "value_line": 377
+    },
+    "Power Consumption": {
+      "value_raw": "46 W",
+      "section": "Specifications",
+      "line": 381,
+      "value_line": 383
+    },
+    "Battery Capacity": {
+      "value_raw": "5200 mAh",
+      "section": "Battery",
+      "line": 387,
+      "value_line": 389
+    },
+    "Dimensions": {
+      "value_raw": "353 x 350 x 96.8 mm",
+      "section": "Size & Weight",
+      "line": 393,
+      "value_line": 395
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "G-Store Mobile",
+      "merchant_group_raw": "mobile2go",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Cheras, Wp Kuala Lumpur",
+      "price_raw": "RM2,699.00",
+      "price_line": 86,
+      "name_line": 78,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "mobile2go - Lazada",
+      "merchant_group_raw": "mobile2go",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM2,699.00",
+      "price_line": 101,
+      "name_line": 95,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets - Lazada",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "",
+      "price_raw": "RM2,609.00",
+      "price_line": 128,
+      "name_line": 120,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "Subang Jaya, Selangor",
+      "price_raw": "RM2,699.00",
+      "price_line": 145,
+      "name_line": 138,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets - Shopee",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "",
+      "price_raw": "RM2,699.00",
+      "price_line": 160,
+      "name_line": 155,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "VIVID CONCEPTS - SUNWAY PYRAMID",
+      "merchant_group_raw": "VIVID CONCEPTS - Online",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM2,699.00",
+      "price_line": 187,
+      "name_line": 179,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "VIVID CONCEPTS - Online - Shopee",
+      "merchant_group_raw": "VIVID CONCEPTS - Online",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM2,699.00",
+      "price_line": 201,
+      "name_line": 196,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Courts Malaysia - Personal Shopper",
+      "merchant_group_raw": "Courts Malaysia",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Setapak, Wp Kuala Lumpur",
+      "price_raw": "RM2,899.00",
+      "price_line": 232,
+      "name_line": 220,
+      "quote_updated_raw": "Updated as of 3 January 2023",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Courts Malaysia",
+      "merchant_group_raw": "Courts Malaysia",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM2,899.00",
+      "price_line": 257,
+      "name_line": 247,
+      "quote_updated_raw": "Updated as of 3 January 2023",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - IOI City Mall",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Sepang, Selangor",
+      "price_raw": "RM2,899.00",
+      "price_line": 289,
+      "name_line": 282,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - Sunway Velocity",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Cheras, Wp Kuala Lumpur",
+      "price_raw": "RM2,899.00",
+      "price_line": 305,
+      "name_line": 298,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Mid Valley",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+      "price_raw": "RM2,899.00",
+      "price_line": 321,
+      "name_line": 314,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - 1 Utama",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM2,899.00",
+      "price_line": 337,
+      "name_line": 330,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Lazada",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "",
+      "price_raw": "RM2,899.00",
+      "price_line": 351,
+      "name_line": 346,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn180view0",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

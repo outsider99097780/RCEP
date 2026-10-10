@@ -1,0 +1,41 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "8369786",
+  "url": "https://pricespy.co.nz/product.php?p=8369786",
+  "accessed_at": "2026-10-10T10:19:58.872Z",
+  "page_title": "Xiaomi Robot Vacuum E10",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "164",
+  "declared_shop_count_raw": "2",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Docking station": "Yes",
+    "Features": "Voice control, Supports scheduling, Stairs detection, Self-docking, App control, Automatic mop drying, Obstacle sensing system, Self-emptying",
+    "Mop function": "Yes",
+    "Self-emptying": "Yes"
+  },
+  "visible_three_month_history_raw": [
+    "Rising",
+    "Lowest: $188.62 | Highest: $226.31"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Ascent",
+      "price_raw": "$226.31",
+      "stock_raw": "In stock",
+      "title_raw": "Xiaomi Mi Smart E10 White Robot Vacuum Cleaner 2-in-1 Sweeping and Mopping 4000Pa Suction Power Control Via Mi Home App, Triple filtration, Integrated",
+      "partner_store_flag": false,
+      "observed_redirect_path": null,
+      "visible_price_labels_raw": [
+        "$226.31"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

@@ -1,0 +1,66 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "16004718",
+  "url": "https://pricespy.co.nz/product.php?p=16004718",
+  "accessed_at": "2026-10-10T10:17:41.138Z",
+  "page_title": "Roborock Q7B+",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "28",
+  "declared_shop_count_raw": "4",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Color": "Black",
+    "Docking station": "Yes",
+    "Mop function": "Yes",
+    "Navigation method": "LiDAR (laser)",
+    "Suction power (Pa)": "8000 Pa",
+    "Type": "Vacuum mopping robot"
+  },
+  "visible_three_month_history_raw": [
+    "Falling",
+    "Lowest: $499.00 | Highest: $799.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Mighty Ape",
+      "price_raw": "$499.00",
+      "stock_raw": "In stock",
+      "title_raw": "Roborock Q7B+ Vacuum Cleaner (Black)",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8392/offer/41218805?client_id=1551",
+      "visible_price_labels_raw": [
+        "$499.00"
+      ]
+    },
+    {
+      "retailer": "PB Tech",
+      "price_raw": "$499.00",
+      "stock_raw": "In stock",
+      "title_raw": "Roborock Q7B+ Black Robot Vacuum with Self Emptying Dock 8,000Pa Suction - Dual Anti-Tangle System, 3 Levels of water flow, PreciSense LiDAR Navigation,",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8246/offer/HOMRBK0091?client_id=1551",
+      "visible_price_labels_raw": [
+        "$799.00",
+        "$499.00"
+      ]
+    },
+    {
+      "retailer": "Ascent",
+      "price_raw": "$829.01",
+      "stock_raw": "In stock",
+      "title_raw": "Roborock Q7B+ Black Robot Vacuum",
+      "partner_store_flag": false,
+      "observed_redirect_path": null,
+      "visible_price_labels_raw": [
+        "$829.01"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

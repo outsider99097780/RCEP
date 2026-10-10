@@ -1,0 +1,46 @@
+{
+  "review_date": "2026-10-10",
+  "PriceSpy": {
+    "robots_url": "https://pricespy.co.nz/robots.txt",
+    "robots_read_success": true,
+    "selected_relevant_rules": {
+      "user_agent": "*",
+      "allowed_observed_paths": [
+        "/category.php?k=520",
+        "/product.php?p=<observed_id>"
+      ],
+      "forbidden_not_used": [
+        "/go-to-shop",
+        "/redirect.php",
+        "/search?*",
+        "/c/*?*sort=*"
+      ]
+    },
+    "rules_url": "https://pricespy.co.nz/information/rules-and-guidelines-for-users",
+    "rules_read": true,
+    "privacy_url": "https://pricespy.co.nz/information/privacy-policy",
+    "privacy_read": true,
+    "disclaimer_url": "https://pricespy.co.nz/information/disclaimer",
+    "disclaimer_read": true,
+    "full_footer_terms_url": "https://app.bwz.se/prisjakt/b/v?ucrc=3541F32F7B&webpage=70",
+    "full_footer_terms_status": "unavailable_error_content_not_accepted",
+    "limits": "Small selected academic fact capture only; no full HTML mirror or hidden requests"
+  },
+  "PriceShop": {
+    "robots": {
+      "url": "https://my.priceshop.com/robots.txt",
+      "accessed_at": "2026-10-10T18:11:07+08:00",
+      "http_status": 200,
+      "text": "User-agent: *\nAllow: /\nAllow: /wp-page/\n\nUser-agent: *\nDisallow: /wp-*\nDisallow: /graphql*\nDisallow: /api/*\n\nSitemap: https://my.priceshop.com/sitemap.xml\n"
+    },
+    "terms_url": "https://my.priceshop.com/en/wp-page/terms-of-service/",
+    "privacy_url": "https://my.priceshop.com/en/wp-page/privacy-policy/",
+    "policies_read": true,
+    "subsequent_access_status": "403 stopped",
+    "sole_MYS_retail_source": true
+  },
+  "PriceMe": {
+    "status": "excluded_by_latest_user_instruction",
+    "products_collected": 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "previous_record_count": 205,
+  "new_record_count": 207,
+  "new_record_ids": [
+    "RR26-0206",
+    "RR26-0207"
+  ],
+  "malaysia_target_view_ids": [
+    "RR26-0169",
+    "RR26-0194",
+    "RR26-0199",
+    "RR26-0200",
+    "RR26-0206",
+    "RR26-0207"
+  ],
+  "reportable_ids": [
+    "RR26-0169",
+    "RR26-0194",
+    "RR26-0200",
+    "RR26-0207"
+  ],
+  "excluded_from_numeric_analysis": [
+    "RR26-0199",
+    "RR26-0206"
+  ],
+  "new_zealand_fact_count": 0,
+  "unrelated_record_objects_preserved": true,
+  "source_pdf_hashes_unchanged": true,
+  "duplicate_fact_ids_added": false,
+  "figure_priority": "Figure42: 0.20 亿美元; body 0.32 亿美元 remains audit only",
+  "note": "unit check: 0.20 亿美元 = USD20 million; raw unit retained"
+}

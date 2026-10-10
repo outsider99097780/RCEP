@@ -1,0 +1,61 @@
+{
+  "capture_id": "buying-guide-20250401",
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "url": "https://my.priceshop.com/en/news/best-robot-vacuum-cleaner-malaysia/",
+  "title": "9 Best Robot Vacuum Cleaners in Malaysia: From High-End to Budget (2025)",
+  "publication_date": "2025-04-01",
+  "author": "Timothy Teoh",
+  "source_cache_age_raw": "last month",
+  "accessed_at": "2026-10-10T11:12:23.294Z",
+  "access_method": "public_web_reader_cached_news",
+  "source_type": "historical_editorial_price_reference",
+  "current_stock_verified": false,
+  "products": [
+    {
+      "brand": "Roborock",
+      "model_name": "S8 Max V Ultra",
+      "reference_price_myr": "6499",
+      "source_line": 71,
+      "price_source_type": "editorial_price_at_publication_not_current_offer"
+    },
+    {
+      "brand": "Ecovacs",
+      "model_name": "DEEBOT X2 OMNI",
+      "reference_price_myr": "5799",
+      "source_line": 85,
+      "price_source_type": "editorial_price_at_publication_not_current_offer"
+    },
+    {
+      "brand": "Dreame",
+      "model_name": "L20 Ultra",
+      "reference_price_myr": "4899",
+      "source_line": 101,
+      "price_source_type": "editorial_price_at_publication_not_current_offer"
+    },
+    {
+      "brand": "Xiaomi",
+      "model_name": "Robot Vacuum X10+",
+      "reference_price_myr": "2399",
+      "source_line": 125,
+      "price_source_type": "editorial_price_at_publication_not_current_offer"
+    },
+    {
+      "brand": "Roborock",
+      "model_name": "Q8 Max",
+      "reference_price_myr": "2199",
+      "source_line": 139,
+      "price_source_type": "editorial_price_at_publication_not_current_offer"
+    },
+    {
+      "brand": "Xiaomi",
+      "model_name": "Robot Vacuum S10",
+      "reference_price_myr": "799",
+      "source_line": 176,
+      "price_source_type": "editorial_price_at_publication_not_current_offer"
+    }
+  ],
+  "scope": "Only requested brands; the source's nine-product editorial selection is not a market census."
+}

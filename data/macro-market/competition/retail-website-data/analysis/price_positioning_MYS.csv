@@ -1,0 +1,45 @@
+﻿country_code,brand,source_product_id,model_name,currency,representative_price,market_median_price,price_index_vs_market_median,market_quartile_segment,seller_count,site_rank,descriptive_only,source_ledger_id
+MYS,Dreame,dreame-bot-l10s-ultra,Bot L10s Ultra,MYR,5599.00,1861.50,3.01,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-dreame-bot-l10s-ultra
+MYS,Dreame,dreame-d9-lds-robot-vacuum,D9 LDS Robot Vacuum,MYR,1599.00,1861.50,0.86,,4,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-dreame-d9-lds-robot-vacuum
+MYS,Dreame,dreame-d9-pro-lds-robot-vacuum,D9 Pro LDS Robot Vacuum,MYR,1999.00,1861.50,1.07,,4,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-dreame-d9-pro-lds-robot-vacuum
+MYS,Dreame,dreame-dreame-bot-w10-self-cleaning-robot-vacuum-and-mop,Bot W10 Self-Cleaning Robot Vacuum and Mop,MYR,3999.00,1861.50,2.15,,7,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-dreame-dreame-bot-w10-self-cleaning-robot-vacuum-and-mop
+MYS,Dreame,dreame-f9-robot-vacuum,F9 Robot Vacuum,MYR,1299.00,1861.50,0.70,,4,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-dreame-f9-robot-vacuum
+MYS,Dreame,dreame-z10-pro-lds-robot-vacuum,Z10 Pro LDS Robot Vacuum,MYR,2699.00,1861.50,1.45,,5,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-dreame-z10-pro-lds-robot-vacuum
+MYS,Ecovacs,ecovacs-deebot-mini-2-robot-vacuum,DEEBOT MINI 2 Robot Vacuum,MYR,839.00,1861.50,0.45,,2,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-ecovacs-deebot-mini-2-robot-vacuum
+MYS,Ecovacs,ecovacs-deebot-n8-pro,Deebot N8 PRO,MYR,1649.00,1861.50,0.89,,2,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-ecovacs-deebot-n8-pro
+MYS,Ecovacs,ecovacs-deebot-ozmo-610-robot-vacuum,DEEBOT OZMO 610 Robot Vacuum,MYR,2469.00,1861.50,1.33,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-ecovacs-deebot-ozmo-610-robot-vacuum
+MYS,Ecovacs,ecovacs-deebot-ozmo-t8,Deebot Ozmo T8,MYR,1549.00,1861.50,0.83,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-ecovacs-deebot-ozmo-t8
+MYS,Ecovacs,ecovacs-deebot-ozmo-t8-aivi,Deebot Ozmo T8 AIVI,MYR,1924.00,1861.50,1.03,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-ecovacs-deebot-ozmo-t8-aivi
+MYS,Ecovacs,ecovacs-deebot-slim2-robot-vacuum,DEEBOT SLIM2 Robot Vacuum,MYR,1099.00,1861.50,0.59,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-ecovacs-deebot-slim2-robot-vacuum
+MYS,Ecovacs,ecovacs-deebot-t10-plus-robot-vacuum-cleaner,Deebot T10 Plus Robot Vacuum Cleaner,MYR,3198.00,1861.50,1.72,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-ecovacs-deebot-t10-plus-robot-vacuum-cleaner
+MYS,Ecovacs,ecovacs-deebot-t10-robot-vacuum-cleaner,Deebot T10 Robot Vacuum Cleaner,MYR,2299.00,1861.50,1.24,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-ecovacs-deebot-t10-robot-vacuum-cleaner
+MYS,Ecovacs,ecovacs-deebot-t9,Deebot T9,MYR,2049.00,1861.50,1.10,,2,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-ecovacs-deebot-t9
+MYS,Ecovacs,ecovacs-deebot-u2-pro,Deebot U2 PRO,MYR,999.00,1861.50,0.54,,2,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-ecovacs-deebot-u2-pro
+MYS,Ecovacs,ecovacs-deebot-x1-omni-robot-vacuum-and-mopping-cleaner,Deebot X1 OMNI Robot Vacuum and Mopping Cleaner,MYR,4949.00,1861.50,2.66,,2,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-ecovacs-deebot-x1-omni-robot-vacuum-and-mopping-cleaner
+MYS,Ecovacs,ecovacs-ozmo-950,Ozmo 950,MYR,1699.00,1861.50,0.91,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-ecovacs-ozmo-950
+MYS,Ecovacs,ecovacs-t10-omni-robot-vacuum,T10 OMNI Robot Vacuum,MYR,4799.00,1861.50,2.58,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-ecovacs-t10-omni-robot-vacuum
+MYS,Xiaomi,mi-robot-vacuum-mop,Mi Robot Vacuum Mop,MYR,999.00,1861.50,0.54,,3,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-mi-robot-vacuum-mop
+MYS,Roborock,roborock-cleaning-robot-s50,Cleaning robot S50,MYR,1799.00,1861.50,0.97,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-roborock-cleaning-robot-s50
+MYS,Roborock,roborock-cleaning-robot-s6-pure,Cleaning robot S6 Pure,MYR,1438.00,1861.50,0.77,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-roborock-cleaning-robot-s6-pure
+MYS,Roborock,roborock-g10-robot-vacuum,G10 Robot Vacuum,MYR,3999.00,1861.50,2.15,,2,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-roborock-g10-robot-vacuum
+MYS,Roborock,roborock-q-revo-robot-vacuum,Q Revo Robot Vacuum,MYR,3649.00,1861.50,1.96,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-roborock-q-revo-robot-vacuum
+MYS,Roborock,roborock-q7-max-plus-robot-vacuum,Q7 Max+ Robot Vacuum,MYR,2899.00,1861.50,1.56,,2,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-roborock-q7-max-plus-robot-vacuum
+MYS,Roborock,roborock-q7-max-robot-vacuum-cleaner,Q7 Max Robot Vacuum Cleaner,MYR,2199.00,1861.50,1.18,,2,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-roborock-q7-max-robot-vacuum-cleaner
+MYS,Roborock,roborock-s7-maxv-robot-vacuum,S7 MaxV Robot Vacuum,MYR,3399.00,1861.50,1.83,,2,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-roborock-s7-maxv-robot-vacuum
+MYS,Roborock,roborock-s7-plus-robot-vacuum-cleaner,S7+ Robot Vacuum Cleaner,MYR,3999.00,1861.50,2.15,,2,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-roborock-s7-plus-robot-vacuum-cleaner
+MYS,Roborock,roborock-s7-robot-vacuum,S7 Robot Vacuum,MYR,2399.00,1861.50,1.29,,4,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-roborock-s7-robot-vacuum
+MYS,Roborock,roborock-s8-plus-robot-vacuum,S8+ Robot Vacuum,MYR,3999.00,1861.50,2.15,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-roborock-s8-plus-robot-vacuum
+MYS,Roborock,roborock-s8-pro-ultra-robot-vacuum,S8 Pro Ultra Robot Vacuum,MYR,5599.00,1861.50,3.01,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-roborock-s8-pro-ultra-robot-vacuum
+MYS,Roborock,roborock-s8-robot-vacuum,S8 Robot Vacuum,MYR,2699.00,1861.50,1.45,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-roborock-s8-robot-vacuum
+MYS,Xiaomi,xiaomi-mi-robot-vacuum-1c,Mi Robot Vacuum 1C,MYR,824.00,1861.50,0.44,,3,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-1c
+MYS,Xiaomi,xiaomi-mi-robot-vacuum-mop-2,Mi Robot Vacuum-Mop 2,MYR,1099.00,1861.50,0.59,,11,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-mop-2
+MYS,Xiaomi,xiaomi-mi-robot-vacuum-mop-2-lite,Mi Robot Vacuum-Mop 2 Lite,MYR,799.00,1861.50,0.43,,10,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-mop-2-lite
+MYS,Xiaomi,xiaomi-mi-robot-vacuum-mop-2-pro-pro-plus,Mi Robot Vacuum Mop 2 Pro+ (Pro Plus),MYR,1699.00,1861.50,0.91,,4,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-mop-2-pro-pro-plus
+MYS,Xiaomi,xiaomi-mi-robot-vacuum-mop-2-ultra,Mi Robot Vacuum-Mop 2 Ultra,MYR,1499.00,1861.50,0.81,,3,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-mop-2-ultra
+MYS,Xiaomi,xiaomi-mi-robot-vacuum-mop-essential,Mi Robot Vacuum Mop Essential,MYR,699.00,1861.50,0.38,,3,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-mop-essential
+MYS,Xiaomi,xiaomi-mi-robot-vacuum-mop-p,Mi Robot Vacuum-Mop P,MYR,1048.00,1861.50,0.56,,4,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-mop-p
+MYS,Xiaomi,xiaomi-mi-smart-robot-vacuum-2c,Mi Smart Robot Vacuum 2C,MYR,1099.00,1861.50,0.59,,3,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-xiaomi-mi-smart-robot-vacuum-2c
+MYS,Xiaomi,xiaomi-mijia-g1-robot-vacuum-cleaner,Mijia G1 Robot Vacuum Cleaner,MYR,649.00,1861.50,0.35,,4,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-xiaomi-mijia-g1-robot-vacuum-cleaner
+MYS,Xiaomi,xiaomi-robot-vacuum-mop-2-pro,Robot Vacuum-Mop 2 Pro,MYR,1299.00,1861.50,0.70,,5,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-xiaomi-robot-vacuum-mop-2-pro
+MYS,Xiaomi,xiaomi-robot-vacuum-x10-plus,Robot Vacuum X10+,MYR,3799.00,1861.50,2.04,,1,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-xiaomi-robot-vacuum-x10-plus
+MYS,Xiaomi,xiaomi-trouver-finder-robot-lds-vacuum-mop,Trouver Finder Robot LDS Vacuum-Mop,MYR,993.50,1861.50,0.53,,2,,cached_not_current_verified_no_sales_inference,SRC-20261010-MYS-PS-xiaomi-trouver-finder-robot-lds-vacuum-mop

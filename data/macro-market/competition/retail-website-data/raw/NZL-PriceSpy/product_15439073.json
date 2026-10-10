@@ -1,0 +1,88 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "15439073",
+  "url": "https://pricespy.co.nz/product.php?p=15439073",
+  "accessed_at": "2026-10-10T10:18:39.174Z",
+  "page_title": "Dreame Aqua 10 Ultra Track Complete",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "9",
+  "declared_shop_count_raw": "5",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Accessory type": "Mop cloth",
+    "Battery capacity": "6400 mAh",
+    "Battery life": "180 min",
+    "Color": "Black, White",
+    "Docking station": "Yes",
+    "Dust capacity (base)": "3.2 litre",
+    "Features": "Stairs detection, Self-docking, Virtual walls (barrier), Display, App control, Edge cleaning, Automatic mop drying, Self-emptying",
+    "Height": "97.5 mm",
+    "Mop function": "Yes",
+    "Navigation method": "Camera, Laser, Random / Infrared",
+    "Product weight": "5.5 kg",
+    "Self-emptying": "Yes",
+    "Suction Power (kPa)": "25 kPa",
+    "Suction power (Pa)": "25000 Pa",
+    "Threshold height": "60 cm",
+    "Type": "Vacuum mopping robot",
+    "Water container volume": "4000 ml"
+  },
+  "visible_three_month_history_raw": [
+    "Rising",
+    "Lowest: $1,298.00 | Highest: $2,699.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Noel Leeming",
+      "price_raw": "$1,699.00",
+      "stock_raw": "In stock",
+      "title_raw": "Dreame Aqua10 Roller AE Robot Vacuum Cleaner",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8236/offer/N250237?client_id=1551",
+      "visible_price_labels_raw": [
+        "$1,699.00"
+      ]
+    },
+    {
+      "retailer": "Heathcote Appliances",
+      "price_raw": "$1,997.00",
+      "stock_raw": "In stock",
+      "title_raw": "Dreame Aqua10 Ultra Track S Robotic Vacuum & Mop",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/14663/offer/RLR81CE?client_id=1551",
+      "visible_price_labels_raw": [
+        "$3,388.00",
+        "$1,997.00"
+      ]
+    },
+    {
+      "retailer": "Mighty Ape",
+      "price_raw": "$3,499.00",
+      "stock_raw": "In stock",
+      "title_raw": "Dreame Aqua10 Ultra Track S Robotic Vacuum & Mop",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8392/offer/41196538?client_id=1551",
+      "visible_price_labels_raw": [
+        "$3,499.00"
+      ]
+    },
+    {
+      "retailer": "Farmers",
+      "price_raw": "$3,499.00",
+      "stock_raw": "Unknown stock",
+      "title_raw": "Dreame Aqua10 Ultra Track S Robotic Vacuum & Mop, DRE-AQUA10UTS",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/23483/offer/7025231?client_id=1551",
+      "visible_price_labels_raw": [
+        "$3,499.00"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

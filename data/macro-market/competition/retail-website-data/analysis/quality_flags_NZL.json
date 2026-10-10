@@ -1,0 +1,146 @@
+[
+  {
+    "product_id": "15953163",
+    "flags": [
+      "representative_includes_stock_unconfirmed_quote"
+    ]
+  },
+  {
+    "product_id": "16030637",
+    "flags": [
+      "representative_includes_stock_unconfirmed_quote"
+    ]
+  },
+  {
+    "product_id": "15697556",
+    "flags": [
+      "suspicious_specification_values_retained_not_corrected"
+    ]
+  },
+  {
+    "product_id": "16151405",
+    "flags": [
+      "representative_includes_stock_unconfirmed_quote"
+    ]
+  },
+  {
+    "product_id": "16706967",
+    "flags": [
+      "accessory_metadata_conflicts_with_robot_title"
+    ]
+  },
+  {
+    "product_id": "16004718",
+    "flags": [
+      "declared_shop_count_differs_from_captured_quotes"
+    ]
+  },
+  {
+    "product_id": "16773656",
+    "flags": [
+      "model_variant_unverified"
+    ]
+  },
+  {
+    "product_id": "16964950",
+    "flags": [
+      "representative_includes_stock_unconfirmed_quote"
+    ]
+  },
+  {
+    "product_id": "14429258",
+    "flags": [
+      "model_variant_unverified"
+    ]
+  },
+  {
+    "product_id": "14582900",
+    "flags": [
+      "suspicious_specification_values_retained_not_corrected"
+    ]
+  },
+  {
+    "product_id": "13730487",
+    "flags": [
+      "model_variant_unverified"
+    ]
+  },
+  {
+    "product_id": "16191919",
+    "flags": [
+      "representative_includes_stock_unconfirmed_quote"
+    ]
+  },
+  {
+    "product_id": "15439073",
+    "flags": [
+      "declared_shop_count_differs_from_captured_quotes",
+      "model_variant_unverified",
+      "accessory_metadata_conflicts_with_robot_title",
+      "suspicious_specification_values_retained_not_corrected"
+    ]
+  },
+  {
+    "product_id": "13902984",
+    "flags": [
+      "model_variant_unverified"
+    ]
+  },
+  {
+    "product_id": "15417136",
+    "flags": [
+      "model_variant_unverified",
+      "accessory_metadata_conflicts_with_robot_title"
+    ]
+  },
+  {
+    "product_id": "15437096",
+    "flags": [
+      "model_variant_unverified"
+    ]
+  },
+  {
+    "product_id": "15417125",
+    "flags": [
+      "accessory_metadata_conflicts_with_robot_title"
+    ]
+  },
+  {
+    "product_id": "15752947",
+    "flags": [
+      "EU_variant_not_verified_NZ_official_version",
+      "representative_includes_stock_unconfirmed_quote"
+    ]
+  },
+  {
+    "product_id": "6031451",
+    "flags": [
+      "parallel_import_retailer_not_verified_authorized_distribution",
+      "suspicious_specification_values_retained_not_corrected"
+    ]
+  },
+  {
+    "product_id": "5953038",
+    "flags": [
+      "parallel_import_retailer_not_verified_authorized_distribution"
+    ]
+  },
+  {
+    "product_id": "8369786",
+    "flags": [
+      "declared_shop_count_differs_from_captured_quotes"
+    ]
+  },
+  {
+    "product_id": "13331364",
+    "flags": [
+      "explicit_no_active_offers_not_country_absence"
+    ]
+  },
+  {
+    "product_id": "13104748",
+    "flags": [
+      "explicit_no_active_offers_not_country_absence"
+    ]
+  }
+]

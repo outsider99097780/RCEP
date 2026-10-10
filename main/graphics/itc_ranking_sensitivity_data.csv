@@ -1,0 +1,12 @@
+﻿country_code,market,base_rank,top5_count,draw_count,top5_share,top5_pct,source_file
+410,韩国,1,5000,5000,1.0,100.0,model/intermediate/monte_carlo_ranks.csv
+036,澳大利亚,2,4988,5000,0.9976,99.76,model/intermediate/monte_carlo_ranks.csv
+458,马来西亚,3,4994,5000,0.9988,99.88,model/intermediate/monte_carlo_ranks.csv
+554,新西兰,4,4022,5000,0.8044,80.44,model/intermediate/monte_carlo_ranks.csv
+392,日本,5,3263,5000,0.6526,65.25999999999999,model/intermediate/monte_carlo_ranks.csv
+360,印度尼西亚,6,2239,5000,0.4478,44.78,model/intermediate/monte_carlo_ranks.csv
+764,泰国,7,474,5000,0.0948,9.48,model/intermediate/monte_carlo_ranks.csv
+608,菲律宾,8,0,5000,0.0,0.0,model/intermediate/monte_carlo_ranks.csv
+116,柬埔寨,9,20,5000,0.004,0.4,model/intermediate/monte_carlo_ranks.csv
+702,新加坡,10,0,5000,0.0,0.0,model/intermediate/monte_carlo_ranks.csv
+096,文莱,11,0,5000,0.0,0.0,model/intermediate/monte_carlo_ranks.csv

@@ -1,0 +1,102 @@
+{
+  "generated_at": "2026-10-10T09:19:32.996468+00:00",
+  "model_run_id": "20261010T153053-CHN-HS850811-RCEP-TOPSIS",
+  "source_access_date": "2026-10-03",
+  "hs_code": "850811",
+  "model_refit": false,
+  "weight_change": false,
+  "historical_random_seed": 850980,
+  "top5_rule": "base strategy ranking first five; scenario frequency = count(saved rank <= 5) / 5000",
+  "sources": [
+    {
+      "file": "data/macro-market/ITC/ITC-analysis-result/cleaned/epi.csv",
+      "sha256": "4c1e48a67896678f48932dcb97fbc13ea935747c7cfb43df0b484da8044c14db"
+    },
+    {
+      "file": "data/macro-market/ITC/ITC-analysis-result/cleaned/trade_annual.csv",
+      "sha256": "3360acb764973a8d01dff80d6b6aa096a26271634eb820a262afb32c36ee9abb"
+    },
+    {
+      "file": "data/macro-market/ITC/ITC-analysis-result/methodology.md",
+      "sha256": "8a3fd9c387c3182cb5867e781149c246f823496d39885386ba1732697ab2d668"
+    },
+    {
+      "file": "data/macro-market/ITC/ITC-analysis-result/model/intermediate/monte_carlo_ranks.csv",
+      "sha256": "06627265af9e73dce5d6aff27e941e1aefdc8ffd391f246312ec645c13429cdc"
+    },
+    {
+      "file": "data/macro-market/ITC/ITC-analysis-result/model_inputs.csv",
+      "sha256": "0cf888283fa2655d159bbea60e5f2c8ff2d9038d02ae547ca6534200d148f76f"
+    },
+    {
+      "file": "data/macro-market/ITC/ITC-analysis-result/model_normalized.csv",
+      "sha256": "0db1551bf89cca2b754e6a64fe4ebfd089cf4a3021c94c33d8a4646104b60a90"
+    },
+    {
+      "file": "data/macro-market/ITC/ITC-analysis-result/model_weights.csv",
+      "sha256": "dafbcb19215b743a35db34b4d1228f537e60f1012a7d5eea6f9b60ceebf452d3"
+    },
+    {
+      "file": "data/macro-market/ITC/ITC-analysis-result/run/run_manifest.json",
+      "sha256": "852bb2282fc9fec1e1eb1898ada0a0d4585b747c81e0b4d4d640c48bb4793331"
+    },
+    {
+      "file": "data/macro-market/ITC/ITC-analysis-result/strategy_topsis_scores.csv",
+      "sha256": "825dd1c920e0ea954593a3e581fd834eebcc6018a4c56228b6ba94096b4c7e01"
+    },
+    {
+      "file": "data/macro-market/ITC/ITC-data/australia/derived/top_suppliers_2025.csv",
+      "sha256": "55ed2fefd1c5a7054c7b33d6d8ef22cec6263b177c606bd98bca07a8e8eba6b0"
+    },
+    {
+      "file": "data/macro-market/ITC/ITC-data/japan/derived/top_suppliers_2025.csv",
+      "sha256": "37e3b82e9294b567cd72c705cd477208acb0177b7fe13047b2b26b5fb502a1c7"
+    },
+    {
+      "file": "data/macro-market/ITC/ITC-data/malaysia/derived/top_suppliers_2025.csv",
+      "sha256": "a42c5b202b3c54d17c9cfaae9396eb8294eb55f6f4351a623ecf168423cd4d04"
+    },
+    {
+      "file": "data/macro-market/ITC/ITC-data/new-zealand/derived/top_suppliers_2025.csv",
+      "sha256": "15ae6fdc702f7cbec99d469ae4c63dd590d714c0869820dca5e2bc1e44beada2"
+    },
+    {
+      "file": "data/macro-market/ITC/ITC-data/south-korea/derived/top_suppliers_2025.csv",
+      "sha256": "073a15498012f753e4d398ddc242a5b6190e7d0ae72d417ec3893d3e93fab5c0"
+    }
+  ],
+  "outputs": [
+    {
+      "file": "itc_country_interpretation_data.csv",
+      "sha256": "1f721285ce9e8957478a8a3c99541d6c7622d1812adc23c2b9b63ef78bd03332"
+    },
+    {
+      "file": "itc_epi_untapped_data.csv",
+      "sha256": "9831b16b0093a521062c911c602e04e67f504c4000127d514bc1bc822db36bad"
+    },
+    {
+      "file": "itc_market_score_data.csv",
+      "sha256": "fed8b19163e87cd71e7527d1ce7350b63586e8dde4918834b02cb164339ecd55"
+    },
+    {
+      "file": "itc_market_size_growth_data.csv",
+      "sha256": "179c5f74107106b35da5a6eb9560e7b3282889eff07404f49d5d1fd4ccb34950"
+    },
+    {
+      "file": "itc_ranking_sensitivity_data.csv",
+      "sha256": "62c1de967ee4d37315ac52d50cf596783b8feb1303d4174201e12c1d79d9de86"
+    },
+    {
+      "file": "itc_supplier_concentration_data.csv",
+      "sha256": "910c0df2a7f64cad8e61a75f9db06fda30a675acc04d50b7800a03e4faff8089"
+    }
+  ],
+  "checks": {
+    "rank_order_matches_saved_scores": true,
+    "monte_carlo_draw_count": 5000,
+    "top5_total_memberships": 25000,
+    "complete_import_markets": 11,
+    "epi_markets": 14
+  },
+  "scope": "Only report-local charts and arithmetic companions; raw ITC data and model output files are read-only."
+}

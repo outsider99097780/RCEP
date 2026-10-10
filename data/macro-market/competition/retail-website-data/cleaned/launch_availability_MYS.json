@@ -1,0 +1,56 @@
+[
+  {
+    "country_code": "MYS",
+    "source_site": "PriceShop",
+    "brand": "Narwal",
+    "model_name": "Freo Flow",
+    "product_type": "robot_vacuum_mop",
+    "currency": "MYR",
+    "official_or_list_price_raw": "5499",
+    "promotion_price_raw": "5099",
+    "price_source_type": "historical_official_launch_news",
+    "representative_price": null,
+    "publication_date": "2025-09-29",
+    "launch_date": null,
+    "promotion_start": "2025-09-26",
+    "promotion_end": "2025-10-12",
+    "current_stock_status": null,
+    "availability_as_of_publication": "Reported available for pre-order; not checked currently",
+    "reported_sales_channels": [
+      "Narwal official Shopee store",
+      "Aihome Sunway Velocity",
+      "Aihome Plaza Low Yat",
+      "Aihome IOI City Mall"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PriceShop-Narwal-20250929",
+    "raw_record_path": "raw/MYS-PriceShop/narwal_launch_20250929.json",
+    "product_url": "https://my.priceshop.com/en/news/narwal-freo-flow-freo-x10-pro-and-s30-malaysia/"
+  },
+  {
+    "country_code": "MYS",
+    "source_site": "PriceShop",
+    "brand": "Narwal",
+    "model_name": "Freo X10 Pro",
+    "product_type": "robot_vacuum_mop",
+    "currency": "MYR",
+    "official_or_list_price_raw": "2699",
+    "promotion_price_raw": "2399",
+    "price_source_type": "historical_official_launch_news",
+    "representative_price": null,
+    "publication_date": "2025-09-29",
+    "launch_date": null,
+    "promotion_start": "2025-09-26",
+    "promotion_end": "2025-10-12",
+    "current_stock_status": null,
+    "availability_as_of_publication": "Reported available for pre-order; not checked currently",
+    "reported_sales_channels": [
+      "Narwal official Shopee store",
+      "Aihome Sunway Velocity",
+      "Aihome Plaza Low Yat",
+      "Aihome IOI City Mall"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PriceShop-Narwal-20250929",
+    "raw_record_path": "raw/MYS-PriceShop/narwal_launch_20250929.json",
+    "product_url": "https://my.priceshop.com/en/news/narwal-freo-flow-freo-x10-pro-and-s30-malaysia/"
+  }
+]

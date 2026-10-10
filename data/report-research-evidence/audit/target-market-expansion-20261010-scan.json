@@ -1,0 +1,267 @@
+{
+  "review_date": "2026-10-10",
+  "source_count": 17,
+  "total_pdf_pages_text_searched": 1283,
+  "search_terms": {
+    "malaysia": "马来西亚|馬來西亞|Malaysia|\\bMYS\\b",
+    "new-zealand": "新西兰|新西蘭|纽西兰|紐西蘭|New\\s*Zealand|\\bNZL\\b"
+  },
+  "sources": [
+    {
+      "source_id": "REPORT-01",
+      "relative_path": "sources/report/石头科技2022年度报告.pdf",
+      "sha256": "c4c1709345f7d26d092e0f1f568956031213e9a9635342c71de9975bb63edd10",
+      "page_count": 235,
+      "hits": [
+        {
+          "source_id": "REPORT-01",
+          "pdf_page": 6,
+          "country": "malaysia",
+          "match_count": 1,
+          "matched_terms": [
+            "马来西亚"
+          ],
+          "snippets": [
+            "，是台湾历史最悠 久、最权威且最富知名度的专业设计竞赛。 2014 年首度将报名资格扩 大到全球的华人市场 (新增大陆、香港、澳门、新加坡、马来西亚五 地)，参赛厂商超过数千家，报名作品累积上万件 红点奖 指 红点奖，源自德国。是与 iF 设计奖齐 名的一个工业设计大奖，是世界 上知名设计竞赛中最大最有影响的竞赛。红点奖与德国“iF 奖” 、美国 “IDEA 奖”一起并称为世界三大"
+          ]
+        },
+        {
+          "source_id": "REPORT-01",
+          "pdf_page": 24,
+          "country": "malaysia",
+          "match_count": 1,
+          "matched_terms": [
+            "马来西亚"
+          ],
+          "snippets": [
+            "面语言，用户可以切换日语、德语、法语、西班 牙语、繁体中文、韩语、意大利语、印尼语、越南语、泰语、波 兰语、乌克兰语、罗马尼亚语、葡萄牙语、马来西亚语、希伯来 语、俄罗斯语、阿拉伯语等，完善 App 全球化进程 RRAPP 第一版新 UI 第一版带动画的全新 UI 改版 RRAPP iOS 版本支持 Siri Shortcuts 用户可以创建 Siri Shortcuts 然后通"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "REPORT-02",
+      "relative_path": "sources/report/石头科技2023年度报告.pdf",
+      "sha256": "3d10cbff3e696142a9e93cda08a7404a7878869da99e7841630be0d5dd1c30de",
+      "page_count": 305,
+      "hits": [
+        {
+          "source_id": "REPORT-02",
+          "pdf_page": 7,
+          "country": "malaysia",
+          "match_count": 1,
+          "matched_terms": [
+            "马来西亚"
+          ],
+          "snippets": [
+            "科技股份有限公司 2023 年年度报告 7 / 305 首度将报名资格扩大到全球的华人市场(新增大陆、香港、 澳门、新加坡、马来西亚五地)，参赛厂商超过数千家，报 名作品累积上万件 红点奖 指 红点奖，源自德国。是与iF设计奖齐 名的一个工业设计大 奖， 是世界上知名设计竞赛中最大最有影响的竞赛。 红点奖 与德国“iF奖”、美国“IDEA奖”一起并称为世界三大设计奖"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "REPORT-03",
+      "relative_path": "sources/report/石头科技2024年度报告.pdf",
+      "sha256": "45c065afabb814739212e3334a059d635c30bbbd1a5f1190babd04aa42a37bde",
+      "page_count": 281,
+      "hits": []
+    },
+    {
+      "source_id": "REPORT-04",
+      "relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "page_count": 282,
+      "hits": [
+        {
+          "source_id": "REPORT-04",
+          "pdf_page": 26,
+          "country": "malaysia",
+          "match_count": 1,
+          "matched_terms": [
+            "马来西亚"
+          ],
+          "snippets": [
+            " 2024 年第四季度启动越南代工生产业务并开始陆续发货，成为首家在海外建立代工生产能力的中 国智能扫地机器人制造商；2025 年进一步新增马来西亚代工厂生产业务，通过多元化产能布局持 续提升供应保障的灵活性与安全性，有效降低地缘政治风险，增强服务国际市场的能力。 在渠道网络层面，公司已建立多元直销渠道与强大线下分销网络，通过与主流电商平台及知 名零售连锁深度合作，线上线下协同扩大市场"
+          ]
+        },
+        {
+          "source_id": "REPORT-04",
+          "pdf_page": 52,
+          "country": "malaysia",
+          "match_count": 1,
+          "matched_terms": [
+            "马来西亚"
+          ],
+          "snippets": [
+            "球化产能布局来提升 供应链的灵活性与抗风险能力。自 2024 年 10 月起，公司的越南代工厂已开始陆续发货，2025 年， 公司进一步新增马来西亚代工厂生产业务，通过多元化产能布局，为公司产品供应保障提供更多 的灵活性和安全性。后续公司将结合中美贸易发展态势，综合权衡生产效率与关税影响，以效益 最大化为目标持续优化产能布局，进一步提升北美市场运营效率。同时，公司持续推进本土化运 营战"
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "REPORT-05",
+      "relative_path": "sources/report/石头科技2026第一季度报告.pdf",
+      "sha256": "05e99c09d4b2801669fe30eaf3d4f04a47e56cdab2a619457c2facadccdfdaed",
+      "page_count": 15,
+      "hits": []
+    },
+    {
+      "source_id": "RESEARCH-01",
+      "relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "page_count": 37,
+      "hits": [
+        {
+          "source_id": "RESEARCH-01",
+          "pdf_page": 3,
+          "country": "malaysia",
+          "match_count": 2,
+          "matched_terms": [
+            "马来西亚"
+          ],
+          "snippets": [
+            "..................................................... 28 图 42： 2024 年马来西亚扫地机销售额为 0.20 亿美元（+10%） ............................................................................................ 28 ",
+            "............................... 28 图 43： 2024 年石头在澳大利亚/阿联酋/以色列/印度尼西亚/马来西亚市占率分别为 25%/23%/20%/14%/8% ................... 29 图 44： 2025Q3 中国洗地机内销额 17.8 亿元（+55%） .................................."
+          ]
+        },
+        {
+          "source_id": "RESEARCH-01",
+          "pdf_page": 5,
+          "country": "malaysia",
+          "match_count": 1,
+          "matched_terms": [
+            "马来西亚"
+          ],
+          "snippets": [
+            "率同 比 2024 年有较大下滑主系中美关税影响，2025Q3 起公司越南产能已经能够满足北 美出货需求，随着国内出品美国关税下降以及越南、马来西亚产能持续释放，净利 率有望边际改善。 随着突破美国COSTCO 渠道，TARGET 渠道增加 SKU，未来线下 或贡献更多增量。 欧洲：2025 年扫地机品类净利率预计接近 20%，2025Q2、Q3 盈利能力保持相 对稳定。随着法国、意"
+          ]
+        },
+        {
+          "source_id": "RESEARCH-01",
+          "pdf_page": 27,
+          "country": "malaysia",
+          "match_count": 1,
+          "matched_terms": [
+            "马来西亚"
+          ],
+          "snippets": [
+            "预计增长 51% 数据来源：开源证券研究所 拆分市场来看，根据欧睿数据，2024 年韩国/澳大利亚/中国台湾/印度尼西亚/中 东非/马来西亚扫地机销售额分别为 2.68/1.38/1.26/0.22/0.69/0.32 亿美元，5 年 CAGR 分别为 15%/7%/10%/18%/10%/16%，中东、东南亚、东亚均拥有较大成长空间。 图37：2024 年韩国扫地机销售额为"
+          ]
+        },
+        {
+          "source_id": "RESEARCH-01",
+          "pdf_page": 28,
+          "country": "malaysia",
+          "match_count": 3,
+          "matched_terms": [
+            "马来西亚"
+          ],
+          "snippets": [
+            "、开源证券研究所 图41：2024 年 中 东 非 扫 地 机 销 售 额 为0.69 亿美元 （+11%） 图42：2024 年马来西亚扫地机销售额为 0.20 亿美元 （+10%） 数据来源：欧睿、开源证券研究所 数据来源：欧睿、开源证券研究所 从市占率情况来看， 石头在韩国、 中国台湾、 澳大利亚等经济发达且市场规模较大地区市占率较高， 根据欧睿数据",
+            "%，同样系当地经济发达、产品负担能力较高所致。但由于产品进入 时间较晚，市场规模还有较大提升空间。 东南亚地区来看，石头目前在印度尼西亚、马来西亚、越南等地区市占率还有 较大提升空间，2024 年市占率分别为 14%/8%/6%。 我们预计 2025 年石头在韩国的市占率超 50%， 澳洲市占率达40%， 实现持续持 续提升。未来石头有望在东亚持续保持高市占率基本盘；中东地区稳固市",
+            " 60 80 100 120 中东非销额（百万美元） YOY -50% 0% 50% 100% 150% 0 10 20 30 40 50 马来西亚销额（百万美元） YOY"
+          ]
+        },
+        {
+          "source_id": "RESEARCH-01",
+          "pdf_page": 29,
+          "country": "malaysia",
+          "match_count": 2,
+          "matched_terms": [
+            "马来西亚"
+          ],
+          "snippets": [
+            "公司深度报告 请务必参阅正文后面的信息披露和法律声明 29 / 37 图43：2024 年石头在澳大利亚/阿联酋/以色列/印度尼西亚/马来西亚市占率分别为 25%/23%/20%/14%/8% 数据来源：欧睿、开源证券研究所 4.5、 新品类：F25 洗地机入驻美国 Target 渠道，割草机发布多款新品 4.5.1、 洗地机：国内市占率持续突围，海外拓展步伐加速 国",
+            "% 15% 20% 25% 30% 35% 2018年 2019年 2020年 2021年 2022年 2023年 2024年 印度尼西亚 马来西亚 新加坡 韩国 中国台湾 越南 澳大利亚 以色列 阿拉伯联合酋长国 -20% 0% 20% 40% 60% 0 10 20 30 40 50 2022Q1 2022Q2 2022Q3 2022Q4 2023Q1 2023Q2 2023Q3 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_id": "RESEARCH-02",
+      "relative_path": "sources/research/国信石头202105061490084467_1(1).pdf",
+      "sha256": "335dd4553cc3a03d25a68fa3081623fb4c80a40a0be5a6658ce09592ddede7b0",
+      "page_count": 6,
+      "hits": []
+    },
+    {
+      "source_id": "RESEARCH-03",
+      "relative_path": "sources/research/国信石头202206301575640813_1(1).pdf",
+      "sha256": "99fce4a59cb5cd73b7124c1ee0135bf7b8520a5fcf9bc49b3cc6b278e2961811",
+      "page_count": 39,
+      "hits": []
+    },
+    {
+      "source_id": "RESEARCH-04",
+      "relative_path": "sources/research/国信石头202309031597465324_1(1).pdf",
+      "sha256": "3b6d6db6c4b1ea70aff894c6d142a12572daea7d2d16c76571bbd532b00ec393",
+      "page_count": 6,
+      "hits": []
+    },
+    {
+      "source_id": "RESEARCH-05",
+      "relative_path": "sources/research/国信石头202409051639759654_1(1).pdf",
+      "sha256": "a36edfbb6cc257c789a601b89b9ed73242ddb231b7980d456026242733577bc2",
+      "page_count": 6,
+      "hits": []
+    },
+    {
+      "source_id": "RESEARCH-06",
+      "relative_path": "sources/research/国信石头202508181729979686_1(1).pdf",
+      "sha256": "30ac2d034198c2ab0b3214e14c3b94db43a7adcf92103bc56b01e05281cb767b",
+      "page_count": 6,
+      "hits": []
+    },
+    {
+      "source_id": "RESEARCH-07",
+      "relative_path": "sources/research/开源石头202108261512505640_1(1).PDF",
+      "sha256": "e81dbe4e57117c4ff282359a841ff4dea11f25062b2b4adc909c4827c3ff0f62",
+      "page_count": 11,
+      "hits": []
+    },
+    {
+      "source_id": "RESEARCH-08",
+      "relative_path": "sources/research/开源石头202209011577950913_1(1).pdf",
+      "sha256": "2c828fe2a4fafbb058d9e2e3fcd0fd93f33f6a766b4a01b267c5bf9678fa9e4e",
+      "page_count": 10,
+      "hits": []
+    },
+    {
+      "source_id": "RESEARCH-09",
+      "relative_path": "sources/research/开源石头202304271585951728_1(1).pdf",
+      "sha256": "4cf0625db0c801b3f4aaf256495cce7a2f6ccb3b646047d4190be19a8065e4cc",
+      "page_count": 11,
+      "hits": []
+    },
+    {
+      "source_id": "RESEARCH-10",
+      "relative_path": "sources/research/开源石头202410311640632873_1(1).pdf",
+      "sha256": "883643b9d37be52d034b9137803432c7aefecb28a287aae670d1038cd222a11b",
+      "page_count": 4,
+      "hits": []
+    },
+    {
+      "source_id": "RESEARCH-11",
+      "relative_path": "sources/research/开源石头202508171729307753_1(1).pdf",
+      "sha256": "4693bdbfe84742ce8e048336666ce88f7e20eabc56816f44b14f413654d9c9d1",
+      "page_count": 4,
+      "hits": []
+    },
+    {
+      "source_id": "RESEARCH-12",
+      "relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "page_count": 25,
+      "hits": []
+    }
+  ],
+  "new_zealand_hits": 0,
+  "visually_reviewed_pages": [
+    "RESEARCH-01:27",
+    "RESEARCH-01:28",
+    "RESEARCH-01:29",
+    "REPORT-04:26",
+    "REPORT-04:52"
+  ],
+  "scope_limit": "Hash-verified full extracted PDF text; selected related chart pages visually reviewed. Not exhaustive OCR of every embedded image. Non-mentions are not negative market evidence."
+}

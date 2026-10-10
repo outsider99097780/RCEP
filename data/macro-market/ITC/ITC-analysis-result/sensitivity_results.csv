@@ -1,34 +1,221 @@
-﻿"country_code","country_name","scenario","score","rank"
-"410","Korea, Republic of","strategy_weight_topsis","0.732848","1"
-"392","Japan","strategy_weight_topsis","0.718998","2"
-"036","Australia","strategy_weight_topsis","0.660672","3"
-"554","New Zealand","strategy_weight_topsis","0.635528","4"
-"360","Indonesia","strategy_weight_topsis","0.633736","5"
-"702","Singapore","strategy_weight_topsis","0.576344","6"
-"764","Thailand","strategy_weight_topsis","0.541691","7"
-"458","Malaysia","strategy_weight_topsis","0.50089","8"
-"608","Philippines","strategy_weight_topsis","0.459376","9"
-"116","Cambodia","strategy_weight_topsis","0.399793","10"
-"096","Brunei Darussalam","strategy_weight_topsis","0.267524","11"
-"410","Korea, Republic of","equal_weight_topsis","0.631818","1"
-"360","Indonesia","equal_weight_topsis","0.596738","2"
-"036","Australia","equal_weight_topsis","0.578655","3"
-"392","Japan","equal_weight_topsis","0.568191","4"
-"554","New Zealand","equal_weight_topsis","0.556568","5"
-"116","Cambodia","equal_weight_topsis","0.54237","6"
-"764","Thailand","equal_weight_topsis","0.533682","7"
-"458","Malaysia","equal_weight_topsis","0.529198","8"
-"608","Philippines","equal_weight_topsis","0.479416","9"
-"702","Singapore","equal_weight_topsis","0.470208","10"
-"096","Brunei Darussalam","equal_weight_topsis","0.289779","11"
-"116","Cambodia","entropy_topsis","0.613053","1"
-"554","New Zealand","entropy_topsis","0.59013","2"
-"360","Indonesia","entropy_topsis","0.574053","3"
-"410","Korea, Republic of","entropy_topsis","0.564216","4"
-"036","Australia","entropy_topsis","0.505207","5"
-"392","Japan","entropy_topsis","0.503785","6"
-"764","Thailand","entropy_topsis","0.477468","7"
-"458","Malaysia","entropy_topsis","0.469996","8"
-"702","Singapore","entropy_topsis","0.457072","9"
-"608","Philippines","entropy_topsis","0.444204","10"
-"096","Brunei Darussalam","entropy_topsis","0.364812","11"
+﻿country_code,country_name,scenario,score,rank
+036,Australia,strategy_weight_topsis,0.8462389067354127,2
+096,Brunei Darussalam,strategy_weight_topsis,0.0,11
+116,Cambodia,strategy_weight_topsis,0.5629823983498737,9
+360,Indonesia,strategy_weight_topsis,0.7501491716632602,6
+392,Japan,strategy_weight_topsis,0.7702949626691477,5
+410,"Korea, Republic of",strategy_weight_topsis,0.8962824327466158,1
+458,Malaysia,strategy_weight_topsis,0.7935777626761783,3
+554,New Zealand,strategy_weight_topsis,0.7808201289913866,4
+608,Philippines,strategy_weight_topsis,0.6416890044943849,8
+702,Singapore,strategy_weight_topsis,0.4162861215720288,10
+764,Thailand,strategy_weight_topsis,0.6980474776723073,7
+036,Australia,equal_weight_topsis,0.736147167781073,4
+096,Brunei Darussalam,equal_weight_topsis,0.0,11
+116,Cambodia,equal_weight_topsis,0.6663968082955678,7
+360,Indonesia,equal_weight_topsis,0.7465663340505819,3
+392,Japan,equal_weight_topsis,0.6535850858712894,8
+410,"Korea, Republic of",equal_weight_topsis,0.8178093456612379,1
+458,Malaysia,equal_weight_topsis,0.7928551258165285,2
+554,New Zealand,equal_weight_topsis,0.676582512315805,6
+608,Philippines,equal_weight_topsis,0.6154275662939973,9
+702,Singapore,equal_weight_topsis,0.4291642491726708,10
+764,Thailand,equal_weight_topsis,0.68997371316704,5
+036,Australia,entropy_topsis,0.7276722235450847,4
+096,Brunei Darussalam,entropy_topsis,0.0,11
+116,Cambodia,entropy_topsis,0.7160938340350531,5
+360,Indonesia,entropy_topsis,0.7751997499507498,3
+392,Japan,entropy_topsis,0.6508814386770841,7
+410,"Korea, Republic of",entropy_topsis,0.8322869165783899,1
+458,Malaysia,entropy_topsis,0.7820979884070965,2
+554,New Zealand,entropy_topsis,0.6998480848926579,6
+608,Philippines,entropy_topsis,0.6016391739419358,9
+702,Singapore,entropy_topsis,0.31464030790189684,10
+764,Thailand,entropy_topsis,0.6397606460439205,8
+036,Australia,weight_market_size_x0.8,0.8356057657237218,2
+096,Brunei Darussalam,weight_market_size_x0.8,0.0,11
+116,Cambodia,weight_market_size_x0.8,0.6056249829531233,9
+360,Indonesia,weight_market_size_x0.8,0.7621858748862695,5
+392,Japan,weight_market_size_x0.8,0.7535534736227328,6
+410,"Korea, Republic of",weight_market_size_x0.8,0.8885690624105144,1
+458,Malaysia,weight_market_size_x0.8,0.7996536304240056,3
+554,New Zealand,weight_market_size_x0.8,0.7860174263126134,4
+608,Philippines,weight_market_size_x0.8,0.6565557201305672,8
+702,Singapore,weight_market_size_x0.8,0.37273470417043536,10
+764,Thailand,weight_market_size_x0.8,0.6886900876669447,7
+036,Australia,weight_market_size_x1.2,0.856545061517353,2
+096,Brunei Darussalam,weight_market_size_x1.2,0.0,11
+116,Cambodia,weight_market_size_x1.2,0.5258922418370813,9
+360,Indonesia,weight_market_size_x1.2,0.7394675572062099,6
+392,Japan,weight_market_size_x1.2,0.7864503098868093,4
+410,"Korea, Republic of",weight_market_size_x1.2,0.9037811427909146,1
+458,Malaysia,weight_market_size_x1.2,0.7881162288342747,3
+554,New Zealand,weight_market_size_x1.2,0.7760711368560967,5
+608,Philippines,weight_market_size_x1.2,0.6283090318025724,8
+702,Singapore,weight_market_size_x1.2,0.45482023119296255,10
+764,Thailand,weight_market_size_x1.2,0.7069970762068271,7
+036,Australia,leave_out_market_size,0.8082472657687232,3
+096,Brunei Darussalam,leave_out_market_size,0.0,11
+116,Cambodia,leave_out_market_size,0.7681878293993738,6
+360,Indonesia,leave_out_market_size,0.7988322705877952,5
+392,Japan,leave_out_market_size,0.7097368733989498,7
+410,"Korea, Republic of",leave_out_market_size,0.868823894102944,1
+458,Malaysia,leave_out_market_size,0.8173939508628929,2
+554,New Zealand,leave_out_market_size,0.8006618039734251,4
+608,Philippines,leave_out_market_size,0.7004612511704555,8
+702,Singapore,leave_out_market_size,0.2111189060246385,10
+764,Thailand,leave_out_market_size,0.664435502628893,9
+036,Australia,weight_market_growth_x0.8,0.850823309895177,2
+096,Brunei Darussalam,weight_market_growth_x0.8,0.0,11
+116,Cambodia,weight_market_growth_x0.8,0.5591067941364593,9
+360,Indonesia,weight_market_growth_x0.8,0.7525011062778307,6
+392,Japan,weight_market_growth_x0.8,0.7780194088192302,5
+410,"Korea, Republic of",weight_market_growth_x0.8,0.9029256213173765,1
+458,Malaysia,weight_market_growth_x0.8,0.7931672651060111,3
+554,New Zealand,weight_market_growth_x0.8,0.7858952964969277,4
+608,Philippines,weight_market_growth_x0.8,0.6407402884787435,8
+702,Singapore,weight_market_growth_x0.8,0.41009650361796096,10
+764,Thailand,weight_market_growth_x0.8,0.6967535613996528,7
+036,Australia,weight_market_growth_x1.2,0.8409912987957529,2
+096,Brunei Darussalam,weight_market_growth_x1.2,0.0,11
+116,Cambodia,weight_market_growth_x1.2,0.5675476452689313,9
+360,Indonesia,weight_market_growth_x1.2,0.7473912859975659,6
+392,Japan,weight_market_growth_x1.2,0.7615220079042624,5
+410,"Korea, Republic of",weight_market_growth_x1.2,0.8889836367373147,1
+458,Malaysia,weight_market_growth_x1.2,0.7940645011416213,3
+554,New Zealand,weight_market_growth_x1.2,0.7749770898993033,4
+608,Philippines,weight_market_growth_x1.2,0.6428138494279405,8
+702,Singapore,weight_market_growth_x1.2,0.4234786401078046,10
+764,Thailand,weight_market_growth_x1.2,0.6995860043862133,7
+036,Australia,leave_out_market_growth,0.8597375710223647,2
+096,Brunei Darussalam,leave_out_market_growth,0.0,11
+116,Cambodia,leave_out_market_growth,0.5518778830499184,9
+360,Indonesia,leave_out_market_growth,0.7569132740625051,6
+392,Japan,leave_out_market_growth,0.7932346982808947,4
+410,"Korea, Republic of",leave_out_market_growth,0.91680714223729,1
+458,Malaysia,leave_out_market_growth,0.7924086931278171,5
+554,New Zealand,leave_out_market_growth,0.7956748098310403,3
+608,Philippines,leave_out_market_growth,0.6389869201392939,8
+702,Singapore,leave_out_market_growth,0.3983268375235277,10
+764,Thailand,leave_out_market_growth,0.6943709521722629,7
+036,Australia,weight_china_share_x0.8,0.8527645162506793,2
+096,Brunei Darussalam,weight_china_share_x0.8,0.0,11
+116,Cambodia,weight_china_share_x0.8,0.5610114705762255,9
+360,Indonesia,weight_china_share_x0.8,0.7477495180655706,6
+392,Japan,weight_china_share_x0.8,0.7708697280845738,5
+410,"Korea, Republic of",weight_china_share_x0.8,0.8978741562248814,1
+458,Malaysia,weight_china_share_x0.8,0.7928180754467182,3
+554,New Zealand,weight_china_share_x0.8,0.788259087721222,4
+608,Philippines,weight_china_share_x0.8,0.6441006064577045,8
+702,Singapore,weight_china_share_x0.8,0.41929765352038073,10
+764,Thailand,weight_china_share_x0.8,0.6959544006629904,7
+036,Australia,weight_china_share_x1.2,0.8388974978189222,2
+096,Brunei Darussalam,weight_china_share_x1.2,0.0,11
+116,Cambodia,weight_china_share_x1.2,0.5653274503538693,9
+360,Indonesia,weight_china_share_x1.2,0.7529813951412736,6
+392,Japan,weight_china_share_x1.2,0.7696111232186496,5
+410,"Korea, Republic of",weight_china_share_x1.2,0.8944255658358322,1
+458,Malaysia,weight_china_share_x1.2,0.7944793387016773,3
+554,New Zealand,weight_china_share_x1.2,0.7723979285938276,4
+608,Philippines,weight_china_share_x1.2,0.6388498502324598,8
+702,Singapore,weight_china_share_x1.2,0.412712085018196,10
+764,Thailand,weight_china_share_x1.2,0.7005314018508113,7
+036,Australia,leave_out_china_share,0.8658179601852848,2
+096,Brunei Darussalam,leave_out_china_share,0.0,11
+116,Cambodia,leave_out_china_share,0.5573850074833979,9
+360,Indonesia,leave_out_china_share,0.7432862486700699,6
+392,Japan,leave_out_china_share,0.771927179324671,5
+410,"Korea, Republic of",leave_out_china_share,0.9008819352502389,1
+458,Malaysia,leave_out_china_share,0.7914157723126226,4
+554,New Zealand,leave_out_china_share,0.8029758308160047,3
+608,Philippines,leave_out_china_share,0.6486003161386746,8
+702,Singapore,leave_out_china_share,0.42485866238978964,10
+764,Thailand,leave_out_china_share,0.6920897825339828,7
+036,Australia,weight_untapped_amount_x0.8,0.8351657951495202,2
+096,Brunei Darussalam,weight_untapped_amount_x0.8,0.0,11
+116,Cambodia,weight_untapped_amount_x0.8,0.5486004907471344,9
+360,Indonesia,weight_untapped_amount_x0.8,0.7357976423156447,6
+392,Japan,weight_untapped_amount_x0.8,0.7540777448766169,5
+410,"Korea, Republic of",weight_untapped_amount_x0.8,0.8885187915552047,1
+458,Malaysia,weight_untapped_amount_x0.8,0.7801185212560133,3
+554,New Zealand,weight_untapped_amount_x0.8,0.7694329891639349,4
+608,Philippines,weight_untapped_amount_x0.8,0.6194591202694922,8
+702,Singapore,weight_untapped_amount_x0.8,0.448000395333691,10
+764,Thailand,weight_untapped_amount_x0.8,0.6819219920805047,7
+036,Australia,weight_untapped_amount_x1.2,0.8569480135062062,2
+096,Brunei Darussalam,weight_untapped_amount_x1.2,0.0,11
+116,Cambodia,weight_untapped_amount_x1.2,0.5769668407467814,9
+360,Indonesia,weight_untapped_amount_x1.2,0.7636047366879369,6
+392,Japan,weight_untapped_amount_x1.2,0.7860378402119067,5
+410,"Korea, Republic of",weight_untapped_amount_x1.2,0.903821160909562,1
+458,Malaysia,weight_untapped_amount_x1.2,0.8062520835995672,3
+554,New Zealand,weight_untapped_amount_x1.2,0.7916458381750251,4
+608,Philippines,weight_untapped_amount_x1.2,0.6620818516159804,8
+702,Singapore,weight_untapped_amount_x1.2,0.38677876891520885,10
+764,Thailand,weight_untapped_amount_x1.2,0.7133932230987524,7
+036,Australia,leave_out_untapped_amount,0.8065026014857744,2
+096,Brunei Darussalam,leave_out_untapped_amount,0.0,11
+116,Cambodia,leave_out_untapped_amount,0.5122125660630776,10
+360,Indonesia,leave_out_untapped_amount,0.6965775603177367,6
+392,Japan,leave_out_untapped_amount,0.7121843790556766,5
+410,"Korea, Republic of",leave_out_untapped_amount,0.8685961108361525,1
+458,Malaysia,leave_out_untapped_amount,0.7435317320356433,3
+554,New Zealand,leave_out_untapped_amount,0.7393058031888474,4
+608,Philippines,leave_out_untapped_amount,0.5549779886517268,8
+702,Singapore,leave_out_untapped_amount,0.540666384499616,9
+764,Thailand,leave_out_untapped_amount,0.6390837564127696,7
+036,Australia,weight_untapped_ratio_x0.8,0.8556786947237035,2
+096,Brunei Darussalam,weight_untapped_ratio_x0.8,0.0,11
+116,Cambodia,weight_untapped_ratio_x0.8,0.5443827600708883,9
+360,Indonesia,weight_untapped_ratio_x0.8,0.7526851080519714,6
+392,Japan,weight_untapped_ratio_x0.8,0.7942471474718987,4
+410,"Korea, Republic of",weight_untapped_ratio_x0.8,0.9028005839064177,1
+458,Malaysia,weight_untapped_ratio_x0.8,0.8019957006312657,3
+554,New Zealand,weight_untapped_ratio_x0.8,0.7739070839920764,5
+608,Philippines,weight_untapped_ratio_x0.8,0.6470877802735479,8
+702,Singapore,weight_untapped_ratio_x0.8,0.4293129304540428,10
+764,Thailand,weight_untapped_ratio_x0.8,0.72732285642522,7
+036,Australia,weight_untapped_ratio_x1.2,0.8366057885520776,2
+096,Brunei Darussalam,weight_untapped_ratio_x1.2,0.0,11
+116,Cambodia,weight_untapped_ratio_x1.2,0.5822773538859835,9
+360,Indonesia,weight_untapped_ratio_x1.2,0.7474370279852495,5
+392,Japan,weight_untapped_ratio_x1.2,0.7469954986497666,6
+410,"Korea, Republic of",weight_untapped_ratio_x1.2,0.8896458496976107,1
+458,Malaysia,weight_untapped_ratio_x1.2,0.7848718269844088,4
+554,New Zealand,weight_untapped_ratio_x1.2,0.788340957957009,3
+608,Philippines,weight_untapped_ratio_x1.2,0.6359203756294529,8
+702,Singapore,weight_untapped_ratio_x1.2,0.4021820119014525,10
+764,Thailand,weight_untapped_ratio_x1.2,0.6699808285067425,7
+036,Australia,leave_out_untapped_ratio,0.8778451861587467,2
+096,Brunei Darussalam,leave_out_untapped_ratio,0.0,11
+116,Cambodia,leave_out_untapped_ratio,0.5018920931121038,9
+360,Indonesia,leave_out_untapped_ratio,0.758105379773787,7
+392,Japan,leave_out_untapped_ratio,0.8597020263268507,3
+410,"Korea, Republic of",leave_out_untapped_ratio,0.9181461928226511,1
+458,Malaysia,leave_out_untapped_ratio,0.821126129398948,4
+554,New Zealand,leave_out_untapped_ratio,0.759439401446448,6
+608,Philippines,leave_out_untapped_ratio,0.6586572963910794,8
+702,Singapore,leave_out_untapped_ratio,0.4568849731603809,10
+764,Thailand,leave_out_untapped_ratio,0.8098315895439757,5
+036,Australia,amounts_without_log1p,0.6474257230620132,3
+096,Brunei Darussalam,amounts_without_log1p,0.0,11
+116,Cambodia,amounts_without_log1p,0.3549315581817421,4
+360,Indonesia,amounts_without_log1p,0.314664993643455,7
+392,Japan,amounts_without_log1p,0.730943440022257,2
+410,"Korea, Republic of",amounts_without_log1p,0.8943482455173319,1
+458,Malaysia,amounts_without_log1p,0.3363686808665406,6
+554,New Zealand,amounts_without_log1p,0.34134488801525587,5
+608,Philippines,amounts_without_log1p,0.24706292166997326,9
+702,Singapore,amounts_without_log1p,0.20345032080034509,10
+764,Thailand,amounts_without_log1p,0.25371060999895595,8
+036,Australia,cagr_2022_2025,0.8099754500480996,2
+096,Brunei Darussalam,cagr_2022_2025,0.0,11
+116,Cambodia,cagr_2022_2025,0.5643294265465193,9
+360,Indonesia,cagr_2022_2025,0.7349186684406361,6
+392,Japan,cagr_2022_2025,0.7540442321761509,4
+410,"Korea, Republic of",cagr_2022_2025,0.9147305371937884,1
+458,Malaysia,cagr_2022_2025,0.7968320476455362,3
+554,New Zealand,cagr_2022_2025,0.7538488907186774,5
+608,Philippines,cagr_2022_2025,0.6231198035175319,8
+702,Singapore,cagr_2022_2025,0.4055754744551609,10
+764,Thailand,cagr_2022_2025,0.7004149703961263,7

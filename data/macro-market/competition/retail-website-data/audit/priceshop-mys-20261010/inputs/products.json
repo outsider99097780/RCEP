@@ -1,0 +1,5685 @@
+[
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "roborock-q7-max-plus-robot-vacuum",
+    "url": "https://my.priceshop.com/product/roborock-q7-max-plus-robot-vacuum",
+    "title_raw": "Roborock Q7 Max+ Robot Vacuum",
+    "source_cache_age_raw": "3 months ago",
+    "accessed_at": "2026-10-10T11:08:31.916Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 323,
+    "reader_captured_lines": 323,
+    "summary_price_raw": "RM2,899.00",
+    "declared_seller_count_raw": "From 2 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 253,
+        "value_line": 255
+      },
+      "Dust Capacity": {
+        "value_raw": "0.4 L",
+        "section": "Capacity",
+        "line": 259,
+        "value_line": 261
+      },
+      "Power Consumption": {
+        "value_raw": "74 W",
+        "section": "Specifications",
+        "line": 265,
+        "value_line": 267
+      },
+      "Noise Level": {
+        "value_raw": "68 dB",
+        "section": "Specifications",
+        "line": 269,
+        "value_line": 271
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 275,
+        "value_line": 277
+      },
+      "Runtime": {
+        "value_raw": "Up to 180 minutes",
+        "section": "Battery",
+        "line": 279,
+        "value_line": 281
+      },
+      "Charging Time": {
+        "value_raw": "240 minutes",
+        "section": "Battery",
+        "line": 283,
+        "value_line": 285
+      },
+      "Dust Bag": {
+        "value_raw": "Bagged",
+        "section": "Others",
+        "line": 289,
+        "value_line": 291
+      },
+      "Filtration": {
+        "value_raw": "Washable HEPA Filter",
+        "section": "Others",
+        "line": 293,
+        "value_line": 295
+      },
+      "Weight": {
+        "value_raw": "7 kg",
+        "section": "Size & Weight",
+        "line": 298,
+        "value_line": 300
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM2,899.00",
+        "price_line": 121,
+        "name_line": 113,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM2,899.00",
+        "price_line": 138,
+        "name_line": 132,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM2,899.00",
+        "price_line": 165,
+        "name_line": 157,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM2,899.00",
+        "price_line": 183,
+        "name_line": 176,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM2,899.00",
+        "price_line": 201,
+        "name_line": 194,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM2,899.00",
+        "price_line": 219,
+        "name_line": 212,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM2,899.00",
+        "price_line": 235,
+        "name_line": 230,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn154view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "dreame-f9-robot-vacuum",
+    "url": "https://my.priceshop.com/product/dreame-f9-robot-vacuum",
+    "title_raw": "Dreame F9 Robot Vacuum",
+    "source_cache_age_raw": "last year",
+    "accessed_at": "2026-10-10T11:08:31.917Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 430,
+    "reader_captured_lines": 430,
+    "summary_price_raw": "RM1,169.00 - RM1,299.00",
+    "declared_seller_count_raw": "From 4 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 374,
+        "value_line": 376
+      },
+      "Dust Capacity": {
+        "value_raw": "0.6 L",
+        "section": "Capacity",
+        "line": 380,
+        "value_line": 382
+      },
+      "Power Consumption": {
+        "value_raw": "40 W",
+        "section": "Specifications",
+        "line": 386,
+        "value_line": 388
+      },
+      "Battery Capacity": {
+        "value_raw": "2400 mAh",
+        "section": "Battery",
+        "line": 392,
+        "value_line": 394
+      },
+      "Runtime": {
+        "value_raw": "150 mins",
+        "section": "Battery",
+        "line": 396,
+        "value_line": 398
+      },
+      "Dimensions": {
+        "value_raw": "350 x 350 x 96.8 mm",
+        "section": "Size & Weight",
+        "line": 401,
+        "value_line": 403
+      },
+      "Weight": {
+        "value_raw": "3.6 kg",
+        "section": "Size & Weight",
+        "line": 405,
+        "value_line": 407
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "G-Store Mobile",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,299.00",
+        "price_line": 117,
+        "name_line": 110,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Lazada",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,299.00",
+        "price_line": 135,
+        "name_line": 129,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Lazada",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM1,169.00",
+        "price_line": 162,
+        "name_line": 154,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM1,299.00",
+        "price_line": 179,
+        "name_line": 171,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM1,299.00",
+        "price_line": 196,
+        "name_line": 190,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Courts Malaysia - Personal Shopper",
+        "merchant_group_raw": "Courts Malaysia",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Setapak, Wp Kuala Lumpur",
+        "price_raw": "RM1,299.00",
+        "price_line": 227,
+        "name_line": 215,
+        "quote_updated_raw": "Updated as of 3 January 2023",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Courts Malaysia",
+        "merchant_group_raw": "Courts Malaysia",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,299.00",
+        "price_line": 254,
+        "name_line": 244,
+        "quote_updated_raw": "Updated as of 3 January 2023",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM1,299.00",
+        "price_line": 286,
+        "name_line": 278,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,299.00",
+        "price_line": 304,
+        "name_line": 297,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM1,299.00",
+        "price_line": 322,
+        "name_line": 315,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,299.00",
+        "price_line": 340,
+        "name_line": 333,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM1,299.00",
+        "price_line": 356,
+        "name_line": 351,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn154view1",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "xiaomi-mi-robot-vacuum-mop-2",
+    "url": "https://my.priceshop.com/product/xiaomi-mi-robot-vacuum-mop-2",
+    "title_raw": "Xiaomi Mi Robot Vacuum-Mop 2",
+    "source_cache_age_raw": "5 months ago",
+    "accessed_at": "2026-10-10T11:08:31.918Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 786,
+    "reader_captured_lines": 786,
+    "summary_price_raw": "RM779.00 - RM1,499.00",
+    "declared_seller_count_raw": "From 11 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 736,
+        "value_line": 738
+      },
+      "Power Consumption": {
+        "value_raw": "40 W",
+        "section": "Specifications",
+        "line": 742,
+        "value_line": 744
+      },
+      "Battery Capacity": {
+        "value_raw": "2900 mAh",
+        "section": "Battery",
+        "line": 748,
+        "value_line": 750
+      },
+      "Runtime": {
+        "value_raw": "Up to 110-minute battery life",
+        "section": "Battery",
+        "line": 752,
+        "value_line": 754
+      },
+      "Dimensions": {
+        "value_raw": "353 x 350 x 81 mm",
+        "section": "Size & Weight",
+        "line": 757,
+        "value_line": 759
+      },
+      "Weight": {
+        "value_raw": "3.6 kg",
+        "section": "Size & Weight",
+        "line": 761,
+        "value_line": 763
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Top Phone Zone",
+        "merchant_group_raw": "Top Phone Zone",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Bukit Bintang, Wp Kuala Lumpur",
+        "price_raw": "RM899.00",
+        "price_line": 105,
+        "name_line": 94,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": [
+          "Normal price RM1099."
+        ]
+      },
+      {
+        "retailer_name_raw": "JH Home Appliances",
+        "merchant_group_raw": "JH Home Appliances",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Sungai Buloh, Selangor",
+        "price_raw": "RM799.10",
+        "price_line": 138,
+        "name_line": 130,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "JH Home Appliances - Shopee",
+        "merchant_group_raw": "JH Home Appliances",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM799.10",
+        "price_line": 154,
+        "name_line": 149,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Asia Mobile Retail Sdn Bhd - Shopee",
+        "merchant_group_raw": "Asia Mobile Retail Sdn Bhd",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM1,099.00",
+        "price_line": 170,
+        "name_line": 164,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Desa Home Theatre Sdn Bhd",
+        "merchant_group_raw": "Desa Home Theatre Sdn Bhd",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Kepong, Wp Kuala Lumpur",
+        "price_raw": "RM899.00",
+        "price_line": 196,
+        "name_line": 189,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Desa Home Theatre Sdn Bhd - Lazada",
+        "merchant_group_raw": "Desa Home Theatre Sdn Bhd",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM899.00",
+        "price_line": 213,
+        "name_line": 207,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "itronic Mobile Trading",
+        "merchant_group_raw": "itronic Mobile Trading",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM779.00",
+        "price_line": 237,
+        "name_line": 232,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "itronic Mobile Trading",
+        "merchant_group_raw": "itronic Mobile Trading",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM779.00",
+        "price_line": 254,
+        "name_line": 245,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "DirectD Subang Jaya (HQ)",
+        "merchant_group_raw": "DirectD HQ / Online Store",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM899.00",
+        "price_line": 287,
+        "name_line": 275,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "DirectD HQ / Online Store",
+        "merchant_group_raw": "DirectD HQ / Online Store",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM899.00",
+        "price_line": 312,
+        "name_line": 302,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "VIVID CONCEPTS - SUNWAY PYRAMID",
+        "merchant_group_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM799.00",
+        "price_line": 342,
+        "name_line": 335,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "VIVID CONCEPTS - Online - Shopee",
+        "merchant_group_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM799.00",
+        "price_line": 358,
+        "name_line": 353,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM1,499.00",
+        "price_line": 384,
+        "name_line": 377,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,499.00",
+        "price_line": 402,
+        "name_line": 395,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM1,499.00",
+        "price_line": 420,
+        "name_line": 413,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,499.00",
+        "price_line": 438,
+        "name_line": 431,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM1,499.00",
+        "price_line": 454,
+        "name_line": 449,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - KK Time Square",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Kota Kinabalu, Sabah",
+        "price_raw": "RM1,099.00",
+        "price_line": 484,
+        "name_line": 472,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Section 9, Bandar Baru Bangi",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Bandar Baru Bangi, Selangor",
+        "price_raw": "RM1,099.00",
+        "price_line": 512,
+        "name_line": 499,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Teluk Pulai, Klang",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Klang, Selangor",
+        "price_raw": "RM1,099.00",
+        "price_line": 540,
+        "name_line": 528,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Pandan Indah KL",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Pandan Indah, Wp Kuala Lumpur",
+        "price_raw": "RM1,099.00",
+        "price_line": 568,
+        "name_line": 556,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Section 7, Shah Alam",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Shah Alam, Selangor",
+        "price_raw": "RM1,099.00",
+        "price_line": 597,
+        "name_line": 584,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Prima Sri Gombak",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Gombak, Wp Kuala Lumpur",
+        "price_raw": "RM1,099.00",
+        "price_line": 629,
+        "name_line": 614,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Kelana Jaya, HQ",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,099.00",
+        "price_line": 663,
+        "name_line": 648,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Shopee",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "",
+        "price_raw": "RM1,099.00",
+        "price_line": 695,
+        "name_line": 682,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Lazada",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM1,234.00",
+        "price_line": 718,
+        "name_line": 712,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn154view2",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "dreame-bot-l10s-ultra",
+    "url": "https://my.priceshop.com/product/dreame-bot-l10s-ultra",
+    "title_raw": "Dreame Bot L10s Ultra",
+    "source_cache_age_raw": "3 months ago",
+    "accessed_at": "2026-10-10T11:08:31.918Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 222,
+    "reader_captured_lines": 222,
+    "summary_price_raw": "RM5,599.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 162,
+        "value_line": 164
+      },
+      "Dust Capacity": {
+        "value_raw": "0.35 L",
+        "section": "Capacity",
+        "line": 168,
+        "value_line": 170
+      },
+      "Airflow": {
+        "value_raw": "180 rpm",
+        "section": "Specifications",
+        "line": 174,
+        "value_line": 176
+      },
+      "Noise Level": {
+        "value_raw": "59 dB",
+        "section": "Specifications",
+        "line": 178,
+        "value_line": 180
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 184,
+        "value_line": 186
+      },
+      "Runtime": {
+        "value_raw": "Up to 210 minutes",
+        "section": "Battery",
+        "line": 188,
+        "value_line": 190
+      },
+      "Dimensions": {
+        "value_raw": "350 x 350 x 97 mm",
+        "section": "Size & Weight",
+        "line": 193,
+        "value_line": 195
+      },
+      "Weight": {
+        "value_raw": "3.7 kg",
+        "section": "Size & Weight",
+        "line": 197,
+        "value_line": 199
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM5,599.00",
+        "price_line": 125,
+        "name_line": 116,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM5,599.00",
+        "price_line": 144,
+        "name_line": 136,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn154view3",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "ecovacs-deebot-slim2-robot-vacuum",
+    "url": "https://my.priceshop.com/product/ecovacs-deebot-slim2-robot-vacuum",
+    "title_raw": "Ecovacs DEEBOT SLIM2 Robot Vacuum",
+    "source_cache_age_raw": "10 months ago",
+    "accessed_at": "2026-10-10T11:08:31.918Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 205,
+    "reader_captured_lines": 205,
+    "summary_price_raw": "RM1,099.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 149,
+        "value_line": 151
+      },
+      "Dust Capacity": {
+        "value_raw": "0.32 L",
+        "section": "Capacity",
+        "line": 155,
+        "value_line": 157
+      },
+      "Suction Power": {
+        "value_raw": "520 W",
+        "section": "Specifications",
+        "line": 161,
+        "value_line": 163
+      },
+      "Power Consumption": {
+        "value_raw": "15 W",
+        "section": "Specifications",
+        "line": 165,
+        "value_line": 167
+      },
+      "Dust Bag": {
+        "value_raw": "Bagless",
+        "section": "Others",
+        "line": 171,
+        "value_line": 173
+      },
+      "Dimensions": {
+        "value_raw": "310 x 310 x 57 mm",
+        "section": "Size & Weight",
+        "line": 176,
+        "value_line": 178
+      },
+      "Weight": {
+        "value_raw": "3 kg",
+        "section": "Size & Weight",
+        "line": 180,
+        "value_line": 182
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Desa Home Theatre Sdn Bhd",
+        "merchant_group_raw": "Desa Home Theatre Sdn Bhd",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Kepong, Wp Kuala Lumpur",
+        "price_raw": "RM1,099.00",
+        "price_line": 129,
+        "name_line": 119,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn154view4",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "roborock-s8-robot-vacuum",
+    "url": "https://my.priceshop.com/product/roborock-s8-robot-vacuum",
+    "title_raw": "Roborock S8 Robot Vacuum",
+    "source_cache_age_raw": "1.2 years ago",
+    "accessed_at": "2026-10-10T11:08:31.919Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 188,
+    "reader_captured_lines": 188,
+    "summary_price_raw": "RM2,699.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 124,
+        "value_line": 126
+      },
+      "Dust Capacity": {
+        "value_raw": "0.4 L",
+        "section": "Capacity",
+        "line": 130,
+        "value_line": 132
+      },
+      "Power Consumption": {
+        "value_raw": "69 W",
+        "section": "Specifications",
+        "line": 136,
+        "value_line": 138
+      },
+      "Noise Level": {
+        "value_raw": "68.5 dB",
+        "section": "Specifications",
+        "line": 140,
+        "value_line": 142
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 146,
+        "value_line": 148
+      },
+      "Runtime": {
+        "value_raw": "Up to 180 minutes",
+        "section": "Battery",
+        "line": 150,
+        "value_line": 152
+      },
+      "Charging Time": {
+        "value_raw": "240 minutes",
+        "section": "Battery",
+        "line": 154,
+        "value_line": 156
+      },
+      "Dimensions": {
+        "value_raw": "350 x 353 x 96.5 mm",
+        "section": "Size & Weight",
+        "line": 159,
+        "value_line": 161
+      },
+      "Weight": {
+        "value_raw": "4.9 kg",
+        "section": "Size & Weight",
+        "line": 163,
+        "value_line": 165
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Roborock Malaysia - Official store - Shopee",
+        "merchant_group_raw": "Roborock Malaysia - Official store",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM2,699.00",
+        "price_line": 107,
+        "name_line": 101,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn154view5",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "roborock-s8-pro-ultra-robot-vacuum",
+    "url": "https://my.priceshop.com/product/roborock-s8-pro-ultra-robot-vacuum",
+    "title_raw": "Roborock S8 Pro Ultra Robot Vacuum",
+    "source_cache_age_raw": "3 months ago",
+    "accessed_at": "2026-10-10T11:08:31.919Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 203,
+    "reader_captured_lines": 203,
+    "summary_price_raw": "RM5,599.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 143,
+        "value_line": 145
+      },
+      "Dust Capacity": {
+        "value_raw": "0.4 L",
+        "section": "Capacity",
+        "line": 149,
+        "value_line": 151
+      },
+      "Power Consumption": {
+        "value_raw": "69 W",
+        "section": "Specifications",
+        "line": 155,
+        "value_line": 157
+      },
+      "Noise Level": {
+        "value_raw": "68.5 dB",
+        "section": "Specifications",
+        "line": 159,
+        "value_line": 161
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 165,
+        "value_line": 167
+      },
+      "Runtime": {
+        "value_raw": "Up to 180 minutes",
+        "section": "Battery",
+        "line": 169,
+        "value_line": 171
+      },
+      "Dimensions": {
+        "value_raw": "350 x 353 x 96.5 mm",
+        "section": "Size & Weight",
+        "line": 174,
+        "value_line": 176
+      },
+      "Weight": {
+        "value_raw": "4.9 kg",
+        "section": "Size & Weight",
+        "line": 178,
+        "value_line": 180
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Roborock Malaysia - Official store - Lazada",
+        "merchant_group_raw": "Roborock Malaysia - Official store",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM5,599.00",
+        "price_line": 113,
+        "name_line": 107,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Roborock Malaysia - Official store - Shopee",
+        "merchant_group_raw": "Roborock Malaysia - Official store",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM5,599.00",
+        "price_line": 126,
+        "name_line": 120,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn155view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "roborock-g10-robot-vacuum",
+    "url": "https://my.priceshop.com/product/roborock-g10-robot-vacuum",
+    "title_raw": "Roborock G10 Robot Vacuum",
+    "source_cache_age_raw": "3 months ago",
+    "accessed_at": "2026-10-10T11:08:31.920Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 303,
+    "reader_captured_lines": 303,
+    "summary_price_raw": "RM3,999.00",
+    "declared_seller_count_raw": "From 2 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 241,
+        "value_line": 243
+      },
+      "Dust Capacity": {
+        "value_raw": "0.4 L",
+        "section": "Capacity",
+        "line": 247,
+        "value_line": 249
+      },
+      "Noise Level": {
+        "value_raw": "67 dB",
+        "section": "Specifications",
+        "line": 253,
+        "value_line": 255
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 259,
+        "value_line": 261
+      },
+      "Runtime": {
+        "value_raw": "Up to 180 minutes",
+        "section": "Battery",
+        "line": 263,
+        "value_line": 265
+      },
+      "Charging Time": {
+        "value_raw": "5 hours",
+        "section": "Battery",
+        "line": 267,
+        "value_line": 269
+      },
+      "Filtration": {
+        "value_raw": "E11 HEPA",
+        "section": "Others",
+        "line": 273,
+        "value_line": 275
+      },
+      "Dimensions": {
+        "value_raw": "353 x 350 x 96.5 mm",
+        "section": "Size & Weight",
+        "line": 278,
+        "value_line": 280
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM3,999.00",
+        "price_line": 109,
+        "name_line": 102,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM3,999.00",
+        "price_line": 126,
+        "name_line": 121,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM3,999.00",
+        "price_line": 153,
+        "name_line": 145,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM3,999.00",
+        "price_line": 171,
+        "name_line": 164,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM3,999.00",
+        "price_line": 189,
+        "name_line": 182,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM3,999.00",
+        "price_line": 207,
+        "name_line": 200,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM3,999.00",
+        "price_line": 223,
+        "name_line": 218,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn155view1",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "roborock-s8-plus-robot-vacuum",
+    "url": "https://my.priceshop.com/product/roborock-s8-plus-robot-vacuum",
+    "title_raw": "Roborock S8+ Robot Vacuum",
+    "source_cache_age_raw": "1.1 years ago",
+    "accessed_at": "2026-10-10T11:08:31.920Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 180,
+    "reader_captured_lines": 180,
+    "summary_price_raw": "RM3,999.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 124,
+        "value_line": 126
+      },
+      "Dust Capacity": {
+        "value_raw": "0.35 L",
+        "section": "Capacity",
+        "line": 130,
+        "value_line": 132
+      },
+      "Power Consumption": {
+        "value_raw": "69 W",
+        "section": "Specifications",
+        "line": 136,
+        "value_line": 138
+      },
+      "Noise Level": {
+        "value_raw": "68.5 dB",
+        "section": "Specifications",
+        "line": 140,
+        "value_line": 142
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 146,
+        "value_line": 148
+      },
+      "Runtime": {
+        "value_raw": "Up to 180 minutes",
+        "section": "Battery",
+        "line": 150,
+        "value_line": 152
+      },
+      "Dimensions": {
+        "value_raw": "350 x 353 x 96.5 mm",
+        "section": "Size & Weight",
+        "line": 155,
+        "value_line": 157
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Roborock Malaysia - Official store - Shopee",
+        "merchant_group_raw": "Roborock Malaysia - Official store",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM3,999.00",
+        "price_line": 107,
+        "name_line": 101,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn155view2",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "roborock-q-revo-robot-vacuum",
+    "url": "https://my.priceshop.com/product/roborock-q-revo-robot-vacuum",
+    "title_raw": "Roborock Q Revo Robot Vacuum",
+    "source_cache_age_raw": "3 months ago",
+    "accessed_at": "2026-10-10T11:08:31.920Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 191,
+    "reader_captured_lines": 191,
+    "summary_price_raw": "RM3,499.00 - RM3,799.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 139,
+        "value_line": 141
+      },
+      "Dust Capacity": {
+        "value_raw": "0.35 L",
+        "section": "Capacity",
+        "line": 145,
+        "value_line": 147
+      },
+      "Noise Level": {
+        "value_raw": "63 dB",
+        "section": "Specifications",
+        "line": 151,
+        "value_line": 153
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 157,
+        "value_line": 159
+      },
+      "Runtime": {
+        "value_raw": "180 minutes (Quiet Mode)",
+        "section": "Battery",
+        "line": 161,
+        "value_line": 163
+      },
+      "Dimensions": {
+        "value_raw": "350 x 353 x 96.5 mm",
+        "section": "Size & Weight",
+        "line": 166,
+        "value_line": 168
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Roborock Malaysia - Official store - Lazada",
+        "merchant_group_raw": "Roborock Malaysia - Official store",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM3,499.00",
+        "price_line": 111,
+        "name_line": 105,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Roborock Malaysia - Official store - Shopee",
+        "merchant_group_raw": "Roborock Malaysia - Official store",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM3,799.00",
+        "price_line": 123,
+        "name_line": 119,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn155view3",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "roborock-q7-max-robot-vacuum-cleaner",
+    "url": "https://my.priceshop.com/product/roborock-q7-max-robot-vacuum-cleaner",
+    "title_raw": "Roborock Q7 Max Robot Vacuum Cleaner",
+    "source_cache_age_raw": "3 months ago",
+    "accessed_at": "2026-10-10T11:08:31.920Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 290,
+    "reader_captured_lines": 290,
+    "summary_price_raw": "RM2,199.00",
+    "declared_seller_count_raw": "From 2 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 241,
+        "value_line": 243
+      },
+      "Dust Capacity": {
+        "value_raw": "0.47 L",
+        "section": "Capacity",
+        "line": 247,
+        "value_line": 249
+      },
+      "Power Consumption": {
+        "value_raw": "500 W",
+        "section": "Specifications",
+        "line": 253,
+        "value_line": 255
+      },
+      "Runtime": {
+        "value_raw": "Up to 2 hours and 30 minutes",
+        "section": "Battery",
+        "line": 259,
+        "value_line": 261
+      },
+      "Dust Bag": {
+        "value_raw": "Bagged",
+        "section": "Others",
+        "line": 265,
+        "value_line": 267
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM2,199.00",
+        "price_line": 109,
+        "name_line": 102,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM2,199.00",
+        "price_line": 126,
+        "name_line": 121,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM2,199.00",
+        "price_line": 153,
+        "name_line": 145,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM2,199.00",
+        "price_line": 171,
+        "name_line": 164,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM2,199.00",
+        "price_line": 189,
+        "name_line": 182,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM2,199.00",
+        "price_line": 207,
+        "name_line": 200,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM2,199.00",
+        "price_line": 223,
+        "name_line": 218,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn155view4",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "roborock-s7-maxv-robot-vacuum",
+    "url": "https://my.priceshop.com/product/roborock-s7-maxv-robot-vacuum",
+    "title_raw": "Roborock S7 MaxV Robot Vacuum",
+    "source_cache_age_raw": "1.5 years ago",
+    "accessed_at": "2026-10-10T11:08:31.921Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 297,
+    "reader_captured_lines": 297,
+    "summary_price_raw": "RM3,399.00",
+    "declared_seller_count_raw": "From 2 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 241,
+        "value_line": 243
+      },
+      "Dust Capacity": {
+        "value_raw": "0.4 L",
+        "section": "Capacity",
+        "line": 247,
+        "value_line": 249
+      },
+      "Power Consumption": {
+        "value_raw": "74 W",
+        "section": "Specifications",
+        "line": 253,
+        "value_line": 255
+      },
+      "Noise Level": {
+        "value_raw": "67 dB",
+        "section": "Specifications",
+        "line": 257,
+        "value_line": 259
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 263,
+        "value_line": 265
+      },
+      "Runtime": {
+        "value_raw": "180 minutes (Quiet Mode)",
+        "section": "Battery",
+        "line": 267,
+        "value_line": 269
+      },
+      "Dimensions": {
+        "value_raw": "353 x 350 x 96.5 mm",
+        "section": "Size & Weight",
+        "line": 272,
+        "value_line": 274
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM3,399.00",
+        "price_line": 109,
+        "name_line": 102,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM3,399.00",
+        "price_line": 126,
+        "name_line": 121,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM3,399.00",
+        "price_line": 153,
+        "name_line": 145,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM3,399.00",
+        "price_line": 171,
+        "name_line": 164,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM3,399.00",
+        "price_line": 189,
+        "name_line": 182,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM3,399.00",
+        "price_line": 207,
+        "name_line": 200,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM3,399.00",
+        "price_line": 223,
+        "name_line": 218,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn155view5",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "dreame-dreame-bot-w10-self-cleaning-robot-vacuum-and-mop",
+    "url": "https://my.priceshop.com/product/dreame-dreame-bot-w10-self-cleaning-robot-vacuum-and-mop",
+    "title_raw": "Dreame Dreame Bot W10 Self-Cleaning Robot Vacuum and Mop",
+    "source_cache_age_raw": "last year",
+    "accessed_at": "2026-10-10T11:08:31.921Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 471,
+    "reader_captured_lines": 471,
+    "summary_price_raw": "RM2,430.00 - RM3,999.00",
+    "declared_seller_count_raw": "From 7 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 440,
+        "value_line": 442
+      },
+      "Dust Capacity": {
+        "value_raw": "0.45 L",
+        "section": "Capacity",
+        "line": 446,
+        "value_line": 448
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "JH Home Appliances",
+        "merchant_group_raw": "JH Home Appliances",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Sungai Buloh, Selangor",
+        "price_raw": "RM2,430.00",
+        "price_line": 110,
+        "name_line": 101,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "JH Home Appliances - Shopee",
+        "merchant_group_raw": "JH Home Appliances",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM2,430.00",
+        "price_line": 129,
+        "name_line": 121,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Lazada",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM3,099.00",
+        "price_line": 153,
+        "name_line": 148,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "G-Store Mobile",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM3,999.00",
+        "price_line": 169,
+        "name_line": 161,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Lazada",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM3,999.00",
+        "price_line": 186,
+        "name_line": 181,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "VIVID CONCEPTS - SUNWAY PYRAMID",
+        "merchant_group_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM3,999.00",
+        "price_line": 213,
+        "name_line": 205,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "VIVID CONCEPTS - Online - Shopee",
+        "merchant_group_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM3,999.00",
+        "price_line": 229,
+        "name_line": 224,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Courts Malaysia - Personal Shopper",
+        "merchant_group_raw": "Courts Malaysia",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Setapak, Wp Kuala Lumpur",
+        "price_raw": "RM3,999.00",
+        "price_line": 260,
+        "name_line": 248,
+        "quote_updated_raw": "Updated as of 3 January 2023",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Courts Malaysia",
+        "merchant_group_raw": "Courts Malaysia",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM3,999.00",
+        "price_line": 287,
+        "name_line": 277,
+        "quote_updated_raw": "Updated as of 3 January 2023",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM3,999.00",
+        "price_line": 319,
+        "name_line": 311,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM3,999.00",
+        "price_line": 337,
+        "name_line": 330,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM3,999.00",
+        "price_line": 355,
+        "name_line": 348,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM3,999.00",
+        "price_line": 373,
+        "name_line": 366,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM3,999.00",
+        "price_line": 389,
+        "name_line": 384,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Doo Doo Smart Home",
+        "merchant_group_raw": "Doo Doo Smart Home",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Wangsa Maju, Wp Kuala Lumpur",
+        "price_raw": "RM3,699.00",
+        "price_line": 405,
+        "name_line": 398,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Lazada",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM3,329.00",
+        "price_line": 421,
+        "name_line": 416,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn164view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "mi-robot-vacuum-mop",
+    "url": "https://my.priceshop.com/product/mi-robot-vacuum-mop",
+    "title_raw": "Xiaomi Mi Robot Vacuum Mop",
+    "source_cache_age_raw": "last year",
+    "accessed_at": "2026-10-10T11:08:31.922Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 221,
+    "reader_captured_lines": 221,
+    "summary_price_raw": "RM988.00 - RM999.00",
+    "declared_seller_count_raw": "From 3 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 169,
+        "value_line": 171
+      },
+      "Dust Capacity": {
+        "value_raw": "0.6 L",
+        "section": "Capacity",
+        "line": 175,
+        "value_line": 177
+      },
+      "Suction Power": {
+        "value_raw": "Suction power: 2500 PA",
+        "section": "Specifications",
+        "line": 181,
+        "value_line": 183
+      },
+      "Battery Capacity": {
+        "value_raw": "2400 mAh",
+        "section": "Battery",
+        "line": 187,
+        "value_line": 189
+      },
+      "Charging Time": {
+        "value_raw": "About 250 minutes",
+        "section": "Battery",
+        "line": 191,
+        "value_line": 193
+      },
+      "Filtration": {
+        "value_raw": "Washable HEPA",
+        "section": "Others",
+        "line": 196,
+        "value_line": 198
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM999.00",
+        "price_line": 93,
+        "name_line": 88,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Lazada",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM988.00",
+        "price_line": 119,
+        "name_line": 112,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM999.00",
+        "price_line": 133,
+        "name_line": 129,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Omaiya Store",
+        "merchant_group_raw": "Omaiya Store",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM999.00",
+        "price_line": 149,
+        "name_line": 141,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn164view1",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "dreame-d9-lds-robot-vacuum",
+    "url": "https://my.priceshop.com/product/dreame-d9-lds-robot-vacuum",
+    "title_raw": "Dreame D9 LDS Robot Vacuum",
+    "source_cache_age_raw": "today",
+    "accessed_at": "2026-10-10T11:08:31.922Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 370,
+    "reader_captured_lines": 370,
+    "summary_price_raw": "RM1,599.00 - RM1,799.00",
+    "declared_seller_count_raw": "From 4 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 331,
+        "value_line": 333
+      },
+      "Dust Capacity": {
+        "value_raw": "0.57 L",
+        "section": "Capacity",
+        "line": 337,
+        "value_line": 339
+      },
+      "Power Consumption": {
+        "value_raw": "40 W",
+        "section": "Specifications",
+        "line": 343,
+        "value_line": 345
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 349,
+        "value_line": 351
+      },
+      "Runtime": {
+        "value_raw": "150 mins",
+        "section": "Battery",
+        "line": 353,
+        "value_line": 355
+      },
+      "Dimensions": {
+        "value_raw": "350 x 350 x 96.8 mm",
+        "section": "Size & Weight",
+        "line": 359,
+        "value_line": 361
+      },
+      "Weight": {
+        "value_raw": "3.6 kg",
+        "section": "Size & Weight",
+        "line": 363,
+        "value_line": 365
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "G-Store Mobile",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,599.00",
+        "price_line": 89,
+        "name_line": 82,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Lazada",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,599.00",
+        "price_line": 105,
+        "name_line": 99,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM1,599.00",
+        "price_line": 132,
+        "name_line": 124,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM1,599.00",
+        "price_line": 147,
+        "name_line": 141,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Lazada",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM1,619.00",
+        "price_line": 162,
+        "name_line": 156,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Courts Malaysia - Personal Shopper",
+        "merchant_group_raw": "Courts Malaysia",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Setapak, Wp Kuala Lumpur",
+        "price_raw": "RM1,799.00",
+        "price_line": 194,
+        "name_line": 181,
+        "quote_updated_raw": "Updated as of 3 January 2023",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Courts Malaysia",
+        "merchant_group_raw": "Courts Malaysia",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,799.00",
+        "price_line": 219,
+        "name_line": 208,
+        "quote_updated_raw": "Updated as of 3 January 2023",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM1,599.00",
+        "price_line": 251,
+        "name_line": 243,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,599.00",
+        "price_line": 267,
+        "name_line": 260,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM1,599.00",
+        "price_line": 283,
+        "name_line": 276,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,599.00",
+        "price_line": 299,
+        "name_line": 292,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM1,599.00",
+        "price_line": 313,
+        "name_line": 308,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn176view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "dreame-d9-pro-lds-robot-vacuum",
+    "url": "https://my.priceshop.com/product/dreame-d9-pro-lds-robot-vacuum",
+    "title_raw": "Dreame D9 Pro LDS Robot Vacuum",
+    "source_cache_age_raw": "4 months ago",
+    "accessed_at": "2026-10-10T11:08:31.922Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 384,
+    "reader_captured_lines": 384,
+    "summary_price_raw": "RM1,799.00 - RM1,999.00",
+    "declared_seller_count_raw": "From 4 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 328,
+        "value_line": 330
+      },
+      "Dust Capacity": {
+        "value_raw": "0.57 L",
+        "section": "Capacity",
+        "line": 334,
+        "value_line": 336
+      },
+      "Power Consumption": {
+        "value_raw": "40 W",
+        "section": "Specifications",
+        "line": 340,
+        "value_line": 342
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 346,
+        "value_line": 348
+      },
+      "Runtime": {
+        "value_raw": "150 mins",
+        "section": "Battery",
+        "line": 350,
+        "value_line": 352
+      },
+      "Dimensions": {
+        "value_raw": "353 x 350 x 96.8 mm",
+        "section": "Size & Weight",
+        "line": 355,
+        "value_line": 357
+      },
+      "Weight": {
+        "value_raw": "3.5 kg",
+        "section": "Size & Weight",
+        "line": 359,
+        "value_line": 361
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "G-Store Mobile",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,799.00",
+        "price_line": 117,
+        "name_line": 110,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Lazada",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,799.00",
+        "price_line": 135,
+        "name_line": 129,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Courts Malaysia - Personal Shopper",
+        "merchant_group_raw": "Courts Malaysia",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Setapak, Wp Kuala Lumpur",
+        "price_raw": "RM1,999.00",
+        "price_line": 166,
+        "name_line": 154,
+        "quote_updated_raw": "Updated as of 3 January 2023",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Courts Malaysia",
+        "merchant_group_raw": "Courts Malaysia",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,999.00",
+        "price_line": 193,
+        "name_line": 183,
+        "quote_updated_raw": "Updated as of 3 January 2023",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM1,999.00",
+        "price_line": 225,
+        "name_line": 218,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,999.00",
+        "price_line": 243,
+        "name_line": 236,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM1,999.00",
+        "price_line": 261,
+        "name_line": 254,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,999.00",
+        "price_line": 279,
+        "name_line": 272,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM1,999.00",
+        "price_line": 295,
+        "name_line": 290,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Lazada",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM1,799.00",
+        "price_line": 310,
+        "name_line": 304,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn165view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "dreame-z10-pro-lds-robot-vacuum",
+    "url": "https://my.priceshop.com/product/dreame-z10-pro-lds-robot-vacuum",
+    "title_raw": "Dreame Z10 Pro LDS Robot Vacuum",
+    "source_cache_age_raw": "today",
+    "accessed_at": "2026-10-10T11:08:31.923Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 400,
+    "reader_captured_lines": 400,
+    "summary_price_raw": "RM2,609.00 - RM2,899.00",
+    "declared_seller_count_raw": "From 5 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 369,
+        "value_line": 371
+      },
+      "Dust Capacity": {
+        "value_raw": "0.45 L",
+        "section": "Capacity",
+        "line": 375,
+        "value_line": 377
+      },
+      "Power Consumption": {
+        "value_raw": "46 W",
+        "section": "Specifications",
+        "line": 381,
+        "value_line": 383
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 387,
+        "value_line": 389
+      },
+      "Dimensions": {
+        "value_raw": "353 x 350 x 96.8 mm",
+        "section": "Size & Weight",
+        "line": 393,
+        "value_line": 395
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "G-Store Mobile",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM2,699.00",
+        "price_line": 86,
+        "name_line": 78,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Lazada",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM2,699.00",
+        "price_line": 101,
+        "name_line": 95,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Lazada",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM2,609.00",
+        "price_line": 128,
+        "name_line": 120,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM2,699.00",
+        "price_line": 145,
+        "name_line": 138,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM2,699.00",
+        "price_line": 160,
+        "name_line": 155,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "VIVID CONCEPTS - SUNWAY PYRAMID",
+        "merchant_group_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM2,699.00",
+        "price_line": 187,
+        "name_line": 179,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "VIVID CONCEPTS - Online - Shopee",
+        "merchant_group_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM2,699.00",
+        "price_line": 201,
+        "name_line": 196,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Courts Malaysia - Personal Shopper",
+        "merchant_group_raw": "Courts Malaysia",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Setapak, Wp Kuala Lumpur",
+        "price_raw": "RM2,899.00",
+        "price_line": 232,
+        "name_line": 220,
+        "quote_updated_raw": "Updated as of 3 January 2023",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Courts Malaysia",
+        "merchant_group_raw": "Courts Malaysia",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM2,899.00",
+        "price_line": 257,
+        "name_line": 247,
+        "quote_updated_raw": "Updated as of 3 January 2023",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM2,899.00",
+        "price_line": 289,
+        "name_line": 282,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM2,899.00",
+        "price_line": 305,
+        "name_line": 298,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM2,899.00",
+        "price_line": 321,
+        "name_line": 314,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM2,899.00",
+        "price_line": 337,
+        "name_line": 330,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM2,899.00",
+        "price_line": 351,
+        "name_line": 346,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn180view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "xiaomi-mi-robot-vacuum-1c",
+    "url": "https://my.priceshop.com/product/xiaomi-mi-robot-vacuum-1c",
+    "title_raw": "Xiaomi Mi Robot Vacuum 1C",
+    "source_cache_age_raw": "today",
+    "accessed_at": "2026-10-10T11:08:31.923Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 310,
+    "reader_captured_lines": 310,
+    "summary_price_raw": "RM699.00 - RM849.00",
+    "declared_seller_count_raw": "From 3 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 275,
+        "value_line": 277
+      },
+      "Dust Capacity": {
+        "value_raw": "0.6 L",
+        "section": "Capacity",
+        "line": 281,
+        "value_line": 283
+      },
+      "Suction Power": {
+        "value_raw": "2500 Pa",
+        "section": "Specifications",
+        "line": 287,
+        "value_line": 289
+      },
+      "Battery Capacity": {
+        "value_raw": "2400 mAh",
+        "section": "Battery",
+        "line": 293,
+        "value_line": 295
+      },
+      "Dimensions": {
+        "value_raw": "370 x 370 x 120 mm",
+        "section": "Size & Weight",
+        "line": 299,
+        "value_line": 301
+      },
+      "Weight": {
+        "value_raw": "3.6 kg",
+        "section": "Size & Weight",
+        "line": 303,
+        "value_line": 305
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "G-Store Mobile",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "4",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM699.00",
+        "price_line": 95,
+        "name_line": 86,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Lazada",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "4",
+        "location_raw": "",
+        "price_raw": "RM699.00",
+        "price_line": 113,
+        "name_line": 105,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go (PJ Signature Store)",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "4",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM769.00",
+        "price_line": 128,
+        "name_line": 122,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Lazada",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "4",
+        "location_raw": "",
+        "price_raw": "RM799.00",
+        "price_line": 141,
+        "name_line": 136,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM849.00",
+        "price_line": 167,
+        "name_line": 159,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM849.00",
+        "price_line": 183,
+        "name_line": 176,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM849.00",
+        "price_line": 199,
+        "name_line": 192,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM849.00",
+        "price_line": 215,
+        "name_line": 208,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM849.00",
+        "price_line": 229,
+        "name_line": 224,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Kelana Jaya, HQ",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM799.00",
+        "price_line": 251,
+        "name_line": 238,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn175view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "xiaomi-mi-robot-vacuum-mop-2-ultra",
+    "url": "https://my.priceshop.com/product/xiaomi-mi-robot-vacuum-mop-2-ultra",
+    "title_raw": "XIAOMI Mi Robot Vacuum-Mop 2 Ultra",
+    "source_cache_age_raw": "1.1 years ago",
+    "accessed_at": "2026-10-10T11:08:31.923Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 239,
+    "reader_captured_lines": 239,
+    "summary_price_raw": "RM1,449.00 - RM1,999.00",
+    "declared_seller_count_raw": "From 3 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 192,
+        "value_line": 194
+      },
+      "Power Consumption": {
+        "value_raw": "46 W",
+        "section": "Specifications",
+        "line": 198,
+        "value_line": 200
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 204,
+        "value_line": 206
+      },
+      "Dimensions": {
+        "value_raw": "353 x 350 x 98.8 mm",
+        "section": "Size & Weight",
+        "line": 210,
+        "value_line": 212
+      },
+      "Weight": {
+        "value_raw": "4.15 kg",
+        "section": "Size & Weight",
+        "line": 214,
+        "value_line": 216
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Asia Mobile Retail Sdn Bhd - Shopee",
+        "merchant_group_raw": "Asia Mobile Retail Sdn Bhd",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM1,999.00",
+        "price_line": 107,
+        "name_line": 101,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "G-Store Mobile",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,449.00",
+        "price_line": 136,
+        "name_line": 127,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Lazada",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,449.00",
+        "price_line": 156,
+        "name_line": 148,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Doo Doo Smart Home",
+        "merchant_group_raw": "Doo Doo Smart Home",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Wangsa Maju, Wp Kuala Lumpur",
+        "price_raw": "RM1,549.00",
+        "price_line": 172,
+        "name_line": 165,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn166view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "xiaomi-mi-smart-robot-vacuum-2c",
+    "url": "https://my.priceshop.com/product/xiaomi-mi-smart-robot-vacuum-2c",
+    "title_raw": "Xiaomi Mi Smart Robot Vacuum 2C",
+    "source_cache_age_raw": "1.1 years ago",
+    "accessed_at": "2026-10-10T11:08:31.924Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 332,
+    "reader_captured_lines": 332,
+    "summary_price_raw": "RM729.00 - RM1,099.00",
+    "declared_seller_count_raw": "From 3 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 285,
+        "value_line": 287
+      },
+      "Dust Capacity": {
+        "value_raw": "0.55 L",
+        "section": "Capacity",
+        "line": 291,
+        "value_line": 293
+      },
+      "Power Consumption": {
+        "value_raw": "40 W",
+        "section": "Specifications",
+        "line": 297,
+        "value_line": 299
+      },
+      "Dimensions": {
+        "value_raw": "353 x 350 x 81 mm",
+        "section": "Size & Weight",
+        "line": 303,
+        "value_line": 305
+      },
+      "Weight": {
+        "value_raw": "3.6 kg",
+        "section": "Size & Weight",
+        "line": 307,
+        "value_line": 309
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "G-Store Mobile",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM729.00",
+        "price_line": 107,
+        "name_line": 98,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Lazada",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM729.00",
+        "price_line": 126,
+        "name_line": 119,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM779.00",
+        "price_line": 141,
+        "name_line": 136,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "6",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM1,099.00",
+        "price_line": 168,
+        "name_line": 160,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "6",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,099.00",
+        "price_line": 186,
+        "name_line": 179,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "6",
+        "location_raw": "",
+        "price_raw": "RM1,099.00",
+        "price_line": 202,
+        "name_line": 197,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "6",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM1,099.00",
+        "price_line": 218,
+        "name_line": 211,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "6",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,099.00",
+        "price_line": 236,
+        "name_line": 229,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "6",
+        "location_raw": "",
+        "price_raw": "RM1,099.00",
+        "price_line": 252,
+        "name_line": 247,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Lazada",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM945.00",
+        "price_line": 267,
+        "name_line": 261,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn166view1",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "xiaomi-robot-vacuum-x10-plus",
+    "url": "https://my.priceshop.com/product/xiaomi-robot-vacuum-x10-plus",
+    "title_raw": "Xiaomi Robot Vacuum X10+",
+    "source_cache_age_raw": "5 months ago",
+    "accessed_at": "2026-10-10T11:08:31.924Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 161,
+    "reader_captured_lines": 161,
+    "summary_price_raw": "RM3,799.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 114,
+        "value_line": 116
+      },
+      "Power Consumption": {
+        "value_raw": "70 W",
+        "section": "Specifications",
+        "line": 120,
+        "value_line": 122
+      },
+      "Runtime": {
+        "value_raw": "Up to 2 hours",
+        "section": "Battery",
+        "line": 126,
+        "value_line": 128
+      },
+      "Dimensions": {
+        "value_raw": "350 x 350 x 97 mm",
+        "section": "Size & Weight",
+        "line": 132,
+        "value_line": 134
+      },
+      "Weight": {
+        "value_raw": "3.8 kg",
+        "section": "Size & Weight",
+        "line": 136,
+        "value_line": 138
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Asia Mobile Retail Sdn Bhd - Shopee",
+        "merchant_group_raw": "Asia Mobile Retail Sdn Bhd",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM3,799.00",
+        "price_line": 96,
+        "name_line": 88,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn166view2",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "ecovacs-deebot-mini-2-robot-vacuum",
+    "url": "https://my.priceshop.com/product/ecovacs-deebot-mini-2-robot-vacuum",
+    "title_raw": "Ecovacs DEEBOT MINI 2 Robot Vacuum",
+    "source_cache_age_raw": "last month",
+    "accessed_at": "2026-10-10T11:08:31.924Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 128,
+    "reader_captured_lines": 128,
+    "summary_price_raw": "RM779.00 - RM899.00",
+    "declared_seller_count_raw": "From 2 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 99,
+        "value_line": 101
+      },
+      "Dust Capacity": {
+        "value_raw": "0.3 L",
+        "section": "Capacity",
+        "line": 105,
+        "value_line": 107
+      },
+      "Power Consumption": {
+        "value_raw": "15 W",
+        "section": "Specifications",
+        "line": 111,
+        "value_line": 113
+      },
+      "Dimensions": {
+        "value_raw": "270 x 270 x 82 mm",
+        "section": "Size & Weight",
+        "line": 117,
+        "value_line": 119
+      },
+      "Weight": {
+        "value_raw": "3 kg",
+        "section": "Size & Weight",
+        "line": 121,
+        "value_line": 123
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Desa Home Theatre Sdn Bhd",
+        "merchant_group_raw": "Desa Home Theatre Sdn Bhd",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Kepong, Wp Kuala Lumpur",
+        "price_raw": "RM779.00",
+        "price_line": 67,
+        "name_line": 57,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Boon Meng Electrical",
+        "merchant_group_raw": "Boon Meng Electrical",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Kepong, Wp Kuala Lumpur",
+        "price_raw": "RM899.00",
+        "price_line": 82,
+        "name_line": 76,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn167view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "ecovacs-deebot-x1-omni-robot-vacuum-and-mopping-cleaner",
+    "url": "https://my.priceshop.com/product/ecovacs-deebot-x1-omni-robot-vacuum-and-mopping-cleaner",
+    "title_raw": "Ecovacs Deebot X1 OMNI Robot Vacuum and Mopping Cleaner",
+    "source_cache_age_raw": "3 months ago",
+    "accessed_at": "2026-10-10T11:08:31.924Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 228,
+    "reader_captured_lines": 228,
+    "summary_price_raw": "RM4,899.00 - RM4,999.00",
+    "declared_seller_count_raw": "From 2 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 191,
+        "value_line": 193
+      },
+      "Dust Capacity": {
+        "value_raw": "3 L",
+        "section": "Capacity",
+        "line": 197,
+        "value_line": 199
+      },
+      "Filtration": {
+        "value_raw": "HEPA Filter",
+        "section": "Others",
+        "line": 203,
+        "value_line": 205
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Ban Leong Technologies",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM4,899.00",
+        "price_line": 112,
+        "name_line": 102,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ban Leong Technologies - Shopee",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM4,899.00",
+        "price_line": 130,
+        "name_line": 123,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM4,999.00",
+        "price_line": 156,
+        "name_line": 148,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM4,999.00",
+        "price_line": 173,
+        "name_line": 167,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn167view1",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "ecovacs-deebot-ozmo-t8-aivi",
+    "url": "https://my.priceshop.com/product/ecovacs-deebot-ozmo-t8-aivi",
+    "title_raw": "Ecovacs Deebot Ozmo T8 AIVI",
+    "source_cache_age_raw": "1.2 years ago",
+    "accessed_at": "2026-10-10T11:08:31.924Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 192,
+    "reader_captured_lines": 192,
+    "summary_price_raw": "RM1,749.00 - RM2,099.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 149,
+        "value_line": 151
+      },
+      "Dust Capacity": {
+        "value_raw": "0.42 L",
+        "section": "Capacity",
+        "line": 155,
+        "value_line": 157
+      },
+      "Power Consumption": {
+        "value_raw": "40 W",
+        "section": "Specifications",
+        "line": 161,
+        "value_line": 163
+      },
+      "Dimensions": {
+        "value_raw": "353 x 353 x 93.6 mm",
+        "section": "Size & Weight",
+        "line": 167,
+        "value_line": 169
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Ban Leong Technologies - Shopee",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,749.00",
+        "price_line": 111,
+        "name_line": 106,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ban Leong Technologies",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM2,099.00",
+        "price_line": 128,
+        "name_line": 119,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn167view2",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "ecovacs-deebot-t10-plus-robot-vacuum-cleaner",
+    "url": "https://my.priceshop.com/product/ecovacs-deebot-t10-plus-robot-vacuum-cleaner",
+    "title_raw": "Ecovacs Deebot T10 Plus Robot Vacuum Cleaner",
+    "source_cache_age_raw": "11 months ago",
+    "accessed_at": "2026-10-10T11:08:31.925Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 199,
+    "reader_captured_lines": 199,
+    "summary_price_raw": "RM3,198.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 147,
+        "value_line": 149
+      },
+      "Noise Level": {
+        "value_raw": "68 dB",
+        "section": "Specifications",
+        "line": 153,
+        "value_line": 155
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 159,
+        "value_line": 161
+      },
+      "Runtime": {
+        "value_raw": "180 minutes",
+        "section": "Battery",
+        "line": 163,
+        "value_line": 165
+      },
+      "Dust Bag": {
+        "value_raw": "Bagless",
+        "section": "Others",
+        "line": 169,
+        "value_line": 171
+      },
+      "Weight": {
+        "value_raw": "14.5 kg",
+        "section": "Size & Weight",
+        "line": 174,
+        "value_line": 176
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Ban Leong Technologies",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM3,198.00",
+        "price_line": 111,
+        "name_line": 101,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ban Leong Technologies - Shopee",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM3,198.00",
+        "price_line": 129,
+        "name_line": 122,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn168view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "ecovacs-deebot-t9",
+    "url": "https://my.priceshop.com/product/ecovacs-deebot-t9",
+    "title_raw": "Ecovacs Deebot T9",
+    "source_cache_age_raw": "last year",
+    "accessed_at": "2026-10-10T11:08:31.925Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 237,
+    "reader_captured_lines": 237,
+    "summary_price_raw": "RM1,999.00 - RM2,099.00",
+    "declared_seller_count_raw": "From 2 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 194,
+        "value_line": 196
+      },
+      "Dust Capacity": {
+        "value_raw": "0.42 L",
+        "section": "Capacity",
+        "line": 200,
+        "value_line": 202
+      },
+      "Power Consumption": {
+        "value_raw": "50 W",
+        "section": "Specifications",
+        "line": 206,
+        "value_line": 208
+      },
+      "Dimensions": {
+        "value_raw": "353 x 353 x 93 mm",
+        "section": "Size & Weight",
+        "line": 212,
+        "value_line": 214
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM1,999.00",
+        "price_line": 115,
+        "name_line": 106,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,999.00",
+        "price_line": 134,
+        "name_line": 126,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ban Leong Technologies",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM2,099.00",
+        "price_line": 160,
+        "name_line": 153,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ban Leong Technologies - Shopee",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM2,099.00",
+        "price_line": 176,
+        "name_line": 171,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn168view1",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "ecovacs-t10-omni-robot-vacuum",
+    "url": "https://my.priceshop.com/product/ecovacs-t10-omni-robot-vacuum",
+    "title_raw": "Ecovacs T10 OMNI Robot Vacuum",
+    "source_cache_age_raw": "1.4 years ago",
+    "accessed_at": "2026-10-10T11:08:31.925Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 176,
+    "reader_captured_lines": 176,
+    "summary_price_raw": "RM4,799.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 139,
+        "value_line": 141
+      },
+      "Dust Capacity": {
+        "value_raw": "3 L",
+        "section": "Capacity",
+        "line": 145,
+        "value_line": 147
+      },
+      "Weight": {
+        "value_raw": "24.4 kg",
+        "section": "Size & Weight",
+        "line": 151,
+        "value_line": 153
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Ban Leong Technologies",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM4,799.00",
+        "price_line": 103,
+        "name_line": 94,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ban Leong Technologies - Shopee",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM4,799.00",
+        "price_line": 121,
+        "name_line": 114,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn168view2",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "ecovacs-deebot-t10-robot-vacuum-cleaner",
+    "url": "https://my.priceshop.com/product/ecovacs-deebot-t10-robot-vacuum-cleaner",
+    "title_raw": "Ecovacs Deebot T10 Robot Vacuum Cleaner",
+    "source_cache_age_raw": "last year",
+    "accessed_at": "2026-10-10T11:08:31.925Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 197,
+    "reader_captured_lines": 197,
+    "summary_price_raw": "RM2,299.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 152,
+        "value_line": 154
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 158,
+        "value_line": 160
+      },
+      "Runtime": {
+        "value_raw": "260 minutes",
+        "section": "Battery",
+        "line": 162,
+        "value_line": 164
+      },
+      "Dust Bag": {
+        "value_raw": "Bagless",
+        "section": "Others",
+        "line": 168,
+        "value_line": 170
+      },
+      "Filtration": {
+        "value_raw": "A three-layer filtration system",
+        "section": "Others",
+        "line": 172,
+        "value_line": 174
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Ban Leong Technologies",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM2,299.00",
+        "price_line": 116,
+        "name_line": 106,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ban Leong Technologies - Shopee",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM2,299.00",
+        "price_line": 134,
+        "name_line": 127,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn169view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "ecovacs-deebot-u2-pro",
+    "url": "https://my.priceshop.com/product/ecovacs-deebot-u2-pro",
+    "title_raw": "Ecovacs Deebot U2 PRO",
+    "source_cache_age_raw": "7 months ago",
+    "accessed_at": "2026-10-10T11:08:31.925Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 237,
+    "reader_captured_lines": 237,
+    "summary_price_raw": "RM999.00",
+    "declared_seller_count_raw": "From 2 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 194,
+        "value_line": 196
+      },
+      "Dust Capacity": {
+        "value_raw": "0.3 L",
+        "section": "Capacity",
+        "line": 200,
+        "value_line": 202
+      },
+      "Power Consumption": {
+        "value_raw": "26 W",
+        "section": "Specifications",
+        "line": 206,
+        "value_line": 208
+      },
+      "Dimensions": {
+        "value_raw": "337 x 339 x 79 mm",
+        "section": "Size & Weight",
+        "line": 212,
+        "value_line": 214
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM999.00",
+        "price_line": 117,
+        "name_line": 110,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM999.00",
+        "price_line": 134,
+        "name_line": 129,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ban Leong Technologies",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM999.00",
+        "price_line": 160,
+        "name_line": 153,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ban Leong Technologies - Shopee",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM999.00",
+        "price_line": 176,
+        "name_line": 171,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn169view1",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "ecovacs-ozmo-950",
+    "url": "https://my.priceshop.com/product/ecovacs-ozmo-950",
+    "title_raw": "Ecovacs Ozmo 950",
+    "source_cache_age_raw": "1.5 years ago",
+    "accessed_at": "2026-10-10T11:08:31.925Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 170,
+    "reader_captured_lines": 170,
+    "summary_price_raw": "RM1,699.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 127,
+        "value_line": 129
+      },
+      "Dust Capacity": {
+        "value_raw": "0.43 L",
+        "section": "Capacity",
+        "line": 133,
+        "value_line": 135
+      },
+      "Power Consumption": {
+        "value_raw": "40 W",
+        "section": "Specifications",
+        "line": 139,
+        "value_line": 141
+      },
+      "Dimensions": {
+        "value_raw": "350 x 350 x 93 mm",
+        "section": "Size & Weight",
+        "line": 145,
+        "value_line": 147
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Ban Leong Technologies",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,699.00",
+        "price_line": 106,
+        "name_line": 96,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn169view2",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "ecovacs-deebot-n8-pro",
+    "url": "https://my.priceshop.com/product/ecovacs-deebot-n8-pro",
+    "title_raw": "Ecovacs Deebot N8 PRO",
+    "source_cache_age_raw": "5 months ago",
+    "accessed_at": "2026-10-10T11:08:31.925Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 236,
+    "reader_captured_lines": 236,
+    "summary_price_raw": "RM1,599.00 - RM1,799.00",
+    "declared_seller_count_raw": "From 2 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 193,
+        "value_line": 195
+      },
+      "Dust Capacity": {
+        "value_raw": "0.42 L",
+        "section": "Capacity",
+        "line": 199,
+        "value_line": 201
+      },
+      "Power Consumption": {
+        "value_raw": "40 W",
+        "section": "Specifications",
+        "line": 205,
+        "value_line": 207
+      },
+      "Dimensions": {
+        "value_raw": "353 x 353 x 94 mm",
+        "section": "Size & Weight",
+        "line": 211,
+        "value_line": 213
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM1,599.00",
+        "price_line": 115,
+        "name_line": 106,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,599.00",
+        "price_line": 134,
+        "name_line": 126,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ban Leong Technologies",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,699.00",
+        "price_line": 161,
+        "name_line": 153,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ban Leong Technologies - Shopee",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,799.00",
+        "price_line": 177,
+        "name_line": 173,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn170view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "ecovacs-deebot-ozmo-610-robot-vacuum",
+    "url": "https://my.priceshop.com/product/ecovacs-deebot-ozmo-610-robot-vacuum",
+    "title_raw": "Ecovacs DEEBOT OZMO 610 Robot Vacuum",
+    "source_cache_age_raw": "1.4 years ago",
+    "accessed_at": "2026-10-10T11:08:31.926Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 167,
+    "reader_captured_lines": 167,
+    "summary_price_raw": "RM2,469.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 118,
+        "value_line": 120
+      },
+      "Dust Capacity": {
+        "value_raw": "0.45 L",
+        "section": "Capacity",
+        "line": 124,
+        "value_line": 126
+      },
+      "Power Consumption": {
+        "value_raw": "30 W",
+        "section": "Specifications",
+        "line": 130,
+        "value_line": 132
+      },
+      "Dust Bag": {
+        "value_raw": "Bagless",
+        "section": "Others",
+        "line": 136,
+        "value_line": 138
+      },
+      "Weight": {
+        "value_raw": "3.17 kg",
+        "section": "Size & Weight",
+        "line": 142,
+        "value_line": 144
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Boon Meng Electrical",
+        "merchant_group_raw": "Boon Meng Electrical",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Kepong, Wp Kuala Lumpur",
+        "price_raw": "RM2,469.00",
+        "price_line": 100,
+        "name_line": 92,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn170view1",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "roborock-s7-robot-vacuum",
+    "url": "https://my.priceshop.com/product/roborock-s7-robot-vacuum",
+    "title_raw": "Roborock S7 Robot Vacuum",
+    "source_cache_age_raw": "2 weeks ago",
+    "accessed_at": "2026-10-10T11:08:31.926Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 258,
+    "reader_captured_lines": 258,
+    "summary_price_raw": "RM2,099.00 - RM2,399.00",
+    "declared_seller_count_raw": "From 4 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 215,
+        "value_line": 217
+      },
+      "Dust Capacity": {
+        "value_raw": "0.47 L",
+        "section": "Capacity",
+        "line": 221,
+        "value_line": 223
+      },
+      "Power Consumption": {
+        "value_raw": "58 W",
+        "section": "Specifications",
+        "line": 227,
+        "value_line": 229
+      },
+      "Noise Level": {
+        "value_raw": "58 dB",
+        "section": "Specifications",
+        "line": 231,
+        "value_line": 233
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 237,
+        "value_line": 239
+      },
+      "Runtime": {
+        "value_raw": "150 minutes",
+        "section": "Battery",
+        "line": 241,
+        "value_line": 243
+      },
+      "Dimensions": {
+        "value_raw": "353 x 350 x 96.5 mm",
+        "section": "Size & Weight",
+        "line": 247,
+        "value_line": 249
+      },
+      "Weight": {
+        "value_raw": "4.7 kg",
+        "section": "Size & Weight",
+        "line": 251,
+        "value_line": 253
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM2,399.00",
+        "price_line": 93,
+        "name_line": 86,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM2,399.00",
+        "price_line": 108,
+        "name_line": 103,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM2,399.00",
+        "price_line": 135,
+        "name_line": 127,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM2,399.00",
+        "price_line": 151,
+        "name_line": 144,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM2,399.00",
+        "price_line": 167,
+        "name_line": 160,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM2,399.00",
+        "price_line": 183,
+        "name_line": 176,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM2,399.00",
+        "price_line": 197,
+        "name_line": 192,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn170view2",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "roborock-s7-plus-robot-vacuum-cleaner",
+    "url": "https://my.priceshop.com/product/roborock-s7-plus-robot-vacuum-cleaner",
+    "title_raw": "Roborock S7+ Robot Vacuum Cleaner",
+    "source_cache_age_raw": "1.7 years ago",
+    "accessed_at": "2026-10-10T11:08:31.926Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 323,
+    "reader_captured_lines": 323,
+    "summary_price_raw": "RM3,999.00",
+    "declared_seller_count_raw": "From 2 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 257,
+        "value_line": 259
+      },
+      "Dust Capacity": {
+        "value_raw": "0.47 L",
+        "section": "Capacity",
+        "line": 263,
+        "value_line": 265
+      },
+      "Power Consumption": {
+        "value_raw": "58 W",
+        "section": "Specifications",
+        "line": 269,
+        "value_line": 271
+      },
+      "Noise Level": {
+        "value_raw": "58 dB",
+        "section": "Specifications",
+        "line": 273,
+        "value_line": 275
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 279,
+        "value_line": 281
+      },
+      "Runtime": {
+        "value_raw": "Up to 150 minutes",
+        "section": "Battery",
+        "line": 283,
+        "value_line": 285
+      },
+      "Dust Bag": {
+        "value_raw": "Bagged",
+        "section": "Others",
+        "line": 289,
+        "value_line": 291
+      },
+      "Dimensions": {
+        "value_raw": "353 x 350 x 96.5 mm",
+        "section": "Size & Weight",
+        "line": 294,
+        "value_line": 296
+      },
+      "Weight": {
+        "value_raw": "4.7 kg",
+        "section": "Size & Weight",
+        "line": 298,
+        "value_line": 300
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM3,999.00",
+        "price_line": 125,
+        "name_line": 118,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM3,999.00",
+        "price_line": 142,
+        "name_line": 136,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM3,999.00",
+        "price_line": 169,
+        "name_line": 161,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM3,999.00",
+        "price_line": 187,
+        "name_line": 180,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM3,999.00",
+        "price_line": 205,
+        "name_line": 198,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM3,999.00",
+        "price_line": 223,
+        "name_line": 216,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM3,999.00",
+        "price_line": 239,
+        "name_line": 234,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn171view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "roborock-cleaning-robot-s50",
+    "url": "https://my.priceshop.com/product/roborock-cleaning-robot-s50",
+    "title_raw": "Roborock Cleaning robot S50",
+    "source_cache_age_raw": "1.3 years ago",
+    "accessed_at": "2026-10-10T11:08:31.926Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 250,
+    "reader_captured_lines": 250,
+    "summary_price_raw": "RM1,799.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 203,
+        "value_line": 205
+      },
+      "Dust Capacity": {
+        "value_raw": "0.48 L",
+        "section": "Capacity",
+        "line": 209,
+        "value_line": 211
+      },
+      "Power Consumption": {
+        "value_raw": "58 W",
+        "section": "Specifications",
+        "line": 215,
+        "value_line": 217
+      },
+      "Dimensions": {
+        "value_raw": "353 x 350 x 96.5 mm",
+        "section": "Size & Weight",
+        "line": 221,
+        "value_line": 223
+      },
+      "Weight": {
+        "value_raw": "3.5 kg",
+        "section": "Size & Weight",
+        "line": 225,
+        "value_line": 227
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM1,799.00",
+        "price_line": 107,
+        "name_line": 98,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,799.00",
+        "price_line": 127,
+        "name_line": 118,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM1,799.00",
+        "price_line": 147,
+        "name_line": 138,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,799.00",
+        "price_line": 167,
+        "name_line": 158,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM1,799.00",
+        "price_line": 185,
+        "name_line": 178,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn171view1",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "roborock-cleaning-robot-s6-pure",
+    "url": "https://my.priceshop.com/product/roborock-cleaning-robot-s6-pure",
+    "title_raw": "Roborock Cleaning robot S6 Pure",
+    "source_cache_age_raw": "today",
+    "accessed_at": "2026-10-10T11:08:31.926Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 142,
+    "reader_captured_lines": 142,
+    "summary_price_raw": "RM1,388.00 - RM1,488.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 109,
+        "value_line": 111
+      },
+      "Dust Capacity": {
+        "value_raw": "0.46 L",
+        "section": "Capacity",
+        "line": 115,
+        "value_line": 117
+      },
+      "Dust Bag": {
+        "value_raw": "Bagless",
+        "section": "Others",
+        "line": 121,
+        "value_line": 123
+      },
+      "Filtration": {
+        "value_raw": "dust-mites-removal",
+        "section": "Others",
+        "line": 125,
+        "value_line": 127
+      },
+      "Dimensions": {
+        "value_raw": "353 x 350 x 96.5 mm",
+        "section": "Size & Weight",
+        "line": 131,
+        "value_line": 133
+      },
+      "Weight": {
+        "value_raw": "3.2 kg",
+        "section": "Size & Weight",
+        "line": 135,
+        "value_line": 137
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "G-Store Mobile",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,388.00",
+        "price_line": 77,
+        "name_line": 67,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Lazada",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,488.00",
+        "price_line": 92,
+        "name_line": 87,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn171view2",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "xiaomi-mi-robot-vacuum-mop-p",
+    "url": "https://my.priceshop.com/product/xiaomi-mi-robot-vacuum-mop-p",
+    "title_raw": "Xiaomi Mi Robot Vacuum-Mop P",
+    "source_cache_age_raw": "last year",
+    "accessed_at": "2026-10-10T11:08:31.926Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 280,
+    "reader_captured_lines": 280,
+    "summary_price_raw": "RM1,018.00 - RM1,399.00",
+    "declared_seller_count_raw": "From 4 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 228,
+        "value_line": 230
+      },
+      "Dust Capacity": {
+        "value_raw": "0.55 L",
+        "section": "Capacity",
+        "line": 234,
+        "value_line": 236
+      },
+      "Battery Capacity": {
+        "value_raw": "3200 mAh",
+        "section": "Battery",
+        "line": 240,
+        "value_line": 242
+      },
+      "Dust Bag": {
+        "value_raw": "Bagless",
+        "section": "Others",
+        "line": 246,
+        "value_line": 248
+      },
+      "Dimensions": {
+        "value_raw": "152 x 74.6 x 99.5 mm",
+        "section": "Size & Weight",
+        "line": 251,
+        "value_line": 253
+      },
+      "Weight": {
+        "value_raw": "3.6 kg",
+        "section": "Size & Weight",
+        "line": 255,
+        "value_line": 257
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Omaiya Store",
+        "merchant_group_raw": "Omaiya Store",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,399.00",
+        "price_line": 111,
+        "name_line": 104,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go (PJ Signature Store)",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,018.00",
+        "price_line": 139,
+        "name_line": 131,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "G-Store Mobile",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,028.00",
+        "price_line": 157,
+        "name_line": 149,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Mobile Corner (Shah Alam)",
+        "merchant_group_raw": "Mobile Corner (HQ) Sunway",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Shah Alam, Selangor",
+        "price_raw": "RM1,048.00",
+        "price_line": 177,
+        "name_line": 170,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Kelana Jaya, HQ",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,099.00",
+        "price_line": 202,
+        "name_line": 188,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn172view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "xiaomi-mi-robot-vacuum-mop-essential",
+    "url": "https://my.priceshop.com/product/xiaomi-mi-robot-vacuum-mop-essential",
+    "title_raw": "Xiaomi Mi Robot Vacuum Mop Essential",
+    "source_cache_age_raw": "1.3 years ago",
+    "accessed_at": "2026-10-10T11:08:31.927Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 317,
+    "reader_captured_lines": 317,
+    "summary_price_raw": "RM599.00 - RM999.00",
+    "declared_seller_count_raw": "From 3 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 280,
+        "value_line": 282
+      },
+      "Dust Capacity": {
+        "value_raw": "0.42 L",
+        "section": "Capacity",
+        "line": 286,
+        "value_line": 288
+      },
+      "Dust Bag": {
+        "value_raw": "Bagless",
+        "section": "Others",
+        "line": 292,
+        "value_line": 294
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM699.00",
+        "price_line": 105,
+        "name_line": 98,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM699.00",
+        "price_line": 122,
+        "name_line": 117,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM999.00",
+        "price_line": 135,
+        "name_line": 132,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM699.00",
+        "price_line": 160,
+        "name_line": 153,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM699.00",
+        "price_line": 178,
+        "name_line": 171,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM699.00",
+        "price_line": 196,
+        "name_line": 189,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM699.00",
+        "price_line": 214,
+        "name_line": 207,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM699.00",
+        "price_line": 230,
+        "name_line": 225,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Kelana Jaya, HQ",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM599.00",
+        "price_line": 254,
+        "name_line": 239,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn172view1",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "xiaomi-robot-vacuum-mop-2-pro",
+    "url": "https://my.priceshop.com/product/xiaomi-robot-vacuum-mop-2-pro",
+    "title_raw": "Xiaomi Robot Vacuum-Mop 2 Pro",
+    "source_cache_age_raw": "today",
+    "accessed_at": "2026-10-10T11:08:31.927Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 270,
+    "reader_captured_lines": 270,
+    "summary_price_raw": "RM1,299.00 - RM1,499.00",
+    "declared_seller_count_raw": "From 5 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 241,
+        "value_line": 243
+      },
+      "Power Consumption": {
+        "value_raw": "35.6 W",
+        "section": "Specifications",
+        "line": 247,
+        "value_line": 249
+      },
+      "Battery Capacity": {
+        "value_raw": "5200 mAh",
+        "section": "Battery",
+        "line": 253,
+        "value_line": 255
+      },
+      "Dimensions": {
+        "value_raw": "Φ353–96.5mm",
+        "section": "Size & Weight",
+        "line": 259,
+        "value_line": 261
+      },
+      "Weight": {
+        "value_raw": "3.6 kg",
+        "section": "Size & Weight",
+        "line": 263,
+        "value_line": 265
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Desa Home Theatre Sdn Bhd",
+        "merchant_group_raw": "Desa Home Theatre Sdn Bhd",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Kepong, Wp Kuala Lumpur",
+        "price_raw": "RM1,299.00",
+        "price_line": 83,
+        "name_line": 75,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Desa Home Theatre Sdn Bhd - Lazada",
+        "merchant_group_raw": "Desa Home Theatre Sdn Bhd",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,299.00",
+        "price_line": 98,
+        "name_line": 92,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "VIVID CONCEPTS - SUNWAY PYRAMID",
+        "merchant_group_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,299.00",
+        "price_line": 124,
+        "name_line": 117,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "VIVID CONCEPTS - Online - Shopee",
+        "merchant_group_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,299.00",
+        "price_line": 138,
+        "name_line": 133,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "DirectD Subang Jaya (HQ)",
+        "merchant_group_raw": "DirectD HQ / Online Store",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM1,299.00",
+        "price_line": 172,
+        "name_line": 157,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": [
+          "Normal Price: RM1499"
+        ]
+      },
+      {
+        "retailer_name_raw": "DirectD HQ / Online Store",
+        "merchant_group_raw": "DirectD HQ / Online Store",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,299.00",
+        "price_line": 203,
+        "name_line": 189,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": [
+          "Normal Price: RM1499"
+        ]
+      },
+      {
+        "retailer_name_raw": "mobile2go",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM1,399.00",
+        "price_line": 224,
+        "name_line": 220,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn178view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "xiaomi-trouver-finder-robot-lds-vacuum-mop",
+    "url": "https://my.priceshop.com/product/xiaomi-trouver-finder-robot-lds-vacuum-mop",
+    "title_raw": "Xiaomi Trouver Finder Robot LDS Vacuum-Mop",
+    "source_cache_age_raw": "1.2 years ago",
+    "accessed_at": "2026-10-10T11:08:31.927Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 237,
+    "reader_captured_lines": 237,
+    "summary_price_raw": "RM988.00 - RM999.00",
+    "declared_seller_count_raw": "From 2 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 190,
+        "value_line": 192
+      },
+      "Dust Capacity": {
+        "value_raw": "0.57 L",
+        "section": "Capacity",
+        "line": 196,
+        "value_line": 198
+      },
+      "Power Consumption": {
+        "value_raw": "33 W",
+        "section": "Specifications",
+        "line": 202,
+        "value_line": 204
+      },
+      "Dimensions": {
+        "value_raw": "350 x 350 x 94.5 mm",
+        "section": "Size & Weight",
+        "line": 208,
+        "value_line": 210
+      },
+      "Weight": {
+        "value_raw": "3.6 kg",
+        "section": "Size & Weight",
+        "line": 212,
+        "value_line": 214
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Omaiya Store",
+        "merchant_group_raw": "Omaiya Store",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM999.00",
+        "price_line": 107,
+        "name_line": 100,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Lazada",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM988.00",
+        "price_line": 135,
+        "name_line": 127,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "G-Store Mobile",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM988.00",
+        "price_line": 154,
+        "name_line": 143,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go (PJ Signature Store)",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM999.00",
+        "price_line": 172,
+        "name_line": 166,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn173view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "xiaomi-mi-robot-vacuum-mop-2-pro-pro-plus",
+    "url": "https://my.priceshop.com/product/xiaomi-mi-robot-vacuum-mop-2-pro-pro-plus",
+    "title_raw": "Xiaomi Mi Robot Vacuum Mop 2 Pro+ (Pro Plus)",
+    "source_cache_age_raw": "1.3 years ago",
+    "accessed_at": "2026-10-10T11:08:31.927Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 350,
+    "reader_captured_lines": 350,
+    "summary_price_raw": "RM1,399.00 - RM1,799.00",
+    "declared_seller_count_raw": "From 4 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 303,
+        "value_line": 305
+      },
+      "Dust Capacity": {
+        "value_raw": "0.55 L",
+        "section": "Capacity",
+        "line": 309,
+        "value_line": 311
+      },
+      "Power Consumption": {
+        "value_raw": "40 W",
+        "section": "Specifications",
+        "line": 315,
+        "value_line": 317
+      },
+      "Dimensions": {
+        "value_raw": "353 x 350 x 81.5 mm",
+        "section": "Size & Weight",
+        "line": 321,
+        "value_line": 323
+      },
+      "Weight": {
+        "value_raw": "3.7 kg",
+        "section": "Size & Weight",
+        "line": 325,
+        "value_line": 327
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM1,699.00",
+        "price_line": 117,
+        "name_line": 109,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,699.00",
+        "price_line": 135,
+        "name_line": 128,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM1,699.00",
+        "price_line": 153,
+        "name_line": 146,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,699.00",
+        "price_line": 171,
+        "name_line": 164,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM1,699.00",
+        "price_line": 187,
+        "name_line": 182,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM1,799.00",
+        "price_line": 201,
+        "name_line": 196,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM1,499.00",
+        "price_line": 214,
+        "name_line": 210,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Shopee",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "4",
+        "location_raw": "",
+        "price_raw": "RM1,399.00",
+        "price_line": 237,
+        "name_line": 231,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "G-Store Mobile",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "4",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM1,438.00",
+        "price_line": 253,
+        "name_line": 245,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go - Lazada",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "4",
+        "location_raw": "",
+        "price_raw": "RM1,499.00",
+        "price_line": 270,
+        "name_line": 265,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "mobile2go (PJ Signature Store)",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "4",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,599.00",
+        "price_line": 284,
+        "name_line": 278,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn173view1",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "xiaomi-mijia-g1-robot-vacuum-cleaner",
+    "url": "https://my.priceshop.com/product/xiaomi-mijia-g1-robot-vacuum-cleaner",
+    "title_raw": "Xiaomi Mijia G1 Robot Vacuum Cleaner",
+    "source_cache_age_raw": "today",
+    "accessed_at": "2026-10-10T11:08:31.928Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 450,
+    "reader_captured_lines": 450,
+    "summary_price_raw": "RM528.00 - RM699.00",
+    "declared_seller_count_raw": "From 4 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 425,
+        "value_line": 427
+      },
+      "Dust Capacity": {
+        "value_raw": "0.42 L",
+        "section": "Capacity",
+        "line": 431,
+        "value_line": 433
+      },
+      "Power Consumption": {
+        "value_raw": "25 W",
+        "section": "Specifications",
+        "line": 437,
+        "value_line": 439
+      },
+      "Dimensions": {
+        "value_raw": "350 x 350 x 83 mm",
+        "section": "Size & Weight",
+        "line": 443,
+        "value_line": 445
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "AiHome - IOI City Mall",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Sepang, Selangor",
+        "price_raw": "RM699.00",
+        "price_line": 70,
+        "name_line": 63,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "AiHome - Sunway Velocity",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM699.00",
+        "price_line": 86,
+        "name_line": 79,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Mid Valley",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+        "price_raw": "RM699.00",
+        "price_line": 102,
+        "name_line": 95,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - 1 Utama",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM699.00",
+        "price_line": 118,
+        "name_line": 111,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ai Home - Lazada",
+        "merchant_group_raw": "Ai Home",
+        "merchant_group_locations_raw": "5",
+        "location_raw": "",
+        "price_raw": "RM699.00",
+        "price_line": 132,
+        "name_line": 127,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - KK Time Square",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Kota Kinabalu, Sabah",
+        "price_raw": "RM649.00",
+        "price_line": 162,
+        "name_line": 151,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Section 9, Bandar Baru Bangi",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Bandar Baru Bangi, Selangor",
+        "price_raw": "RM649.00",
+        "price_line": 188,
+        "name_line": 176,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Teluk Pulai, Klang",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Klang, Selangor",
+        "price_raw": "RM649.00",
+        "price_line": 215,
+        "name_line": 203,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Pandan Indah KL",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Pandan Indah, Wp Kuala Lumpur",
+        "price_raw": "RM649.00",
+        "price_line": 242,
+        "name_line": 229,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Section 7, Shah Alam",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Shah Alam, Selangor",
+        "price_raw": "RM649.00",
+        "price_line": 270,
+        "name_line": 257,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Prima Sri Gombak",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Gombak, Wp Kuala Lumpur",
+        "price_raw": "RM649.00",
+        "price_line": 300,
+        "name_line": 284,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Kelana Jaya, HQ",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM649.00",
+        "price_line": 332,
+        "name_line": 316,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Shopee",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "",
+        "price_raw": "RM649.00",
+        "price_line": 362,
+        "name_line": 349,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Mobile Corner (Shah Alam)",
+        "merchant_group_raw": "Mobile Corner (HQ) Sunway",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Shah Alam, Selangor",
+        "price_raw": "RM539.00",
+        "price_line": 386,
+        "name_line": 379,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "G-Store Mobile",
+        "merchant_group_raw": "mobile2go",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Cheras, Wp Kuala Lumpur",
+        "price_raw": "RM528.00",
+        "price_line": 406,
+        "name_line": 395,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn175view2",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "ecovacs-deebot-ozmo-t8",
+    "url": "https://my.priceshop.com/product/ecovacs-deebot-ozmo-t8",
+    "title_raw": "Ecovacs Deebot Ozmo T8",
+    "source_cache_age_raw": "1.4 years ago",
+    "accessed_at": "2026-10-10T11:08:31.928Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 184,
+    "reader_captured_lines": 184,
+    "summary_price_raw": "RM1,549.00",
+    "declared_seller_count_raw": "From 1 seller",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 147,
+        "value_line": 149
+      },
+      "Dust Capacity": {
+        "value_raw": "0.42 L",
+        "section": "Capacity",
+        "line": 153,
+        "value_line": 155
+      },
+      "Dimensions": {
+        "value_raw": "353 x 353 x 93 mm",
+        "section": "Size & Weight",
+        "line": 159,
+        "value_line": 161
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Ban Leong Technologies - Shopee",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM1,549.00",
+        "price_line": 108,
+        "name_line": 102,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Ban Leong Technologies",
+        "merchant_group_raw": "Ban Leong Technologies",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM1,549.00",
+        "price_line": 126,
+        "name_line": 115,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn174view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  },
+  {
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "source_product_id": "xiaomi-mi-robot-vacuum-mop-2-lite",
+    "url": "https://my.priceshop.com/product/xiaomi-mi-robot-vacuum-mop-2-lite",
+    "title_raw": "Xiaomi Mi Robot Vacuum-Mop 2 Lite",
+    "source_cache_age_raw": "today",
+    "accessed_at": "2026-10-10T11:08:31.929Z",
+    "http_status": null,
+    "access_method": "public_web_reader_cached_page",
+    "full_reader_document_read": true,
+    "reader_total_lines": 670,
+    "reader_captured_lines": 670,
+    "summary_price_raw": "RM669.00 - RM799.00",
+    "declared_seller_count_raw": "From 10 sellers",
+    "specifications_raw": {
+      "Vacuum Type": {
+        "value_raw": "Robot",
+        "section": "Type",
+        "line": 641,
+        "value_line": 643
+      },
+      "Power Consumption": {
+        "value_raw": "35 W",
+        "section": "Specifications",
+        "line": 647,
+        "value_line": 649
+      },
+      "Battery Capacity": {
+        "value_raw": "2600 mAh",
+        "section": "Battery",
+        "line": 653,
+        "value_line": 655
+      },
+      "Dimensions": {
+        "value_raw": "353 x 353 x 81.3 mm",
+        "section": "Size & Weight",
+        "line": 659,
+        "value_line": 661
+      },
+      "Weight": {
+        "value_raw": "3.1 kg",
+        "section": "Size & Weight",
+        "line": 663,
+        "value_line": 665
+      }
+    },
+    "offers_raw": [
+      {
+        "retailer_name_raw": "Asia Mobile Retail Sdn Bhd - Shopee",
+        "merchant_group_raw": "Asia Mobile Retail Sdn Bhd",
+        "merchant_group_locations_raw": "",
+        "location_raw": "",
+        "price_raw": "RM799.00",
+        "price_line": 72,
+        "name_line": 66,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Desa Home Theatre Sdn Bhd",
+        "merchant_group_raw": "Desa Home Theatre Sdn Bhd",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Kepong, Wp Kuala Lumpur",
+        "price_raw": "RM749.00",
+        "price_line": 98,
+        "name_line": 91,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "Desa Home Theatre Sdn Bhd - Lazada",
+        "merchant_group_raw": "Desa Home Theatre Sdn Bhd",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM749.00",
+        "price_line": 113,
+        "name_line": 108,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM799.00",
+        "price_line": 140,
+        "name_line": 132,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "BK Gadgets - Shopee",
+        "merchant_group_raw": "BK Gadgets",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM799.00",
+        "price_line": 155,
+        "name_line": 149,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "VIVID CONCEPTS - SUNWAY PYRAMID",
+        "merchant_group_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM669.00",
+        "price_line": 184,
+        "name_line": 174,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "VIVID CONCEPTS - Online - Shopee",
+        "merchant_group_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM669.00",
+        "price_line": 200,
+        "name_line": 193,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_raw": "VIVID CONCEPTS - Online",
+        "merchant_group_locations_raw": "3",
+        "location_raw": "",
+        "price_raw": "RM799.00",
+        "price_line": 214,
+        "name_line": 209,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "DirectD Subang Jaya (HQ)",
+        "merchant_group_raw": "DirectD HQ / Online Store",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Subang Jaya, Selangor",
+        "price_raw": "RM749.00",
+        "price_line": 248,
+        "name_line": 233,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": [
+          "Normal Price: RM799"
+        ]
+      },
+      {
+        "retailer_name_raw": "DirectD HQ / Online Store",
+        "merchant_group_raw": "DirectD HQ / Online Store",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM749.00",
+        "price_line": 279,
+        "name_line": 265,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": [
+          "Normal Price: RM799"
+        ]
+      },
+      {
+        "retailer_name_raw": "Gloo by SNS Network",
+        "merchant_group_raw": "Gloo by SNS Network",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM799.00",
+        "price_line": 311,
+        "name_line": 306,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "GLOO",
+        "merchant_group_raw": "Gloo by SNS Network",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM799.00",
+        "price_line": 328,
+        "name_line": 321,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "ITWorld by SNS",
+        "merchant_group_raw": "ITWorld by SNS",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "",
+        "price_raw": "RM799.00",
+        "price_line": 353,
+        "name_line": 347,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "iTworld - Online",
+        "merchant_group_raw": "ITWorld by SNS",
+        "merchant_group_locations_raw": "2",
+        "location_raw": "Ipoh, Perak",
+        "price_raw": "RM799.00",
+        "price_line": 369,
+        "name_line": 362,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - KK Time Square",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Kota Kinabalu, Sabah",
+        "price_raw": "RM799.00",
+        "price_line": 399,
+        "name_line": 388,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Section 9, Bandar Baru Bangi",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Bandar Baru Bangi, Selangor",
+        "price_raw": "RM799.00",
+        "price_line": 425,
+        "name_line": 413,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Teluk Pulai, Klang",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Klang, Selangor",
+        "price_raw": "RM799.00",
+        "price_line": 452,
+        "name_line": 439,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Pandan Indah KL",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Pandan Indah, Wp Kuala Lumpur",
+        "price_raw": "RM799.00",
+        "price_line": 479,
+        "name_line": 466,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Section 7, Shah Alam",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Shah Alam, Selangor",
+        "price_raw": "RM799.00",
+        "price_line": 507,
+        "name_line": 494,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Prima Sri Gombak",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Gombak, Wp Kuala Lumpur",
+        "price_raw": "RM799.00",
+        "price_line": 537,
+        "name_line": 521,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Kelana Jaya, HQ",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM799.00",
+        "price_line": 569,
+        "name_line": 553,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "SS Solution - Shopee",
+        "merchant_group_raw": "SS Solution",
+        "merchant_group_locations_raw": "8",
+        "location_raw": "",
+        "price_raw": "RM799.00",
+        "price_line": 599,
+        "name_line": 586,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      },
+      {
+        "retailer_name_raw": "itronic Mobile Trading",
+        "merchant_group_raw": "itronic Mobile Trading",
+        "merchant_group_locations_raw": "",
+        "location_raw": "Petaling Jaya, Selangor",
+        "price_raw": "RM729.00",
+        "price_line": 623,
+        "name_line": 616,
+        "quote_updated_raw": "",
+        "promotion_notes_raw": []
+      }
+    ],
+    "reader_reference": "turn182view0",
+    "cache_is_not_live_stock_check": true,
+    "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "capture_row_fnv_checks": 39,
+  "raw_snapshot_sha256_files": 40,
+  "legacy_rows_preserved": true,
+  "old_country_files_untouched": true,
+  "normal_price_arithmetic_checked": true,
+  "source_ledger_ids_unique": true,
+  "new_country_products": 39,
+  "nzl_price_qualified": 26,
+  "mys_current_prices": 0,
+  "raw_sources_changed": false
+}

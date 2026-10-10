@@ -1,0 +1,38 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "15806731",
+  "url": "https://pricespy.co.nz/product.php?p=15806731",
+  "accessed_at": "2026-10-10T10:17:45.723Z",
+  "page_title": "Roborock Qrevo L",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "54",
+  "declared_shop_count_raw": "1",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Color": "Black, White"
+  },
+  "visible_three_month_history_raw": [
+    "Stable",
+    "Lowest: $1,299.00 | Highest: $1,299.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Cool Mobile",
+      "price_raw": "$1,299.00",
+      "stock_raw": "In stock",
+      "title_raw": "Roborock Qrevo L Robot Vacuum Cleaner Black",
+      "partner_store_flag": false,
+      "observed_redirect_path": null,
+      "visible_price_labels_raw": [
+        "$1,299.00"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

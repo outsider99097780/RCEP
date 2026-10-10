@@ -1,0 +1,36 @@
+[
+  {
+    "check": "strategy formula continuity on existing results",
+    "passed": true,
+    "max_absolute_rounding_difference": 4.888925900226049e-07,
+    "old_values_retained": false
+  },
+  {
+    "check": "equal formula continuity on existing results",
+    "passed": true,
+    "max_absolute_rounding_difference": 4.459899797248923e-07,
+    "old_values_retained": false
+  },
+  {
+    "check": "entropy formula continuity on existing results",
+    "passed": true,
+    "max_absolute_rounding_difference": 4.760884414478639e-07,
+    "old_values_retained": false
+  },
+  {
+    "check": "original Monte Carlo sequence and results continuity",
+    "passed": true,
+    "old_values_retained": false
+  },
+  {
+    "check": "all source references resolve uniquely to current raw files",
+    "passed": true,
+    "source_events": 125
+  },
+  {
+    "check": "audit notebook cells execute sequentially and reproduce saved scores, Monte Carlo and raw hashes",
+    "passed": true,
+    "code_cells": 3,
+    "execution_engine": "ordinary Python; Jupyter-specific packages not installed"
+  }
+]

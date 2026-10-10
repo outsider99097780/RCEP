@@ -1,0 +1,70 @@
+{
+  "mys_web_discovery2": [
+    "site:my.priceshop.com/product/ \"Dreame\" \"Robot\"",
+    "site:my.priceshop.com/product/ \"Xiaomi\" \"Robot\"",
+    "site:my.priceshop.com/product/ \"Narwal\""
+  ],
+  "mys_discovery3": [
+    "site:my.priceshop.com \"Narwal\" \"Brand new price\"",
+    "site:my.priceshop.com/product/ \"Ecovacs\" \"Robot\"",
+    "site:my.priceshop.com/product/ \"Roborock\" \"Saros\"",
+    "site:my.priceshop.com/product/ \"Dreame\" \"X50\""
+  ],
+  "mys_narwal": [
+    "site:my.priceshop.com Narwal Freo"
+  ],
+  "mys_roborock_discovery": [
+    "site:my.priceshop.com/product/ \"Roborock\" \"Robot\""
+  ],
+  "mys_narwal_product_search": [
+    "site:my.priceshop.com/product/ Narwal"
+  ],
+  "mys_dreame_discovery": [
+    "site:my.priceshop.com/product/ \"Dreame\" -\"H12\" -\"H11\" -\"H14\" -\"S20\""
+  ],
+  "mys_xiaomi_discovery": [
+    "site:my.priceshop.com/product/ \"Xiaomi\" \"Robot\""
+  ],
+  "mys_dreame_robot": [
+    "site:my.priceshop.com/product/ \"Dreame\" \"Robot Vacuum\""
+  ],
+  "mys_roborock_more": [
+    "site:my.priceshop.com/product/ Roborock \"S6\" \"S5\" \"E5\""
+  ],
+  "mys_ecovacs_more": [
+    "site:my.priceshop.com/product/ Ecovacs \"N8\" \"T20\" \"X2\""
+  ],
+  "mys_xiaomi_more": [
+    "site:my.priceshop.com/product/ Xiaomi \"E10\" \"S10\" \"X20\""
+  ],
+  "mys_dreame_more": [
+    "site:my.priceshop.com/product/ Dreame \"L10\" \"L20\""
+  ],
+  "mys_roborock_more2": [
+    "site:my.priceshop.com/product/ Roborock (S6 OR S5 OR E5 OR Q5)"
+  ],
+  "mys_ecovacs_more2": [
+    "site:my.priceshop.com/product/ Ecovacs (N8 OR T20 OR X2 OR T8 OR N10)"
+  ],
+  "mys_xiaomi_more2": [
+    "site:my.priceshop.com/product/ Xiaomi (E10 OR S10 OR X20 OR Lite)"
+  ],
+  "mys_dreame_more2": [
+    "site:my.priceshop.com/product/ Dreame (L10 OR L20 OR D10 OR X40 OR L10s)"
+  ],
+  "mys_final_discovery": [
+    "site:my.priceshop.com/product/ \"Roborock\" \"robot\" -\"s7\" -\"s8\" -\"q7\" -\"s50\" -\"s6\" -\"q-revo\" -\"g10\"",
+    "site:my.priceshop.com/product/ \"Ecovacs\" \"robot\" -\"n8\" -\"t8\" -\"t9\" -\"t10\" -\"ozmo\" -\"slim2\" -\"mini\" -\"u2\" -\"x1\"",
+    "site:my.priceshop.com/product/ \"Xiaomi\" \"robot\" \"E10\"",
+    "site:my.priceshop.com/product/ \"Narwal\" \"Flow\""
+  ],
+  "mys_news_ecovacs": [
+    "site:my.priceshop.com/en/news/ Ecovacs robot vacuum Malaysia price 2026"
+  ],
+  "mys_news_xiaomi": [
+    "site:my.priceshop.com/en/news/ Xiaomi robot vacuum Malaysia price"
+  ],
+  "mys_news_dreame": [
+    "site:my.priceshop.com/en/news/ Dreame robot vacuum Malaysia price"
+  ]
+}

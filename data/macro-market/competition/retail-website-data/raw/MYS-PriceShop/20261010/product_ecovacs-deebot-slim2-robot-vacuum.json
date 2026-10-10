@@ -1,0 +1,78 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "ecovacs-deebot-slim2-robot-vacuum",
+  "url": "https://my.priceshop.com/product/ecovacs-deebot-slim2-robot-vacuum",
+  "title_raw": "Ecovacs DEEBOT SLIM2 Robot Vacuum",
+  "source_cache_age_raw": "10 months ago",
+  "accessed_at": "2026-10-10T11:08:31.918Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 205,
+  "reader_captured_lines": 205,
+  "summary_price_raw": "RM1,099.00",
+  "declared_seller_count_raw": "From 1 seller",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 149,
+      "value_line": 151
+    },
+    "Dust Capacity": {
+      "value_raw": "0.32 L",
+      "section": "Capacity",
+      "line": 155,
+      "value_line": 157
+    },
+    "Suction Power": {
+      "value_raw": "520 W",
+      "section": "Specifications",
+      "line": 161,
+      "value_line": 163
+    },
+    "Power Consumption": {
+      "value_raw": "15 W",
+      "section": "Specifications",
+      "line": 165,
+      "value_line": 167
+    },
+    "Dust Bag": {
+      "value_raw": "Bagless",
+      "section": "Others",
+      "line": 171,
+      "value_line": 173
+    },
+    "Dimensions": {
+      "value_raw": "310 x 310 x 57 mm",
+      "section": "Size & Weight",
+      "line": 176,
+      "value_line": 178
+    },
+    "Weight": {
+      "value_raw": "3 kg",
+      "section": "Size & Weight",
+      "line": 180,
+      "value_line": 182
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "Desa Home Theatre Sdn Bhd",
+      "merchant_group_raw": "Desa Home Theatre Sdn Bhd",
+      "merchant_group_locations_raw": "",
+      "location_raw": "Kepong, Wp Kuala Lumpur",
+      "price_raw": "RM1,099.00",
+      "price_line": 129,
+      "name_line": 119,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn154view4",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

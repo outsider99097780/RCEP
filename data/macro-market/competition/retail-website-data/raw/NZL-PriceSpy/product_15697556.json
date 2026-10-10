@@ -1,0 +1,50 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "15697556",
+  "url": "https://pricespy.co.nz/product.php?p=15697556",
+  "accessed_at": "2026-10-10T10:17:06.432Z",
+  "page_title": "Roborock Qrevo Curv 2 Flow",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "7",
+  "declared_shop_count_raw": "1",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Battery capacity": "5200 mAh",
+    "Battery life": "240 min",
+    "Color": "White",
+    "Docking station": "Yes",
+    "Dust capacity (robot)": "0.325 litre",
+    "Features": "Voice control, Stairs detection, Self-docking, App control, Automatic mop drying, Self-emptying",
+    "Height": "119 mm",
+    "Mop function": "Yes",
+    "Navigation method": "Camera, LiDAR (laser)",
+    "Noise level": "65 dB",
+    "Self-emptying": "Yes",
+    "Suction power (Pa)": "20 Pa",
+    "Type": "Vacuum mopping robot"
+  },
+  "visible_three_month_history_raw": [
+    "Stable",
+    "Lowest: $1,798.00 | Highest: $2,699.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Noel Leeming",
+      "price_raw": "$2,699.00",
+      "stock_raw": "In stock",
+      "title_raw": "Roborock Qrevo Curv 2 Flow Vacuum Cleaner",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8236/offer/N250236?client_id=1551",
+      "visible_price_labels_raw": [
+        "$2,699.00"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

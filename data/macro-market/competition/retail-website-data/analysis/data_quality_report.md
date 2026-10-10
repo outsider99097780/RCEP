@@ -51,3 +51,13 @@ Use the snapshot for descriptive SKU breadth, visible price bands, seller covera
 ## Cleaning exclusions
 
 9 records were retained in the raw/source-ledger layers and listed in `cleaned/excluded_products.csv`, but removed from the floor robot-vacuum analytical tables because they were window-cleaning robots, bundles containing a window-cleaning robot, or accessories/consumables.
+
+
+## 2026-10-10新增两国
+
+NZL：37个扫地机页面，26个价格合格SKU；详细异常、型号错配、库存及抓取缺口见market_expansion_20261010.md和quality_flags_NZL.json。MYS仅采用PriceShop；有2款2025上市证据、0款本次取得当前代表价的SKU。未收集不等于当地无销售。旧三国逐国文件与既有行值保留。
+
+
+## 马来西亚 PriceShop 更新
+
+本轮状态及规则以 `priceshop_MYS_20261010.md` 和 `coverage_MYS_20261010.json` 为准。44个商品页、281条缓存报价，其中10条明确2023年更新的报价排除出汇总。五品牌完整实时目录未取得，云鲸只有历史证据；其他国家结果未重算。

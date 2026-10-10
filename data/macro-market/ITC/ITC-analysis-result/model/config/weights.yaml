@@ -1,0 +1,24 @@
+{
+  "strategy": {
+    "market_size": 0.3,
+    "market_growth": 0.1,
+    "china_share": 0.1,
+    "untapped_amount": 0.3,
+    "untapped_ratio": 0.2
+  },
+  "equal": {
+    "market_size": 0.2,
+    "market_growth": 0.2,
+    "china_share": 0.2,
+    "untapped_amount": 0.2,
+    "untapped_ratio": 0.2
+  },
+  "entropy": {
+    "market_size": 0.1542624152060941,
+    "market_growth": 0.1370308188032727,
+    "china_share": 0.23102679822329664,
+    "untapped_amount": 0.21648965078871885,
+    "untapped_ratio": 0.2611903169786177
+  },
+  "strategy_source": "preserved existing implementation, not AHP expert consensus"
+}

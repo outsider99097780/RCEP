@@ -1,0 +1,12 @@
+{
+  "review_date": "2026-10-10",
+  "status": "share_with_caveats",
+  "record_count": 207,
+  "validation_file": "audit/target-market-expansion-20261010-validation.json",
+  "scan_file": "audit/target-market-expansion-20261010-scan.json",
+  "legacy_validation_note": "audit/validation.json and extraction-log.json describe the preserved 2026-10-09 205-record extraction, not the current 207-record bundle",
+  "category_views": "Same record_id may appear in multiple category views; count unique IDs, not row sums",
+  "checks": [
+    "207 evidence IDs consistent across views; unrelated facts and all source PDFs unchanged; missing NZ explicit; MY audit-only values excluded"
+  ]
+}

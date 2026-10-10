@@ -1,0 +1,52 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "15528165",
+  "url": "https://pricespy.co.nz/product.php?p=15528165",
+  "accessed_at": "2026-10-10T10:19:46.259Z",
+  "page_title": "Xiaomi S40 Robot Vacuum Cleaner",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "24",
+  "declared_shop_count_raw": "2",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Docking station": "Yes",
+    "Features": "Voice control, Supports scheduling, Remote control, Stairs detection, Self-docking, Virtual walls (barrier), App control, Noise reduction / Silent mode, Automatic mop drying, Self-emptying",
+    "Mop function": "Yes",
+    "Self-emptying": "Yes"
+  },
+  "visible_three_month_history_raw": [
+    "Stable",
+    "Lowest: $346.00 | Highest: $473.71"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "PB Tech",
+      "price_raw": "$439.00",
+      "stock_raw": "In stock",
+      "title_raw": "Xiaomi Mi Smart Robot S40 2 - in -1 Mop and Vacuum Cleaner 10000 Pa Multidimensional Hair Anti Tangle Technology, LDS Laser Navigation system, 180 minutes running time, 520ml Dust bin, 270ml Water tank",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8246/offer/HOMMIX66892?client_id=1551",
+      "visible_price_labels_raw": [
+        "$439.00"
+      ]
+    },
+    {
+      "retailer": "Ascent",
+      "price_raw": "$475.16",
+      "stock_raw": "In stock",
+      "title_raw": "Xiaomi Smart Robot S40 2-in-1 Mop/Vacuum Cleaner",
+      "partner_store_flag": false,
+      "observed_redirect_path": null,
+      "visible_price_labels_raw": [
+        "$475.16"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

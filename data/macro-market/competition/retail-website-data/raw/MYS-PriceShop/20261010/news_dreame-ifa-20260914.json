@@ -1,0 +1,35 @@
+{
+  "capture_id": "dreame-ifa-20260914",
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "url": "https://my.priceshop.com/en/news/dreame-ifa-2026-showcase-flagship-steam-vacuums-smart-hair-stylers-and-pet-air-purifiers-detailed/",
+  "title": "Dreame IFA 2026 Showcase: Flagship Steam Vacuums, Smart Hair Stylers, and Pet Air Purifiers Detailed",
+  "publication_date": "2026-09-14",
+  "author": "PriceShop News",
+  "source_cache_age_raw": "3 days ago",
+  "accessed_at": "2026-10-10T11:12:23.294Z",
+  "access_method": "public_web_reader_cached_news",
+  "source_type": "historical_launch_news",
+  "current_stock_verified": false,
+  "products": [
+    {
+      "brand": "Dreame",
+      "model_name": "X60 Ultra Extreme",
+      "list_price_myr": "7099",
+      "promotion_price_myr": "5699",
+      "price_source_type": "publication_list_price_and_preorder_not_current_offer",
+      "source_line": 44
+    },
+    {
+      "brand": "Dreame",
+      "model_name": "Aqua20 Ultra Roller",
+      "list_price_myr": "7999",
+      "promotion_price_myr": "4999",
+      "price_source_type": "publication_struck_out_price_and_promotion_not_current_offer",
+      "source_line": 49
+    }
+  ],
+  "excluded_products": "H16 Pro TriForce upright floor washer; other non-vacuum categories."
+}

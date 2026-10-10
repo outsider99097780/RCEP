@@ -1,16 +1,50 @@
-study_id: "20260905-CHN-Roborock-HS85098090-rcep-v01"
-product_name_zh: "石头科技扫地机相关产品组"
-product_name_en: "Roborock robot-vacuum related HS850980 product group"
-product_description: "User-specified China Customs code 85098090.00; modeled in ITC at HS6 850980"
-hs_code_user: "85098090.00"
-hs_code_itc: "850980"
-hs_level: 6
-hs_version: "ITC response; HS version recorded per raw files"
-exporter_iso3: "CHN"
-candidate_markets: ["Australia", "Brunei", "Cambodia", "Indonesia", "Japan", "Laos", "Malaysia", "Myanmar", "New Zealand", "Philippines", "Singapore", "South Korea", "Thailand", "Vietnam"]
-trade_flow: "export"
-years_annual: [2020, 2021, 2022, 2023, 2024, 2025]
-currency: "USD"
-trade_value_unit: "USD thousand"
-model_method: "equal_weight_topsis_screen"
-requested_outputs: ["raw_exports", "cleaned_tables", "epi_snapshot", "market_ranking", "source_ledger"]
+{
+  "study_id": "20261010T153053-CHN-HS850811-RCEP-TOPSIS",
+  "product_name_zh": "扫地机器人所在的HS850811真空吸尘器产品组",
+  "hs_code_itc": "850811",
+  "hs_level": 6,
+  "hs_version": "ITC query HS6 850811 aggregate; HS revision not declared in stored Trade Map response",
+  "exporter_iso3": "CHN",
+  "exporter_itc_code": "156",
+  "candidate_markets": [
+    "Australia",
+    "Brunei Darussalam",
+    "Cambodia",
+    "Indonesia",
+    "Japan",
+    "Korea, Republic of",
+    "Lao People's Democratic Republic",
+    "Malaysia",
+    "Myanmar",
+    "New Zealand",
+    "Philippines",
+    "Singapore",
+    "Thailand",
+    "Viet Nam"
+  ],
+  "years_annual": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "currency": "USD",
+  "trade_value_unit": "USD thousand",
+  "epi_value_unit": "USD",
+  "model_method": "strategy_weight_topsis",
+  "weight_policy": {
+    "market_size": 0.3,
+    "market_growth": 0.1,
+    "china_share": 0.1,
+    "untapped_amount": 0.3,
+    "untapped_ratio": 0.2
+  },
+  "access_dates": "2026-10-03 (inherited from source ledgers; not a new download)",
+  "source_root": "../ITC-data",
+  "raw_update_policy": "read_only",
+  "replacement_policy": "replace old analysis outputs; no archived old analysis dataset",
+  "reference_procedure": "../itc-market-analysis-procedure/SKILL.md",
+  "method_implementation": "five-indicator original recalculate_model.ps1 and original Monte Carlo implementation"
+}

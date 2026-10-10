@@ -1,0 +1,75 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "14429258",
+  "url": "https://pricespy.co.nz/product.php?p=14429258",
+  "accessed_at": "2026-10-10T10:17:51.143Z",
+  "page_title": "Ecovacs Deebot T50 Omni",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "3",
+  "declared_shop_count_raw": "4",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Docking station": "Yes",
+    "Features": "Timer, Voice control, Remote control, Self-docking, App control, Automatic mop drying, Self-emptying",
+    "Mop function": "Yes",
+    "Self-emptying": "Yes"
+  },
+  "visible_three_month_history_raw": [
+    "Rising",
+    "Lowest: $722.99 | Highest: $1,777.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "PB Tech",
+      "price_raw": "$1,295.00",
+      "stock_raw": "In stock",
+      "title_raw": "EcoVacs Deebot T50 Pro Omni Black Smart Floor Vacuum & Mopping Cleaner 15,000 Pa Suction Power - OZMO Roller Mopping Tech - TruEdge 2.0 with TruEdge 3D - AIVI 3D 3.0 - 45-75°C Temperature-Controlled Mop Washing - 81mm Ultra Thin - 960p Came",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8246/offer/HOMEVC0022?client_id=1551",
+      "visible_price_labels_raw": [
+        "$1,299.01",
+        "$1,295.00"
+      ]
+    },
+    {
+      "retailer": "Heathcote Appliances",
+      "price_raw": "$1,297.00",
+      "stock_raw": "In stock",
+      "title_raw": "EcoVacs Deebot T50 Pro Omni Robotic Vacuum and Mop Black",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/14663/offer/DDX67?client_id=1551",
+      "visible_price_labels_raw": [
+        "$1,297.00"
+      ]
+    },
+    {
+      "retailer": "Mighty Ape",
+      "price_raw": "$1,299.00",
+      "stock_raw": "In stock",
+      "title_raw": "Ecovacs Deebot T50 Pro OMNI",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8392/offer/39964824?client_id=1551",
+      "visible_price_labels_raw": [
+        "$1,299.00"
+      ]
+    },
+    {
+      "retailer": "JB Hi-Fi",
+      "price_raw": "$1,799.00",
+      "stock_raw": "In stock",
+      "title_raw": "Ecovacs T50 Pro OMNI Robotic Vacuum Cleaner",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/12087/offer/452347?client_id=1551",
+      "visible_price_labels_raw": [
+        "$1,799.00"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

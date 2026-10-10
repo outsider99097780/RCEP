@@ -1,0 +1,63 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "16706967",
+  "url": "https://pricespy.co.nz/product.php?p=16706967",
+  "accessed_at": "2026-10-10T10:17:10.829Z",
+  "page_title": "Roborock Qrevo Edge 2",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "19",
+  "declared_shop_count_raw": "2",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Accessory type": "Mop cloth",
+    "Battery capacity": "5200 mAh",
+    "Battery life": "295 min",
+    "Color": "Black, White",
+    "Docking station": "Yes",
+    "Dust capacity (base)": "2.7 litre",
+    "Dust capacity (robot)": "0.24 litre",
+    "Features": "Remote control, Self-docking, Display, Edge cleaning, Automatic mop drying, Obstacle sensing system, Self-emptying",
+    "Height": "79.8 mm",
+    "Mop function": "Yes",
+    "Navigation method": "LiDAR (laser)",
+    "Noise level": "64.6 dB",
+    "Self-emptying": "Yes",
+    "Suction power (Pa)": "25000 Pa",
+    "Water container volume": "67 ml"
+  },
+  "visible_three_month_history_raw": [
+    "Rising",
+    "Lowest: $1,199.20 | Highest: $2,397.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Heathcote Appliances",
+      "price_raw": "$2,397.00",
+      "stock_raw": "In stock",
+      "title_raw": "Roborock Qrevo Edge 2 Robot Vacuum and Mop - Black",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/14663/offer/RR-QE252-03-BLK?client_id=1551",
+      "visible_price_labels_raw": [
+        "$2,397.00"
+      ]
+    },
+    {
+      "retailer": "Noel Leeming",
+      "price_raw": "$2,399.00",
+      "stock_raw": "In stock",
+      "title_raw": "Roborock Qrevo Edge 2 Vacuum Cleaner",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8236/offer/N253012?client_id=1551",
+      "visible_price_labels_raw": [
+        "$2,399.00"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

@@ -1,0 +1,358 @@
+[
+  {
+    "capture_id": "narwal-store-20260508",
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "url": "https://my.priceshop.com/en/news/narwal-first-flagship-store-sunway-velocity-malaysia/",
+    "title": "Narwal’s Flagship Store Finally Lands at Sunway Velocity Mall with Exclusive Buy 1 Free 1 Deals!",
+    "publication_date": "2026-05-08",
+    "author": "Hamka Rosli",
+    "source_cache_age_raw": "3 months ago",
+    "accessed_at": "2026-10-10T11:12:23.294Z",
+    "access_method": "public_web_reader_cached_news",
+    "source_type": "historical_limited_bundle_campaign",
+    "current_stock_verified": false,
+    "products": [
+      {
+        "brand": "Narwal",
+        "model_name": "Flow Compact Station",
+        "bundle_price_myr": "5499",
+        "bundle_free_item": "S30 vacuum",
+        "price_source_type": "expired_one_day_bundle",
+        "promotion_start": "2026-05-08",
+        "promotion_end": "2026-05-08",
+        "source_line": 83
+      },
+      {
+        "brand": "Narwal",
+        "model_name": "Flow",
+        "bundle_price_myr": "4399",
+        "bundle_free_item": "S20 vacuum",
+        "price_source_type": "expired_one_day_bundle",
+        "promotion_start": "2026-05-08",
+        "promotion_end": "2026-05-08",
+        "source_line": 83
+      }
+    ],
+    "location_raw": "Sunway Velocity Mall",
+    "campaign_floor": {
+      "price_myr": "1399",
+      "models_raw": [
+        "Z10",
+        "X10 Pro",
+        "S20 Pro"
+      ],
+      "price_assignment": "aggregate_as_low_as_only_not_each_model_price",
+      "source_line": 83
+    },
+    "exclude_nonrobot": [
+      "S30",
+      "S20",
+      "S20 Pro",
+      "S10"
+    ],
+    "product_equivalence": "Flow and Freo Flow or station variants not automatically equated"
+  },
+  {
+    "capture_id": "roborock-qrevo-20260520",
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "url": "https://my.priceshop.com/en/news/roborock-qrevo-curv-2-flow-and-qrevo-s-pro-powerful-everyday-robot-vacuums-from-rm2699/",
+    "title": "Roborock Qrevo Curv 2 Flow and Qrevo S Pro: Powerful everyday robot vacuums, from RM2,699",
+    "publication_date": "2026-05-20",
+    "author": "Raymond Saw",
+    "source_cache_age_raw": "6 days ago",
+    "accessed_at": "2026-10-10T11:12:23.294Z",
+    "access_method": "public_web_reader_cached_news",
+    "source_type": "historical_launch_news",
+    "current_stock_verified": false,
+    "products": [
+      {
+        "brand": "Roborock",
+        "model_name": "Qrevo S Pro",
+        "list_price_myr": "2699",
+        "price_source_type": "price_at_publication_not_current_offer",
+        "source_line": 50
+      },
+      {
+        "brand": "Roborock",
+        "model_name": "Qrevo Curv 2 Flow",
+        "list_price_myr": "3999",
+        "price_source_type": "price_at_publication_not_current_offer",
+        "source_line": 50
+      }
+    ]
+  },
+  {
+    "capture_id": "roborock-saros-20260519",
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "url": "https://my.priceshop.com/en/news/roborock-saros-20-series-their-most-advanced-premium-robot-vacuums-yet-from-rm5399/",
+    "title": "Roborock Saros 20 series: Their most advanced premium robot vacuums yet, from RM5,399",
+    "publication_date": "2026-05-19",
+    "author": "Raymond Saw",
+    "source_cache_age_raw": "3 weeks ago",
+    "accessed_at": "2026-10-10T11:12:23.294Z",
+    "access_method": "public_web_reader_cached_news",
+    "source_type": "historical_launch_news",
+    "current_stock_verified": false,
+    "products": [
+      {
+        "brand": "Roborock",
+        "model_name": "Saros 20",
+        "list_price_myr": "5399",
+        "price_source_type": "price_at_publication_not_current_offer",
+        "source_line": 57
+      },
+      {
+        "brand": "Roborock",
+        "model_name": "Saros 20 R&D",
+        "list_price_myr": "5799",
+        "price_source_type": "price_at_publication_not_current_offer",
+        "source_line": 57
+      },
+      {
+        "brand": "Roborock",
+        "model_name": "Saros 20 Sonic",
+        "list_price_myr": "5999",
+        "price_source_type": "price_at_publication_not_current_offer",
+        "source_line": 57
+      }
+    ]
+  },
+  {
+    "capture_id": "xiaomi-6max-20260904",
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "url": "https://my.priceshop.com/en/news/xiaomi-robot-vacuum-6-max-35000pa-suction-ai-triple-cameras-from-rm4499/",
+    "title": "Xiaomi Robot Vacuum 6 Max: 35,000Pa suction, AI triple cameras, from RM4,499",
+    "publication_date": "2026-09-04",
+    "author": "Alyaa Najwa",
+    "source_cache_age_raw": "3 weeks ago",
+    "accessed_at": "2026-10-10T11:12:23.294Z",
+    "access_method": "public_web_reader_cached_news",
+    "source_type": "historical_launch_news",
+    "current_stock_verified": false,
+    "products": [
+      {
+        "brand": "Xiaomi",
+        "model_name": "Robot Vacuum 6 Max",
+        "list_price_myr": "5099",
+        "promotion_price_myr": "4499",
+        "price_source_type": "launch_rrp_and_promotion_not_current_offer",
+        "source_line": 50
+      }
+    ]
+  },
+  {
+    "capture_id": "xiaomi-h50-20260605",
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "url": "https://my.priceshop.com/en/news/xiaomi-malaysia-launches-new-front-load-washer-and-washer-dryer-robot-vacuum-h50-series/",
+    "title": "Xiaomi Malaysia launches new Front Load Washer and Washer Dryer, Robot Vacuum H50 series",
+    "publication_date": "2026-06-05",
+    "author": "Raymond Saw",
+    "source_cache_age_raw": "2 months ago",
+    "accessed_at": "2026-10-10T11:12:23.294Z",
+    "access_method": "public_web_reader_cached_news",
+    "source_type": "historical_launch_news",
+    "current_stock_verified": false,
+    "products": [
+      {
+        "brand": "Xiaomi",
+        "model_name": "Robot Vacuum H50",
+        "list_price_myr": "2499",
+        "promotion_price_myr": "1299",
+        "price_source_type": "launch_price_and_early_bird_promotion_not_current_offer",
+        "source_line": 61
+      },
+      {
+        "brand": "Xiaomi",
+        "model_name": "Robot Vacuum H50 Pro",
+        "list_price_myr": "2699",
+        "promotion_price_myr": "1999",
+        "price_source_type": "launch_price_and_early_bird_promotion_not_current_offer",
+        "source_line": 61
+      }
+    ],
+    "excluded_products": "Washing machines; only the robot-vacuum section captured."
+  },
+  {
+    "capture_id": "dreame-ifa-20260914",
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "url": "https://my.priceshop.com/en/news/dreame-ifa-2026-showcase-flagship-steam-vacuums-smart-hair-stylers-and-pet-air-purifiers-detailed/",
+    "title": "Dreame IFA 2026 Showcase: Flagship Steam Vacuums, Smart Hair Stylers, and Pet Air Purifiers Detailed",
+    "publication_date": "2026-09-14",
+    "author": "PriceShop News",
+    "source_cache_age_raw": "3 days ago",
+    "accessed_at": "2026-10-10T11:12:23.294Z",
+    "access_method": "public_web_reader_cached_news",
+    "source_type": "historical_launch_news",
+    "current_stock_verified": false,
+    "products": [
+      {
+        "brand": "Dreame",
+        "model_name": "X60 Ultra Extreme",
+        "list_price_myr": "7099",
+        "promotion_price_myr": "5699",
+        "price_source_type": "publication_list_price_and_preorder_not_current_offer",
+        "source_line": 44
+      },
+      {
+        "brand": "Dreame",
+        "model_name": "Aqua20 Ultra Roller",
+        "list_price_myr": "7999",
+        "promotion_price_myr": "4999",
+        "price_source_type": "publication_struck_out_price_and_promotion_not_current_offer",
+        "source_line": 49
+      }
+    ],
+    "excluded_products": "H16 Pro TriForce upright floor washer; other non-vacuum categories."
+  },
+  {
+    "capture_id": "buying-guide-20250401",
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "url": "https://my.priceshop.com/en/news/best-robot-vacuum-cleaner-malaysia/",
+    "title": "9 Best Robot Vacuum Cleaners in Malaysia: From High-End to Budget (2025)",
+    "publication_date": "2025-04-01",
+    "author": "Timothy Teoh",
+    "source_cache_age_raw": "last month",
+    "accessed_at": "2026-10-10T11:12:23.294Z",
+    "access_method": "public_web_reader_cached_news",
+    "source_type": "historical_editorial_price_reference",
+    "current_stock_verified": false,
+    "products": [
+      {
+        "brand": "Roborock",
+        "model_name": "S8 Max V Ultra",
+        "reference_price_myr": "6499",
+        "source_line": 71,
+        "price_source_type": "editorial_price_at_publication_not_current_offer"
+      },
+      {
+        "brand": "Ecovacs",
+        "model_name": "DEEBOT X2 OMNI",
+        "reference_price_myr": "5799",
+        "source_line": 85,
+        "price_source_type": "editorial_price_at_publication_not_current_offer"
+      },
+      {
+        "brand": "Dreame",
+        "model_name": "L20 Ultra",
+        "reference_price_myr": "4899",
+        "source_line": 101,
+        "price_source_type": "editorial_price_at_publication_not_current_offer"
+      },
+      {
+        "brand": "Xiaomi",
+        "model_name": "Robot Vacuum X10+",
+        "reference_price_myr": "2399",
+        "source_line": 125,
+        "price_source_type": "editorial_price_at_publication_not_current_offer"
+      },
+      {
+        "brand": "Roborock",
+        "model_name": "Q8 Max",
+        "reference_price_myr": "2199",
+        "source_line": 139,
+        "price_source_type": "editorial_price_at_publication_not_current_offer"
+      },
+      {
+        "brand": "Xiaomi",
+        "model_name": "Robot Vacuum S10",
+        "reference_price_myr": "799",
+        "source_line": 176,
+        "price_source_type": "editorial_price_at_publication_not_current_offer"
+      }
+    ],
+    "scope": "Only requested brands; the source's nine-product editorial selection is not a market census."
+  },
+  {
+    "capture_id": "xiaomi-1212-20251209",
+    "source_site": "PriceShop",
+    "source_provider": "Price Guide Sdn Bhd",
+    "country_code": "MYS",
+    "currency": "MYR",
+    "url": "https://my.priceshop.com/en/news/xiaomi-malaysia-12-12-2025-sales-discount-promo/",
+    "title": "Xiaomi 12.12 sales: Up to RM7,000 off on TVs, smartphones and air conditioners",
+    "publication_date": "2025-12-09",
+    "author": "Raymond Saw",
+    "source_cache_age_raw": "5 months ago",
+    "accessed_at": "2026-10-10T11:12:23.294Z",
+    "access_method": "public_web_reader_cached_news",
+    "source_type": "historical_campaign_news",
+    "current_stock_verified": false,
+    "products": [
+      {
+        "brand": "Xiaomi",
+        "model_name": "Robot Vacuum S40",
+        "list_price_myr": "1099",
+        "promotion_price_myr": "699",
+        "condition_raw": "",
+        "source_line": 100,
+        "price_source_type": "expired_2025_campaign_not_current_offer"
+      },
+      {
+        "brand": "Xiaomi",
+        "model_name": "Robot Vacuum H40",
+        "list_price_myr": "1799",
+        "promotion_price_myr": "999",
+        "condition_raw": "",
+        "source_line": 101,
+        "price_source_type": "expired_2025_campaign_not_current_offer"
+      },
+      {
+        "brand": "Xiaomi",
+        "model_name": "Robot Vacuum X20+",
+        "list_price_myr": "2999",
+        "promotion_price_myr": "1669",
+        "condition_raw": "Shopee Exclusive",
+        "source_line": 102,
+        "price_source_type": "expired_2025_campaign_not_current_offer"
+      },
+      {
+        "brand": "Xiaomi",
+        "model_name": "Robot Vacuum X20 Pro",
+        "list_price_myr": "3199",
+        "promotion_price_myr": "1799",
+        "condition_raw": "Shopee Exclusive",
+        "source_line": 103,
+        "price_source_type": "expired_2025_campaign_not_current_offer"
+      },
+      {
+        "brand": "Xiaomi",
+        "model_name": "Robot Vacuum X20 Max",
+        "list_price_myr": "3499",
+        "promotion_price_myr": "2099",
+        "condition_raw": "Lazada Exclusive",
+        "source_line": 104,
+        "price_source_type": "expired_2025_campaign_not_current_offer"
+      },
+      {
+        "brand": "Xiaomi",
+        "model_name": "Robot Vacuum 5",
+        "list_price_myr": "3699",
+        "promotion_price_myr": "2699",
+        "condition_raw": "",
+        "source_line": 105,
+        "price_source_type": "expired_2025_campaign_not_current_offer"
+      }
+    ]
+  }
+]

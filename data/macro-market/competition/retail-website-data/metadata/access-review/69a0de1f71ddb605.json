@@ -1,0 +1,6 @@
+{
+  "url": "https://my.priceshop.com/robots.txt",
+  "accessed_at": "2026-10-10T18:11:07+08:00",
+  "http_status": 200,
+  "text": "User-agent: *\nAllow: /\nAllow: /wp-page/\n\nUser-agent: *\nDisallow: /wp-*\nDisallow: /graphql*\nDisallow: /api/*\n\nSitemap: https://my.priceshop.com/sitemap.xml\n"
+}

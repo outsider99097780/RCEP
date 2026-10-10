@@ -1,0 +1,20 @@
+[
+  {
+    "file": "market_ranking_recalculated.csv",
+    "passed": true,
+    "tolerance": 5.1e-07,
+    "implementation": "unchanged original PowerShell vs new Python"
+  },
+  {
+    "file": "model_normalized.csv",
+    "passed": true,
+    "tolerance": 5.1e-07,
+    "implementation": "unchanged original PowerShell vs new Python"
+  },
+  {
+    "file": "model_weights.csv",
+    "passed": true,
+    "tolerance": 5.1e-07,
+    "implementation": "unchanged original PowerShell vs new Python"
+  }
+]

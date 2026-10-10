@@ -1,0 +1,52 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "16964950",
+  "url": "https://pricespy.co.nz/product.php?p=16964950",
+  "accessed_at": "2026-10-10T10:17:47.577Z",
+  "page_title": "Roborock Qrevo 2 Pro",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": null,
+  "declared_shop_count_raw": "2",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Docking station": "Yes",
+    "Features": "Remote control, Self-docking, Automatic mop drying, Obstacle sensing system, Self-emptying",
+    "Mop function": "Yes",
+    "Self-emptying": "Yes"
+  },
+  "visible_three_month_history_raw": [
+    "Stable",
+    "Lowest: $1,888.00 | Highest: $1,897.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Heathcote Appliances",
+      "price_raw": "$1,888.00",
+      "stock_raw": "In stock",
+      "title_raw": "Roborock Qrevo 2 Pro Robot Vacuum Cleaner with Dual Spinning Mops and Multifunctional Dock - White",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/14663/offer/RR-Q2P02-03-WHT?client_id=1551",
+      "visible_price_labels_raw": [
+        "$1,888.00"
+      ]
+    },
+    {
+      "retailer": "Farmers",
+      "price_raw": "$1,899.00",
+      "stock_raw": "Unknown stock",
+      "title_raw": "Roborock QREVO 2 Pro Robotic Vacuum, RR-Q2P02-03-WHT",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/23483/offer/7075951?client_id=1551",
+      "visible_price_labels_raw": [
+        "$1,899.00"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

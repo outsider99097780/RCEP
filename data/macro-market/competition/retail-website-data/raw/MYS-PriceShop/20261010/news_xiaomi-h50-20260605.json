@@ -1,0 +1,35 @@
+{
+  "capture_id": "xiaomi-h50-20260605",
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "url": "https://my.priceshop.com/en/news/xiaomi-malaysia-launches-new-front-load-washer-and-washer-dryer-robot-vacuum-h50-series/",
+  "title": "Xiaomi Malaysia launches new Front Load Washer and Washer Dryer, Robot Vacuum H50 series",
+  "publication_date": "2026-06-05",
+  "author": "Raymond Saw",
+  "source_cache_age_raw": "2 months ago",
+  "accessed_at": "2026-10-10T11:12:23.294Z",
+  "access_method": "public_web_reader_cached_news",
+  "source_type": "historical_launch_news",
+  "current_stock_verified": false,
+  "products": [
+    {
+      "brand": "Xiaomi",
+      "model_name": "Robot Vacuum H50",
+      "list_price_myr": "2499",
+      "promotion_price_myr": "1299",
+      "price_source_type": "launch_price_and_early_bird_promotion_not_current_offer",
+      "source_line": 61
+    },
+    {
+      "brand": "Xiaomi",
+      "model_name": "Robot Vacuum H50 Pro",
+      "list_price_myr": "2699",
+      "promotion_price_myr": "1999",
+      "price_source_type": "launch_price_and_early_bird_promotion_not_current_offer",
+      "source_line": 61
+    }
+  ],
+  "excluded_products": "Washing machines; only the robot-vacuum section captured."
+}

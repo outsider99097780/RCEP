@@ -154,7 +154,18 @@
     ],
     "curated_record_count": 26,
     "review_scope": "管理层讨论、产品技术、市场/渠道/竞争及风险相关内容；不做财务表结构化提取",
-    "exclusion_note": "财务报表、盈利预测估值表、审计及免责声明不结构化提取。"
+    "exclusion_note": "财务报表、盈利预测估值表、审计及免责声明不结构化提取。",
+    "target_market_review_20261010": {
+      "countries": [
+        "malaysia",
+        "new-zealand"
+      ],
+      "reviewed_pdf_pages": [
+        26,
+        52
+      ],
+      "notes": "Adds target views, resolves figure43 physical page, preserves source PDF and existing fact values."
+    }
   },
   {
     "source_id": "REPORT-05",
@@ -234,9 +245,21 @@
       27,
       28
     ],
-    "curated_record_count": 83,
+    "curated_record_count": 85,
     "review_scope": "管理层讨论、产品技术、市场/渠道/竞争及风险相关内容；不做财务表结构化提取",
-    "exclusion_note": "财务报表、盈利预测估值表、审计及免责声明不结构化提取。"
+    "exclusion_note": "财务报表、盈利预测估值表、审计及免责声明不结构化提取。",
+    "target_market_review_20261010": {
+      "countries": [
+        "malaysia",
+        "new-zealand"
+      ],
+      "reviewed_pdf_pages": [
+        27,
+        28,
+        29
+      ],
+      "notes": "Adds target views, resolves figure43 physical page, preserves source PDF and existing fact values."
+    }
   },
   {
     "source_id": "RESEARCH-02",

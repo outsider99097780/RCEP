@@ -13,7 +13,7 @@
 \renewcommand{\figurename}{图}
 \renewcommand{\tablename}{表}
 \renewcommand{\notesname}{尾注}
-\newcommand{\src}[1]{\endnote{#1}}
+\newcommand{\src}[1]{\unskip\nobreak\endnote{#1}}
 
 \title{扫地机产品在RCEP区域的国际市场开拓研究——以石头科技为例}
 \author{小熊队\\
@@ -21,8 +21,9 @@
 黄孝睿（经济学基地班25）\\
 张语晗（金融学（北外联培25））}
 \date{2026年10月}
-% 本次证据补充日期：2026-10-10。既有ITC模型及850980关税表尚待统一更新，不对旧数值改贴850811标签。
-% TODO[HS-MODEL-REFRESH]: 用data/macro-market/ITC/ITC-data中的850811原始数据重新计算贸易模型，并同步替换贸易图表、税则线和产品特定原产地规则。
+% 本次模型同步日期：2026-10-10；使用20261010T153053-CHN-HS850811-RCEP-TOPSIS结果，原章节及交叉引用标识保留。
+% 前五名为韩国、澳大利亚、马来西亚、新西兰、日本；图表读取既有模型输出，不重新拟合或调整权重。
+% 五国案例扩展：使用data中2026-10-10新增零售与研报证据；PriceShop缓存报价、历史活动价与PriceSpy新品报价分别处理。
 
 \begin{document}
 \maketitle
@@ -33,11 +34,11 @@
 
 \subsection{产品特性}
 
-扫地机器人是一套自动完成地面清洁的系统，产品价值由主机、基站、导航传感器、软件算法和售后服务共同构成，并非单一的吸尘器替代品。其竞争要素包括导航和避障对住宅结构的适应能力，清扫、拖地及基站维护减少人工介入的程度，App、语音控制和售后服务的使用门槛，以及不同价格带对家庭需求的覆盖。石头科技年报将智能操控、远程观察、路径规划和基站自维护列为技术演进方向。\src{石头科技，《2025年年度报告》，第15--17页。}
+扫地机器人是自动完成地面清洁的系统，价值由主机、基站、导航传感器、软件算法和售后服务构成。竞争涉及住宅适应性、减少人工维护的程度、App和语音控制的使用门槛，以及不同价格带的需求覆盖。石头科技年报将智能操控、远程观察、路径规划和基站自维护列为技术演进方向。\src{石头科技，《2025年年度报告》，第15--17页。}
 
 石头科技正在推进机械臂扫地机、活水洗地等产品方向，并持续扩充不同价格带的产品矩阵。这些产品实践说明，扫地机器人正在由单机清扫工具转向包含感知、决策、执行和自维护功能的智能清洁系统。\src{石头科技，《2025年年度报告》，第14页。}
 
-本研究的产品对象是扫地机器人。项目新增海关数据按850811与85081110两个范围整理，ITC原始数据已更新至HS6层级850811；既有贸易模型、图表和关税表仍采用HS850980，以下保留其数值作为旧口径基线，待统一重算。该基线不能作为现行扫地机归类和税率的依据；本次新增的企业、行业及零售分析使用各自明确的产品范围。\src{本地数据\path{data/HS-verification/2026-china-export-850811.csv}、\path{data/HS-verification/2026-china-export-85081110.csv}，海关统计数据在线查询平台，2026年1--8月，\url{http://stats.customs.gov.cn/}；\path{data/macro-market/ITC/ITC-data/source-ledger.csv}，产品HS850811，访问日期2026年10月3日。既有模型见\path{data/macro-market/ITC/ITC-model-analysis-procedure/model_inputs.csv}，读取日期2026年10月10日。}
+本研究的产品对象是扫地机器人。贸易筛选使用ITC的HS6产品组850811，覆盖范围比扫地机器人更宽；中国海关85081110数据用于观察小范围出口结构，企业年报和终端零售资料用于分析扫地机本身。三层证据分别回答产品组的市场机会、扫地机出口结构和石头科技的经营适配问题。\src{中华人民共和国海关总署，海关统计数据在线查询平台，\url{http://stats.customs.gov.cn/}，本地原表\path{data/HS-verification/2026-china-export-850811.csv}及\path{data/HS-verification/2026-china-export-85081110.csv}，2026年1--8月。ITC原始数据见\path{data/macro-market/ITC/ITC-data/}，产品HS850811，访问日期2026年10月3日；模型见\path{data/macro-market/ITC/ITC-analysis-result/}，运行编号20261010T153053-CHN-HS850811-RCEP-TOPSIS。}
 
 \subsection{世界生产与消费概览}
 
@@ -55,17 +56,15 @@
 
 本文研究的是扫地机器人产品在RCEP区域的市场开拓，石头科技用于观察中国企业如何把产业供给能力转化为产品和品牌竞争力。企业主体为北京石头世纪科技股份有限公司，品牌名为Roborock。公司年报将智能扫地机器人列为核心主营产品，业务覆盖设计、研发、生产和销售，产品技术集中在环境感知、路径规划、清扫与拖地执行、基站自维护及移动端控制等环节。\src{北京石头世纪科技股份有限公司，《2025年年度报告》，第13--16页。}
 
-选择石头科技作为案例，依据在于主营产品、国际化业务和公开信息的可观察性。2025年智能扫地机及配件收入151.73亿元，占主营业务收入的81.22\%；境外主营业务收入104.42亿元，占主营业务收入的55.90\%。公司年报转引IDC的智能扫地机器人全球份额为27.0\%，并在后文明确其全球销量份额排名第一。主营集中、海外业务过半与上市公司持续披露，使其适合用于观察中国扫地机企业的市场适配，而不是代替整个行业。\src{北京石头世纪科技股份有限公司，《2025年年度报告》，第20、26、54页。两项收入占比分别按15,172,943,325/18,680,324,995和10,441,601,948/18,680,324,995计算；分母均为主营业务收入，不是营业总收入。全球份额为年报转引IDC口径。本地证据记录RR26-0004及年报原表，读取日期2026年10月10日。}
-
-以下先比较全球贸易与中国出口基础，再把候选市场与企业的产品、渠道和经营条件对应起来。
+石头科技的主营集中度、海外业务和持续披露使其适合观察企业适配。2025年智能扫地机及配件收入151.73亿元，占主营业务收入的81.22\%；境外主营业务收入104.42亿元，占55.90\%。公司年报转引IDC的智能扫地机器人全球份额为27.0\%，全球销量份额排名第一。\src{北京石头世纪科技股份有限公司，《2025年年度报告》，第20、26、54页。两项收入占比分别按15,172,943,325/18,680,324,995和10,441,601,948/18,680,324,995计算；分母均为主营业务收入，不是营业总收入。全球份额为年报转引IDC口径。本地证据记录RR26-0004及年报原表，读取日期2026年10月10日。}
 
 \section{全球贸易概览}
 
 \subsection{世界贸易特点}
 
-本文采用ITC Trade Map、Market Access Map和Export Potential Map的数据。Trade Map覆盖2020--2025年，金额原始单位为千美元；EPM输出EPI潜力和基准出口额，金额为美元；Market Access Map记录目的国税则线、适用税率和非关税措施。\src{国际贸易中心（ITC），Trade Map、Export Potential Map与Market Access Map；产品HS850980，出口国为中国，目的市场为RCEP成员国，访问日期2026年9月5日。}
+本文采用ITC Trade Map、Market Access Map和Export Potential Map的数据。Trade Map覆盖2020--2025年，金额原始单位为千美元；EPM输出EPI潜力和基准出口额，金额为美元；Market Access Map记录目的国税则线、税率方案和非关税措施。贸易与潜力比较使用HS850811，关税按目的国细分税则线核对。\src{国际贸易中心（ITC），Trade Map（\url{https://www.trademap.org/}）、Export Potential Map（\url{https://exportpotential.intracen.org/}）及Market Access Map（\url{https://www.macmap.org/}），访问日期2026年10月3日。完整查询参数、原始响应路径及来源ID见\path{data/macro-market/ITC/ITC-analysis-result/metadata/source_ledger.csv}，字段级连接见\path{model/input/input_lineage.csv}。}
 
-三套工具承担不同任务。Trade Map描述市场规模、增长和供应结构；Export Potential Map把出口国供给、目标国需求和双边贸易便利度合并为EPI；Market Access Map用于核对税则线、适用税率和非关税措施。模型只在国家、产品、年份和单位对齐后连接三类数据，避免直接比较含义不同的贸易额、潜力值和关税。
+Trade Map描述规模、增长和供应结构，Export Potential Map衡量出口潜力，Market Access Map核对准入条件；三类数据按国家、产品、年份和单位连接。
 
 \begin{table}[H]
 \centering
@@ -78,18 +77,18 @@
 \midrule
 Trade Map & 2025年进口额、2020--2025年CAGR、中国供应份额与排名 & 衡量市场规模、增长及中国供应基础\\
 Export Potential Map & EPI、基准出口额、未实现潜力及其比例 & 衡量未来可拓展空间\\
-Market Access Map & 目的国税则线、实际适用税率、NTM记录 & 衡量市场准入成本并核对RCEP承诺\\
+Market Access Map & 目的国税则线、MFN与优惠税率、NTM记录 & 比较准入条件，不纳入五指标评分\\
 \bottomrule
 \end{tabular}
 \par\vspace{0.4em}
 \begin{minipage}{0.92\textwidth}\small
-资料来源：ITC三套工具的项目来源账本与字段说明，访问日期2026年9月5日。
+资料来源：ITC三套工具的项目来源账本与字段说明，访问日期2026年10月3日。
 \end{minipage}
 \end{table}
 
 \subsection{进口特点}
 
-RCEP候选市场在规模和增长之间存在明显差异。日本2025年HS850980产品组进口额为531,328千美元，规模在候选市场中最大；韩国为307,301千美元，2020--2025年进口复合增长率为7.1221\%；澳大利亚为203,135千美元，复合增长率为6.1031\%。三国2025年中国供应商排名均为第1位，中国在三国进口中的份额分别为73.8088\%、84.1195\%和85.1193\%。\src{国际贸易中心（ITC），Trade Map，HS850980：日本、韩国和澳大利亚2020--2025年进口额及2025年按供应国进口数据，访问日期2026年9月5日。}
+RCEP候选市场在规模和增长之间存在明显差异。2025年日本HS850811产品组进口额为7.594亿美元，韩国为7.391亿美元，澳大利亚为5.228亿美元；马来西亚和新西兰分别为6,421万美元和5,846万美元。日本的规模最大，2020--2025年进口复合增长率却为$-5.71\%$；韩国、澳大利亚和马来西亚分别为8.65\%、7.25\%和16.41\%，新西兰为2.32\%。五国因此呈现大规模需求、较快扩张和小市场补充空间等不同组合。\src{国际贸易中心（ITC），Trade Map，HS850811，2020--2025年；访问日期2026年10月3日。模型底表\path{data/macro-market/ITC/ITC-analysis-result/model_inputs.csv}；来源ID为TM-392、TM-410、TM-036、TM-458、TM-554的target\_import\_imports\_by\_supplier-VAL记录，完整URL与查询参数见该结果目录\path{metadata/source_ledger.csv}。}
 
 \begin{figure}[H]
 \centering
@@ -97,27 +96,23 @@ RCEP候选市场在规模和增长之间存在明显差异。日本2025年HS8509
 \caption{RCEP候选市场的进口规模、增长率与中国供应份额}
 \label{fig:sizegrowth}
 \begin{minipage}{0.92\textwidth}\small
-数据来源：ITC Trade Map，2020--2025年HS850980；仅绘制贸易字段完整的11个市场。横轴采用对数刻度，气泡面积表示2025年中国供应份额。
+数据来源：ITC Trade Map，2020--2025年HS850811；绘制贸易字段完整的11个市场。横轴采用对数刻度，气泡面积表示2025年中国供应份额；底表见\path{main/graphics/itc_market_size_growth_data.csv}。
 \end{minipage}
 \end{figure}
 
-图\ref{fig:sizegrowth}把规模与增长放在同一坐标中。柬埔寨和马来西亚的增速较高，但2025年进口额分别只有38.5万美元和2,097.5万美元；日本的进口额达到5.313亿美元，但五年CAGR为负。单独按增长率排序会偏向小基数市场，单独按规模排序又会忽略需求动能。因此，候选市场需要同时比较规模、增长和潜力。
+图\ref{fig:sizegrowth}把规模与增长放在同一坐标中。柬埔寨和马来西亚的增速较高，但2025年进口额分别为32.1万美元和6,421.3万美元；日本的规模优势则伴随五年负增长。单独按增长率排序会偏向小基数市场，单独按规模排序又会忽略需求动能，因此需要同时比较规模、增长和潜力。\src{ITC Trade Map，HS850811，来源ID TM-116、TM-458、TM-392的target\_import\_imports\_by\_supplier-VAL记录；模型\path{data/macro-market/ITC/ITC-analysis-result/model_inputs.csv}，访问日期2026年10月3日。}
 
 \subsection{出口特点}
 
-中国是该产品组的重要供给国。ITC Trade Map的中国对世界出口文件显示，中国电气机械及设备类出口规模大；HS850980的国别双边数据进一步显示，中国对RCEP候选市场已经形成较强供给基础。中国制造的可获得性不是石头科技进入这些市场的主要障碍，后续比较更需要关注品牌差异、渠道效率、合规和售后成本。
-
-全球贸易数据说明RCEP市场同时存在成熟需求池和增长型市场。接下来需要回到中国出口表现，区分中国产业的供应地位与石头科技的企业能力。
+中国在五个重点市场均为该产品组的第一供应国，供应份额从新西兰的53.52\%至马来西亚的81.25\%不等。中国已经形成供给基础，企业之间的竞争还要落实到产品、品牌、渠道与售后；较高的国家供应份额不能直接代替石头科技的品牌份额。\src{ITC Trade Map，HS850811，2025年按供应国进口数据；五国来源ID TM-410、TM-036、TM-458、TM-554、TM-392的target\_import\_imports\_by\_supplier-VAL记录，\path{data/macro-market/ITC/ITC-analysis-result/model_inputs.csv}，访问日期2026年10月3日。}
 
 \section{国家出口业绩}
 
 \subsection{中国扫地机器人产品的世界市场表现}
 
-按中国出口报告口径，2025年中国对日本、韩国和澳大利亚出口的HS850980产品组金额分别为309,129千美元、359,823千美元和183,021千美元。按进口国报告口径，三国自中国进口额分别为392,167千美元、258,500千美元和172,907千美元。进口与出口记录受FOB/CIF计价、运输时点和转口影响，本文用进口国口径计算目标市场份额，用中国出口口径观察中国的目的地结构。\src{国际贸易中心（ITC），Trade Map，HS850980：中国对日本、韩国和澳大利亚出口及三国自中国进口数据，2025年，访问日期2026年9月5日。}
+按中国出口报告口径，2025年中国对韩国、澳大利亚、马来西亚、新西兰和日本出口HS850811的金额分别为3.803亿、2.351亿、6,888万、2,056万和4.627亿美元；按进口国报告口径，五国自中国进口额分别为5.798亿、3.246亿、5,218万、3,129万和5.502亿美元。本文用进口国口径计算供应份额，中国出口口径另列，不把两条序列拼成同一增长曲线。\src{ITC Trade Map，HS850811，2025年；\path{data/macro-market/ITC/ITC-analysis-result/cleaned/trade_annual.csv}，字段china\_direct\_exports\_usd\_thousand与imports\_from\_china\_usd\_thousand。五国来源ID为TM-410、TM-036、TM-458、TM-554、TM-392的china\_exports\_bilateral-VAL及target\_import\_imports\_by\_supplier-VAL记录；访问日期2026年10月3日。}
 
-这些出口记录反映中国的国家供给基础；企业能否获得持续订单，还要看产品组合和渠道经营。
-
-新版海关数据进一步显示，同一HS6范围下，各国的出口产品结构并不相同。2026年1--8月，85081110占850811的出口金额比重在韩国与澳大利亚超过一半，日本约为四分之一。更新贸易模型时应同时观察宽范围规模和小范围结构，尤其不能把日本较大的宽范围出口额直接当作扫地机的需求优势。
+海关数据进一步显示，同一HS6范围下，各国的出口产品结构并不相同。2026年1--8月，85081110占850811的出口金额比重在韩国与澳大利亚超过一半，马来西亚与新西兰约为三分之一，日本约为四分之一。宽范围排名提供筛选起点，小范围结构则决定后续应把多少研究重点放在扫地机上。
 
 \begin{table}[H]
 \centering
@@ -132,12 +127,14 @@ RCEP候选市场在规模和增长之间存在明显差异。日本2025年HS8509
 日本 & 18.85 & 4.68 & 24.85\\
 韩国 & 18.13 & 9.65 & 53.22\\
 澳大利亚 & 17.14 & 10.61 & 61.88\\
+马来西亚 & 3.00 & 1.03 & 34.34\\
+新西兰 & 1.27 & 0.48 & 37.53\\
 美国（参照） & 42.30 & 18.07 & 42.72\\
 \bottomrule
 \end{tabular}
 \par\vspace{0.4em}
 \begin{minipage}{0.96\textwidth}\small
-数据来源：中国海关2026年1--8月用户下载数据；按原始人民币金额计算。占比为金额占比，不是台数占比；该期数据不与2025年全年数作增长比较。\src{中华人民共和国海关总署，海关统计数据在线查询平台，\url{http://stats.customs.gov.cn/}。本地原表\path{data/HS-verification/2026-china-export-850811.csv}与\path{data/HS-verification/2026-china-export-85081110.csv}，对应贸易伙伴编码116、133、601、502；比例表\path{data/HS-verification/2026-china-export-85081110-share-by-country.csv}保留分子、分母、公式和原表SHA-256。读取日期2026年10月10日。}
+数据来源：中国海关2026年1--8月用户下载数据；按原始人民币金额计算。占比为金额占比，不是台数占比；该期数据不与2025年全年数作增长比较。\src{中华人民共和国海关总署，海关统计数据在线查询平台，\url{http://stats.customs.gov.cn/}。本地原表\path{data/HS-verification/2026-china-export-850811.csv}与\path{data/HS-verification/2026-china-export-85081110.csv}，对应贸易伙伴编码116、133、601、122、609、502；比例表\path{data/HS-verification/2026-china-export-85081110-share-by-country.csv}保留分子、分母、公式和原表SHA-256。读取日期2026年10月10日。}
 \end{minipage}
 \end{table}
 
@@ -145,7 +142,7 @@ RCEP候选市场在规模和增长之间存在明显差异。日本2025年HS8509
 
 中国家电供应链、电子制造和规模化生产构成扫地机器人出口的产业基础。在企业层面，石头科技的感知、决策、执行、基站自维护和移动端控制能力，以及覆盖不同价格带的产品矩阵，为高端产品竞争提供了案例证据。\src{石头科技，《2025年年度报告》，第13--17页。}
 
-企业规模已能支撑多产品、多渠道经营，但增长与盈利的变化不同步。Wind财务摘要显示，2023--2025年营业收入从86.54亿元增至186.95亿元，归母净利润却从20.51亿元降至13.63亿元，经营现金净流量从21.86亿元降至7.74亿元。2025年年报将境外毛利率下降与关税、运费及售后投入增加联系起来。这意味着市场开拓不仅要比较销售空间，还要观察渠道扩张占用多少现金、服务成本能否被产品价格覆盖。\src{Wind，《石头科技[688169.SH]财务摘要》，2023--2025年合并报表，营业总收入、归属母公司股东的净利润、经营活动现金净流量三行；本地JSON保留原工作簿和单元格信息。数值与《2025年年度报告》第10页逐项核对；经营原因见该年报第53--55页。读取日期2026年10月10日。}
+增长与盈利的变化并不同步。Wind财务摘要显示，2023--2025年营业收入从86.54亿元增至186.95亿元，归母净利润从20.51亿元降至13.63亿元，经营现金净流量从21.86亿元降至7.74亿元。2025年年报将境外毛利率下降与关税、运费及售后投入增加联系起来。市场开拓因而还要检查渠道占款，以及售价能否覆盖服务成本。\src{Wind，《石头科技[688169.SH]财务摘要》，2023--2025年合并报表，营业总收入、归属母公司股东的净利润、经营活动现金净流量三行；本地JSON保留原工作簿和单元格信息。数值与《2025年年度报告》第10页逐项核对；经营原因见该年报第53--55页。读取日期2026年10月10日。}
 
 \begin{figure}[H]
 \centering
@@ -159,19 +156,19 @@ RCEP候选市场在规模和增长之间存在明显差异。日本2025年HS8509
 
 产品结构进一步说明了这一变化。2025年公司智能扫地机销售561.90万台，同比增长62.90\%，智能扫地机及配件收入增长39.86\%，该产品毛利率降至43.29\%。销量增长快于收入，提示扩展价格段时需要同时跟踪产品组合与盈利；由于收入包含配件，不能用两项数值直接计算整机ASP。\src{北京石头世纪科技股份有限公司，《2025年年度报告》，第54--55页，主营业务分产品情况及产销量情况分析表。销量原值5,618,978台，智能扫地机及配件收入同比39.86\%。}
 
-% TODO[WIND-PRODUCT]: 补充三国分市场整机销量、整机收入和ASP；不得用“整机及配件收入/整机销量”代替整机ASP。
+% TODO[WIND-PRODUCT]: 补充五国分市场整机销量、整机收入和ASP；不得用“整机及配件收入/整机销量”代替整机ASP。
 
 \subsection{关税与市场准入条件}
 
-旧口径Market Access Map返回的相关税则线中，澳大利亚、韩国和日本的适用税率记录为0\%。这一结果降低了旧模型中进口关税的区分度；电器安全、无线通信、能效、消费者保护、包装和售后义务仍需分别核对。\src{国际贸易中心（ITC），Market Access Map，中国出口至日本、韩国和澳大利亚的HS850980相关税则线及实际适用税率，访问日期2026年9月5日；此处保留旧口径记录，HS850811归类下的税则线需另行对应。}
+Market Access Map的2026年记录显示，日本、澳大利亚和新西兰相关税则线的MFN税率为0\%；韩国机器人税则线的MFN为8\%、RCEP对华税率为5.30\%，另列对华优惠税率0\%；马来西亚MFN为20\%、RCEP方案为18.20\%，另列对华优惠税率0\%。因此，准入比较要同时识别税率方案与原产条件，不能把返回的最低税率一律称为RCEP税率。关税不进入本轮五指标评分，其对到岸成本的影响在第六部分展开。\src{ITC Market Access Map，访问日期2026年10月3日，税率年份2026，HS Rev.2022。来源ID MACMAP-392-DUTY-850811010及850811090、MACMAP-036-DUTY-85081100、MACMAP-554-DUTY-85081100、MACMAP-410-DUTY-8508111000、MACMAP-458-DUTY-8508110000；\path{data/macro-market/ITC/ITC-analysis-result/cleaned/tariffs.csv}保留各方案原文及原始响应路径。}
 
-本节只确认出口进入目标市场的基本制度条件。原产资格、证明文件、认证和通关要求将在第六部分结合企业执行条件讨论。完成中国出口能力与基本准入条件的判断后，第四部分再对RCEP候选市场作统一筛选。
+原产资格、认证和通关要求在第六部分展开；以下先统一筛选候选市场。
 
 \section{市场筛选}
 
 \subsection{市场筛选思路与指标体系}
 
-第一阶段筛选比较产品和产业层面的外部市场吸引力，第二阶段再判断石头科技与候选市场的适配程度。前者回答“哪些市场值得深入研究”，后者回答“这些市场是否适合案例企业”。两层判断不互相替代。
+第一阶段比较产品和产业层面的外部市场吸引力，第二阶段再判断石头科技的适配程度，分别回答“哪些市场值得研究”与“这些市场是否适合案例企业”。
 
 \subsubsection{ITC出口潜力框架}
 
@@ -181,13 +178,13 @@ ITC出口潜力指标把出口国供给能力、目标市场需求和双边贸�
 EPI_{ijk}=Supply_{ik}\times Ease_{ij}\times Demand_{ijk}.
 \end{equation}
 
-本研究直接使用Export Potential Map返回的官方EPI，不用自建回归值替代。未实现潜力在每个“中国—目的国—HS850980”组合上计算：
+本研究直接使用Export Potential Map返回的官方EPI，不用自建回归值替代。未实现潜力在每个“中国—目的国—HS850811”组合上计算，其中$ActualExports$采用EPM自身的基准出口额：
 
 \begin{equation}
 Untapped_{ijk}=\max\left(EPI_{ijk}-ActualExports_{ijk},0\right).
 \end{equation}
 
-这一处理使已经超过潜力基准的市场不会抵消其他市场的拓展空间。EPI提供的是供给、需求和双边条件共同形成的基准，适合用于跨市场比较；渠道费用、认证、售后和品牌份额仍需在市场进入方案中单独测算。\src{国际贸易中心（ITC），Export Potential Map方法说明及中国向RCEP成员国出口HS850980的EPI记录，访问日期2026年9月5日。}
+这一处理使已经超过潜力基准的市场不会抵消其他市场的拓展空间。EPI提供的是供给、需求和双边条件共同形成的基准，未实现比例为$Untapped/EPI$；渠道费用、认证、售后和品牌份额还需分别研究。\src{ITC Export Potential Map，中国向RCEP成员国出口HS850811，访问日期2026年10月3日。官方潜在额与基准额见\path{data/macro-market/ITC/ITC-analysis-result/cleaned/epi.csv}，逐国来源ID为EPM加三位国家代码；未实现额及比例据两项官方值计算。EPM基准额不替换为Trade Map单年贸易额。}
 
 \subsubsection{指标、变换与权重}
 
@@ -215,11 +212,11 @@ z_{ij}=\frac{x_{ij}-\min(x_j)}{\max(x_j)-\min(x_j)}.
 \end{tabular}
 \par\vspace{0.4em}
 \begin{minipage}{0.92\textwidth}\small
-资料来源：ITC模型输入；权重由本研究按市场开拓目标设定。
+资料来源：\path{data/macro-market/ITC/ITC-analysis-result/model_weights.csv}；沿用原研究设定的战略权重。
 \end{minipage}
 \end{table}
 
-进口规模和未实现潜力各占30\%，分别衡量现有需求和可拓展空间；潜力比例占20\%，避免结果只保留已经高度实现的大市场；增长和中国份额各占10\%，衡量需求动能和现有供应基础。该组权重用于战略情景，不称为专家AHP权重。为观察权重选择是否改变结论，模型另行计算等权、熵权和5,000组随机扰动情景。\src{本研究根据ITC Trade Map与Export Potential Map数据构建标准化矩阵，并分别采用战略权重、等权和熵权进行TOPSIS排序；模型运行日期2026年9月6日。}
+进口规模和未实现潜力各占30\%，分别衡量现有需求和可拓展空间；潜力比例占20\%，增长和中国份额各占10\%。金额指标分别保留原始千美元与美元单位后取对数，避免换单位改变变换结果。权重沿用原战略情景，稳健性比较使用等权、熵权和5,000组随机扰动结果。\src{本研究据ITC数据计算；\path{data/macro-market/ITC/ITC-analysis-result/model_weights.csv}、\path{model_normalized.csv}及\path{methodology.md}，模型运行日期2026年10月10日，运行编号20261010T153053-CHN-HS850811-RCEP-TOPSIS。}
 
 \subsubsection{TOPSIS排序过程}
 
@@ -243,33 +240,36 @@ $C_i$越高，市场在当前指标和权重下越接近理想组合。
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.92\textwidth]{epi_untapped.pdf}
-\caption{中国向RCEP候选市场出口HS850980的EPI与未实现潜力}
+\caption{中国向RCEP候选市场出口HS850811的EPI与未实现潜力}
 \label{fig:epi}
 \begin{minipage}{0.92\textwidth}\small
-数据来源：ITC Export Potential Map，出口国为中国，产品组为HS850980，访问日期2026年9月5日。未实现潜力按各市场逐项计算，不用汇总差额替代。
+数据来源：ITC Export Potential Map，出口国为中国，产品组HS850811，访问日期2026年10月3日。底表见\path{main/graphics/itc_epi_untapped_data.csv}；未实现潜力逐国计算。
 \end{minipage}
 \end{figure}
 
-图\ref{fig:epi}显示，日本、韩国和澳大利亚的EPI绝对值明显高于多数东盟市场。越南的未实现潜力也较高，但Trade Map关键字段缺失，无法与其余市场按同一口径计算综合分数；因此越南保留在机会观察名单，没有进入本轮定量排名。
+图\ref{fig:epi}显示，日本、韩国和澳大利亚的EPI绝对值较高，未实现潜力金额则由韩国领先。马来西亚和新西兰的金额较小，但相对各自EPI仍有补充空间。越南保留EPM结果，因缺少2025年进口数据而列入机会观察名单，不进入综合排名。
 
 \begin{table}[H]
 \centering
-\caption{前三市场的贸易与潜力指标}
+\caption{前五市场的贸易与潜力指标}
 \label{tab:top3}
 \small
-\begin{tabular}{lrrrrrr}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lrrrrrrr}
 \toprule
-市场 & 2025进口额 & 2020--25 CAGR & 中国份额 & EPI潜力 & 未实现潜力 & 适用税率\\
- & 千美元 & \% & \% & 美元 & 美元 & \%\\
+市场 & 进口额 & 五年CAGR & 中国份额 & EPI潜力 & 未实现额 & 潜力占比 & 得分\\
+ & 百万美元 & \% & \% & 百万美元 & 百万美元 & \% & \\
 \midrule
-日本 & 531328 & -3.5686 & 73.8088 & 643300726 & 217232460 & 0\\
-韩国 & 307301 & 7.1221 & 84.1195 & 459297135 & 160140835 & 0\\
-澳大利亚 & 203135 & 6.1031 & 85.1193 & 209248488 & 63159688 & 0\\
+韩国 & 739.15 & 8.65 & 78.44 & 459.78 & 183.52 & 39.92 & 0.8963\\
+澳大利亚 & 522.80 & 7.25 & 62.09 & 305.05 & 108.09 & 35.43 & 0.8462\\
+马来西亚 & 64.21 & 16.41 & 81.25 & 98.77 & 32.98 & 33.39 & 0.7936\\
+新西兰 & 58.46 & 2.32 & 53.52 & 38.77 & 17.94 & 46.29 & 0.7808\\
+日本 & 759.36 & -5.71 & 72.46 & 648.92 & 142.67 & 21.99 & 0.7703\\
 \bottomrule
 \end{tabular}
 \par\vspace{0.4em}
 \begin{minipage}{0.92\textwidth}\small
-数据来源：ITC Trade Map、Export Potential Map和Market Access Map，2025年数据；本研究计算。
+数据来源：ITC Trade Map的2025年进口额、供应份额及2020--2025年增长，EPM的2026年10月3日快照；金额仅为展示换算为百万美元，计算仍用原单位。\src{底表\path{data/macro-market/ITC/ITC-analysis-result/model_inputs.csv}及\path{cleaned/epi.csv}，排名\path{strategy_topsis_scores.csv}；来源ID TM-410、TM-036、TM-458、TM-554、TM-392对应进口记录及EPM-410、EPM-036、EPM-458、EPM-554、EPM-392。来源URL、查询参数与原始文件见该目录\path{metadata/source_ledger.csv}。}
 \end{minipage}
 \end{table}
 
@@ -279,72 +279,92 @@ $C_i$越高，市场在当前指标和权重下越接近理想组合。
 \caption{战略权重TOPSIS市场吸引力得分}
 \label{fig:score}
 \begin{minipage}{0.90\textwidth}\small
-数据来源：ITC Trade Map、Export Potential Map和Market Access Map；本研究按表\ref{tab:weights}的指标与权重计算。橙色为前三市场。
+数据来源：既有HS850811模型\path{strategy_topsis_scores.csv}；按表\ref{tab:weights}计算。橙色为前五市场，关税与NTM不进入评分。
 \end{minipage}
 \end{figure}
 
-战略权重情景下，韩国得分0.733，日本0.719，澳大利亚0.661，构成第一梯队。新西兰和印度尼西亚分别为0.636和0.634，与澳大利亚接近，但绝对进口规模、未实现潜力金额或近期增速至少有一项明显偏弱。韩国的进口额和未实现潜力均居前列，五年增长为正；日本凭借候选市场中最大的进口额和未实现潜力保持第二；澳大利亚在规模、增长和中国份额之间最均衡。\src{本研究基于ITC五项市场指标计算的战略权重TOPSIS结果，模型运行日期2026年9月6日。}
+战略权重下，韩国、澳大利亚、马来西亚、新西兰和日本依次位列前五，得分见表\ref{tab:top3}。本研究保留五国进入深入研究：韩国与澳大利亚兼有较大规模和正增长，马来西亚突出增长，新西兰突出相对潜力，日本保留最大的需求池。五种指标组合对应不同的研究问题，不能用同一种市场策略处理。\src{本研究战略权重TOPSIS结果，\path{data/macro-market/ITC/ITC-analysis-result/strategy_topsis_scores.csv}，模型运行日期2026年10月10日。}
+
+韩国的进口额接近日本，五年增长为正，未实现潜力金额在候选市场中最高。EPM基准出口额2.763亿美元相当于潜在额的60.08\%，使大市场仍保有相对空间；中国供应份额由44.88\%升至78.44\%，供货联系也在增强。后续重点是品牌竞争力，以及代理渠道承接新增需求的能力。\src{ITC Trade Map与EPM，来源ID TM-410-target\_import\_imports\_by\_supplier-VAL、EPM-410，访问日期2026年10月3日；\path{data/macro-market/ITC/ITC-analysis-result/cleaned/trade_annual.csv}及\path{cleaned/epi.csv}。2020年中国份额按219113/488183计算，实现比例按276250466.67/459775312.98计算。}
+
+澳大利亚进口额由2020年的3.685亿美元升至2025年的5.228亿美元，中国来源增长更快，份额由35.09\%升至62.09\%。未实现潜力占比35.43\%，规模与新增空间共同支撑第二名。马来西亚来源仍占22.82\%，后续需区分品牌竞争与生产来源变化，并结合已有促销和渠道证据研究常态销售。\src{ITC Trade Map与EPM，来源ID TM-036-target\_import\_imports\_by\_supplier-VAL、EPM-036；\path{data/macro-market/ITC/ITC-analysis-result/cleaned/trade_annual.csv}、\path{cleaned/epi.csv}及\path{data/macro-market/ITC/ITC-data/australia/derived/top_suppliers_2025.csv}，访问日期2026年10月3日。2020年中国份额按129289/368488计算。}
+
+马来西亚16.41\%的增速来自进口额由3,003万美元增至6,421万美元，起点较小，规模仍远小于韩国和澳大利亚。中国供应份额81.25\%低于2020年的87.74\%，供货增加并未带来份额提升。6,579万美元基准额与9,877万美元EPI的差额形成33.39\%的未实现比例。后续要辨认增长集中的产品与价格带，检验石头科技扩大品牌覆盖的条件。\src{ITC Trade Map与EPM，来源ID TM-458-target\_import\_imports\_by\_supplier-VAL、EPM-458；\path{data/macro-market/ITC/ITC-analysis-result/cleaned/trade_annual.csv}及\path{cleaned/epi.csv}，访问日期2026年10月3日。2020年中国份额按26352/30034计算。}
+
+新西兰规模小、增长低，潜力占比却较高。基准出口额2,082万美元相当于3,877万美元潜在额的53.71\%，剩余比例46.29\%居五国首位，对应金额仅1,794万美元。中国供应份额由30.86\%升至53.52\%，总进口CAGR仅2.32\%，供货来源变化比需求扩张更突出。后续先验证细分用户与渠道容量，再形成销量判断。\src{ITC Trade Map与EPM，来源ID TM-554-target\_import\_imports\_by\_supplier-VAL、EPM-554；\path{data/macro-market/ITC/ITC-analysis-result/cleaned/trade_annual.csv}及\path{cleaned/epi.csv}，访问日期2026年10月3日。2020年中国份额按16090/52133计算。}
+
+日本未实现潜力占比较低，因为5.063亿美元基准出口额已占6.489亿美元潜在额的78.01\%，剩余21.99\%仍对应1.427亿美元。2020--2025年总进口由10.189亿美元降至7.594亿美元，自中国进口反由5.125亿美元升至5.502亿美元，收缩来自其他来源合计减少。第五名反映产品组增长和相对空间的短板，而非石头品牌需求下降。后续用终端证据辨认扫地机的新增购买、替代与升级。\src{ITC Trade Map与EPM，来源ID TM-392-target\_import\_imports\_by\_supplier-VAL、EPM-392；\path{data/macro-market/ITC/ITC-analysis-result/cleaned/trade_annual.csv}及\path{cleaned/epi.csv}，访问日期2026年10月3日。实现比例按506251200/648919894.53计算；其他来源合计为世界进口额减自中国进口额。}
 
 \subsubsection{敏感性检验}
 
-等权、熵权和战略权重的排名存在差异。增长率和未实现比例权重提高时，柬埔寨、新西兰等市场会上升；规模和未实现潜力金额权重提高时，日本、韩国和澳大利亚更靠前。5,000组围绕战略权重的随机扰动中，韩国进入前三的比例为98.9\%，日本为90.6\%，澳大利亚为62.9\%；新西兰为30.6\%。韩国和日本的入选较稳定，澳大利亚与新西兰构成边界选择。澳大利亚最终入选，是因为其2025年进口规模约为新西兰的7.3倍，且中国供应份额和进口增速更高。
+等权与熵权下，马来西亚均升至第二，日本则分别降至第八和第七。马来西亚的名次随权重变化，但在前五范围内较稳定。按既有5,000组随机权重的排名记录统计，韩国、澳大利亚、马来西亚、新西兰和日本进入前五的比例分别为100.00\%、99.76\%、99.88\%、80.44\%和65.26\%；印度尼西亚为44.78\%，仍应保留为边界观察市场。日本与新西兰主得分仅差0.0105，五国的次序不宜直接变成固定资源分配比例。\src{\path{data/macro-market/ITC/ITC-analysis-result/sensitivity_results.csv}及\path{model/intermediate/monte_carlo_ranks.csv}；前五频率按rank不大于5的次数除以5000统计，未重新抽样或重算模型。统计底表\path{main/graphics/itc_ranking_sensitivity_data.csv}保留计数与分母。}
+
+日本在剔除潜力比例指标时升至第三，金额不取对数时升至第二。这说明其排名受到相对空间与规模压缩的共同影响，也解释了保留第五名继续研究的必要性。后续市场策略应分别回应各国优势和约束，而不是为得到某个国家的优先结论调整权重。\src{本研究既有敏感性结果，\path{data/macro-market/ITC/ITC-analysis-result/sensitivity_results.csv}，日本leave\_out\_untapped\_ratio及amounts\_without\_log1p场景；模型运行日期2026年10月10日。}
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.90\textwidth]{ranking_sensitivity.pdf}
-\caption{5,000组权重扰动情景下进入前三名的比例}
+\caption{5,000组权重扰动情景下进入前五名的比例}
 \label{fig:sensitivity}
 \begin{minipage}{0.90\textwidth}\small
-数据来源：ITC模型输入；本研究采用随机种子850980，权重由以战略权重为中心的Dirichlet分布生成。
+数据来源：既有模型的5,000组随机排名记录，权重沿用以战略权重为中心的Dirichlet分布。本图仅重新统计前五频率，未改变抽样。
+% 历史随机种子850980保持不变，与本轮产品编码无关，另见图表provenance。
 \end{minipage}
 \end{figure}
 
 \subsection{第二阶段：石头科技适配度}
 
-第二阶段比较已有经营基础、产品覆盖、价格位置和渠道组织。日本与韩国并非从零进入：公司2022年年报已列示在两国设立海外公司，2025年年报把日本、澳大利亚列为前期已布局的市场。三国因此更适合研究已有业务如何深化，而不是设计首次出口方案。\src{北京石头世纪科技股份有限公司，《2022年年度报告》，第12页；《2025年年度报告》，第22页。本地证据记录RR26-0045、RR26-0046、RR26-0049、RR26-0050。}
+第二阶段比较经营基础、产品、价格和渠道。日韩已有海外公司，日本、澳大利亚在前期布局名单中；马来西亚已有品牌份额和代工证据。两国新增零售资料分别用于检验马来西亚的价格梯度与新西兰的供货、服务条件。\src{北京石头世纪科技股份有限公司，《2022年年度报告》，第12页；《2025年年度报告》，第22、26页；开源证券，2026年2月4日公司深度报告，第28页正文、第29页图43，转引欧睿2024年马来西亚品牌份额。本地记录RR26-0045、RR26-0046、RR26-0049、RR26-0050、RR26-0169、RR26-0194。新增零售资料见下表及第五部分的逐项尾注。}
 
 \begin{table}[H]
 \centering
 \caption{重点市场与石头科技已有经营基础的对应}
 \label{tab:casefit}
 \small
-\begin{tabular}{p{1.4cm}p{4.7cm}p{7.1cm}}
+\begin{tabular}{p{1.9cm}p{4.7cm}p{6.6cm}}
 \toprule
 市场 & 已有证据 & 对后续研究的含义\\
 \midrule
 日本 & 已设海外公司；Kakaku采得20个Roborock产品条目 & 核对中高价位产品的配置差异、渠道报价与售后体验\\
 韩国 & 已设海外公司；研报转引2024年石头份额30\%；Danawa一般购买样本20条 & 研究已有品牌基础如何与代理商经营和服务衔接\\
 澳大利亚 & 已布局市场；研报转引2024年石头份额25\%；GetPrice样本7条 & 结合促销销量与零售供货，比较不同价位产品的持续销售能力\\
+马来西亚 & 研报转引2024年石头份额8\%；PriceShop取得12个石头缓存产品页及新品报道；2025年新增当地代工 & 已有多层级产品线索，重点检验品牌触达与价格梯度；代工不替代当地销售、售后证据\\
+新西兰 & PriceSpy取得9个石头产品页，其中8个有合格新品报价，覆盖Q7B+、Qrevo与Saros系列 & 从逐型号供货、保修和维修条件判断细分经营空间，分国收入及品牌份额另待补充\\
 \bottomrule
 \end{tabular}
 \par\vspace{0.4em}
 \begin{minipage}{0.96\textwidth}\small
-资料来源：公司年报、开源证券及三国零售快照。SKU按网站产品ID计数，2026年10月2日采集，每品牌每网站最多选取20条；不代表品牌完整产品数量。\src{公司经营基础见上引年报；开源证券，2026年2月4日公司深度报告，第28页图43及正文，转引欧睿；原文未明确品牌份额为销额或销量口径，沿用“份额”名称。零售计数据\path{data/macro-market/competition/retail-website-data/cleaned/products.csv}，对应来源见该资料包\path{metadata/source_ledger.csv}。}
+资料来源：公司年报、开源证券与五国零售资料；各国产品页计数口径见表\ref{tab:retailsample}。\src{公司经营基础见上引年报；开源证券，2026年2月4日公司深度报告，第28页正文及第29页图43，转引欧睿，品牌份额未明确销额或销量分母。马来西亚记录RR26-0194、RR26-0169。PriceSpy与PriceShop，访问日期2026年10月10日；底表为\path{data/macro-market/competition/retail-website-data/cleaned/products_NZL_detailed.csv}及\path{cleaned/products_MYS_detailed.csv}，逐条URL、原始快照和访问时间见同资料包\path{metadata/source_ledger_NZL.csv}、\path{metadata/source_ledger_MYS.csv}。}
 \end{minipage}
 \end{table}
 
-现有证据支持三国继续深入研究，但企业层面尚缺同口径的分国收入、利润及服务指标，第二阶段采用证据对照，不另造适配分数。第五部分据此把贸易、品牌与终端产品放在同一比较框架中。
+分国收入、利润及服务指标尚未对齐，第二阶段先作证据对照：日韩澳深化经营研究，马来西亚检验品牌覆盖，新西兰验证少量型号能否支撑持续服务。
 
-% TODO[WIND-STRATEGY]: 补充三国首次进入时间及管理层对分国资源安排的公开表述。
-% TODO[WIND-COMPANY]: 补充三国同口径收入、利润、渠道覆盖和售后指标，再确定是否进行企业适配量化评分。
+% TODO[WIND-STRATEGY]: 补充五国首次进入时间及管理层对分国资源安排的公开表述，优先补马来西亚和新西兰。
+% TODO[WIND-COMPANY]: 补充五国同口径收入、利润、渠道覆盖和售后指标，再确定是否进行企业适配量化评分。
 
 \subsection{市场选择结论}
 
-第一阶段结果将韩国、日本和澳大利亚确定为深入研究对象。韩国在规模、正增长和未实现潜力之间较为均衡；日本拥有最大的需求池；澳大利亚同时具备正增长、较高中国供应份额和英语市场观察价值。这个结论说明三国值得进入目标市场比较，不代表已经完成针对石头科技的投资或进入决策。第五部分将沿贸易绩效、竞争、季节性和价格四个维度比较三国，再把可用证据与案例企业联系起来。
+第一阶段保留韩国、澳大利亚、马来西亚、新西兰和日本作为重点研究对象，印度尼西亚列入边界观察。第五部分沿贸易绩效、竞争、季节性和价格四个维度比较五国；第六部分再结合石头科技的经营基础，分别讨论规模经营、增长承接、细分拓展与产品升级的条件。
 
 \section{目标市场特性}
 
 \subsection{目标市场的贸易绩效评估}
 
-表\ref{tab:top3}显示，旧口径基线中的三国规模与增长组合不同。日本2025年进口额为5.313亿美元，ITC EPI为6.433亿美元，未实现潜力2.172亿美元，三项规模指标均居候选市场首位；五年进口CAGR为$-3.57\%$，该产品组的进口扩张偏弱。韩国进口额为3.073亿美元，五年CAGR为7.12\%，EPI为4.593亿美元，未实现潜力1.601亿美元，规模和增长共同支撑其战略权重排名。澳大利亚进口额为2.031亿美元，五年CAGR为6.10\%，EPI为2.092亿美元，未实现潜力6,316万美元；其进口规模约为新西兰的7.3倍，因此在敏感性分析的边界选择中胜出。
+表\ref{tab:top3}的规模、增长与潜力组合决定五国研究方向；2026年海关小范围占比又揭示出口产品结构的差异。贸易筛选之后，还需用扫地机终端销售与用户资料检验机会。
 
 贸易产品组之外，扫地机终端市场提供了另一层比较。开源证券转引欧睿数据，2024年韩国扫地机销售额为2.68亿美元，五年CAGR为15\%；澳大利亚为1.38亿美元，五年CAGR为7\%，两国当年同比增速分别为4\%和9\%。韩国的绝对规模与长期增长更强，澳大利亚当年增长更快。日本缺少同口径终端销售额，仍需结合产品与渠道观察其需求变化，不能用海关进口额填入零售规模。\src{开源证券，2026年2月4日公司深度报告，第27页图37、图38及正文，转引欧睿；本地证据记录RR26-0033、RR26-0034。销售额与五年CAGR取该页明确列示值，2024年同比采用图题标注。两国零售销售额不与ITC进口额相加或计算同口径占比。}
+
+同一研报图42列示马来西亚2024年扫地机销售额为0.20亿美元，同比增长10\%。终端规模小于韩国和澳大利亚，仍在扩张；产品研究应兼顾降低首次购买门槛与支持升级的功能。\src{开源证券，2026年2月4日公司深度报告，第28页图42，转引欧睿；本地记录RR26-0200。按图表优先采用0.20亿美元及10\%，不采用正文冲突的0.32亿美元；待核验的正文五年CAGR记录RR26-0206不进入比较。}
+
+新西兰已取得37个扫地机产品页，26个有合格新品报价，其中石头为8个。产品组的绝对潜力金额较小，应从这些型号验证渠道容量。年报、研报尚缺终端销售总额，产品页只用于识别研究对象。\src{PriceSpy，新西兰机器人吸尘器公开产品页，\url{https://pricespy.co.nz/category.php?k=520}，访问日期2026年10月10日。底表\path{data/macro-market/competition/retail-website-data/cleaned/products_NZL_detailed.csv}，覆盖统计见\path{analysis/coverage_NZL_MYS.json}，逐条URL见\path{metadata/source_ledger_NZL.csv}。公司及研报证据缺口见\path{data/report-research-evidence/evidence/02_target_markets/new-zealand/README.md}。}
+% TODO[RETAIL-NZ]: 补充新西兰扫地机终端销售规模、销量和品牌份额；已有SKU及报价基础上继续核对本地保修、服务与渠道容量。
 
 \subsection{目标市场竞争力分析}
 
 \begin{table}[H]
 \centering
-\caption{前三市场的供应国竞争结构（2025年）}
+\caption{五个重点市场的供应国竞争结构（2025年）}
 \label{tab:competition}
 \small
 \begin{tabular}{lrrlrr}
@@ -352,56 +372,63 @@ $C_i$越高，市场在当前指标和权重下越接近理想组合。
 市场 & 中国份额 & 中国排名 & 第二供应国 & 第二供应国份额 & 份额差\\
  & \% & & & \% & 百分点\\
 \midrule
-日本 & 73.81 & 1 & 泰国 & 9.84 & 63.97\\
-韩国 & 84.12 & 1 & 泰国 & 6.38 & 77.74\\
-澳大利亚 & 85.12 & 1 & 德国 & 9.76 & 75.36\\
+韩国 & 78.44 & 1 & 越南 & 12.43 & 66.00\\
+澳大利亚 & 62.09 & 1 & 马来西亚 & 22.82 & 39.28\\
+马来西亚 & 81.25 & 1 & 英国 & 13.92 & 67.33\\
+新西兰 & 53.52 & 1 & 马来西亚 & 24.49 & 29.04\\
+日本 & 72.46 & 1 & 马来西亚 & 17.25 & 55.21\\
 \bottomrule
 \end{tabular}
 \par\vspace{0.4em}
 \begin{minipage}{0.92\textwidth}\small
-数据来源：ITC Trade Map三国2025年按供应国进口派生表。
+数据来源：ITC Trade Map五国2025年按供应国进口派生表；份额差按未舍入值计算后保留两位小数。\src{ITC Trade Map，HS850811，访问日期2026年10月3日；\path{data/macro-market/ITC/ITC-data/}下south-korea、australia、malaysia、new-zealand、japan的\path{derived/top_suppliers_2025.csv}。来源ID为对应TM国家代码的target\_import\_imports\_by\_supplier-VAL记录。}
 \end{minipage}
 \end{table}
 
 \begin{figure}[H]
 \centering
 \includegraphics[width=0.84\textwidth]{supplier_concentration.pdf}
-\caption{前三市场的供应来源集中度}
+\caption{五个重点市场的供应来源结构}
 \label{fig:supplier}
 \begin{minipage}{0.84\textwidth}\small
-数据来源：ITC Trade Map三国2025年按供应国进口派生表。第二供应国在日本、韩国均为泰国，在澳大利亚为德国。
+数据来源：ITC Trade Map五国2025年按供应国进口派生表；按中国、第二供应国及其余来源分组，底表见\path{main/graphics/itc_supplier_concentration_data.csv}。
 \end{minipage}
 \end{figure}
 
-图\ref{fig:supplier}显示，中国在三国均拥有超过七成的供应份额。日本和韩国的第二供应国均为泰国，澳大利亚则为德国；三个市场的供应来源差异说明，宏观竞争不能只用中国份额概括。对石头科技而言，高中国份额意味着消费者会同时比较多家中国品牌，竞争焦点落在产品差异、品牌溢价、渠道和售后，而不是再次证明中国制造能力。\src{国际贸易中心（ITC），Trade Map，HS850980：日本、韩国和澳大利亚2025年按供应国进口排名，访问日期2026年9月5日。}
+图\ref{fig:supplier}显示，中国在五国均占过半供应份额，但澳大利亚和新西兰的其他来源空间更大；日本、澳大利亚和新西兰的第二供应国均为马来西亚。生产来源与品牌国别并不相同，后续应追踪主要品牌的产地和产品配置，区分品牌替代与区域生产转移。马来西亚市场本身则由中国和英国构成主要来源，需继续核对这些来源对应哪些品牌和价格带。
 
 品牌层面，开源证券转引的2024年石头科技份额在韩国为30\%、澳大利亚为25\%。日本尚缺同口径品牌份额，不能从中国来源份额反推。韩国和澳大利亚已有品牌基础，后续竞争分析更应关注守住何种价格段、用哪些产品扩大用户覆盖。\src{开源证券，2026年2月4日公司深度报告，第28页图43及正文，转引欧睿；本地证据记录RR26-0035、RR26-0036。保留2024年统计值，不用该研报对2025年的估计替代实绩。}
 
+研报图43列示石头在马来西亚的2024年份额为8\%，低于韩国和澳大利亚。开源证券认为消费者教育和价格带上移有助于石头在东南亚提升份额；当地产品与报价可用于检验这一地区判断。\src{开源证券，2026年2月4日公司深度报告，第29页图43、第28页正文，转引欧睿；本地记录RR26-0194及RR26-0207。8\%沿用来源“份额”名称；价格带上移为券商对东南亚的区域解释。}
+
 \begin{table}[H]
 \centering
-\caption{五品牌在三国零售快照中的一般购买产品条目数}
+\caption{五国零售资料中已采得的五品牌扫地机产品页}
 \label{tab:retailsample}
 \small
-\begin{tabular}{lrrr}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lrrrrr}
 \toprule
-品牌 & 日本Kakaku & 韩国Danawa & 澳大利亚GetPrice\\
+品牌 & 日本 & 韩国 & 澳大利亚 & 马来西亚 & 新西兰\\
+ & Kakaku & Danawa & GetPrice & PriceShop & PriceSpy\\
 \midrule
-Roborock & 20 & 20 & 7\\
-Ecovacs & 16 & 16 & 8\\
-Xiaomi & 6 & 9 & 未采得\\
-Dreame & 13 & 19 & 4\\
-Narwal & 8 & 10 & 未采得\\
+Roborock & 20 & 20 & 7 & 12 & 9\\
+Ecovacs & 16 & 16 & 8 & 13 & 8\\
+Xiaomi & 6 & 9 & --- & 13 & 6\\
+Dreame & 13 & 19 & 4 & 6 & 12\\
+Narwal & 8 & 10 & --- & --- & 2\\
 \midrule
-合计 & 63 & 74 & 19\\
+合计 & 63 & 74 & 19 & 44 & 37\\
 \bottomrule
 \end{tabular}
 \par\vspace{0.4em}
 \begin{minipage}{0.94\textwidth}\small
-数据来源：2026年10月2日公开零售页面采集；韩国另有14条海外购记录，不纳入本表。不同颜色、套装或地区版本可能分别形成产品ID；“未采得”不代表当地没有销售。\src{価格.com（Kakaku）、Danawa、GetPrice，五品牌公开产品页，采集日期2026年10月2日。本地底表\path{data/macro-market/competition/retail-website-data/cleaned/products.csv}及\path{analysis/brand_summary.csv}；逐条产品URL、访问时间、原始响应与校验值见同资料包\path{metadata/source_ledger.csv}。网站入口分别为\url{https://kakaku.com/}、\url{https://www.danawa.com/}、\url{https://www.getprice.com.au/}。}
+数据来源：日韩澳为2026年10月2日一般购买快照，韩国排除14条海外购；马来西亚、新西兰为10月10日采集。马来西亚计缓存产品页，新西兰计含无合格报价的产品页，数量不代表完整在售目录；“---”为未采得可读产品页。\src{価格.com（Kakaku，\url{https://kakaku.com/}）、Danawa（\url{https://www.danawa.com/}）、GetPrice（\url{https://www.getprice.com.au/}）、PriceShop（提供者Price Guide Sdn Bhd，\url{https://my.priceshop.com/en/}）与PriceSpy（\url{https://pricespy.co.nz/}），访问日期分别为2026年10月2日及10日。底表\path{data/macro-market/competition/retail-website-data/cleaned/products.csv}；马来西亚与新西兰逐国明细见\path{cleaned/products_MYS_detailed.csv}及\path{cleaned/products_NZL_detailed.csv}。逐页URL、访问时间与原始快照见同资料包\path{metadata/source_ledger.csv}、\path{metadata/source_ledger_MYS.csv}及\path{metadata/source_ledger_NZL.csv}。}
 \end{minipage}
 \end{table}
 
-日本与韩国样本都覆盖五个品牌，显示石头科技要面对相近功能产品的直接比较。澳大利亚仅采得三品牌，适合做已有型号的价格和供货观察，不能据样本数量判断市场集中度。竞争比较还应落到导航、拖地维护、毛发处理和售后承诺，网站排名与产品条目数都不等于销量。
+日韩样本覆盖五品牌，澳大利亚现有三品牌样本以逐型号观察为主。马来西亚四品牌取得缓存产品页，云鲸另有上市和开店报道。新西兰石头、科沃斯、小米和追觅分别有8、5、6、7个有价产品，云鲸两个页面无活跃报价。五国竞争比较应落到配置、供货和保修，条目数不作市场份额。\src{PriceShop，2025年9月29日云鲸上市报道及2026年5月8日Sunway Velocity门店报道，\url{https://my.priceshop.com/en/news/narwal-freo-flow-freo-x10-pro-and-s30-malaysia/}、\url{https://my.priceshop.com/en/news/narwal-first-flagship-store-sunway-velocity-malaysia/}，访问日期2026年10月10日；历史证据见\path{data/macro-market/competition/retail-website-data/cleaned/historical_price_evidence_MYS.csv}，来源ID SRC-20261010-MYS-PriceShop-Narwal-20250929及SRC-20261010-MYS-PS-NEWS-narwal-store-20260508。新西兰有价产品数按\path{cleaned/products_NZL_detailed.csv}非空representative\_price计数，见\path{analysis/brand_summary_NZL_MYS.csv}及\path{metadata/source_ledger_NZL.csv}；两个无报价页面不等于云鲸未在新西兰销售。}
+% TODO[RETAIL-MY-NZ]: 更新PriceShop正常报价及缓存时点；补充两国授权分销、本地保修和同型号配置，继续区分型号、套装与地区变体。
 
 \subsection{目标市场季节性分析}
 
@@ -411,7 +438,11 @@ Narwal & 8 & 10 & 未采得\\
 
 澳大利亚两次促销案例都出现较大销量增幅，研究重点应从“旺季是否存在”进一步转向促销价、备货和售后能否承接集中订单；日本则要观察促销带来的新客是否转化为常态销售。韩国可先跟踪当地渠道的促销排期，再与订单、维修和退货记录匹配，不套用另外两国的峰值。
 
-% TODO[RETAIL-SEASON]: 补充三国月度销售、搜索或零售数据，比较各自的促销峰值和备货提前期。
+马来西亚有年末电商与门店活动两类线索。PriceShop列示2025年12.12小米S40从1,099降至699林吉特，折让36.4\%；云鲸在2026年5月8日开店当天赠送洗地机。石头的促销比较应同时考虑折让、赠品与平台限定，不把活动价作常态价。\src{PriceShop，Raymond Saw，2025年12月9日12.12活动报道，\url{https://my.priceshop.com/en/news/xiaomi-malaysia-12-12-2025-sales-discount-promo/}；Hamka Rosli，2026年5月8日云鲸Sunway Velocity门店报道，\url{https://my.priceshop.com/en/news/narwal-first-flagship-store-sunway-velocity-malaysia/}；访问日期2026年10月10日。来源ID SRC-20261010-MYS-PS-NEWS-xiaomi-1212-20251209及SRC-20261010-MYS-PS-NEWS-narwal-store-20260508，原始记录见\path{data/macro-market/competition/retail-website-data/raw/MYS-PriceShop/20261010/}。折让按(1099-699)/1099计算；套装价格不拆为单机价格，均为已结束活动。}
+
+新西兰35个产品页只有三个月价格摘要，尚不能定位年度旺季。26个有价型号中13个仅取得一条合格报价，应连续跟踪价格与库存，把供货稳定性纳入促销备货判断。\src{PriceSpy，访问日期2026年10月10日；\path{data/macro-market/competition/retail-website-data/cleaned/price_history_NZL.csv}仅为页面公开摘要，覆盖分母为37个产品页；合格报价与单报价产品数见\path{cleaned/products_NZL_detailed.csv}及\path{analysis/coverage_NZL_MYS.json}，逐页URL与访问时间见\path{metadata/source_ledger_NZL.csv}。}
+
+% TODO[RETAIL-SEASON]: 补充五国月度销售、搜索或零售数据；马来西亚在已有活动日期上补订单，新西兰在三个月公开价格摘要基础上建立完整序列，检验峰值及备货提前期。
 
 \subsection{价格定位分析}
 
@@ -420,7 +451,7 @@ Narwal & 8 & 10 & 未采得\\
 \begin{figure}[H]
 \centering
 \includegraphics[width=\textwidth]{retail_brand_price_comparison.pdf}
-\caption{三国零售样本的品牌代表价中位数}
+\caption{日韩澳零售快照的品牌代表价中位数}
 \label{fig:retailprice}
 \begin{minipage}{0.96\textwidth}\small
 数据来源：Kakaku、Danawa与GetPrice，2026年10月2日快照。正常报价不少于3条时取中位数，否则取最低正常报价，再按品牌取产品代表价中位数；不按销量加权。各图使用当地货币和独立尺度，不用于跨国绝对价格比较。\src{底表\path{data/macro-market/competition/retail-website-data/cleaned/products.csv}，逐条URL与访问时间见\path{metadata/source_ledger.csv}。图中日本、韩国、澳大利亚分别含63、74、19条有价一般购买产品；韩国排除海外购。计算底表\path{main/graphics/retail_brand_price_data.csv}，可回溯source\_ledger\_ids。}
@@ -428,6 +459,35 @@ Narwal & 8 & 10 & 未采得\\
 \end{figure}
 
 澳大利亚样本中，石头中位价为897澳元，科沃斯为749澳元，追觅为1,792.5澳元。但石头7条记录中仅2条有至少3家正常报价；改用这2条，中位价升至2,898.5澳元。样本选择会显著改变品牌价位印象，因此澳大利亚宜逐型号核对，而非凭汇总中位价确定定位。\src{GetPrice，2026年10月2日产品快照，Roborock来源SRC-AUS-0003至SRC-AUS-0009；至少3条正常报价的记录为Saros 20（代表价2,999澳元）与Qrevo Edge 2 Pro（2,798澳元）。本研究据清洗层normal\_offer\_count筛选并计算；底表\path{main/graphics/retail_brand_price_data.csv}。}
+
+新西兰石头样本中位价接近追觅，高于科沃斯和小米，分布见表\ref{tab:nzlprice}。Q7B+、Qrevo 2 Pro与Saros 20代表价分别为499、1,893.50和3,265.50新西兰元，后续可沿这一型号梯度检验功能价差与购买理由。\src{PriceSpy，访问日期2026年10月10日；品牌中位数见\path{data/macro-market/competition/retail-website-data/analysis/brand_summary_NZL_MYS.csv}，按有合格新品报价的产品代表价计算，不按销量加权。Q7B+、Qrevo 2 Pro及Saros 20原页分别为\url{https://pricespy.co.nz/product.php?p=16004718}、\url{https://pricespy.co.nz/product.php?p=16964950}、\url{https://pricespy.co.nz/product.php?p=16030637}；来源ID为SRC-20261010-NZL加对应产品ID，明细\path{cleaned/products_NZL_detailed.csv}。新西兰不少于两条合格新品报价取中位数，单报价照录；与日韩澳原采样规则分别解释。}
+
+\begin{table}[H]
+\centering
+\caption{新西兰有价产品样本的品牌价格分布}
+\label{tab:nzlprice}
+\small
+\begin{tabular}{lrrrr}
+\toprule
+品牌 & 有价产品数 & 最低代表价 & 代表价中位数 & 最高代表价\\
+ & & \multicolumn{3}{c}{新西兰元}\\
+\midrule
+Roborock & 8 & 499.00 & 2,145.75 & 3,265.50\\
+Ecovacs & 5 & 899.00 & 1,999.00 & 2,999.00\\
+Xiaomi & 6 & 226.31 & 463.04 & 1,047.59\\
+Dreame & 7 & 888.00 & 2,199.00 & 3,296.00\\
+Narwal & 0 & --- & --- & ---\\
+\bottomrule
+\end{tabular}
+\par\vspace{0.4em}
+\begin{minipage}{0.94\textwidth}\small
+数据来源：PriceSpy，2026年10月10日公开页面。价格按型号分别计算后汇总，不含未知运费；部分报价库存未确认，云鲸无价不表示未销售。\src{底表\path{data/macro-market/competition/retail-website-data/cleaned/products_NZL_detailed.csv}，来源台账\path{metadata/source_ledger_NZL.csv}；价格分布复算依据为有价26条记录，产品页总数及无价记录见表\ref{tab:retailsample}。}
+\end{minipage}
+\end{table}
+
+库存条件会改变价格判断。Qrevo C Pro两条报价为899和1,885.25新西兰元，中位数1,392.13元；低价库存未知，仅留在库报价时升至1,885.25元。定位须同时核对可交付价格与保修。\src{PriceSpy，Roborock Qrevo C Pro，\url{https://pricespy.co.nz/product.php?p=15953163}，访问日期2026年10月10日；来源ID SRC-20261010-NZL-15953163。Farmers报价899元，页面标注Unknown stock；Ascent报价1,885.25元，页面标注In stock。原始快照\path{data/macro-market/competition/retail-website-data/raw/NZL-PriceSpy/product_15953163.json}；清洗表保存未舍入中位数1,392.125及confirmed\_in\_stock\_only价格。}
+
+马来西亚以PriceShop新品报道识别梯度：2026年5月20日Qrevo S Pro与Curv 2 Flow分别为2,699和3,999林吉特，5月19日Saros 20为5,399林吉特。已有产品覆盖不同价位，下一步检验维护功能能否支持价差。44个缓存商品页日期不一，不与报道价合算当期中位价。\src{PriceShop（Price Guide Sdn Bhd），Raymond Saw，2026年5月20日Qrevo系列报道，\url{https://my.priceshop.com/en/news/roborock-qrevo-curv-2-flow-and-qrevo-s-pro-powerful-everyday-robot-vacuums-from-rm2699/}；2026年5月19日Saros 20系列报道，\url{https://my.priceshop.com/en/news/roborock-saros-20-series-their-most-advanced-premium-robot-vacuums-yet-from-rm5399/}；访问日期2026年10月10日。来源ID SRC-20261010-MYS-PS-NEWS-roborock-qrevo-20260520及SRC-20261010-MYS-PS-NEWS-roborock-saros-20260519，明细\path{data/macro-market/competition/retail-website-data/cleaned/historical_price_evidence_MYS.csv}。三项均为发表时价格，不是访问当日成交价；缓存商品报价时效见\path{analysis/priceshop_MYS_20261010.md}。}
 
 最终零售价应从目标贡献毛利倒推：
 
@@ -438,27 +498,29 @@ P=\frac{C_{FOB}+C_{freight}+C_{duty}+C_{channel}+C_{service}}{1-m},
 其中$m$为目标贡献毛利率，服务成本包括退换货、维修、备件和客服。该式用于检查零售价格能否覆盖渠道与服务，不把集团毛利率当作单国、单型号的目标贡献毛利率。
 
 % TODO[RETAIL-SKU]: 补充澳大利亚小米与云鲸样本，增加正常报价覆盖，并按同档功能、上市时间和本地保修条件作逐型号比较。
-% TODO[WIND-PRODUCT]: 补充三国分价格带整机收入、销量与ASP。
-
-四个维度的比较说明，三国不是同一种市场机会。第六部分将把这些外部差异与石头科技已有产品能力、渠道和合规条件重新汇合，识别可以延续的经验和仍需补足的能力。
+% TODO[WIND-PRODUCT]: 补充五国分价格带整机收入、销量与ASP，并与当地SKU正常报价匹配。
 
 \section{前景分析}
 
-\subsection{三国市场机会与石头科技适配}
+\subsection{五国市场机会与石头科技适配}
 
-外部市场吸引力与企业已有基础汇合后，三国呈现不同的开拓重点。韩国已有品牌份额和本地组织基础，适合研究代理渠道如何维持产品竞争与服务质量；日本已有海外公司和较完整的零售产品梯度，重点是把功能差异转化为购买理由；澳大利亚已有品牌份额与促销销量，重点转向常态供货、产品组合和促销后盈利。
+五国分别检验不同经营问题：韩国的代理渠道、澳大利亚的促销与常态经营、日本的替代与升级、马来西亚的产品梯度与品牌覆盖，以及新西兰少量型号的持续供货与服务成本。
 
 欧美经验提供了可借鉴的渠道路径。2022年年报列示美国Amazon、Home Depot、Target等线上品牌店，2023年年报披露首次进入美国Target线下并覆盖180多家门店；2024年年报披露北美Target覆盖1,398家、Best Buy覆盖900家。线上运营、线下陈列与本地服务的积累，可以为RCEP市场深化经营提供经验，但应按当地代理与零售体系调整。\src{北京石头世纪科技股份有限公司，《2022年年度报告》，第12页；《2023年年度报告》，第15页；《2024年年度报告》，PDF第44页、印刷第43页。180多家为2023年美国Target门店；2024年1,398家及900家保留年报“北美”区域口径。本地证据记录RR26-0055--RR26-0057。}
 
 \subsection{产品}
 
-官网产品矩阵可把适配问题落到具体功能。Saros 10R具有7.98厘米机身和底盘升降，适合检验低矮家具与门槛通过；Qrevo 2 Pro配置地毯自动卸拖布和防缠绕结构，可检验混合地面、毛发清理与日常维护；Q10系列提供自动集尘、激光导航和避障，构成较低门槛的功能组合。这里的场景匹配是依据功能提出的研究方向，官网全球或美国版本不自动视为三国同配置在售版本。\src{Roborock官方产品页，2026年9月14日资料快照；本地\path{data/roborock-company/product-matrix/roborock_product_matrix.json}，Saros 10R、Qrevo 2 Pro、Q10 Series三项。页面分别为\url{https://us.roborock.com/pages/roborock-saros-10r}、\url{https://us.roborock.com/pages/roborock-qrevo-2-pro}、\url{https://global.roborock.com/pages/roborock-q-series}。}
+官网产品矩阵可把适配问题落到具体功能。Saros 10R具有7.98厘米机身和底盘升降，适合检验低矮家具与门槛通过；Qrevo 2 Pro配置地毯自动卸拖布和防缠绕结构，可检验混合地面、毛发清理与日常维护；Q10系列提供自动集尘、激光导航和避障，构成较低门槛的功能组合。这里的场景匹配是依据功能提出的研究方向，官网全球或美国版本不自动视为五国同配置在售版本。\src{Roborock官方产品页，2026年9月14日资料快照；本地\path{data/roborock-company/product-matrix/roborock_product_matrix.json}，Saros 10R、Qrevo 2 Pro、Q10 Series三项。页面分别为\url{https://us.roborock.com/pages/roborock-saros-10r}、\url{https://us.roborock.com/pages/roborock-qrevo-2-pro}、\url{https://global.roborock.com/pages/roborock-q-series}。}
 
-日本零售样本已经包含Q7、Qrevo和Saros等层级，优先比较不同配置能否支持价差；韩国可结合较宽的卖家覆盖，比较全能基站款的功能和服务承诺；澳大利亚则把地毯处理、防缠绕与售后备件列为实测项目。开源证券对云鲸早期出海的分析认为，偏重拖布自清洁的产品与海外地毯清扫需求发生错配。该案例提示，出口产品不能只沿用国内卖点，应先确认当地家庭实际遇到的清洁问题。\src{Kakaku、Danawa，2026年10月2日产品样本，见\path{data/macro-market/competition/retail-website-data/cleaned/products.csv}；开源证券，2026年2月4日公司深度报告，第13页，关于云鲸产品与海外需求错配的分析，本地证据记录RR26-0175。该原因判断为券商分析，不作为三国消费者调查结论。}
+日本零售样本已经包含Q7、Qrevo和Saros等层级，优先比较不同配置能否支持价差；韩国可结合较宽的卖家覆盖，比较全能基站款的功能和服务承诺；澳大利亚则把地毯处理、防缠绕与售后备件列为实测项目。开源证券对云鲸早期出海的分析认为，偏重拖布自清洁的产品与海外地毯清扫需求发生错配。该案例提示，出口产品不能只沿用国内卖点，应先确认当地家庭实际遇到的清洁问题。\src{Kakaku、Danawa，2026年10月2日产品样本，见\path{data/macro-market/competition/retail-website-data/cleaned/products.csv}；开源证券，2026年2月4日公司深度报告，第13页，关于云鲸产品与海外需求错配的分析，本地证据记录RR26-0175。该原因判断为券商分析，不作为五国消费者调查结论。}
+
+马来西亚沿Qrevo、Saros梯度检验减少维护能否支持升级。新西兰围绕少量型号比较功能：PriceSpy的Qrevo C Pro列有激光导航、自动集尘和拖布烘干，Saros 20还列有障碍感知，可据此连接配置、体验与价格。\src{马来西亚产品梯度见第5.4节PriceShop新品报道。PriceSpy，Roborock Qrevo C Pro与Saros 20，\url{https://pricespy.co.nz/product.php?p=15953163}、\url{https://pricespy.co.nz/product.php?p=16030637}，访问日期2026年10月10日；来源ID SRC-20261010-NZL-15953163及SRC-20261010-NZL-16030637，原始规格保存在\path{data/macro-market/competition/retail-website-data/raw/NZL-PriceSpy/}相应产品JSON的selected\_specifications\_raw字段。页面未列示的功能不记为不具备。}
 
 \subsection{价格}
 
-价格判断与第5.4节衔接：日本与韩国样本支持中高价位产品覆盖，澳大利亚需要先补足逐型号正常报价。集团层面，2025年境外主营业务毛利率为48.15\%，较上年下降5.55个百分点；直营收入89.73亿元，同比增长71.20\%，直营毛利率却下降7.41个百分点。渠道扩张扩大了销售触达，也伴随关税、运费和售后投入增加。市场开拓应同步检查促销折让与单台服务负担，不能把收入增长本身视为盈利改善。\src{北京石头世纪科技股份有限公司，《2025年年度报告》，第54--55页，分地区、分销售模式收入成本表及变动原因说明。直营收入原值8,972,779,823元；上述毛利率均为公司分部披露，不是三国单独指标。}
+价格判断与第5.4节衔接：日本与韩国样本支持中高价位产品覆盖，澳大利亚需要先补足逐型号正常报价；马来西亚区分新品报道价与活动价，新西兰区分有价产品与可交付报价。集团层面，2025年境外主营业务毛利率为48.15\%，较上年下降5.55个百分点；直营收入89.73亿元，同比增长71.20\%，直营毛利率却下降7.41个百分点。渠道扩张扩大了销售触达，也伴随关税、运费和售后投入增加。市场开拓应同步检查促销折让与单台服务负担，不能把收入增长本身视为盈利改善。\src{北京石头世纪科技股份有限公司，《2025年年度报告》，第54--55页，分地区、分销售模式收入成本表及变动原因说明。直营收入原值8,972,779,823元；上述毛利率均为公司分部披露，不是五国单独指标。}
+
+马来西亚将优惠原产条件、赠品和正常售价纳入单台贡献测算。新西兰产品组规模较小、部分报价单一，扩充SKU前先核对单台物流、维修和备件负担；两国均按第5.4节的成本关系检验售价。
 
 \subsection{人员、渠道与服务}
 
@@ -466,35 +528,41 @@ P=\frac{C_{FOB}+C_{freight}+C_{duty}+C_{channel}+C_{service}}{1-m},
 
 公司年报提示，经销商兼营竞品可能分流资源，不同渠道价格竞争也可能引起冲突。因而日本的多层级产品、韩国的代理合作和澳大利亚的促销供货，都需要配套型号分工、价格沟通、当地语言客服与退换修责任。服务网络应与渠道扩张同步推进，先观察退货率、维修周期和备件可得性，再判断扩大覆盖是否改善经营质量。\src{北京石头世纪科技股份有限公司，《2025年年度报告》，第49--50页，海外经营与经销商管理风险；本地证据记录RR26-0184--RR26-0186。}
 
+马来西亚PriceShop的2025年云鲸上市报道列有官方Shopee店及Aihome门店，2026年又报道Sunway Velocity品牌店。石头可据竞品触点核对演示、线上转化和售后的伙伴分工，代工布局另作供应证据。\src{PriceShop，2025年9月29日云鲸上市报道及2026年5月8日门店报道，URL与来源ID见第5.2节尾注，访问日期2026年10月10日。渠道原文见\path{data/macro-market/competition/retail-website-data/cleaned/launch_availability_MYS.json}的reported\_sales\_channels，以及\path{raw/MYS-PriceShop/20261010/news_narwal-store-20260508.json}的location\_raw和报道标题；均为报道当时的竞品渠道。}
+
+新西兰Saros 20页面列出Farmers、Heathcote Appliances、JB Hi-Fi和Ascent，后三家标注在库。可从这些零售触点核实授权、退换修与备件责任，判断持续销售的承接条件。\src{PriceSpy，Roborock Saros 20，\url{https://pricespy.co.nz/product.php?p=16030637}，访问日期2026年10月10日；来源ID SRC-20261010-NZL-16030637。四家报价及库存原文见\path{data/macro-market/competition/retail-website-data/raw/NZL-PriceSpy/product_16030637.json}；采集未跳转商家验证授权和保修。}
+
 \subsection{许可、合规与RCEP规则}
 
 上市前应核对目的国的电器安全、无线通信、能效和消费者保护要求。RCEP规则进一步影响关税适用、原产资格、证明文件和通关流程。
 
-RCEP第2.4条要求成员方对原产货物按附件一承诺表实施关税减让；当实际最惠国税率更低时，进口商可以适用更低的最惠国税率。第2.6条进一步处理不同RCEP出口方税率存在差异时的“RCEP原产国”问题，第2.7条和第2.14条要求以协调制度进行商品归类并处理税表转版。这些条款把三个问题连在一起：先将产品映射到进口国税则线，再判断原产资格，最后比较RCEP税率与实际最惠国税率。下表保留既有8509.80核对结果，新归类应另查对应税表和产品特定原产地规则。\src{《区域全面经济伙伴关系协定》第2章“货物贸易”，第2.4、2.6、2.7和2.14条。}
+RCEP第2.4条要求成员方对原产货物按附件一承诺表实施关税减让；当实际最惠国税率更低时，进口商可以适用更低的最惠国税率。第2.6条处理不同出口方税率存在差异时的“RCEP原产国”问题，第2.7条和第2.14条要求以协调制度归类并处理税表转版。企业需要先映射进口国税则线，再判断原产资格，最后比较可用方案。表\ref{tab:rceptariff}按更新后的ITC记录区分MFN、RCEP与其他对华优惠。\src{《区域全面经济伙伴关系协定》第2章“货物贸易”，第2.4、2.6、2.7和2.14条；本地原文\path{data/macro-market/RCEP-rules/01-agreement/02_trade_in_goods_cn.pdf}。}
 
 \begin{table}[H]
 \centering
-\caption{前三市场旧口径HS8509.80税则承诺与准入记录}
+\caption{五个重点市场HS850811相关税则线的关税记录（2026年）}
 \label{tab:rceptariff}
 \small
-\begin{tabular}{p{2.1cm}p{3.0cm}p{4.5cm}p{3.0cm}}
+\begin{tabular}{p{2.0cm}p{3.4cm}rrp{3.8cm}}
 \toprule
-市场 & 税则线 & RCEP承诺表 & ITC当前返回税率\\
+市场 & 税则线 & MFN & RCEP & 其他对华优惠\\
 \midrule
-日本 & 850980.000 & Other appliances：Free & 0\%\\
-韩国 & 8509.80.90.00 & 对中国表，基准8\%，第一年起0\% & 0\%\\
-澳大利亚 & 8509.80.90 & 基准及所列年度均为0\% & 0\%\\
+韩国 & 8508111000\newline（机器人型） & 8\% & 5.30\% & 0\%（另列对华方案）\\
+澳大利亚 & 85081100 & 0\% & 未单列 & 未单列\\
+马来西亚 & 8508110000 & 20\% & 18.20\% & 0\%（另列对华方案）\\
+新西兰 & 85081100 & 0\% & 未单列 & 未单列\\
+日本 & 850811010\newline850811090 & 0\% & 未单列 & 未单列\\
 \bottomrule
 \end{tabular}
 \par\vspace{0.4em}
 \begin{minipage}{0.92\textwidth}\small
-资料来源：RCEP附件一日本、韩国对中国、澳大利亚关税承诺表；ITC Market Access Map，访问日期2026年9月5日。
+资料来源：ITC Market Access Map，税率年份2026，HS Rev.2022，访问日期2026年10月3日。“未单列”指保存响应未列该方案，不代表税率为零。\src{\path{data/macro-market/ITC/ITC-analysis-result/cleaned/tariffs.csv}；来源ID MACMAP-410-DUTY-8508111000、MACMAP-036-DUTY-85081100、MACMAP-458-DUTY-8508110000、MACMAP-554-DUTY-85081100、MACMAP-392-DUTY-850811010及850811090。保存字段包括tariff\_regime、agreement\_id、fta\_id与raw\_source\_file；原始查询见\path{metadata/source_ledger.csv}。}
 \end{minipage}
 \end{table}
 
-三国的ITC当前适用税率均为0\%，承诺表与当前准入结果方向一致。日本承诺表直接列为Free；韩国对中国税表从第一年起降为0\%；澳大利亚8509.80.90在基准及各年度均为0\%。这使前三市场的竞争重点落在产品、渠道和服务上，而不是关税差异。\src{《区域全面经济伙伴关系协定》附件一关税承诺表：日本表第1133页、韩国对中国表第302页、澳大利亚表第102页；国际贸易中心（ITC），Market Access Map三国实际适用税率，访问日期2026年9月5日。}
+日本、澳大利亚和新西兰的MFN已为零，优惠关税不是三国市场差异的主要来源；韩国和马来西亚则需比较RCEP与其他对华优惠，连同原产证明成本选择方案。模型输入中的最低返回值均为零，只是审计字段，不能据此把五国到岸关税成本统一设为零。
 
-取得优惠待遇的前提落在第3章。第3.2条规定原产货物的基本类型；HS2022产品特定原产地规则对旧口径8509.80给出“CTSH或RVC40”两条可选路径：非原产材料发生六位子目改变，或者区域价值成分达到40\%。\src{《区域全面经济伙伴关系协定》第3章第3.2条；《产品特定原产地规则（HS2022）》，税目8509.80，第118页。} 该基线展示了原产地核算的两种方法：CTSH核对BOM中非原产零部件与整机的六位子目关系，RVC40则保存FOB价值、非原产材料价值和计算底稿；实际出口必须以新归类的产品特定规则选择路径。
+取得RCEP优惠待遇的前提落在第3章。第3.2条规定原产货物的基本类型；HS2022产品特定原产地规则对8508.11给出“CTSH或RVC40”两条可选路径：非原产材料发生六位子目改变，或者区域价值成分达到40\%。\src{《区域全面经济伙伴关系协定》第3章第3.2条；RCEP秘书处《产品特定原产地规则（HS2022）》，2022年8月20日编辑修订，第118页8508.11行；本地原文\path{data/macro-market/RCEP-rules/02-origin/RCEP_PSR_HS2022_current.pdf}。} CTSH核对BOM中非原产零部件与整机的六位子目关系，RVC40保存FOB价值、非原产材料价值和计算底稿。若改用其他协定的优惠税率，应另按该协定的原产地规则核验。
 
 第3.4条允许区域累积：来自其他RCEP成员方的原产材料用于中国生产时，可按规则视为中国生产中的原产材料。\src{《区域全面经济伙伴关系协定》第3章“原产地规则”，第3.4条“累积”。} 这对电机、传感器、芯片、电池或其他区域采购件具有直接意义。采购团队可以把“价格、性能、RCEP原产资格”同时纳入供应商选择；当CTSH路径不稳时，来自成员方的合格原产材料还能改善RVC40结果。
 
@@ -506,13 +574,13 @@ RCEP第4章的预裁定、风险管理和货物放行条款可以降低通关不
 
 \subsection{差异化前景判断}
 
-日本的产品组进口增长偏弱，但扫地机渗透率低于韩国、澳大利亚，需同时研究新增购买与产品升级，重点核对中高价位产品的体验和服务。韩国的终端规模与长期增长较强，石头已有份额和代理渠道，重点是维持功能竞争、代理经营与售后之间的配合。澳大利亚已有促销销量和品牌基础，重点是提高常态报价、供货与服务的可观察性，避免把少量低报价当作长期价格定位。
+韩国与澳大利亚深入研究代理服务及常态盈利，日本辨认替代与升级。马来西亚产品组增长快、石头份额较低，重点是扩大覆盖并守住促销后价差；新西兰相对潜力高、绝对金额小，先从已有报价和零售触点筛选可持续供货、服务负担可控的型号。
 
-三国共同的约束是增长需要占用库存、渠道与服务资源。石头科技2025年收入扩张而利润和经营现金净流量下降，使后续开拓评价需要同时看需求、产品价差和经营回收，而不只看市场排名。
+公司收入扩张而利润、经营现金净流量下降，提示五国评价均需同时检查需求、产品价差和经营回收。
 
 \section{结论与行动安排}
 
-中国扫地机器人企业的产品开发、供给组织与海外经营经验，为RCEP市场开拓提供了基础。既有HS850980基线模型将韩国、日本、澳大利亚列为前三个深入研究对象；新版HS850811模型尚待同步更新。新增扫地机终端、企业和零售证据支持继续比较这三国，当前结论定位于研究优先方向，而非最终进入或投资决策。
+中国企业的产品开发、供给组织与海外经验构成RCEP开拓基础。韩国、澳大利亚兼有规模和增长，日本保留较大需求池，马来西亚突出增长与品牌覆盖，新西兰突出相对潜力。后两国已有石头产品证据，分别围绕价格梯度、渠道触达及有限容量下的持续服务判断开拓方向。
 
 \begin{table}[H]
 \centering
@@ -523,9 +591,9 @@ RCEP第4章的预裁定、风险管理和货物放行条款可以降低通关不
 \toprule
 阶段 & 时间与任务 & 主要交付 & 决策指标\\
 \midrule
-准备期 & 第1季度：归类、认证、渠道和售后条件核对 & 新归类税则线及原产地规则、核心SKU、备件清单 & 合规完成率、到岸成本、服务覆盖\\
-试销期 & 第2季度至第3季度：Prime Day前后首轮销售 & 分渠道订单、退换货、维修和评价数据 & 转化率、退货率、维修周期、单台贡献毛利\\
-扩张期 & 第4季度后：Black Friday及年度复盘 & 市场预算、库存和本地团队配置 & 获客成本、耗材复购、库存周转、前三稳定性\\
+准备期 & 第1季度：核对五国归类、认证、渠道与售后 & 分国核心SKU和备件；马来西亚价格及促销条件；新西兰可交付报价与保修 & 合规完成率、到岸成本、服务覆盖\\
+试销期 & 第2季度至第3季度：按本地排期开展渠道验证 & 日韩澳延续渠道研究；马来西亚检验分价格带转化；新西兰检验少量型号供货与退换修 & 转化率、退货率、维修周期、单台贡献毛利\\
+扩张期 & 第4季度后：分国旺季与年度复盘 & 比较促销后常态销售、库存和服务负担，再判断SKU与渠道扩充 & 获客成本、耗材复购、库存周转、前五稳定性\\
 \bottomrule
 \end{tabular}
 \par\vspace{0.4em}
@@ -534,8 +602,11 @@ RCEP第4章的预裁定、风险管理和货物放行条款可以降低通关不
 \end{minipage}
 \end{table}
 
-结合企业与零售证据，韩国的研究重点落在已有份额、代理经营与本地服务，日本落在中高价位产品的差异和购买理由，澳大利亚落在促销成交与常态供货之间的衔接。石头科技的海外收入、产品矩阵和欧美渠道经验提供了开拓基础；2025年的利润与现金流变化也表明，扩大覆盖必须同时关注经营回收。下一阶段补充分国转化率、退货率、维修周期和单台贡献后，再判断哪些渠道与产品组合值得延续。
+下一阶段补足五国转化率、退货率、维修周期和单台贡献。马来西亚优先衔接价格与渠道证据，新西兰优先核对供货与保修；同时观察印度尼西亚这一排名边界，据经营回收判断哪些产品与渠道组合值得延续。
 
+\begingroup
+\sloppy
 \theendnotes
+\endgroup
 
 \end{document}

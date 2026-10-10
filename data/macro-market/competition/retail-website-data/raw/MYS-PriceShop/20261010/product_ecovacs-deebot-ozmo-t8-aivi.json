@@ -1,0 +1,71 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "ecovacs-deebot-ozmo-t8-aivi",
+  "url": "https://my.priceshop.com/product/ecovacs-deebot-ozmo-t8-aivi",
+  "title_raw": "Ecovacs Deebot Ozmo T8 AIVI",
+  "source_cache_age_raw": "1.2 years ago",
+  "accessed_at": "2026-10-10T11:08:31.924Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 192,
+  "reader_captured_lines": 192,
+  "summary_price_raw": "RM1,749.00 - RM2,099.00",
+  "declared_seller_count_raw": "From 1 seller",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 149,
+      "value_line": 151
+    },
+    "Dust Capacity": {
+      "value_raw": "0.42 L",
+      "section": "Capacity",
+      "line": 155,
+      "value_line": 157
+    },
+    "Power Consumption": {
+      "value_raw": "40 W",
+      "section": "Specifications",
+      "line": 161,
+      "value_line": 163
+    },
+    "Dimensions": {
+      "value_raw": "353 x 353 x 93.6 mm",
+      "section": "Size & Weight",
+      "line": 167,
+      "value_line": 169
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "Ban Leong Technologies - Shopee",
+      "merchant_group_raw": "Ban Leong Technologies",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM1,749.00",
+      "price_line": 111,
+      "name_line": 106,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ban Leong Technologies",
+      "merchant_group_raw": "Ban Leong Technologies",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM2,099.00",
+      "price_line": 128,
+      "name_line": 119,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn167view2",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

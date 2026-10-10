@@ -7,10 +7,11 @@
       "name_zh": "马来西亚",
       "iso3": "MYS",
       "scope": "country",
-      "role": "rcep_background_or_supply_chain",
+      "role": "TARGET_MALAYSIA",
       "related_countries": [
         "united-states"
-      ]
+      ],
+      "previous_research_role": "rcep_background_or_supply_chain"
     },
     "statement_zh": "2025年年报披露新增马来西亚代工业务，以增加供应灵活性和安全性。",
     "period": "2025",
@@ -26,8 +27,9 @@
     ],
     "verification": {
       "anchor_found_in_pdf_text": true,
-      "pdf_page_visually_reviewed": false,
-      "upstream_primary_source_independently_verified": false
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false,
+      "reviewed_page_render": "sources/page-renders/REPORT-04-p026.png"
     },
     "citation": {
       "source_id": "REPORT-04",
@@ -50,7 +52,20 @@
       "source_excerpt_whitespace_normalized": "2025年进一步新增马来西亚代工厂生产业务，通过多元化产能布局持续提升供应保障的灵活性与安全性，有效降低地缘政治风险，增强服务国际市场的能力。在渠道网络层面，公司已建立多元直销渠道与强大线下分销网络，通过与主流电商平台及知名零售连锁深度合作，线上线下协同扩大市场覆盖范围，持续提升品牌影响力与市场份额。5、经验丰富且富有远见的管理团队公司管理团队由经验丰富的行业专家与研发专业人员共同组成，凭借前瞻性的战略视野、深厚的行业洞察力及互补的专业能力，能够精准把握市场发展趋势与竞争态势，为公司实现稳健经营与可持续发展奠定了坚实基础，是推动公司持续高速增长的关键支撑。公司高度重视研发体系建设，持续优化研发资源配置。截至2025年12月31日，公司超过40%的员工从事研发工作，研发团队中超过38%的成员拥有硕士或博士学位，团队呈现多学科交",
       "source_excerpt_scope": "anchored_excerpt",
       "quote_anchor": "2025年进一步新增马来西亚代工厂生产业务",
-      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第26页（印刷页26），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
-    }
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第26页（印刷页26），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。",
+      "additional_locators": [
+        {
+          "pdf_page": 52,
+          "printed_page": 52,
+          "locator": "关税等进出口政策及国际贸易环境变化风险：马来西亚代工业务",
+          "page_render": "sources/page-renders/REPORT-04-p052.png"
+        }
+      ]
+    },
+    "category_views": [
+      "international_capabilities",
+      "target_markets"
+    ],
+    "target_market_review_date": "2026-10-10"
   }
 ]

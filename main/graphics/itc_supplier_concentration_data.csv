@@ -1,0 +1,6 @@
+﻿country_code,market,china_share_pct,second_supplier,second_supplier_share_pct,others_share_pct,share_gap_pp,source_ids
+410,韩国,78.4359,Viet Nam,12.4317,9.132399999999997,66.0042,TM-410-target_import_imports_by_supplier-VAL;TM-COUNTRY-REF
+036,澳大利亚,62.0928,Malaysia,22.8162,15.091000000000005,39.2766,TM-036-target_import_imports_by_supplier-VAL;TM-COUNTRY-REF
+458,马来西亚,81.253,United Kingdom,13.924,4.823,67.32900000000001,TM-458-target_import_imports_by_supplier-VAL;TM-COUNTRY-REF
+554,新西兰,53.523,Malaysia,24.4872,21.989799999999995,29.035800000000002,TM-554-target_import_imports_by_supplier-VAL;TM-COUNTRY-REF
+392,日本,72.4555,Malaysia,17.2473,10.2972,55.208200000000005,TM-392-target_import_imports_by_supplier-VAL;TM-COUNTRY-REF

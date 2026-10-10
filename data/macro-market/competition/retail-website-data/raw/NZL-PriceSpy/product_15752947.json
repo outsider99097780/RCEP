@@ -1,0 +1,54 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "15752947",
+  "url": "https://pricespy.co.nz/product.php?p=15752947",
+  "accessed_at": "2026-10-10T10:19:51.101Z",
+  "page_title": "Xiaomi H40 EU",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "66",
+  "declared_shop_count_raw": "1",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Battery capacity": "5200 mAh",
+    "Battery life": "180 min",
+    "Color": "White",
+    "Docking station": "Yes",
+    "Dust capacity (base)": "4 litre",
+    "Dust capacity (robot)": "0.35 litre",
+    "Features": "Voice control, Supports scheduling, Remote control, App control, Automatic mop drying, Self-emptying",
+    "Height": "97 mm",
+    "Mop function": "Yes",
+    "Navigation method": "Laser",
+    "Product weight": "3.64 kg",
+    "Self-emptying": "Yes",
+    "Suction Power (kPa)": "10 kPa",
+    "Suction power (Pa)": "10000 Pa",
+    "Threshold height": "2 cm",
+    "Type": "Vacuum mopping robot",
+    "Water container volume": "210 ml"
+  },
+  "visible_three_month_history_raw": [
+    "Falling",
+    "Lowest: $733.00 | Highest: $1,100.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Fishpond",
+      "price_raw": "$760.00",
+      "stock_raw": "Unknown stock",
+      "title_raw": "Xiaomi Robot Vacuum H40 (EU) – Smartphone App Control & Vacuum/Mop Cleaning",
+      "partner_store_flag": false,
+      "observed_redirect_path": null,
+      "visible_price_labels_raw": [
+        "$760.00"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

@@ -282,7 +282,7 @@
   {
     "country": "malaysia",
     "name_zh": "马来西亚",
-    "role": "rcep_background_or_supply_chain",
+    "role": "TARGET_MALAYSIA",
     "categories": [
       {
         "category": "competition",
@@ -298,8 +298,14 @@
         "category": "international_capabilities",
         "file": "evidence/06_international_capabilities/malaysia/records.json",
         "record_count": 1
+      },
+      {
+        "category": "target_markets",
+        "file": "evidence/02_target_markets/malaysia/records.json",
+        "record_count": 6
       }
-    ]
+    ],
+    "previous_role": "rcep_background_or_supply_chain"
   },
   {
     "country": "middle-east-africa-regional",
@@ -617,6 +623,18 @@
         "category": "international_capabilities",
         "file": "evidence/06_international_capabilities/vietnam/records.json",
         "record_count": 2
+      }
+    ]
+  },
+  {
+    "country": "new-zealand",
+    "name_zh": "新西兰",
+    "role": "TARGET_NEW_ZEALAND",
+    "categories": [
+      {
+        "category": "target_markets",
+        "file": "evidence/02_target_markets/new-zealand/records.json",
+        "record_count": 0
       }
     ]
   }

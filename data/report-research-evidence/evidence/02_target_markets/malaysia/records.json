@@ -1,0 +1,405 @@
+[
+  {
+    "record_id": "RR26-0169",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "malaysia",
+      "name_zh": "马来西亚",
+      "iso3": "MYS",
+      "scope": "country",
+      "role": "TARGET_MALAYSIA",
+      "related_countries": [
+        "united-states"
+      ],
+      "previous_research_role": "rcep_background_or_supply_chain"
+    },
+    "statement_zh": "2025年年报披露新增马来西亚代工业务，以增加供应灵活性和安全性。",
+    "period": "2025",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "供应链产地证据，不等于当地销售渠道，也不直接证明原产地资格或优惠税率。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false,
+      "reviewed_page_render": "sources/page-renders/REPORT-04-p026.png"
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 26,
+      "printed_page": 26,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p026.txt",
+      "source_excerpt_whitespace_normalized": "2025年进一步新增马来西亚代工厂生产业务，通过多元化产能布局持续提升供应保障的灵活性与安全性，有效降低地缘政治风险，增强服务国际市场的能力。在渠道网络层面，公司已建立多元直销渠道与强大线下分销网络，通过与主流电商平台及知名零售连锁深度合作，线上线下协同扩大市场覆盖范围，持续提升品牌影响力与市场份额。5、经验丰富且富有远见的管理团队公司管理团队由经验丰富的行业专家与研发专业人员共同组成，凭借前瞻性的战略视野、深厚的行业洞察力及互补的专业能力，能够精准把握市场发展趋势与竞争态势，为公司实现稳健经营与可持续发展奠定了坚实基础，是推动公司持续高速增长的关键支撑。公司高度重视研发体系建设，持续优化研发资源配置。截至2025年12月31日，公司超过40%的员工从事研发工作，研发团队中超过38%的成员拥有硕士或博士学位，团队呈现多学科交",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2025年进一步新增马来西亚代工厂生产业务",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第26页（印刷页26），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。",
+      "additional_locators": [
+        {
+          "pdf_page": 52,
+          "printed_page": 52,
+          "locator": "关税等进出口政策及国际贸易环境变化风险：马来西亚代工业务",
+          "page_render": "sources/page-renders/REPORT-04-p052.png"
+        }
+      ]
+    },
+    "category_views": [
+      "international_capabilities",
+      "target_markets"
+    ],
+    "target_market_review_date": "2026-10-10"
+  },
+  {
+    "record_id": "RR26-0194",
+    "category": "competition",
+    "geography": {
+      "key": "malaysia",
+      "name_zh": "马来西亚",
+      "iso3": "MYS",
+      "scope": "country",
+      "role": "TARGET_MALAYSIA",
+      "related_countries": [],
+      "previous_research_role": "rcep_background_or_supply_chain"
+    },
+    "statement_zh": "欧睿经研报转引：2024年石头在马来西亚扫地机市占率8%。",
+    "period": "2024",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "roborock_market_share",
+        "value_raw": "8",
+        "unit": "%",
+        "definition": "正文未说明销量/销额分母"
+      }
+    ],
+    "notes": [
+      "本轮将图43主定位更正至PDF第29页，保留第28页旧定位作审计；数值8%不变。图表未给完整份额分母，不推断为销量或销额份额。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 29,
+      "printed_page": 29,
+      "locator": "图43标题：2024年马来西亚市占率8%；第28页正文辅助",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "欧睿，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p029.txt",
+      "source_excerpt_whitespace_normalized": "图43：2024年石头在澳大利亚/阿联酋/以色列/印度尼西亚/马来西亚市占率分别为25%/23%/20%/14%/8%",
+      "source_excerpt_scope": "figure_caption",
+      "quote_anchor": "图43",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第29页（印刷页29），图43，本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，复核日期：2026-10-10。",
+      "previous_locator_audit": {
+        "pdf_page": 28,
+        "printed_page": 28,
+        "locator": "4.4亚太及图43"
+      },
+      "page_render": "sources/page-renders/RESEARCH-01-p029.png"
+    },
+    "category_views": [
+      "competition",
+      "target_markets"
+    ],
+    "target_market_review_date": "2026-10-10"
+  },
+  {
+    "record_id": "RR26-0199",
+    "category": "industry_global",
+    "geography": {
+      "key": "malaysia",
+      "name_zh": "马来西亚",
+      "iso3": "MYS",
+      "scope": "country",
+      "role": "TARGET_MALAYSIA",
+      "related_countries": [],
+      "previous_research_role": "rcep_background_or_supply_chain"
+    },
+    "statement_zh": "马来西亚2024年规模正文0.32亿美元；按用户图表优先规则被图42的0.20亿美元替代。本条仅保留原文审计，不供数值使用。",
+    "period": "2024",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "superseded_body_value_audit_only",
+    "metrics": [
+      {
+        "metric": "market_sales_value",
+        "value_raw": "0.32",
+        "unit": "亿美元",
+        "definition": null
+      }
+    ],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 27,
+      "printed_page": 27,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "欧睿，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p027.txt",
+      "source_excerpt_whitespace_normalized": "2024年韩国/澳大利亚/中国台湾/印度尼西亚/中东非/马来西亚扫地机销售额分别为2.68/1.38/1.26/0.22/0.69/0.32亿美元，5年CAGR分别为15%/7%/10%/18%/10%/16%，中东、东南亚、东亚均拥有较大成长空间。图37：2024年韩国扫地机销售额为2.68亿美元（+4%）图38：2024年澳大利亚扫地机销售额为1.38亿美元（+9%）数据来源：欧睿、开源证券研究所数据来源：欧睿、开源证券研究所-40%-20%0%20%40%60%80%0246810亚太区域收入（亿元）yoy-10%0%10%20%30%40%0200400600韩国销额（百万美元）YOY-20%0%20%40%60%80%100%050100150200250澳大利亚销额（百万美元）YOY",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2024年韩国/澳大利亚/中国台湾/印度尼西亚/中东非/马来西亚",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第27页（印刷页27），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    },
+    "category_views": [
+      "industry_global",
+      "target_markets"
+    ],
+    "target_market_review_date": "2026-10-10"
+  },
+  {
+    "record_id": "RR26-0200",
+    "category": "industry_global",
+    "geography": {
+      "key": "malaysia",
+      "name_zh": "马来西亚",
+      "iso3": "MYS",
+      "scope": "country",
+      "role": "TARGET_MALAYSIA",
+      "related_countries": [],
+      "previous_research_role": "rcep_background_or_supply_chain"
+    },
+    "statement_zh": "按图42采用马来西亚2024年销售额0.20亿美元、同比10%；正文0.32亿美元只保留作审计。",
+    "period": "2024",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "market_sales_value",
+        "value_raw": "0.20",
+        "unit": "亿美元",
+        "definition": null
+      },
+      {
+        "metric": "market_sales_value_yoy",
+        "value_raw": "10",
+        "unit": "%",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "按用户明确指定图表优先；不是另行验证上游数据。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 28,
+      "printed_page": 28,
+      "locator": "图42标题；按用户规则优先于第27页正文",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "欧睿，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p028.txt",
+      "source_excerpt_whitespace_normalized": "图42：2024年马来西亚扫地机销售额为0.20亿美元（+10%）数据来源：欧睿、开源证券研究所数据来源：欧睿、开源证券研究所从市占率情况来看，石头在韩国、中国台湾、澳大利亚等经济发达且市场规模较大地区市占率较高，根据欧睿数据，2024年韩国、中国台湾、澳大利亚市占率分别为30%/30%/25%，我们预计主系石头在发达地区布局较早，且产品主要定位中高端，发达地区产品负担能力强、人均教育程度高。中东地区来看，石头在中东同样拥有较高市占率，2024年阿联酋/以色列市占率分别为23%/20%，同样系当地经济发达、产品负担能力较高所致。但由于产品进入时间较晚，市场规模还有较大提升空间。东南亚地区来看，石头目前在印度尼西亚、马来西亚、越南等地区市占率还有较大提升空间，2024年市占率分别为14%/8%/6%。我们预计2025年石头在韩国的市占率超50%，澳洲市占率达40%，实现持续持续提升。未来石头有望在东亚持续保持高市占率基本盘；中东地区稳固市占率的同时受益于行业规模扩张，东南亚地区伴随消费者教育提升，产品价格带上移下市占率持续提升。综合来看，中东、东南亚、东亚仍有较大成长空间。-50%0%50%100%150%200%050100150200250中国台湾销额（百万美元）YOY0%20%40%60%80%0102030405060印度尼西亚销售额（百万美元）YOY-5%0%5%10%15%20%25%020406080100120中东非销额（百万美元）YOY-50%0%50%100%1",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "图42：2024年马来西亚扫地机销售额为0.20亿美元",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第28页（印刷页28），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。",
+      "page_render": "sources/page-renders/RESEARCH-01-p028.png"
+    },
+    "category_views": [
+      "industry_global",
+      "target_markets"
+    ],
+    "target_market_review_date": "2026-10-10"
+  },
+  {
+    "record_id": "RR26-0206",
+    "category": "target_markets",
+    "geography": {
+      "key": "malaysia",
+      "name_zh": "马来西亚",
+      "iso3": "MYS",
+      "scope": "country",
+      "role": "TARGET_MALAYSIA",
+      "related_countries": [],
+      "previous_research_role": "rcep_background_or_supply_chain"
+    },
+    "statement_zh": "开源证券正文转引欧睿：马来西亚扫地机销售额的5年CAGR为16%。原文未明确起止年，且同段规模值与图42冲突，本指标暂不进入数值比较。",
+    "period": "原文5年CAGR，起止年未说明",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "blocked_pending_resolution",
+    "metrics": [
+      {
+        "metric": "market_sales_value_cagr_5y",
+        "value_raw": "16",
+        "unit": "%",
+        "definition": "券商正文原值；不是根据图表重新计算，区间和一致性待核验"
+      }
+    ],
+    "notes": [
+      "正文对应的市场规模0.32亿美元已被图42的0.20亿美元替代。图42未标注5年CAGR，不能据图形补算或默认16%与图表同口径。",
+      "保留该原文指标作为待核验线索，不与其他目标国CAGR直接比较。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 27,
+      "printed_page": 27,
+      "locator": "第4.4节“拆分市场来看”段末，六地区5年CAGR列表",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "欧睿，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-10",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p027.txt",
+      "source_excerpt_whitespace_normalized": "2024年韩国/澳大利亚/中国台湾/印度尼西亚/中东非/马来西亚扫地机销售额分别为2.68/1.38/1.26/0.22/0.69/0.32亿美元，5年CAGR分别为15%/7%/10%/18%/10%/16%，中东、东南亚、东亚均拥有较大成长空间。图37：2024年韩国扫地机销售额为2.68亿美元（+4%）图38：2024年澳大利亚扫地机销售额为1.38亿美元（+9%）数据来源：欧睿、开源证券研究所数据来源：欧睿、开源证券研究所-40%-20%0%20%40%60%80%0246810亚太区域收入（亿元）yoy-10%0%10%20%30%40%0200400600韩国销额（百万美元）YOY-20%0%20%40%60%80%100%050100150200250澳大利亚销额（百万美元）YOY",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "5年CAGR分别为15%/7%/10%/18%/10%/16%",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第27页（印刷页27），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，复核日期：2026-10-10。",
+      "page_render": "sources/page-renders/RESEARCH-01-p027.png"
+    },
+    "category_views": [
+      "target_markets"
+    ],
+    "target_market_review_date": "2026-10-10"
+  },
+  {
+    "record_id": "RR26-0207",
+    "category": "target_markets",
+    "geography": {
+      "key": "malaysia",
+      "name_zh": "马来西亚",
+      "iso3": "MYS",
+      "scope": "regional_interpretation_explicitly_including_country",
+      "role": "TARGET_MALAYSIA",
+      "related_countries": [
+        "indonesia",
+        "vietnam"
+      ],
+      "previous_research_role": "rcep_background_or_supply_chain"
+    },
+    "statement_zh": "开源证券将马来西亚列入东南亚市场，认为消费者教育提升、产品价格带上移可能支持石头在该区域的份额提升。该判断属于券商区域解释，不是马来西亚已验证的因果关系或增长预测值。",
+    "period": "2026-02-04研报观点",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_attributed_broker_interpretation",
+    "metrics": [],
+    "notes": [
+      "适用范围是东南亚区域，马来西亚为报告明确列举国家；不得改写为马来西亚具体销量、价格带或份额预测。",
+      "企业适配仍需马来西亚终端价格、产品和渠道证据；代工布局不证明当地消费需求。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 28,
+      "printed_page": 28,
+      "locator": "第4.4节末：东南亚市占率及前景解释",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "欧睿，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-10",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p028.txt",
+      "source_excerpt_whitespace_normalized": "东南亚地区来看，石头目前在印度尼西亚、马来西亚、越南等地区市占率还有较大提升空间。东南亚地区伴随消费者教育提升，产品价格带上移下市占率持续提升。",
+      "source_excerpt_scope": "two_bounded_related_sentences",
+      "quote_anchor": "东南亚地区伴随消费者教育提升",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第28页（印刷页28），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，复核日期：2026-10-10。",
+      "page_render": "sources/page-renders/RESEARCH-01-p028.png"
+    },
+    "category_views": [
+      "target_markets"
+    ],
+    "target_market_review_date": "2026-10-10"
+  }
+]

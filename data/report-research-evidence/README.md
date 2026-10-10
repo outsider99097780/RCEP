@@ -55,3 +55,9 @@ citation 含提供主体、报告标题、封面日期（年报另列报告期�
 ## 审计与重复使用
 
 audit/extraction-log.json记录指令哈希、范围和处理规则；baseline-existing-file-hashes.json是新增前所有既有data文件及本轮sources文件的指纹。交付前核验这些文件均未变化。新增目录不覆盖现有文件。
+
+## 2026-10-10：扩展至五个目标市场
+
+02_target_markets新增malaysia（TARGET_MALAYSIA）与new-zealand（TARGET_NEW_ZEALAND）。马来西亚归集已有市场/竞争/供应链记录，新增两条研报线索；新西兰经17份PDF、1283页可提取全文检索仍未发现专门记录，空数组与缺口说明明确保留。coverage与by-country索引同步扩展。
+
+原三国和其他国家的事实对象不变，所有旧record_id和源PDF均保留。马来西亚规模继续按图42优先；新增16%五年CAGR因区间与同段口径问题隔离，不用于数值分析。图43主引用页更正为PDF29页，旧28页定位保留审计。两国零售价格采集不混入本年报/研报证据库。

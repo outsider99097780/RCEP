@@ -1,0 +1,479 @@
+[
+  {
+    "source_product_id": "dreame-bot-l10s-ultra",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "source_airflow_rpm_dimension_suspect_retained",
+      "single_merchant_group_even_if_multiple_branches_or_platforms"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-dreame-bot-l10s-ultra"
+  },
+  {
+    "source_product_id": "dreame-d9-lds-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "source_summary_range_differs_from_captured_nonstale_quotes",
+      "explicit_2023_quotes_excluded_from_summary"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-dreame-d9-lds-robot-vacuum"
+  },
+  {
+    "source_product_id": "dreame-d9-pro-lds-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "explicit_2023_quotes_excluded_from_summary"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-dreame-d9-pro-lds-robot-vacuum"
+  },
+  {
+    "source_product_id": "dreame-dreame-bot-w10-self-cleaning-robot-vacuum-and-mop",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "explicit_2023_quotes_excluded_from_summary"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-dreame-dreame-bot-w10-self-cleaning-robot-vacuum-and-mop"
+  },
+  {
+    "source_product_id": "dreame-f9-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "explicit_2023_quotes_excluded_from_summary"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-dreame-f9-robot-vacuum"
+  },
+  {
+    "source_product_id": "dreame-z10-pro-lds-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "explicit_2023_quotes_excluded_from_summary"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-dreame-z10-pro-lds-robot-vacuum"
+  },
+  {
+    "source_product_id": "ecovacs-deebot-mini-2-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-ecovacs-deebot-mini-2-robot-vacuum"
+  },
+  {
+    "source_product_id": "ecovacs-deebot-n8-pro",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-ecovacs-deebot-n8-pro"
+  },
+  {
+    "source_product_id": "ecovacs-deebot-ozmo-610-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms",
+      "single_quote_not_robust_market_price"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-ecovacs-deebot-ozmo-610-robot-vacuum"
+  },
+  {
+    "source_product_id": "ecovacs-deebot-ozmo-t8",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-ecovacs-deebot-ozmo-t8"
+  },
+  {
+    "source_product_id": "ecovacs-deebot-ozmo-t8-aivi",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-ecovacs-deebot-ozmo-t8-aivi"
+  },
+  {
+    "source_product_id": "ecovacs-deebot-slim2-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "source_suction_in_watts_not_convertible_to_pa",
+      "single_merchant_group_even_if_multiple_branches_or_platforms",
+      "single_quote_not_robust_market_price"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-ecovacs-deebot-slim2-robot-vacuum"
+  },
+  {
+    "source_product_id": "ecovacs-deebot-t10-plus-robot-vacuum-cleaner",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-ecovacs-deebot-t10-plus-robot-vacuum-cleaner"
+  },
+  {
+    "source_product_id": "ecovacs-deebot-t10-robot-vacuum-cleaner",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-ecovacs-deebot-t10-robot-vacuum-cleaner"
+  },
+  {
+    "source_product_id": "ecovacs-deebot-t9",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-ecovacs-deebot-t9"
+  },
+  {
+    "source_product_id": "ecovacs-deebot-u2-pro",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-ecovacs-deebot-u2-pro"
+  },
+  {
+    "source_product_id": "ecovacs-deebot-x1-omni-robot-vacuum-and-mopping-cleaner",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-ecovacs-deebot-x1-omni-robot-vacuum-and-mopping-cleaner"
+  },
+  {
+    "source_product_id": "ecovacs-ozmo-950",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms",
+      "single_quote_not_robust_market_price"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-ecovacs-ozmo-950"
+  },
+  {
+    "source_product_id": "ecovacs-t10-omni-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-ecovacs-t10-omni-robot-vacuum"
+  },
+  {
+    "source_product_id": "mi-robot-vacuum-mop",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-mi-robot-vacuum-mop"
+  },
+  {
+    "source_product_id": "roborock-cleaning-robot-s50",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-roborock-cleaning-robot-s50"
+  },
+  {
+    "source_product_id": "roborock-cleaning-robot-s6-pure",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-roborock-cleaning-robot-s6-pure"
+  },
+  {
+    "source_product_id": "roborock-g10-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-roborock-g10-robot-vacuum"
+  },
+  {
+    "source_product_id": "roborock-q-revo-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-roborock-q-revo-robot-vacuum"
+  },
+  {
+    "source_product_id": "roborock-q7-max-plus-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-roborock-q7-max-plus-robot-vacuum"
+  },
+  {
+    "source_product_id": "roborock-q7-max-robot-vacuum-cleaner",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-roborock-q7-max-robot-vacuum-cleaner"
+  },
+  {
+    "source_product_id": "roborock-s7-maxv-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-roborock-s7-maxv-robot-vacuum"
+  },
+  {
+    "source_product_id": "roborock-s7-plus-robot-vacuum-cleaner",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-roborock-s7-plus-robot-vacuum-cleaner"
+  },
+  {
+    "source_product_id": "roborock-s7-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "declared_seller_count_differs_from_visible_merchant_groups",
+      "source_summary_range_differs_from_captured_nonstale_quotes"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-roborock-s7-robot-vacuum"
+  },
+  {
+    "source_product_id": "roborock-s8-plus-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms",
+      "single_quote_not_robust_market_price"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-roborock-s8-plus-robot-vacuum"
+  },
+  {
+    "source_product_id": "roborock-s8-pro-ultra-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-roborock-s8-pro-ultra-robot-vacuum"
+  },
+  {
+    "source_product_id": "roborock-s8-robot-vacuum",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms",
+      "single_quote_not_robust_market_price"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-roborock-s8-robot-vacuum"
+  },
+  {
+    "source_product_id": "xiaomi-mi-robot-vacuum-1c",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-1c"
+  },
+  {
+    "source_product_id": "xiaomi-mi-robot-vacuum-mop-2",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "declared_seller_count_differs_from_visible_merchant_groups"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-mop-2"
+  },
+  {
+    "source_product_id": "xiaomi-mi-robot-vacuum-mop-2-lite",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "declared_seller_count_differs_from_visible_merchant_groups"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-mop-2-lite"
+  },
+  {
+    "source_product_id": "xiaomi-mi-robot-vacuum-mop-2-pro-pro-plus",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-mop-2-pro-pro-plus"
+  },
+  {
+    "source_product_id": "xiaomi-mi-robot-vacuum-mop-2-ultra",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-mop-2-ultra"
+  },
+  {
+    "source_product_id": "xiaomi-mi-robot-vacuum-mop-essential",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-mop-essential"
+  },
+  {
+    "source_product_id": "xiaomi-mi-robot-vacuum-mop-p",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-xiaomi-mi-robot-vacuum-mop-p"
+  },
+  {
+    "source_product_id": "xiaomi-mi-smart-robot-vacuum-2c",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-xiaomi-mi-smart-robot-vacuum-2c"
+  },
+  {
+    "source_product_id": "xiaomi-mijia-g1-robot-vacuum-cleaner",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-xiaomi-mijia-g1-robot-vacuum-cleaner"
+  },
+  {
+    "source_product_id": "xiaomi-robot-vacuum-mop-2-pro",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "declared_seller_count_differs_from_visible_merchant_groups",
+      "source_summary_range_differs_from_captured_nonstale_quotes"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-xiaomi-robot-vacuum-mop-2-pro"
+  },
+  {
+    "source_product_id": "xiaomi-robot-vacuum-x10-plus",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "single_merchant_group_even_if_multiple_branches_or_platforms",
+      "single_quote_not_robust_market_price"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-xiaomi-robot-vacuum-x10-plus"
+  },
+  {
+    "source_product_id": "xiaomi-trouver-finder-robot-lds-vacuum-mop",
+    "flags": [
+      "cached_page_not_live_price",
+      "stock_shipping_quote_freshness_unverified",
+      "catalogue_census_not_verified",
+      "rating_reviews_rank_not_captured",
+      "brand_as_labeled_by_priceshop_not_independent_ownership_verification"
+    ],
+    "source_ledger_id": "SRC-20261010-MYS-PS-xiaomi-trouver-finder-robot-lds-vacuum-mop"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "16030637",
+  "url": "https://pricespy.co.nz/product.php?p=16030637",
+  "accessed_at": "2026-10-10T10:17:04.370Z",
+  "page_title": "Roborock Saros 20",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "10",
+  "declared_shop_count_raw": "4",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Docking station": "Yes",
+    "Features": "Voice control, Supports scheduling, Stairs detection, Self-docking, App control, Edge cleaning, Automatic mop drying, Obstacle sensing system, Self-emptying",
+    "Mop function": "Yes",
+    "Self-emptying": "Yes"
+  },
+  "visible_three_month_history_raw": [
+    "Falling",
+    "Lowest: $2,695.00 | Highest: $3,248.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Farmers",
+      "price_raw": "$2,799.00",
+      "stock_raw": "Unknown stock",
+      "title_raw": "Roborock Saros20 Robot Vacuum Cleaner, RR-S2052-03-BLK",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/23483/offer/7034967?client_id=1551",
+      "visible_price_labels_raw": [
+        "$2,799.00"
+      ]
+    },
+    {
+      "retailer": "Heathcote Appliances",
+      "price_raw": "$3,232.00",
+      "stock_raw": "In stock",
+      "title_raw": "Roborock Saros 20 Robotic Vacuum Cleaner",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/14663/offer/RR-S2052-03-BLK?client_id=1551",
+      "visible_price_labels_raw": [
+        "$3,232.00"
+      ]
+    },
+    {
+      "retailer": "JB Hi-Fi",
+      "price_raw": "$3,299.00",
+      "stock_raw": "In stock",
+      "title_raw": "Roborock Saros 20 Robotic Vacuum Cleaner",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/12087/offer/474427?client_id=1551",
+      "visible_price_labels_raw": [
+        "$3,299.00"
+      ]
+    },
+    {
+      "retailer": "Ascent",
+      "price_raw": "$3,416.56",
+      "stock_raw": "In stock",
+      "title_raw": "Roborock Saros 20 Vacuum Cleaner, Black, RockDock",
+      "partner_store_flag": false,
+      "observed_redirect_path": null,
+      "visible_price_labels_raw": [
+        "$3,416.56"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

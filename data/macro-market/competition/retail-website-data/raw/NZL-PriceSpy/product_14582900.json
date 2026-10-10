@@ -1,0 +1,54 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "14582900",
+  "url": "https://pricespy.co.nz/product.php?p=14582900",
+  "accessed_at": "2026-10-10T10:18:20.922Z",
+  "page_title": "Ecovacs Deebot T50 Max Pro Omni",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "17",
+  "declared_shop_count_raw": "1",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Battery capacity": "6400 mAh",
+    "Battery life": "217 min",
+    "Color": "Black, White",
+    "Docking station": "Yes",
+    "Dust capacity (base)": "3.5 litre",
+    "Dust capacity (robot)": "0.3 litre",
+    "Features": "Timer, Voice control, Self-docking, Allergy care, Automatic mop drying",
+    "Height": "95 mm",
+    "Mop function": "Yes",
+    "Navigation method": "Camera",
+    "Noise level": "67.9 dB",
+    "Suction Power (kPa)": "12.8 kPa",
+    "Suction power (Pa)": "18.5 Pa",
+    "Threshold height": "2.2 cm",
+    "Type": "Vacuum mopping robot",
+    "Water container volume": "4000 ml"
+  },
+  "visible_three_month_history_raw": [
+    "Falling",
+    "Lowest: $1,160.10 | Highest: $1,424.30"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "PB Tech",
+      "price_raw": "$1,160.10",
+      "stock_raw": "In stock",
+      "title_raw": "EcoVacs Remanufactured Deebot T50 Max Pro Omni White Smart Floor Vacuum & Mopping Cleaner 18,500 Pa Suction Power - OZMO Roller Mopping Tech - TruEdge 2.0 with TruEdge 3D - AIVI 3D 3.0 - 40-75°C Temperature-Controlled Mop Washing - Mop Lift",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8246/offer/HOMEVC0021R?client_id=1551",
+      "visible_price_labels_raw": [
+        "$1,499.26",
+        "$1,160.10"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

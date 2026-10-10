@@ -1,0 +1,6 @@
+﻿country_code,brand,currency,sku_count,minimum_representative_price,median_representative_price,maximum_representative_price,median_price_index_vs_market,average_seller_count,rating_coverage_rate,review_count_coverage_rate,notes
+MYS,Roborock,MYR,12,1438.00,3149.00,5599.00,1.69,1.666666666666666666666666667,,,"Cached displayed quote medians, explicit 2023 quotes excluded; unknown stock/shipping and heterogeneous cache ages; descriptive only, not current verified price."
+MYS,Ecovacs,MYR,13,839.00,1924.00,4949.00,1.03,1.384615384615384615384615385,,,"Cached displayed quote medians, explicit 2023 quotes excluded; unknown stock/shipping and heterogeneous cache ages; descriptive only, not current verified price."
+MYS,Xiaomi,MYR,13,649.00,1048.00,3799.00,0.56,4.307692307692307692307692308,,,"Cached displayed quote medians, explicit 2023 quotes excluded; unknown stock/shipping and heterogeneous cache ages; descriptive only, not current verified price."
+MYS,Dreame,MYR,6,1299.00,2349.00,5599.00,1.26,4.166666666666666666666666667,,,"Cached displayed quote medians, explicit 2023 quotes excluded; unknown stock/shipping and heterogeneous cache ages; descriptive only, not current verified price."
+MYS,Narwal,MYR,0,,,,,,,,"Cached listed SKU mix, not current prices/sales/share or a full-site census. Blank ratings/reviews were not captured. Narwal historical evidence only."

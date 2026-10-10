@@ -1,0 +1,72 @@
+{
+  "capture_id": "xiaomi-1212-20251209",
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "url": "https://my.priceshop.com/en/news/xiaomi-malaysia-12-12-2025-sales-discount-promo/",
+  "title": "Xiaomi 12.12 sales: Up to RM7,000 off on TVs, smartphones and air conditioners",
+  "publication_date": "2025-12-09",
+  "author": "Raymond Saw",
+  "source_cache_age_raw": "5 months ago",
+  "accessed_at": "2026-10-10T11:12:23.294Z",
+  "access_method": "public_web_reader_cached_news",
+  "source_type": "historical_campaign_news",
+  "current_stock_verified": false,
+  "products": [
+    {
+      "brand": "Xiaomi",
+      "model_name": "Robot Vacuum S40",
+      "list_price_myr": "1099",
+      "promotion_price_myr": "699",
+      "condition_raw": "",
+      "source_line": 100,
+      "price_source_type": "expired_2025_campaign_not_current_offer"
+    },
+    {
+      "brand": "Xiaomi",
+      "model_name": "Robot Vacuum H40",
+      "list_price_myr": "1799",
+      "promotion_price_myr": "999",
+      "condition_raw": "",
+      "source_line": 101,
+      "price_source_type": "expired_2025_campaign_not_current_offer"
+    },
+    {
+      "brand": "Xiaomi",
+      "model_name": "Robot Vacuum X20+",
+      "list_price_myr": "2999",
+      "promotion_price_myr": "1669",
+      "condition_raw": "Shopee Exclusive",
+      "source_line": 102,
+      "price_source_type": "expired_2025_campaign_not_current_offer"
+    },
+    {
+      "brand": "Xiaomi",
+      "model_name": "Robot Vacuum X20 Pro",
+      "list_price_myr": "3199",
+      "promotion_price_myr": "1799",
+      "condition_raw": "Shopee Exclusive",
+      "source_line": 103,
+      "price_source_type": "expired_2025_campaign_not_current_offer"
+    },
+    {
+      "brand": "Xiaomi",
+      "model_name": "Robot Vacuum X20 Max",
+      "list_price_myr": "3499",
+      "promotion_price_myr": "2099",
+      "condition_raw": "Lazada Exclusive",
+      "source_line": 104,
+      "price_source_type": "expired_2025_campaign_not_current_offer"
+    },
+    {
+      "brand": "Xiaomi",
+      "model_name": "Robot Vacuum 5",
+      "list_price_myr": "3699",
+      "promotion_price_myr": "2699",
+      "condition_raw": "",
+      "source_line": 105,
+      "price_source_type": "expired_2025_campaign_not_current_offer"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /wp-page/
+
+User-agent: *
+Disallow: /wp-*
+Disallow: /graphql*
+Disallow: /api/*
+
+Sitemap: https://my.priceshop.com/sitemap.xml

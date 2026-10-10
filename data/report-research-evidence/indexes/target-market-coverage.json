@@ -331,5 +331,223 @@
       }
     ],
     "comparison_warning": "不跨年份、全市场/平台、全品类/扫地机及估计/实绩直接比较；目标国品牌完整份额及SKU价格仍需后续资料。"
+  },
+  {
+    "country": "malaysia",
+    "tag": "TARGET_MALAYSIA",
+    "record_count_all_categories": 6,
+    "record_count_reportable": 4,
+    "fields": [
+      {
+        "field_zh": "市场销售额",
+        "record_ids": [
+          "RR26-0200"
+        ],
+        "status": "available_with_scope_caveats",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "市场销量",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "市场增速",
+        "record_ids": [
+          "RR26-0200"
+        ],
+        "status": "available_with_scope_caveats",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "3年CAGR",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "5年CAGR",
+        "record_ids": [
+          "RR26-0206"
+        ],
+        "status": "blocked_pending_resolution",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "渗透率",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "主要品牌份额",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "石头份额",
+        "record_ids": [
+          "RR26-0194"
+        ],
+        "status": "available_with_scope_caveats",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "石头销量或GMV",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "线上线下结构",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "主流价格带",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "主要零售渠道",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "产品需求",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "促销季节",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "市场成熟度",
+        "record_ids": [
+          "RR26-0207"
+        ],
+        "status": "broker_regional_interpretation_only",
+        "value_if_missing": null
+      }
+    ],
+    "additional_supply_chain_record_ids": [
+      "RR26-0169"
+    ],
+    "audit_only_record_ids": [
+      "RR26-0199"
+    ],
+    "comparison_warning": "年报/研报证据与当前零售价格分库存储；未找到不为0。规模按图42，CAGR暂隔离；份额分母未明确。",
+    "review_date": "2026-10-10"
+  },
+  {
+    "country": "new-zealand",
+    "tag": "TARGET_NEW_ZEALAND",
+    "record_count_all_categories": 0,
+    "record_count_reportable": 0,
+    "fields": [
+      {
+        "field_zh": "市场销售额",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "市场销量",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "市场增速",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "3年CAGR",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "5年CAGR",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "渗透率",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "主要品牌份额",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "石头份额",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "石头销量或GMV",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "线上线下结构",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "主流价格带",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "主要零售渠道",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "产品需求",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "促销季节",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      },
+      {
+        "field_zh": "市场成熟度",
+        "record_ids": [],
+        "status": "not_found_in_reviewed_sources",
+        "value_if_missing": null
+      }
+    ],
+    "additional_supply_chain_record_ids": [],
+    "audit_only_record_ids": [],
+    "comparison_warning": "17份PDF可提取全文未检出新西兰明确证据；不把澳大利亚/亚太区域值赋给新西兰。图像-only内容未穷尽OCR，缺口不是无市场。",
+    "review_date": "2026-10-10"
   }
 ]

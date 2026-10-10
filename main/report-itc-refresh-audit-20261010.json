@@ -1,0 +1,66 @@
+{
+  "model_run_id": "20261010T153053-CHN-HS850811-RCEP-TOPSIS",
+  "original_main_sha256": "be76e3a8236c2d8e89edf5901e532236ce1d75b9fac463dac888b0ba7b5cc03a",
+  "updated_main_sha256": "e588e31e870fa696c08bef41d9ca24a57360241660b9a9e578e6df88361a08c6",
+  "checks": {
+    "original_main_unchanged_since_read": true,
+    "section_preserved": true,
+    "subsubsection_preserved": true,
+    "label_preserved": true,
+    "includegraphics_preserved": true,
+    "subsection_order_preserved": true,
+    "no_duplicate_labels": true,
+    "all_refs_resolve": true,
+    "equation_count_preserved": true,
+    "no_old_hs_or_top3_selection": true,
+    "table_values_韩国": true,
+    "table_values_澳大利亚": true,
+    "table_values_马来西亚": true,
+    "table_values_新西兰": true,
+    "table_values_日本": true,
+    "top5_order_matches_saved_model": true,
+    "top5_draw_counts_reconcile": true,
+    "all_model_source_hashes_unchanged": true,
+    "unrelated_financial_figure_preserved": true,
+    "unrelated_retail_figure_preserved": true,
+    "no_undefined_references": true,
+    "no_overfull_boxes": true,
+    "compiled_pdf_exists": true
+  },
+  "all_passed": true,
+  "preserved_labels": [
+    "tab:itcdata",
+    "fig:sizegrowth",
+    "tab:customscompare",
+    "fig:companyfinance",
+    "tab:weights",
+    "fig:epi",
+    "tab:top3",
+    "fig:score",
+    "fig:sensitivity",
+    "tab:casefit",
+    "tab:competition",
+    "fig:supplier",
+    "tab:retailsample",
+    "fig:retailprice",
+    "tab:rceptariff",
+    "tab:roadmap"
+  ],
+  "updated_graphics": [
+    "market_size_growth",
+    "epi_untapped",
+    "market_score",
+    "ranking_sensitivity",
+    "supplier_concentration"
+  ],
+  "scope": "Existing chapter sequence, model formula, weights and saved random draws retained. Raw data/model result files not edited.",
+  "missing_evidence": [
+    "Malaysia and New Zealand comparable retail SKU prices and seasonality",
+    "New Zealand brand/company country operating evidence"
+  ],
+  "removed_or_replaced_content": [
+    "Superseded HS850980 trade/ranking/supplier/tariff values and captions",
+    "Repeated interpretation and transition wording; retained specific company/retail evidence"
+  ],
+  "visual_review": "Five updated charts and affected report pages inspected; scatter label collision repaired."
+}

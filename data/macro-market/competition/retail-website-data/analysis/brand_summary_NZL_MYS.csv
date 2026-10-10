@@ -1,0 +1,11 @@
+﻿country_code,brand,currency,sku_count,minimum_representative_price,median_representative_price,maximum_representative_price,median_price_index_vs_market,average_seller_count,rating_coverage_rate,review_count_coverage_rate,notes
+NZL,Roborock,NZD,9,499.00,2145.75,3265.50,1.3061,2.1111,0,0,Observed SKU pages=9; price-qualified=8; not market share; ratings/reviews not captured; >=2 median differs from old-market rule.
+NZL,Ecovacs,NZD,8,899.00,1999.00,2999.00,1.2168,2.875,0,0,Observed SKU pages=8; price-qualified=5; not market share; ratings/reviews not captured; >=2 median differs from old-market rule.
+NZL,Dreame,NZD,12,888.00,2199.00,3296.00,1.3386,1.9167,0,0,Observed SKU pages=12; price-qualified=7; not market share; ratings/reviews not captured; >=2 median differs from old-market rule.
+NZL,Xiaomi,NZD,6,226.31,463.04,1047.59,0.2819,1.3333,0,0,Observed SKU pages=6; price-qualified=6; not market share; ratings/reviews not captured; >=2 median differs from old-market rule.
+NZL,Narwal,NZD,2,,,,,0,0,0,Observed SKU pages=2; price-qualified=0; not market share; ratings/reviews not captured; >=2 median differs from old-market rule.
+MYS,Roborock,MYR,12,1438.00,3149.00,5599.00,1.69,1.666666666666666666666666667,,,"Cached displayed quote medians, explicit 2023 quotes excluded; unknown stock/shipping and heterogeneous cache ages; descriptive only, not current verified price."
+MYS,Ecovacs,MYR,13,839.00,1924.00,4949.00,1.03,1.384615384615384615384615385,,,"Cached displayed quote medians, explicit 2023 quotes excluded; unknown stock/shipping and heterogeneous cache ages; descriptive only, not current verified price."
+MYS,Xiaomi,MYR,13,649.00,1048.00,3799.00,0.56,4.307692307692307692307692308,,,"Cached displayed quote medians, explicit 2023 quotes excluded; unknown stock/shipping and heterogeneous cache ages; descriptive only, not current verified price."
+MYS,Dreame,MYR,6,1299.00,2349.00,5599.00,1.26,4.166666666666666666666666667,,,"Cached displayed quote medians, explicit 2023 quotes excluded; unknown stock/shipping and heterogeneous cache ages; descriptive only, not current verified price."
+MYS,Narwal,MYR,0,,,,,,,,"Cached listed SKU mix, not current prices/sales/share or a full-site census. Blank ratings/reviews were not captured. Narwal historical evidence only."

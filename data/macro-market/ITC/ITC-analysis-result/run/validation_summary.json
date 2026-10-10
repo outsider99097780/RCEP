@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": 171,
+  "source_hashes_verified": 125,
+  "all_raw_files_unchanged": true,
+  "independent_scalar_TOPSIS": true,
+  "EPM_extracts_equal_decoded_official_response": true,
+  "complete_markets": 11,
+  "total_candidate_markets": 14,
+  "deterministic_sensitivity_scenarios": 20
+}

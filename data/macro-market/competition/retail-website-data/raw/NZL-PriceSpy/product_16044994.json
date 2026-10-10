@@ -1,0 +1,38 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "16044994",
+  "url": "https://pricespy.co.nz/product.php?p=16044994",
+  "accessed_at": "2026-10-10T10:20:30.989Z",
+  "page_title": "Dreame H16 Pro Steam",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "104",
+  "declared_shop_count_raw": "1",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Mop function": "Yes"
+  },
+  "visible_three_month_history_raw": [
+    "Stable",
+    "Lowest: $1,666.00 | Highest: $1,666.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Heathcote Appliances",
+      "price_raw": "$1,666.00",
+      "stock_raw": "In stock",
+      "title_raw": "Dreame H16 Pro Steam Wet and Dry Vacuum Cleaner with Dual AI Robotic Arms and Hot Mopping - Lavender",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/14663/offer/W2512A?client_id=1551",
+      "visible_price_labels_raw": [
+        "$1,666.00"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

@@ -1,0 +1,59 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "14103682",
+  "url": "https://pricespy.co.nz/product.php?p=14103682",
+  "accessed_at": "2026-10-10T10:18:18.746Z",
+  "page_title": "Ecovacs N20 Pro Plus",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "13",
+  "declared_shop_count_raw": "3",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {},
+  "visible_three_month_history_raw": [
+    "Stable",
+    "Lowest: $382.96 | Highest: $884.52"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Heathcote Appliances",
+      "price_raw": "$474.00",
+      "stock_raw": "In stock",
+      "title_raw": "Ecovacs Deebot N20 Pro Plus - Display Model",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/14663/offer/DKX55-P?client_id=1551",
+      "visible_price_labels_raw": [
+        "$897.00",
+        "$474.00"
+      ]
+    },
+    {
+      "retailer": "Noel Leeming",
+      "price_raw": "$899.00",
+      "stock_raw": "In stock",
+      "title_raw": "Ecovacs DEEBOT N20 PRO PLUS Robotic Vacuum & Mop with Bagless Self-Emptying Base Station",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8236/offer/N237968?client_id=1551",
+      "visible_price_labels_raw": [
+        "$899.00"
+      ]
+    },
+    {
+      "retailer": "PB Tech",
+      "price_raw": "$899.00",
+      "stock_raw": "In stock",
+      "title_raw": "EcoVacs DEEBOT N20 Pro Plus Smart Robot Vacuum Cleaner with Bagless Docking Station - White Mop & Vacuum 8000Pa Suction Power",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8246/offer/HOMEVC0016?client_id=1551",
+      "visible_price_labels_raw": [
+        "$899.00"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

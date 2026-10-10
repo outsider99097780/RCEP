@@ -1,0 +1,87 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "ecovacs-deebot-x1-omni-robot-vacuum-and-mopping-cleaner",
+  "url": "https://my.priceshop.com/product/ecovacs-deebot-x1-omni-robot-vacuum-and-mopping-cleaner",
+  "title_raw": "Ecovacs Deebot X1 OMNI Robot Vacuum and Mopping Cleaner",
+  "source_cache_age_raw": "3 months ago",
+  "accessed_at": "2026-10-10T11:08:31.924Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 228,
+  "reader_captured_lines": 228,
+  "summary_price_raw": "RM4,899.00 - RM4,999.00",
+  "declared_seller_count_raw": "From 2 sellers",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 191,
+      "value_line": 193
+    },
+    "Dust Capacity": {
+      "value_raw": "3 L",
+      "section": "Capacity",
+      "line": 197,
+      "value_line": 199
+    },
+    "Filtration": {
+      "value_raw": "HEPA Filter",
+      "section": "Others",
+      "line": 203,
+      "value_line": 205
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "Ban Leong Technologies",
+      "merchant_group_raw": "Ban Leong Technologies",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM4,899.00",
+      "price_line": 112,
+      "name_line": 102,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ban Leong Technologies - Shopee",
+      "merchant_group_raw": "Ban Leong Technologies",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM4,899.00",
+      "price_line": 130,
+      "name_line": 123,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Subang Jaya, Selangor",
+      "price_raw": "RM4,999.00",
+      "price_line": 156,
+      "name_line": 148,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets - Shopee",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM4,999.00",
+      "price_line": 173,
+      "name_line": 167,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn167view1",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

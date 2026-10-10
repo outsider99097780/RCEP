@@ -1,0 +1,172 @@
+﻿check_id,country_code,check,actual,expected,passed
+QA-0001,036,model imports vs raw aggregateRecords,522795.0,522795.0,True
+QA-0002,036,model CAGR vs raw endpoints; input rounded to 4 decimals,7.2461,7.2461,True
+QA-0003,036,model China share vs import reporter; input rounded to 4 decimals,62.0928,62.0928,True
+QA-0004,036,model China supplier rank vs raw records,1.0,1,True
+QA-0005,036,EPM potential,305053050.09,305053050.09,True
+QA-0006,036,EPM baseline,196962533.33,196962533.33,True
+QA-0007,036,EPM derived untapped amount,108090516.75999996,108090516.75999996,True
+QA-0008,036,EPM rank,13.0,13,True
+QA-0009,036,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0.354333506,0.35433350601841207,True
+QA-0010,036,"minimum returned tariff audit field, not product-specific applicable tariff",0.0,0.0,True
+QA-0011,036,NTM count vs saved structured summary; empty remains missing,,,True
+QA-0012,096,model imports vs raw aggregateRecords,30.0,30.0,True
+QA-0013,096,model CAGR vs raw endpoints; input rounded to 4 decimals,-22.7428,-22.7428,True
+QA-0014,096,model China share vs import reporter; input rounded to 4 decimals,23.3333,23.3333,True
+QA-0015,096,model China supplier rank vs raw records,2.0,2,True
+QA-0016,096,EPM potential,200103.57908,200103.57908,True
+QA-0017,096,EPM baseline,356233.33333,356233.33333,True
+QA-0018,096,EPM derived untapped amount,0.0,0,True
+QA-0019,096,EPM rank,130.0,130,True
+QA-0020,096,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0,0.0,True
+QA-0021,096,"minimum returned tariff audit field, not product-specific applicable tariff",0.0,0.0,True
+QA-0022,096,NTM count vs saved structured summary; empty remains missing,,,True
+QA-0023,116,model imports vs raw aggregateRecords,321.0,321.0,True
+QA-0024,116,model CAGR vs raw endpoints; input rounded to 4 decimals,22.1588,22.1588,True
+QA-0025,116,model China share vs import reporter; input rounded to 4 decimals,74.1433,74.1433,True
+QA-0026,116,model China supplier rank vs raw records,1.0,1,True
+QA-0027,116,EPM potential,1167668.9894,1167668.9894,True
+QA-0028,116,EPM baseline,594733.33333,594733.33333,True
+QA-0029,116,EPM derived untapped amount,572935.65607,572935.65607,True
+QA-0030,116,EPM rank,97.0,97,True
+QA-0031,116,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0.49066615729999996,0.4906661573365922,True
+QA-0032,116,"minimum returned tariff audit field, not product-specific applicable tariff",0.0,0.0,True
+QA-0033,116,NTM count vs saved structured summary; empty remains missing,8.0,8.0,True
+QA-0034,360,model imports vs raw aggregateRecords,28962.0,28962.0,True
+QA-0035,360,model CAGR vs raw endpoints; input rounded to 4 decimals,6.3883,6.3883,True
+QA-0036,360,model China share vs import reporter; input rounded to 4 decimals,91.3058,91.3058,True
+QA-0037,360,model China supplier rank vs raw records,1.0,1,True
+QA-0038,360,EPM potential,42108184.816,42108184.816,True
+QA-0039,360,EPM baseline,27433266.667,27433266.667,True
+QA-0040,360,EPM derived untapped amount,14674918.149,14674918.149,True
+QA-0041,360,EPM rank,38.0,38,True
+QA-0042,360,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0.34850512349999996,0.3485051234843046,True
+QA-0043,360,"minimum returned tariff audit field, not product-specific applicable tariff",0.0,0.0,True
+QA-0044,360,NTM count vs saved structured summary; empty remains missing,,,True
+QA-0045,392,model imports vs raw aggregateRecords,759361.0,759361.0,True
+QA-0046,392,model CAGR vs raw endpoints; input rounded to 4 decimals,-5.711,-5.711,True
+QA-0047,392,model China share vs import reporter; input rounded to 4 decimals,72.4555,72.4555,True
+QA-0048,392,model China supplier rank vs raw records,1.0,1,True
+QA-0049,392,EPM potential,648919894.53,648919894.53,True
+QA-0050,392,EPM baseline,506251200.0,506251200,True
+QA-0051,392,EPM derived untapped amount,142668694.52999997,142668694.52999997,True
+QA-0052,392,EPM rank,4.0,4,True
+QA-0053,392,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0.21985563350000004,0.21985563354215257,True
+QA-0054,392,"minimum returned tariff audit field, not product-specific applicable tariff",0.0,0.0,True
+QA-0055,392,NTM count vs saved structured summary; empty remains missing,9.0,9.0,True
+QA-0056,410,model imports vs raw aggregateRecords,739149.0,739149.0,True
+QA-0057,410,model CAGR vs raw endpoints; input rounded to 4 decimals,8.65,8.65,True
+QA-0058,410,model China share vs import reporter; input rounded to 4 decimals,78.4359,78.4359,True
+QA-0059,410,model China supplier rank vs raw records,1.0,1,True
+QA-0060,410,EPM potential,459775312.98,459775312.98,True
+QA-0061,410,EPM baseline,276250466.67,276250466.67,True
+QA-0062,410,EPM derived untapped amount,183524846.31,183524846.31,True
+QA-0063,410,EPM rank,7.0,7,True
+QA-0064,410,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0.3991620279,0.3991620279055375,True
+QA-0065,410,"minimum returned tariff audit field, not product-specific applicable tariff",0.0,0.0,True
+QA-0066,410,NTM count vs saved structured summary; empty remains missing,26.0,26.0,True
+QA-0067,418,model imports vs raw aggregateRecords,,,True
+QA-0068,418,model CAGR vs raw endpoints; input rounded to 4 decimals,,,True
+QA-0069,418,model China share vs import reporter; input rounded to 4 decimals,,,True
+QA-0070,418,model China supplier rank vs raw records,,,True
+QA-0071,418,EPM potential,205781.19792,205781.19792,True
+QA-0072,418,EPM baseline,65866.666667,65866.666667,True
+QA-0073,418,EPM derived untapped amount,139914.53125300002,139914.53125300002,True
+QA-0074,418,EPM rank,128.0,128,True
+QA-0075,418,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0.6799189268,0.6799189268370064,True
+QA-0076,418,"minimum returned tariff audit field, not product-specific applicable tariff",0.0,0.0,True
+QA-0077,418,NTM count vs saved structured summary; empty remains missing,,,True
+QA-0078,458,model imports vs raw aggregateRecords,64213.0,64213.0,True
+QA-0079,458,model CAGR vs raw endpoints; input rounded to 4 decimals,16.4131,16.4131,True
+QA-0080,458,model China share vs import reporter; input rounded to 4 decimals,81.253,81.253,True
+QA-0081,458,model China supplier rank vs raw records,1.0,1,True
+QA-0082,458,EPM potential,98770362.545,98770362.545,True
+QA-0083,458,EPM baseline,65786600.0,65786600,True
+QA-0084,458,EPM derived untapped amount,32983762.545,32983762.545,True
+QA-0085,458,EPM rank,22.0,22,True
+QA-0086,458,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0.33394392500000003,0.3339439250308768,True
+QA-0087,458,"minimum returned tariff audit field, not product-specific applicable tariff",0.0,0.0,True
+QA-0088,458,NTM count vs saved structured summary; empty remains missing,2.0,2.0,True
+QA-0089,104,model imports vs raw aggregateRecords,,,True
+QA-0090,104,model CAGR vs raw endpoints; input rounded to 4 decimals,,,True
+QA-0091,104,model China share vs import reporter; input rounded to 4 decimals,,,True
+QA-0092,104,model China supplier rank vs raw records,,,True
+QA-0093,104,EPM potential,403318.59986,403318.59986,True
+QA-0094,104,EPM baseline,240333.33333,240333.33333,True
+QA-0095,104,EPM derived untapped amount,162985.26653000002,162985.26653000002,True
+QA-0096,104,EPM rank,116.0,116,True
+QA-0097,104,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0.40411046399999995,0.40411046400184736,True
+QA-0098,104,"minimum returned tariff audit field, not product-specific applicable tariff",0.0,0.0,True
+QA-0099,104,NTM count vs saved structured summary; empty remains missing,,,True
+QA-0100,554,model imports vs raw aggregateRecords,58459.0,58459.0,True
+QA-0101,554,model CAGR vs raw endpoints; input rounded to 4 decimals,2.317,2.317,True
+QA-0102,554,model China share vs import reporter; input rounded to 4 decimals,53.523,53.523,True
+QA-0103,554,model China supplier rank vs raw records,1.0,1,True
+QA-0104,554,EPM potential,38766764.135,38766764.135,True
+QA-0105,554,EPM baseline,20823533.333,20823533.333,True
+QA-0106,554,EPM derived untapped amount,17943230.801999997,17943230.801999997,True
+QA-0107,554,EPM rank,40.0,40,True
+QA-0108,554,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0.4628508776,0.4628508776103966,True
+QA-0109,554,"minimum returned tariff audit field, not product-specific applicable tariff",0.0,0.0,True
+QA-0110,554,NTM count vs saved structured summary; empty remains missing,4.0,4.0,True
+QA-0111,608,model imports vs raw aggregateRecords,7694.0,7694.0,True
+QA-0112,608,model CAGR vs raw endpoints; input rounded to 4 decimals,11.0976,11.0976,True
+QA-0113,608,model China share vs import reporter; input rounded to 4 decimals,56.4206,56.4206,True
+QA-0114,608,model China supplier rank vs raw records,1.0,1,True
+QA-0115,608,EPM potential,19296431.654,19296431.654,True
+QA-0116,608,EPM baseline,14036533.333,14036533.333,True
+QA-0117,608,EPM derived untapped amount,5259898.320999999,5259898.320999999,True
+QA-0118,608,EPM rank,50.0,50,True
+QA-0119,608,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0.27258398930000005,0.2725839893776248,True
+QA-0120,608,"minimum returned tariff audit field, not product-specific applicable tariff",0.0,0.0,True
+QA-0121,608,NTM count vs saved structured summary; empty remains missing,14.0,14.0,True
+QA-0122,702,model imports vs raw aggregateRecords,139229.0,139229.0,True
+QA-0123,702,model CAGR vs raw endpoints; input rounded to 4 decimals,24.8067,24.8067,True
+QA-0124,702,model China share vs import reporter; input rounded to 4 decimals,24.4769,24.4769,True
+QA-0125,702,model China supplier rank vs raw records,2.0,2,True
+QA-0126,702,EPM potential,25948683.382,25948683.382,True
+QA-0127,702,EPM baseline,38985033.333,38985033.333,True
+QA-0128,702,EPM derived untapped amount,0.0,0,True
+QA-0129,702,EPM rank,47.0,47,True
+QA-0130,702,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0,0.0,True
+QA-0131,702,"minimum returned tariff audit field, not product-specific applicable tariff",0.0,0.0,True
+QA-0132,702,NTM count vs saved structured summary; empty remains missing,10.0,10.0,True
+QA-0133,764,model imports vs raw aggregateRecords,78599.0,78599.0,True
+QA-0134,764,model CAGR vs raw endpoints; input rounded to 4 decimals,15.7279,15.7279,True
+QA-0135,764,model China share vs import reporter; input rounded to 4 decimals,84.1906,84.1906,True
+QA-0136,764,model China supplier rank vs raw records,1.0,1,True
+QA-0137,764,EPM potential,55475439.122,55475439.122,True
+QA-0138,764,EPM baseline,46640033.333,46640033.333,True
+QA-0139,764,EPM derived untapped amount,8835405.789000005,8835405.789000005,True
+QA-0140,764,EPM rank,32.0,32,True
+QA-0141,764,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0.15926698240000003,0.15926698244910567,True
+QA-0142,764,"minimum returned tariff audit field, not product-specific applicable tariff",0.0,0.0,True
+QA-0143,764,NTM count vs saved structured summary; empty remains missing,3.0,3.0,True
+QA-0144,704,model imports vs raw aggregateRecords,,,True
+QA-0145,704,model CAGR vs raw endpoints; input rounded to 4 decimals,,,True
+QA-0146,704,model China share vs import reporter; input rounded to 4 decimals,,,True
+QA-0147,704,model China supplier rank vs raw records,,,True
+QA-0148,704,EPM potential,77386488.444,77386488.444,True
+QA-0149,704,EPM baseline,41793433.333,41793433.333,True
+QA-0150,704,EPM derived untapped amount,35593055.11100001,35593055.11100001,True
+QA-0151,704,EPM rank,26.0,26,True
+QA-0152,704,EPM official gap ratio vs derived amount; official ratio rounding tolerance,0.4599388837,0.4599388837336454,True
+QA-0153,704,"minimum returned tariff audit field, not product-specific applicable tariff",5.0,5.0,True
+QA-0154,704,NTM count vs saved structured summary; empty remains missing,11.0,11.0,True
+QA-0155,,main weights sum,1.0,1,True
+QA-0156,,entropy weights sum,1.0,1,True
+QA-0157,,all min-max minima,0.0,0,True
+QA-0158,,all min-max maxima,0.0,0,True
+QA-0159,036,independent scalar TOPSIS,0.8462389067354127,0.8462389067354127,True
+QA-0160,096,independent scalar TOPSIS,0.0,0.0,True
+QA-0161,116,independent scalar TOPSIS,0.5629823983498737,0.5629823983498737,True
+QA-0162,360,independent scalar TOPSIS,0.7501491716632602,0.7501491716632602,True
+QA-0163,392,independent scalar TOPSIS,0.7702949626691477,0.7702949626691477,True
+QA-0164,410,independent scalar TOPSIS,0.8962824327466158,0.8962824327466158,True
+QA-0165,458,independent scalar TOPSIS,0.7935777626761783,0.7935777626761783,True
+QA-0166,554,independent scalar TOPSIS,0.7808201289913866,0.7808201289913866,True
+QA-0167,608,independent scalar TOPSIS,0.6416890044943849,0.6416890044943849,True
+QA-0168,702,independent scalar TOPSIS,0.4162861215720288,0.4162861215720288,True
+QA-0169,764,independent scalar TOPSIS,0.6980474776723073,0.6980474776723073,True
+QA-0170,,Monte Carlo top-three membership total,15000,15000,True
+QA-0171,,Monte Carlo each draw contains rank permutation,0,0,True

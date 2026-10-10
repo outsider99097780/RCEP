@@ -1,0 +1,55 @@
+{
+  "snapshot_date": "2026-10-10",
+  "markets": [
+    "NZL",
+    "MYS"
+  ],
+  "nz_source": "PriceSpy",
+  "mys_only_source": "PriceShop",
+  "mys_source_instruction": "Latest direct user instruction supersedes guide PriceMe collection and earlier manual PriceMe plan.",
+  "nz_sampling": "All five-brand detail links observed across three category pages, plus two inactive Narwal pages; not a census of NZ retail.",
+  "nz_price_rule": "median for >=2 eligible new nationally listed quotes; single price for 1; missing for 0",
+  "unknown_stock": "Retain with flag; separate confirmed-in-stock-only median supplied for sensitivity.",
+  "exclude": [
+    "used/display/remanufactured",
+    "out_of_stock/incoming",
+    "unverified variant mismatch",
+    "non_robot accessories/floor_washers",
+    "International Stores"
+  ],
+  "shipping": "Unknown unless explicitly displayed; no zero imputation",
+  "prices": "Local currency, bare visible product prices; no FX conversion",
+  "historical_launch": "Separate, never a representative current price",
+  "normalization": "Missing blank in CSV/null in raw JSON; no automatic correction of suspect specs",
+  "raw_hash_scope": "SHA256 of saved selected fact snapshot, not full HTTP response",
+  "browser_transfer": "39 rows checked by non-cryptographic FNV checksum, then stored payload SHA256",
+  "policy_urls": [
+    "https://pricespy.co.nz/robots.txt",
+    "https://pricespy.co.nz/information/rules-and-guidelines-for-users",
+    "https://pricespy.co.nz/information/disclaimer",
+    "https://pricespy.co.nz/information/privacy-policy",
+    "https://pricespy.co.nz/information/how-we-compare-prices",
+    "https://my.priceshop.com/robots.txt",
+    "https://my.priceshop.com/en/wp-page/terms-of-service/",
+    "https://my.priceshop.com/en/wp-page/privacy-policy/"
+  ],
+  "policy_review_date": "2026-10-10",
+  "policy_review_notes": [
+    "Read applicable public rules/policies. PriceSpy shop redirects were not followed.",
+    "PriceSpy footer terms link did not return readable terms; recorded as unavailable, not accepted.",
+    "PriceMe collection stopped at robots review; later user excluded it altogether.",
+    "PriceShop subsequent HTTP403 challenge: stopped without retry or bypass; only previously read cached facts retained.",
+    "Subsequent user-authorized collection retrieved publicly indexed PriceShop cached pages only. Earlier direct HTTP403 remains historical; not bypassed or overwritten."
+  ],
+  "mys_latest_collection": {
+    "source": "PriceShop only",
+    "mode": "public cached web-reader facts",
+    "live_access_or_bypass": "No new direct HTTP crawl, hidden API, mirror, credentials, CAPTCHA or merchant redirects used.",
+    "manual_collection_cancelled": true,
+    "full_catalogue_verified": false,
+    "representative_price_semantics": "median of cached displayed new quotes excluding explicit 2023 updates; not current verified price",
+    "merchant_sensitivity": "Per-group median then across-group median additionally supplied.",
+    "history": "Separate historical_price_evidence_MYS; never mixed into retail offer medians",
+    "source_cache_age": "Relative label copied as reported; exact cache timestamp not inferred"
+  }
+}

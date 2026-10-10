@@ -1,0 +1,16 @@
+﻿scenario,indicator,positive_ideal,negative_ideal
+strategy_weight_topsis,market_size,0.3,0.0
+strategy_weight_topsis,market_growth,0.1,0.0
+strategy_weight_topsis,china_share,0.1,0.0
+strategy_weight_topsis,untapped_amount,0.3,0.0
+strategy_weight_topsis,untapped_ratio,0.2,0.0
+equal_weight_topsis,market_size,0.2,0.0
+equal_weight_topsis,market_growth,0.2,0.0
+equal_weight_topsis,china_share,0.2,0.0
+equal_weight_topsis,untapped_amount,0.2,0.0
+equal_weight_topsis,untapped_ratio,0.2,0.0
+entropy_topsis,market_size,0.1542624152060941,0.0
+entropy_topsis,market_growth,0.1370308188032727,0.0
+entropy_topsis,china_share,0.23102679822329664,0.0
+entropy_topsis,untapped_amount,0.21648965078871885,0.0
+entropy_topsis,untapped_ratio,0.2611903169786177,0.0

@@ -1,0 +1,99 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "xiaomi-trouver-finder-robot-lds-vacuum-mop",
+  "url": "https://my.priceshop.com/product/xiaomi-trouver-finder-robot-lds-vacuum-mop",
+  "title_raw": "Xiaomi Trouver Finder Robot LDS Vacuum-Mop",
+  "source_cache_age_raw": "1.2 years ago",
+  "accessed_at": "2026-10-10T11:08:31.927Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 237,
+  "reader_captured_lines": 237,
+  "summary_price_raw": "RM988.00 - RM999.00",
+  "declared_seller_count_raw": "From 2 sellers",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 190,
+      "value_line": 192
+    },
+    "Dust Capacity": {
+      "value_raw": "0.57 L",
+      "section": "Capacity",
+      "line": 196,
+      "value_line": 198
+    },
+    "Power Consumption": {
+      "value_raw": "33 W",
+      "section": "Specifications",
+      "line": 202,
+      "value_line": 204
+    },
+    "Dimensions": {
+      "value_raw": "350 x 350 x 94.5 mm",
+      "section": "Size & Weight",
+      "line": 208,
+      "value_line": 210
+    },
+    "Weight": {
+      "value_raw": "3.6 kg",
+      "section": "Size & Weight",
+      "line": 212,
+      "value_line": 214
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "Omaiya Store",
+      "merchant_group_raw": "Omaiya Store",
+      "merchant_group_locations_raw": "",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM999.00",
+      "price_line": 107,
+      "name_line": 100,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "mobile2go - Lazada",
+      "merchant_group_raw": "mobile2go",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "",
+      "price_raw": "RM988.00",
+      "price_line": 135,
+      "name_line": 127,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "G-Store Mobile",
+      "merchant_group_raw": "mobile2go",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "Cheras, Wp Kuala Lumpur",
+      "price_raw": "RM988.00",
+      "price_line": 154,
+      "name_line": 143,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "mobile2go (PJ Signature Store)",
+      "merchant_group_raw": "mobile2go",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM999.00",
+      "price_line": 172,
+      "name_line": 166,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn173view0",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

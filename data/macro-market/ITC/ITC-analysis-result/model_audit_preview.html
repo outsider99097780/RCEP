@@ -1,0 +1,67 @@
+<!DOCTYPE html><html lang="zh-CN"><meta charset="utf-8"><title>HS850811复算底稿</title><style>body{max-width:900px;margin:32px auto;padding:0 20px;font:16px/1.7 sans-serif;color:#243746}pre{white-space:pre-wrap;overflow-wrap:anywhere}.output{background:#eef4f8;padding:16px}details{margin:14px 0}section{border-bottom:1px solid #dde5eb}</style><body><section><pre># HS850811 市场模型复算底稿
+
+## tl;dr
+
+原五指标战略 TOPSIS 的前三为韩国、澳大利亚、马来西亚；日本排第 5。正文与图表未同步。
+
+本笔记本是审计入口，全部结果来自本目录的当前数据。</pre></section><section><pre>## Context &amp; Methods
+
+保留战略权重 0.30/0.10/0.10/0.30/0.20、金额 log1p、Min-Max、TOPSIS，以及原随机种子与 5,000 次 Dirichlet 情景。
+
+### Key Assumptions
+
+从 ITC-analysis-result 目录运行；原始数据在 ../ITC-data。HS850811 不是扫地机器人专属。空值不填零，EPM 与贸易期不同。完整过程见 methodology.md。</pre></section><section><pre>## Data
+
+读取共同完整样本，保留三个贸易覆盖缺失市场。来源包括 source_ledger_master.csv 与 model/input/input_lineage.csv。</pre></section><details><summary>复算单元 1</summary><pre>from pathlib import Path
+import csv, json, importlib.util, hashlib
+import numpy as np
+root = Path.cwd()
+assert (root / &#x27;model_inputs.csv&#x27;).is_file(), &#x27;Run from ITC-analysis-result&#x27;
+spec = importlib.util.spec_from_file_location(&#x27;itc_model&#x27;, root / &#x27;rebuild_itc_model.py&#x27;)
+itc = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(itc)
+inputs = itc.read_csv(root / &#x27;model_inputs.csv&#x27;)
+complete = []
+for r in inputs:
+    if all(r[k] != &#x27;&#x27; for k in [&#x27;imports_2025_usd_thousand&#x27;,&#x27;import_cagr_2020_2025_pct&#x27;,&#x27;china_share_2025_pct&#x27;,&#x27;epi_potential_usd&#x27;,&#x27;untapped_potential_usd&#x27;]):
+        complete.append({k: itc.number(v) if k not in (&#x27;country_code&#x27;,&#x27;country_name&#x27;,&#x27;source_ids&#x27;) else v for k,v in r.items()})
+print(f&#x27;Candidate markets: {len(inputs)}; complete sample: {len(complete)}; missing-trade exclusions: {len(inputs)-len(complete)}&#x27;)</pre></details><pre class="output">Candidate markets: 14; complete sample: 11; missing-trade exclusions: 3
+</pre><section><pre>## Results
+
+复算 TOPSIS 并与已存结果逐国比较。排序底稿使用精确表格；不另生成或改动报告图表。</pre></section><details><summary>复算单元 2</summary><pre>transformed, normalized, lower, upper = itc.transform(complete)
+scores, ranks = itc.topsis(normalized, itc.STRATEGY)[:2]
+saved = {r[&#x27;country_code&#x27;]: r for r in itc.read_csv(root / &#x27;market_ranking_recalculated.csv&#x27;)}
+for i in np.argsort(-scores, kind=&#x27;stable&#x27;):
+    r = complete[i]
+    assert abs(scores[i]-float(saved[r[&#x27;country_code&#x27;]][&#x27;strategy_topsis_score&#x27;])) &lt; 1e-12
+    assert ranks[i] == int(saved[r[&#x27;country_code&#x27;]][&#x27;rank&#x27;])
+    print(f&quot;{ranks[i]:2d}  {itc.NAMES[r[&#x27;country_code&#x27;]]:8s}  {scores[i]:.6f}&quot;)
+print(&#x27;Exact saved-score comparison: PASS&#x27;)</pre></details><pre class="output"> 1  韩国        0.896282
+ 2  澳大利亚      0.846239
+ 3  马来西亚      0.793578
+ 4  新西兰       0.780820
+ 5  日本        0.770295
+ 6  印度尼西亚     0.750149
+ 7  泰国        0.698047
+ 8  菲律宾       0.641689
+ 9  柬埔寨       0.562982
+10  新加坡       0.416286
+11  文莱        0.000000
+Exact saved-score comparison: PASS
+</pre><section><pre>### 随机权重复算与原始文件校验
+
+下面复算全部 5,000 组权重排名，并校验所有原始文件指纹。</pre></section><details><summary>复算单元 3</summary><pre>rng = np.random.default_rng(itc.SEED)
+weight_draws = rng.dirichlet(itc.STRATEGY*itc.CONCENTRATION, size=itc.DRAWS)
+rank_draws = np.column_stack([itc.topsis(normalized,w)[1] for w in weight_draws])
+sensitivity = {r[&#x27;country_code&#x27;]: r for r in itc.read_csv(root/&#x27;monte_carlo_sensitivity.csv&#x27;)}
+for i,r in enumerate(complete):
+    assert abs(float((rank_draws[i]&lt;=3).mean())-float(sensitivity[r[&#x27;country_code&#x27;]][&#x27;top3_share&#x27;])) &lt; 1e-12
+assert int((rank_draws&lt;=3).sum()) == 3*itc.DRAWS
+raw = Path(RAW_OVERRIDE) if &#x27;RAW_OVERRIDE&#x27; in globals() else root.parent/&#x27;ITC-data&#x27;
+files = itc.read_csv(root/&#x27;metadata/file_manifest.csv&#x27;)
+for r in files:
+    assert hashlib.sha256((raw/r[&#x27;raw_file&#x27;]).read_bytes()).hexdigest()==r[&#x27;sha256&#x27;]
+print(f&#x27;Monte Carlo ({itc.DRAWS} draws): PASS; raw file hashes ({len(files)} files): PASS&#x27;)</pre></details><pre class="output">Monte Carlo (5000 draws): PASS; raw file hashes (209 files): PASS
+</pre><section><pre>## Takeaways
+
+主模型前三不等于企业目标市场已经确定。第三名对权重变化敏感；完整权重方案和留一指标检验见 sensitivity_results.csv 与 model/output/robustness_summary.csv。事实登记和访问时间见 fact_registry.csv，不把重算日期当成数据访问日期。</pre></section></body></html>

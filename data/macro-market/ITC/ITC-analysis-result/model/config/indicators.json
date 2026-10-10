@@ -1,0 +1,47 @@
+{
+  "indicators": [
+    {
+      "name": "market_size",
+      "direction": "benefit",
+      "weight": 0.3,
+      "transform": "log1p_then_minmax",
+      "missing_policy": "common complete sample, no imputation",
+      "winsorization": "none; original implementation retained"
+    },
+    {
+      "name": "market_growth",
+      "direction": "benefit",
+      "weight": 0.1,
+      "transform": "minmax",
+      "missing_policy": "common complete sample, no imputation",
+      "winsorization": "none; original implementation retained"
+    },
+    {
+      "name": "china_share",
+      "direction": "benefit",
+      "weight": 0.1,
+      "transform": "minmax",
+      "missing_policy": "common complete sample, no imputation",
+      "winsorization": "none; original implementation retained"
+    },
+    {
+      "name": "untapped_amount",
+      "direction": "benefit",
+      "weight": 0.3,
+      "transform": "log1p_then_minmax",
+      "missing_policy": "common complete sample, no imputation",
+      "winsorization": "none; original implementation retained"
+    },
+    {
+      "name": "untapped_ratio",
+      "direction": "benefit",
+      "weight": 0.2,
+      "transform": "minmax",
+      "missing_policy": "common complete sample, no imputation",
+      "winsorization": "none; original implementation retained"
+    }
+  ],
+  "tariff": "not scored; minimum-returned tariff is not actual product-specific applicable tariff",
+  "NTM": "audit only; reference years differ and empty response is not zero",
+  "AHP": "not performed; no valid pairwise matrix"
+}

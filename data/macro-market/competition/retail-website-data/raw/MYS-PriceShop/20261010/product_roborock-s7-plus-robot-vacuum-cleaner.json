@@ -1,0 +1,156 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "roborock-s7-plus-robot-vacuum-cleaner",
+  "url": "https://my.priceshop.com/product/roborock-s7-plus-robot-vacuum-cleaner",
+  "title_raw": "Roborock S7+ Robot Vacuum Cleaner",
+  "source_cache_age_raw": "1.7 years ago",
+  "accessed_at": "2026-10-10T11:08:31.926Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 323,
+  "reader_captured_lines": 323,
+  "summary_price_raw": "RM3,999.00",
+  "declared_seller_count_raw": "From 2 sellers",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 257,
+      "value_line": 259
+    },
+    "Dust Capacity": {
+      "value_raw": "0.47 L",
+      "section": "Capacity",
+      "line": 263,
+      "value_line": 265
+    },
+    "Power Consumption": {
+      "value_raw": "58 W",
+      "section": "Specifications",
+      "line": 269,
+      "value_line": 271
+    },
+    "Noise Level": {
+      "value_raw": "58 dB",
+      "section": "Specifications",
+      "line": 273,
+      "value_line": 275
+    },
+    "Battery Capacity": {
+      "value_raw": "5200 mAh",
+      "section": "Battery",
+      "line": 279,
+      "value_line": 281
+    },
+    "Runtime": {
+      "value_raw": "Up to 150 minutes",
+      "section": "Battery",
+      "line": 283,
+      "value_line": 285
+    },
+    "Dust Bag": {
+      "value_raw": "Bagged",
+      "section": "Others",
+      "line": 289,
+      "value_line": 291
+    },
+    "Dimensions": {
+      "value_raw": "353 x 350 x 96.5 mm",
+      "section": "Size & Weight",
+      "line": 294,
+      "value_line": 296
+    },
+    "Weight": {
+      "value_raw": "4.7 kg",
+      "section": "Size & Weight",
+      "line": 298,
+      "value_line": 300
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "BK Gadgets",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Subang Jaya, Selangor",
+      "price_raw": "RM3,999.00",
+      "price_line": 125,
+      "name_line": 118,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets - Shopee",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM3,999.00",
+      "price_line": 142,
+      "name_line": 136,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - IOI City Mall",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Sepang, Selangor",
+      "price_raw": "RM3,999.00",
+      "price_line": 169,
+      "name_line": 161,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - Sunway Velocity",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Cheras, Wp Kuala Lumpur",
+      "price_raw": "RM3,999.00",
+      "price_line": 187,
+      "name_line": 180,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Mid Valley",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+      "price_raw": "RM3,999.00",
+      "price_line": 205,
+      "name_line": 198,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - 1 Utama",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM3,999.00",
+      "price_line": 223,
+      "name_line": 216,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Lazada",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "",
+      "price_raw": "RM3,999.00",
+      "price_line": 239,
+      "name_line": 234,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn171view0",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

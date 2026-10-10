@@ -1,0 +1,39 @@
+{
+  "capture_id": "roborock-saros-20260519",
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "url": "https://my.priceshop.com/en/news/roborock-saros-20-series-their-most-advanced-premium-robot-vacuums-yet-from-rm5399/",
+  "title": "Roborock Saros 20 series: Their most advanced premium robot vacuums yet, from RM5,399",
+  "publication_date": "2026-05-19",
+  "author": "Raymond Saw",
+  "source_cache_age_raw": "3 weeks ago",
+  "accessed_at": "2026-10-10T11:12:23.294Z",
+  "access_method": "public_web_reader_cached_news",
+  "source_type": "historical_launch_news",
+  "current_stock_verified": false,
+  "products": [
+    {
+      "brand": "Roborock",
+      "model_name": "Saros 20",
+      "list_price_myr": "5399",
+      "price_source_type": "price_at_publication_not_current_offer",
+      "source_line": 57
+    },
+    {
+      "brand": "Roborock",
+      "model_name": "Saros 20 R&D",
+      "list_price_myr": "5799",
+      "price_source_type": "price_at_publication_not_current_offer",
+      "source_line": 57
+    },
+    {
+      "brand": "Roborock",
+      "model_name": "Saros 20 Sonic",
+      "list_price_myr": "5999",
+      "price_source_type": "price_at_publication_not_current_offer",
+      "source_line": 57
+    }
+  ]
+}

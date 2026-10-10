@@ -1,0 +1,95 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "dreame-bot-l10s-ultra",
+  "url": "https://my.priceshop.com/product/dreame-bot-l10s-ultra",
+  "title_raw": "Dreame Bot L10s Ultra",
+  "source_cache_age_raw": "3 months ago",
+  "accessed_at": "2026-10-10T11:08:31.918Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 222,
+  "reader_captured_lines": 222,
+  "summary_price_raw": "RM5,599.00",
+  "declared_seller_count_raw": "From 1 seller",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 162,
+      "value_line": 164
+    },
+    "Dust Capacity": {
+      "value_raw": "0.35 L",
+      "section": "Capacity",
+      "line": 168,
+      "value_line": 170
+    },
+    "Airflow": {
+      "value_raw": "180 rpm",
+      "section": "Specifications",
+      "line": 174,
+      "value_line": 176
+    },
+    "Noise Level": {
+      "value_raw": "59 dB",
+      "section": "Specifications",
+      "line": 178,
+      "value_line": 180
+    },
+    "Battery Capacity": {
+      "value_raw": "5200 mAh",
+      "section": "Battery",
+      "line": 184,
+      "value_line": 186
+    },
+    "Runtime": {
+      "value_raw": "Up to 210 minutes",
+      "section": "Battery",
+      "line": 188,
+      "value_line": 190
+    },
+    "Dimensions": {
+      "value_raw": "350 x 350 x 97 mm",
+      "section": "Size & Weight",
+      "line": 193,
+      "value_line": 195
+    },
+    "Weight": {
+      "value_raw": "3.7 kg",
+      "section": "Size & Weight",
+      "line": 197,
+      "value_line": 199
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "BK Gadgets",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Subang Jaya, Selangor",
+      "price_raw": "RM5,599.00",
+      "price_line": 125,
+      "name_line": 116,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets - Shopee",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM5,599.00",
+      "price_line": 144,
+      "name_line": 136,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn154view3",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

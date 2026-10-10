@@ -1,0 +1,10 @@
+{
+  "notebook": "model_audit.ipynb",
+  "code_cells_executed": 3,
+  "execution_passed": true,
+  "execution_engine": "ordinary sequential Python compile/exec; valid nbformat-4 cell structure",
+  "standard_jupyter_kernel_used": false,
+  "rendered_visual_inspection": "not_completed",
+  "reason": "Browser security policy blocks file: URLs; no workaround attempted.",
+  "effect_on_model_validation": "none; exact scores, Monte Carlo rerun and source hashes validated independently"
+}

@@ -1,0 +1,41 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "16333792",
+  "url": "https://pricespy.co.nz/product.php?p=16333792",
+  "accessed_at": "2026-10-10T10:19:48.535Z",
+  "page_title": "Xiaomi H50 Pro",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "41",
+  "declared_shop_count_raw": "1",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Docking station": "Yes",
+    "Features": "Voice control, Remote control, Self-docking, Virtual walls (barrier), App control, Automatic mop drying, Obstacle sensing system, Self-emptying",
+    "Mop function": "Yes",
+    "Self-emptying": "Yes"
+  },
+  "visible_three_month_history_raw": [
+    "Stable",
+    "Lowest: $1,047.59 | Highest: $1,051.17"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Ascent",
+      "price_raw": "$1,047.59",
+      "stock_raw": "In stock",
+      "title_raw": "Xiaomi H50 Pro Robot Vacuum & Mopping Cleaner",
+      "partner_store_flag": false,
+      "observed_redirect_path": null,
+      "visible_price_labels_raw": [
+        "$1,047.59"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

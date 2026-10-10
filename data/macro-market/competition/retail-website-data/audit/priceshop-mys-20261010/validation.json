@@ -1,0 +1,59 @@
+{
+  "passed": true,
+  "counts": {
+    "snapshot_date": "2026-10-10",
+    "only_source": "PriceShop",
+    "public_reader_product_pages": 44,
+    "by_brand": {
+      "Dreame": 6,
+      "Ecovacs": 13,
+      "Xiaomi": 13,
+      "Roborock": 12
+    },
+    "captured_offer_rows": 281,
+    "nonstale_cached_quote_rows": 271,
+    "explicitly_stale_quote_rows": 10,
+    "specification_field_rows": 247,
+    "historical_article_sources": 9,
+    "historical_price_evidence_rows": 26,
+    "current_verified_price_skus": 0,
+    "narwal_product_pages_found": 0,
+    "narwal_historical_price_rows": 4,
+    "full_site_catalogue_coverage_verified": false,
+    "all_selected_product_reader_documents_read": true,
+    "manual_collection_cancelled": true,
+    "missing_brand_current_catalogue": [
+      "Narwal"
+    ],
+    "current_price_qualified_skus": 0,
+    "current_price_coverage": "not_verified_cached_data_only",
+    "manual_PriceMe_plan_cancelled": true,
+    "incomplete_visible_merchant_group_pages": [
+      "roborock-s7-robot-vacuum",
+      "xiaomi-mi-robot-vacuum-mop-2",
+      "xiaomi-mi-robot-vacuum-mop-2-lite",
+      "xiaomi-robot-vacuum-mop-2-pro"
+    ],
+    "limitations": [
+      "Category page returned undefined/no products; this is not evidence of an empty catalogue.",
+      "No complete catalogue or product/offer pagination verification is available from the public reader.",
+      "Retrieved product cache ages range from today to over one year; no quote is certified current.",
+      "All stock and shipping are unknown; no merchant redirect was followed.",
+      "Narwal product listings were not found; only historical PriceShop articles were obtained.",
+      "Full reader document read does not mean all merchant offers on the live site were returned."
+    ]
+  },
+  "unchanged_non_mys_shared_rows": true,
+  "existing_raw_files_not_overwritten": true,
+  "raw_fact_payloads_roundtrip_equal": true,
+  "source_ledger_ids_unique": true,
+  "source_ledger_hashes_valid": true,
+  "all_cleaned_records_have_resolvable_sources": true,
+  "input_hashes": {
+    "access_review.json": "48c91de0513918d86e21df26554ee92a93c120a1fec01ae79fe8270a2d6b0df7",
+    "discovery.json": "709b06f0717ca2217b667608bbe3596d9f36f105f054b300a9d44a3c0166ce12",
+    "news.json": "6044b1fd6b338c55c4704c2523abd2c24bfd91d4ad64405e99ea28f66704b3ac",
+    "products.json": "54916d2e930423629add63042772d6c679b2cb689d704bb4c46272608e575e1b",
+    "queries.json": "3e5f876c4941b682302741ff418805f256cad74c5f8d19b99e5a2134598543d9"
+  }
+}

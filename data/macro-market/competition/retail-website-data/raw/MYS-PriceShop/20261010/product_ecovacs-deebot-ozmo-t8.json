@@ -1,0 +1,65 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "ecovacs-deebot-ozmo-t8",
+  "url": "https://my.priceshop.com/product/ecovacs-deebot-ozmo-t8",
+  "title_raw": "Ecovacs Deebot Ozmo T8",
+  "source_cache_age_raw": "1.4 years ago",
+  "accessed_at": "2026-10-10T11:08:31.928Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 184,
+  "reader_captured_lines": 184,
+  "summary_price_raw": "RM1,549.00",
+  "declared_seller_count_raw": "From 1 seller",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 147,
+      "value_line": 149
+    },
+    "Dust Capacity": {
+      "value_raw": "0.42 L",
+      "section": "Capacity",
+      "line": 153,
+      "value_line": 155
+    },
+    "Dimensions": {
+      "value_raw": "353 x 353 x 93 mm",
+      "section": "Size & Weight",
+      "line": 159,
+      "value_line": 161
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "Ban Leong Technologies - Shopee",
+      "merchant_group_raw": "Ban Leong Technologies",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM1,549.00",
+      "price_line": 108,
+      "name_line": 102,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ban Leong Technologies",
+      "merchant_group_raw": "Ban Leong Technologies",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM1,549.00",
+      "price_line": 126,
+      "name_line": 115,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn174view0",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

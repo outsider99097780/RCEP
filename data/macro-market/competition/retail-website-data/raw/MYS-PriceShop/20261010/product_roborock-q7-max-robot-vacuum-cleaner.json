@@ -1,0 +1,132 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "roborock-q7-max-robot-vacuum-cleaner",
+  "url": "https://my.priceshop.com/product/roborock-q7-max-robot-vacuum-cleaner",
+  "title_raw": "Roborock Q7 Max Robot Vacuum Cleaner",
+  "source_cache_age_raw": "3 months ago",
+  "accessed_at": "2026-10-10T11:08:31.920Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 290,
+  "reader_captured_lines": 290,
+  "summary_price_raw": "RM2,199.00",
+  "declared_seller_count_raw": "From 2 sellers",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 241,
+      "value_line": 243
+    },
+    "Dust Capacity": {
+      "value_raw": "0.47 L",
+      "section": "Capacity",
+      "line": 247,
+      "value_line": 249
+    },
+    "Power Consumption": {
+      "value_raw": "500 W",
+      "section": "Specifications",
+      "line": 253,
+      "value_line": 255
+    },
+    "Runtime": {
+      "value_raw": "Up to 2 hours and 30 minutes",
+      "section": "Battery",
+      "line": 259,
+      "value_line": 261
+    },
+    "Dust Bag": {
+      "value_raw": "Bagged",
+      "section": "Others",
+      "line": 265,
+      "value_line": 267
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "BK Gadgets",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Subang Jaya, Selangor",
+      "price_raw": "RM2,199.00",
+      "price_line": 109,
+      "name_line": 102,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets - Shopee",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM2,199.00",
+      "price_line": 126,
+      "name_line": 121,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - IOI City Mall",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Sepang, Selangor",
+      "price_raw": "RM2,199.00",
+      "price_line": 153,
+      "name_line": 145,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - Sunway Velocity",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Cheras, Wp Kuala Lumpur",
+      "price_raw": "RM2,199.00",
+      "price_line": 171,
+      "name_line": 164,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Mid Valley",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+      "price_raw": "RM2,199.00",
+      "price_line": 189,
+      "name_line": 182,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - 1 Utama",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM2,199.00",
+      "price_line": 207,
+      "name_line": 200,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Lazada",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "",
+      "price_raw": "RM2,199.00",
+      "price_line": 223,
+      "name_line": 218,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn155view4",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

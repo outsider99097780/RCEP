@@ -1,0 +1,40 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "14873378",
+  "url": "https://pricespy.co.nz/product.php?p=14873378",
+  "accessed_at": "2026-10-10T10:18:24.599Z",
+  "page_title": "Ecovacs Deebot T80 Omni",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "80",
+  "declared_shop_count_raw": "1",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Features": "Voice control, App control, Automatic mop drying, Self-emptying",
+    "Mop function": "Yes",
+    "Self-emptying": "Yes"
+  },
+  "visible_three_month_history_raw": [
+    "Rising",
+    "Lowest: $1,195.00 | Highest: $1,995.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Heathcote Appliances",
+      "price_raw": "$1,995.00",
+      "stock_raw": "In stock",
+      "title_raw": "Ecovacs Deebot T80 Omni Robotic Vacuum - Black",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/14663/offer/DEX62?client_id=1551",
+      "visible_price_labels_raw": [
+        "$1,995.00"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

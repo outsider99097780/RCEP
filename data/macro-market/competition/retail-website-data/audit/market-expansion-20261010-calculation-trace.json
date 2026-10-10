@@ -1,0 +1,594 @@
+[
+  {
+    "product_id": "15953163",
+    "source_ledger_id": "SRC-20261010-NZL-15953163",
+    "valid_offer_ids": [
+      "NZL-15953163-01",
+      "NZL-15953163-02"
+    ],
+    "sorted_input_prices": [
+      "899.00",
+      "1885.25"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "1392.125",
+    "representative_price": "1392.13",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "median_two_valid_new_offers"
+  },
+  {
+    "product_id": "16030637",
+    "source_ledger_id": "SRC-20261010-NZL-16030637",
+    "valid_offer_ids": [
+      "NZL-16030637-01",
+      "NZL-16030637-02",
+      "NZL-16030637-03",
+      "NZL-16030637-04"
+    ],
+    "sorted_input_prices": [
+      "2799.00",
+      "3232.00",
+      "3299.00",
+      "3416.56"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "3265.50",
+    "representative_price": "3265.50",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "median_valid_new_offers_n_ge_3"
+  },
+  {
+    "product_id": "15697556",
+    "source_ledger_id": "SRC-20261010-NZL-15697556",
+    "valid_offer_ids": [
+      "NZL-15697556-01"
+    ],
+    "sorted_input_prices": [
+      "2699.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "2699.00",
+    "representative_price": "2699.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "single_valid_new_offer"
+  },
+  {
+    "product_id": "16151405",
+    "source_ledger_id": "SRC-20261010-NZL-16151405",
+    "valid_offer_ids": [
+      "NZL-16151405-01",
+      "NZL-16151405-02"
+    ],
+    "sorted_input_prices": [
+      "1999.00",
+      "2999.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "2499.00",
+    "representative_price": "2499.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "median_two_valid_new_offers"
+  },
+  {
+    "product_id": "16706967",
+    "source_ledger_id": "SRC-20261010-NZL-16706967",
+    "valid_offer_ids": [
+      "NZL-16706967-01",
+      "NZL-16706967-02"
+    ],
+    "sorted_input_prices": [
+      "2397.00",
+      "2399.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "2398.00",
+    "representative_price": "2398.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "median_two_valid_new_offers"
+  },
+  {
+    "product_id": "16004718",
+    "source_ledger_id": "SRC-20261010-NZL-16004718",
+    "valid_offer_ids": [
+      "NZL-16004718-01",
+      "NZL-16004718-02",
+      "NZL-16004718-03"
+    ],
+    "sorted_input_prices": [
+      "499.00",
+      "499.00",
+      "829.01"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "499.00",
+    "representative_price": "499.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "median_valid_new_offers_n_ge_3"
+  },
+  {
+    "product_id": "16773656",
+    "source_ledger_id": "SRC-20261010-NZL-16773656",
+    "valid_offer_ids": [],
+    "sorted_input_prices": [],
+    "excluded_offer_ids": [
+      "NZL-16773656-01"
+    ],
+    "median_unrounded": null,
+    "representative_price": null,
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "not_available"
+  },
+  {
+    "product_id": "15806731",
+    "source_ledger_id": "SRC-20261010-NZL-15806731",
+    "valid_offer_ids": [
+      "NZL-15806731-01"
+    ],
+    "sorted_input_prices": [
+      "1299.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "1299.00",
+    "representative_price": "1299.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "single_valid_new_offer"
+  },
+  {
+    "product_id": "16964950",
+    "source_ledger_id": "SRC-20261010-NZL-16964950",
+    "valid_offer_ids": [
+      "NZL-16964950-01",
+      "NZL-16964950-02"
+    ],
+    "sorted_input_prices": [
+      "1888.00",
+      "1899.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "1893.50",
+    "representative_price": "1893.50",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "median_two_valid_new_offers"
+  },
+  {
+    "product_id": "16157598",
+    "source_ledger_id": "SRC-20261010-NZL-16157598",
+    "valid_offer_ids": [
+      "NZL-16157598-01",
+      "NZL-16157598-02",
+      "NZL-16157598-03",
+      "NZL-16157598-04",
+      "NZL-16157598-05"
+    ],
+    "sorted_input_prices": [
+      "1997.00",
+      "1999.00",
+      "1999.00",
+      "2163.67",
+      "2499.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "1999.00",
+    "representative_price": "1999.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "median_valid_new_offers_n_ge_3"
+  },
+  {
+    "product_id": "14429258",
+    "source_ledger_id": "SRC-20261010-NZL-14429258",
+    "valid_offer_ids": [],
+    "sorted_input_prices": [],
+    "excluded_offer_ids": [
+      "NZL-14429258-01",
+      "NZL-14429258-02",
+      "NZL-14429258-03",
+      "NZL-14429258-04"
+    ],
+    "median_unrounded": null,
+    "representative_price": null,
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "not_available"
+  },
+  {
+    "product_id": "15371875",
+    "source_ledger_id": "SRC-20261010-NZL-15371875",
+    "valid_offer_ids": [
+      "NZL-15371875-02",
+      "NZL-15371875-03",
+      "NZL-15371875-05"
+    ],
+    "sorted_input_prices": [
+      "2999.00",
+      "2999.00",
+      "3499.00"
+    ],
+    "excluded_offer_ids": [
+      "NZL-15371875-01",
+      "NZL-15371875-04"
+    ],
+    "median_unrounded": "2999.00",
+    "representative_price": "2999.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "median_valid_new_offers_n_ge_3"
+  },
+  {
+    "product_id": "16133824",
+    "source_ledger_id": "SRC-20261010-NZL-16133824",
+    "valid_offer_ids": [
+      "NZL-16133824-01",
+      "NZL-16133824-02",
+      "NZL-16133824-03"
+    ],
+    "sorted_input_prices": [
+      "1999.00",
+      "1999.00",
+      "2113.21"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "1999.00",
+    "representative_price": "1999.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "median_valid_new_offers_n_ge_3"
+  },
+  {
+    "product_id": "14103682",
+    "source_ledger_id": "SRC-20261010-NZL-14103682",
+    "valid_offer_ids": [
+      "NZL-14103682-02",
+      "NZL-14103682-03"
+    ],
+    "sorted_input_prices": [
+      "899.00",
+      "899.00"
+    ],
+    "excluded_offer_ids": [
+      "NZL-14103682-01"
+    ],
+    "median_unrounded": "899.00",
+    "representative_price": "899.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "median_two_valid_new_offers"
+  },
+  {
+    "product_id": "14582900",
+    "source_ledger_id": "SRC-20261010-NZL-14582900",
+    "valid_offer_ids": [],
+    "sorted_input_prices": [],
+    "excluded_offer_ids": [
+      "NZL-14582900-01"
+    ],
+    "median_unrounded": null,
+    "representative_price": null,
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "not_available"
+  },
+  {
+    "product_id": "13730487",
+    "source_ledger_id": "SRC-20261010-NZL-13730487",
+    "valid_offer_ids": [],
+    "sorted_input_prices": [],
+    "excluded_offer_ids": [
+      "NZL-13730487-01"
+    ],
+    "median_unrounded": null,
+    "representative_price": null,
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "not_available"
+  },
+  {
+    "product_id": "14873378",
+    "source_ledger_id": "SRC-20261010-NZL-14873378",
+    "valid_offer_ids": [
+      "NZL-14873378-01"
+    ],
+    "sorted_input_prices": [
+      "1995.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "1995.00",
+    "representative_price": "1995.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "single_valid_new_offer"
+  },
+  {
+    "product_id": "14853723",
+    "source_ledger_id": "SRC-20261010-NZL-14853723",
+    "valid_offer_ids": [
+      "NZL-14853723-01",
+      "NZL-14853723-03"
+    ],
+    "sorted_input_prices": [
+      "2099.00",
+      "2299.00"
+    ],
+    "excluded_offer_ids": [
+      "NZL-14853723-02"
+    ],
+    "median_unrounded": "2199.00",
+    "representative_price": "2199.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "median_two_valid_new_offers"
+  },
+  {
+    "product_id": "16191919",
+    "source_ledger_id": "SRC-20261010-NZL-16191919",
+    "valid_offer_ids": [
+      "NZL-16191919-01",
+      "NZL-16191919-02",
+      "NZL-16191919-03",
+      "NZL-16191919-04"
+    ],
+    "sorted_input_prices": [
+      "2999.00",
+      "3293.00",
+      "3299.00",
+      "3299.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "3296.00",
+    "representative_price": "3296.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "median_valid_new_offers_n_ge_3"
+  },
+  {
+    "product_id": "15439073",
+    "source_ledger_id": "SRC-20261010-NZL-15439073",
+    "valid_offer_ids": [],
+    "sorted_input_prices": [],
+    "excluded_offer_ids": [
+      "NZL-15439073-01",
+      "NZL-15439073-02",
+      "NZL-15439073-03",
+      "NZL-15439073-04"
+    ],
+    "median_unrounded": null,
+    "representative_price": null,
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "not_available"
+  },
+  {
+    "product_id": "13902984",
+    "source_ledger_id": "SRC-20261010-NZL-13902984",
+    "valid_offer_ids": [],
+    "sorted_input_prices": [],
+    "excluded_offer_ids": [
+      "NZL-13902984-01"
+    ],
+    "median_unrounded": null,
+    "representative_price": null,
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "not_available"
+  },
+  {
+    "product_id": "15417136",
+    "source_ledger_id": "SRC-20261010-NZL-15417136",
+    "valid_offer_ids": [],
+    "sorted_input_prices": [],
+    "excluded_offer_ids": [
+      "NZL-15417136-01"
+    ],
+    "median_unrounded": null,
+    "representative_price": null,
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "not_available"
+  },
+  {
+    "product_id": "15437096",
+    "source_ledger_id": "SRC-20261010-NZL-15437096",
+    "valid_offer_ids": [],
+    "sorted_input_prices": [],
+    "excluded_offer_ids": [
+      "NZL-15437096-01"
+    ],
+    "median_unrounded": null,
+    "representative_price": null,
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "not_available"
+  },
+  {
+    "product_id": "16685571",
+    "source_ledger_id": "SRC-20261010-NZL-16685571",
+    "valid_offer_ids": [
+      "NZL-16685571-02"
+    ],
+    "sorted_input_prices": [
+      "2649.00"
+    ],
+    "excluded_offer_ids": [
+      "NZL-16685571-01"
+    ],
+    "median_unrounded": "2649.00",
+    "representative_price": "2649.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "single_valid_new_offer"
+  },
+  {
+    "product_id": "16341649",
+    "source_ledger_id": "SRC-20261010-NZL-16341649",
+    "valid_offer_ids": [
+      "NZL-16341649-02"
+    ],
+    "sorted_input_prices": [
+      "999.00"
+    ],
+    "excluded_offer_ids": [
+      "NZL-16341649-01"
+    ],
+    "median_unrounded": "999.00",
+    "representative_price": "999.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "single_valid_new_offer"
+  },
+  {
+    "product_id": "7058319",
+    "source_ledger_id": "SRC-20261010-NZL-7058319",
+    "valid_offer_ids": [
+      "NZL-7058319-01"
+    ],
+    "sorted_input_prices": [
+      "888.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "888.00",
+    "representative_price": "888.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "single_valid_new_offer"
+  },
+  {
+    "product_id": "14107541",
+    "source_ledger_id": "SRC-20261010-NZL-14107541",
+    "valid_offer_ids": [
+      "NZL-14107541-01"
+    ],
+    "sorted_input_prices": [
+      "999.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "999.00",
+    "representative_price": "999.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "single_valid_new_offer"
+  },
+  {
+    "product_id": "15417125",
+    "source_ledger_id": "SRC-20261010-NZL-15417125",
+    "valid_offer_ids": [
+      "NZL-15417125-01"
+    ],
+    "sorted_input_prices": [
+      "2499.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "2499.00",
+    "representative_price": "2499.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "single_valid_new_offer"
+  },
+  {
+    "product_id": "16461333",
+    "source_ledger_id": "SRC-20261010-NZL-16461333",
+    "valid_offer_ids": [],
+    "sorted_input_prices": [],
+    "excluded_offer_ids": [
+      "NZL-16461333-01"
+    ],
+    "median_unrounded": null,
+    "representative_price": null,
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "not_available"
+  },
+  {
+    "product_id": "15528165",
+    "source_ledger_id": "SRC-20261010-NZL-15528165",
+    "valid_offer_ids": [
+      "NZL-15528165-01",
+      "NZL-15528165-02"
+    ],
+    "sorted_input_prices": [
+      "439.00",
+      "475.16"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "457.08",
+    "representative_price": "457.08",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "median_two_valid_new_offers"
+  },
+  {
+    "product_id": "16333792",
+    "source_ledger_id": "SRC-20261010-NZL-16333792",
+    "valid_offer_ids": [
+      "NZL-16333792-01"
+    ],
+    "sorted_input_prices": [
+      "1047.59"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "1047.59",
+    "representative_price": "1047.59",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "single_valid_new_offer"
+  },
+  {
+    "product_id": "15752947",
+    "source_ledger_id": "SRC-20261010-NZL-15752947",
+    "valid_offer_ids": [
+      "NZL-15752947-01"
+    ],
+    "sorted_input_prices": [
+      "760.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "760.00",
+    "representative_price": "760.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "single_valid_new_offer"
+  },
+  {
+    "product_id": "6031451",
+    "source_ledger_id": "SRC-20261010-NZL-6031451",
+    "valid_offer_ids": [
+      "NZL-6031451-01"
+    ],
+    "sorted_input_prices": [
+      "449.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "449.00",
+    "representative_price": "449.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "single_valid_new_offer"
+  },
+  {
+    "product_id": "5953038",
+    "source_ledger_id": "SRC-20261010-NZL-5953038",
+    "valid_offer_ids": [
+      "NZL-5953038-01"
+    ],
+    "sorted_input_prices": [
+      "469.00"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "469.00",
+    "representative_price": "469.00",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "single_valid_new_offer"
+  },
+  {
+    "product_id": "8369786",
+    "source_ledger_id": "SRC-20261010-NZL-8369786",
+    "valid_offer_ids": [
+      "NZL-8369786-01"
+    ],
+    "sorted_input_prices": [
+      "226.31"
+    ],
+    "excluded_offer_ids": [],
+    "median_unrounded": "226.31",
+    "representative_price": "226.31",
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "single_valid_new_offer"
+  },
+  {
+    "product_id": "13331364",
+    "source_ledger_id": "SRC-20261010-NZL-13331364",
+    "valid_offer_ids": [],
+    "sorted_input_prices": [],
+    "excluded_offer_ids": [],
+    "median_unrounded": null,
+    "representative_price": null,
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "not_available"
+  },
+  {
+    "product_id": "13104748",
+    "source_ledger_id": "SRC-20261010-NZL-13104748",
+    "valid_offer_ids": [],
+    "sorted_input_prices": [],
+    "excluded_offer_ids": [],
+    "median_unrounded": null,
+    "representative_price": null,
+    "rounding": "ROUND_HALF_UP to 2 decimals",
+    "price_method": "not_available"
+  }
+]

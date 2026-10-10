@@ -1,0 +1,54 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "13730487",
+  "url": "https://pricespy.co.nz/product.php?p=13730487",
+  "accessed_at": "2026-10-10T10:18:23.002Z",
+  "page_title": "Ecovacs Deebot N20",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "83",
+  "declared_shop_count_raw": "1",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Battery capacity": "5200 mAh",
+    "Battery life": "300 min",
+    "Color": "White",
+    "Docking station": "Yes",
+    "Dust capacity (robot)": "0.4 litre",
+    "Features": "Timer, Voice control, Supports scheduling, Remote control, Stairs detection, Self-docking, Virtual walls (barrier), Adapted for pets, App control, Edge cleaning, Automatic mop drying, Self-emptying",
+    "Height": "96 mm",
+    "Mop function": "Yes",
+    "Navigation method": "LiDAR (laser)",
+    "Noise level": "65 dB",
+    "Product weight": "3.7 kg",
+    "Self-emptying": "Yes",
+    "Suction Power (kPa)": "8 kPa",
+    "Suction power (Pa)": "8000 Pa",
+    "Threshold height": "2 cm",
+    "Type": "Vacuum Cleaners",
+    "Water container volume": "220 ml"
+  },
+  "visible_three_month_history_raw": [
+    "Rising",
+    "Lowest: $453.00 | Highest: $999.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Mighty Ape",
+      "price_raw": "$899.00",
+      "stock_raw": "In stock",
+      "title_raw": "Ecovacs Deebot N20 PRO PLUS Robotic Vacuum Cleaner",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8392/offer/39038110?client_id=1551",
+      "visible_price_labels_raw": [
+        "$899.00"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

@@ -1,0 +1,142 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "xiaomi-mi-robot-vacuum-mop-essential",
+  "url": "https://my.priceshop.com/product/xiaomi-mi-robot-vacuum-mop-essential",
+  "title_raw": "Xiaomi Mi Robot Vacuum Mop Essential",
+  "source_cache_age_raw": "1.3 years ago",
+  "accessed_at": "2026-10-10T11:08:31.927Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 317,
+  "reader_captured_lines": 317,
+  "summary_price_raw": "RM599.00 - RM999.00",
+  "declared_seller_count_raw": "From 3 sellers",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 280,
+      "value_line": 282
+    },
+    "Dust Capacity": {
+      "value_raw": "0.42 L",
+      "section": "Capacity",
+      "line": 286,
+      "value_line": 288
+    },
+    "Dust Bag": {
+      "value_raw": "Bagless",
+      "section": "Others",
+      "line": 292,
+      "value_line": 294
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "BK Gadgets",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "Subang Jaya, Selangor",
+      "price_raw": "RM699.00",
+      "price_line": 105,
+      "name_line": 98,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets - Shopee",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "",
+      "price_raw": "RM699.00",
+      "price_line": 122,
+      "name_line": 117,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets - Shopee",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "",
+      "price_raw": "RM999.00",
+      "price_line": 135,
+      "name_line": 132,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - IOI City Mall",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Sepang, Selangor",
+      "price_raw": "RM699.00",
+      "price_line": 160,
+      "name_line": 153,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - Sunway Velocity",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Cheras, Wp Kuala Lumpur",
+      "price_raw": "RM699.00",
+      "price_line": 178,
+      "name_line": 171,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Mid Valley",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+      "price_raw": "RM699.00",
+      "price_line": 196,
+      "name_line": 189,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - 1 Utama",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM699.00",
+      "price_line": 214,
+      "name_line": 207,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Lazada",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "",
+      "price_raw": "RM699.00",
+      "price_line": 230,
+      "name_line": 225,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "SS Solution - Kelana Jaya, HQ",
+      "merchant_group_raw": "SS Solution",
+      "merchant_group_locations_raw": "",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM599.00",
+      "price_line": 254,
+      "name_line": 239,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn172view1",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

@@ -1,0 +1,85 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "16157598",
+  "url": "https://pricespy.co.nz/product.php?p=16157598",
+  "accessed_at": "2026-10-10T10:17:49.510Z",
+  "page_title": "Ecovacs DEEBOT T90 Pro Omni",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "2",
+  "declared_shop_count_raw": "5",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Docking station": "Yes",
+    "Features": "Timer, Voice control, Self-docking, App control, Automatic mop drying, Self-emptying",
+    "Mop function": "Yes",
+    "Self-emptying": "Yes"
+  },
+  "visible_three_month_history_raw": [
+    "Rising",
+    "Lowest: $1,574.00 | Highest: $2,497.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "Heathcote Appliances",
+      "price_raw": "$1,997.00",
+      "stock_raw": "In stock",
+      "title_raw": "Ecovacs Deebot T90 Pro Omni Robot Vacuum & Mop - White",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/14663/offer/DEX95?client_id=1551",
+      "visible_price_labels_raw": [
+        "$1,997.00"
+      ]
+    },
+    {
+      "retailer": "Harvey Norman",
+      "price_raw": "$1,999.00",
+      "stock_raw": "In stock",
+      "title_raw": "Ecovacs DEEBOT T90 Pro OMNI Robotic Vacuum & Mop with Multifunctional Docking Station - White (DEX95)",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/12119/offer/142048?client_id=1551",
+      "visible_price_labels_raw": [
+        "$1,999.00"
+      ]
+    },
+    {
+      "retailer": "Noel Leeming",
+      "price_raw": "$1,999.00",
+      "stock_raw": "In stock",
+      "title_raw": "Ecovacs Deebot T90 Pro OMNI Robot Vacuum & Mop with Auto Mop Cleaning and Self-Emptying Base Station",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/8236/offer/N249091?client_id=1551",
+      "visible_price_labels_raw": [
+        "$1,999.00"
+      ]
+    },
+    {
+      "retailer": "Ascent",
+      "price_raw": "$2,163.67",
+      "stock_raw": "In stock",
+      "title_raw": "EcoVacs T90 Pro OMNI Smart Floor Vacuum/Mopping Cleaner",
+      "partner_store_flag": false,
+      "observed_redirect_path": null,
+      "visible_price_labels_raw": [
+        "$2,163.67"
+      ]
+    },
+    {
+      "retailer": "JB Hi-Fi",
+      "price_raw": "$2,499.00",
+      "stock_raw": "In stock",
+      "title_raw": "Ecovacs T90 Pro OMNI Roller Mop Robotic Vacuum Cleaner",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/12087/offer/473104?client_id=1551",
+      "visible_price_labels_raw": [
+        "$2,499.00"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}

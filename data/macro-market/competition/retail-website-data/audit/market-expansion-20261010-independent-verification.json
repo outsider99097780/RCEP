@@ -1,0 +1,18 @@
+{
+  "status": "share_with_caveats",
+  "checked_scope": "New NZL/MYS retail exports and target-market evidence changes; not old ITC/main.tex data",
+  "checks": [
+    "All authored JSON/JSONL/CSV parsed and CSV widths checked",
+    "New sources exist and payload SHA256 matches; PriceShop-only Malaysia; historical/current separation",
+    "All 37 SKU price results recomputed independently; 26 qualified; 49 qualifying quote rows; suspect spec numbers blocked",
+    "All old shared-table row values preserved; per-country JPN/KOR/AUS files not in publication manifest",
+    "207 evidence IDs consistent across views; unrelated facts and all source PDFs unchanged; missing NZ explicit; MY audit-only values excluded"
+  ],
+  "caveats": [
+    "NZL not an exhaustive national retail census",
+    "Unknown-stock quotes flagged; confirmed-stock-only alternative supplied",
+    "MYS current retail prices unavailable: PriceShop 403 stop, only two historical launch robots",
+    "No NZ-specific annual/research facts in searched extracted text; not exhaustive OCR of every image",
+    "Old three-market representative-price method differs from new NZ median-of-two rule"
+  ]
+}

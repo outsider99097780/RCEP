@@ -1,0 +1,199 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "dreame-f9-robot-vacuum",
+  "url": "https://my.priceshop.com/product/dreame-f9-robot-vacuum",
+  "title_raw": "Dreame F9 Robot Vacuum",
+  "source_cache_age_raw": "last year",
+  "accessed_at": "2026-10-10T11:08:31.917Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 430,
+  "reader_captured_lines": 430,
+  "summary_price_raw": "RM1,169.00 - RM1,299.00",
+  "declared_seller_count_raw": "From 4 sellers",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 374,
+      "value_line": 376
+    },
+    "Dust Capacity": {
+      "value_raw": "0.6 L",
+      "section": "Capacity",
+      "line": 380,
+      "value_line": 382
+    },
+    "Power Consumption": {
+      "value_raw": "40 W",
+      "section": "Specifications",
+      "line": 386,
+      "value_line": 388
+    },
+    "Battery Capacity": {
+      "value_raw": "2400 mAh",
+      "section": "Battery",
+      "line": 392,
+      "value_line": 394
+    },
+    "Runtime": {
+      "value_raw": "150 mins",
+      "section": "Battery",
+      "line": 396,
+      "value_line": 398
+    },
+    "Dimensions": {
+      "value_raw": "350 x 350 x 96.8 mm",
+      "section": "Size & Weight",
+      "line": 401,
+      "value_line": 403
+    },
+    "Weight": {
+      "value_raw": "3.6 kg",
+      "section": "Size & Weight",
+      "line": 405,
+      "value_line": 407
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "G-Store Mobile",
+      "merchant_group_raw": "mobile2go",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Cheras, Wp Kuala Lumpur",
+      "price_raw": "RM1,299.00",
+      "price_line": 117,
+      "name_line": 110,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "mobile2go - Lazada",
+      "merchant_group_raw": "mobile2go",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM1,299.00",
+      "price_line": 135,
+      "name_line": 129,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets - Lazada",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "",
+      "price_raw": "RM1,169.00",
+      "price_line": 162,
+      "name_line": 154,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "Subang Jaya, Selangor",
+      "price_raw": "RM1,299.00",
+      "price_line": 179,
+      "name_line": 171,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets - Shopee",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "",
+      "price_raw": "RM1,299.00",
+      "price_line": 196,
+      "name_line": 190,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Courts Malaysia - Personal Shopper",
+      "merchant_group_raw": "Courts Malaysia",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Setapak, Wp Kuala Lumpur",
+      "price_raw": "RM1,299.00",
+      "price_line": 227,
+      "name_line": 215,
+      "quote_updated_raw": "Updated as of 3 January 2023",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Courts Malaysia",
+      "merchant_group_raw": "Courts Malaysia",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM1,299.00",
+      "price_line": 254,
+      "name_line": 244,
+      "quote_updated_raw": "Updated as of 3 January 2023",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - IOI City Mall",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Sepang, Selangor",
+      "price_raw": "RM1,299.00",
+      "price_line": 286,
+      "name_line": 278,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - Sunway Velocity",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Cheras, Wp Kuala Lumpur",
+      "price_raw": "RM1,299.00",
+      "price_line": 304,
+      "name_line": 297,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Mid Valley",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+      "price_raw": "RM1,299.00",
+      "price_line": 322,
+      "name_line": 315,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - 1 Utama",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM1,299.00",
+      "price_line": 340,
+      "name_line": 333,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Lazada",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "",
+      "price_raw": "RM1,299.00",
+      "price_line": 356,
+      "name_line": 351,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn154view1",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

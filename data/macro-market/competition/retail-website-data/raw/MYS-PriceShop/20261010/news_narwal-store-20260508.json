@@ -1,0 +1,56 @@
+{
+  "capture_id": "narwal-store-20260508",
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "url": "https://my.priceshop.com/en/news/narwal-first-flagship-store-sunway-velocity-malaysia/",
+  "title": "Narwal’s Flagship Store Finally Lands at Sunway Velocity Mall with Exclusive Buy 1 Free 1 Deals!",
+  "publication_date": "2026-05-08",
+  "author": "Hamka Rosli",
+  "source_cache_age_raw": "3 months ago",
+  "accessed_at": "2026-10-10T11:12:23.294Z",
+  "access_method": "public_web_reader_cached_news",
+  "source_type": "historical_limited_bundle_campaign",
+  "current_stock_verified": false,
+  "products": [
+    {
+      "brand": "Narwal",
+      "model_name": "Flow Compact Station",
+      "bundle_price_myr": "5499",
+      "bundle_free_item": "S30 vacuum",
+      "price_source_type": "expired_one_day_bundle",
+      "promotion_start": "2026-05-08",
+      "promotion_end": "2026-05-08",
+      "source_line": 83
+    },
+    {
+      "brand": "Narwal",
+      "model_name": "Flow",
+      "bundle_price_myr": "4399",
+      "bundle_free_item": "S20 vacuum",
+      "price_source_type": "expired_one_day_bundle",
+      "promotion_start": "2026-05-08",
+      "promotion_end": "2026-05-08",
+      "source_line": 83
+    }
+  ],
+  "location_raw": "Sunway Velocity Mall",
+  "campaign_floor": {
+    "price_myr": "1399",
+    "models_raw": [
+      "Z10",
+      "X10 Pro",
+      "S20 Pro"
+    ],
+    "price_assignment": "aggregate_as_low_as_only_not_each_model_price",
+    "source_line": 83
+  },
+  "exclude_nonrobot": [
+    "S30",
+    "S20",
+    "S20 Pro",
+    "S10"
+  ],
+  "product_equivalence": "Flow and Freo Flow or station variants not automatically equated"
+}

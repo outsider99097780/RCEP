@@ -1,0 +1,32 @@
+{
+  "capture_id": "roborock-qrevo-20260520",
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "url": "https://my.priceshop.com/en/news/roborock-qrevo-curv-2-flow-and-qrevo-s-pro-powerful-everyday-robot-vacuums-from-rm2699/",
+  "title": "Roborock Qrevo Curv 2 Flow and Qrevo S Pro: Powerful everyday robot vacuums, from RM2,699",
+  "publication_date": "2026-05-20",
+  "author": "Raymond Saw",
+  "source_cache_age_raw": "6 days ago",
+  "accessed_at": "2026-10-10T11:12:23.294Z",
+  "access_method": "public_web_reader_cached_news",
+  "source_type": "historical_launch_news",
+  "current_stock_verified": false,
+  "products": [
+    {
+      "brand": "Roborock",
+      "model_name": "Qrevo S Pro",
+      "list_price_myr": "2699",
+      "price_source_type": "price_at_publication_not_current_offer",
+      "source_line": 50
+    },
+    {
+      "brand": "Roborock",
+      "model_name": "Qrevo Curv 2 Flow",
+      "list_price_myr": "3999",
+      "price_source_type": "price_at_publication_not_current_offer",
+      "source_line": 50
+    }
+  ]
+}

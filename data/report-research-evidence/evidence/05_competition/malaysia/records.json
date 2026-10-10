@@ -7,8 +7,9 @@
       "name_zh": "马来西亚",
       "iso3": "MYS",
       "scope": "country",
-      "role": "rcep_background_or_supply_chain",
-      "related_countries": []
+      "role": "TARGET_MALAYSIA",
+      "related_countries": [],
+      "previous_research_role": "rcep_background_or_supply_chain"
     },
     "statement_zh": "欧睿经研报转引：2024年石头在马来西亚扫地机市占率8%。",
     "period": "2024",
@@ -26,7 +27,9 @@
         "definition": "正文未说明销量/销额分母"
       }
     ],
-    "notes": [],
+    "notes": [
+      "本轮将图43主定位更正至PDF第29页，保留第28页旧定位作审计；数值8%不变。图表未给完整份额分母，不推断为销量或销额份额。"
+    ],
     "verification": {
       "anchor_found_in_pdf_text": true,
       "pdf_page_visually_reviewed": true,
@@ -38,9 +41,9 @@
       "issuer": "开源证券",
       "publication_date": "2026-02-04",
       "reporting_period": null,
-      "pdf_page": 28,
-      "printed_page": 28,
-      "locator": "4.4亚太及图43",
+      "pdf_page": 29,
+      "printed_page": 29,
+      "locator": "图43标题：2024年马来西亚市占率8%；第28页正文辅助",
       "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
       "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
       "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
@@ -49,11 +52,22 @@
       "original_url_status": "not_provided_or_not_verified_in_local_source",
       "access_method": "user_provided_local_pdf",
       "access_date": "2026-10-09",
-      "evidence_text_file": "sources/page-text/RESEARCH-01/p028.txt",
-      "source_excerpt_whitespace_normalized": "2024年市占率分别为14%/8%/6%。我们预计2025年石头在韩国的市占率超50%，澳洲市占率达40%，实现持续持续提升。未来石头有望在东亚持续保持高市占率基本盘；中东地区稳固市占率的同时受益于行业规模扩张，东南亚地区伴随消费者教育提升，产品价格带上移下市占率持续提升。综合来看，中东、东南亚、东亚仍有较大成长空间。-50%0%50%100%150%200%050100150200250中国台湾销额（百万美元）YOY0%20%40%60%80%0102030405060印度尼西亚销售额（百万美元）YOY-5%0%5%10%15%20%25%020406080100120中东非销额（百万美元）YOY-50%0%50%100%150%01020304050马来西亚销额（百万美元）YOY",
-      "source_excerpt_scope": "anchored_excerpt",
-      "quote_anchor": "2024年市占率分别为14%/8%/6%",
-      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第28页（印刷页28），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
-    }
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p029.txt",
+      "source_excerpt_whitespace_normalized": "图43：2024年石头在澳大利亚/阿联酋/以色列/印度尼西亚/马来西亚市占率分别为25%/23%/20%/14%/8%",
+      "source_excerpt_scope": "figure_caption",
+      "quote_anchor": "图43",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第29页（印刷页29），图43，本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，复核日期：2026-10-10。",
+      "previous_locator_audit": {
+        "pdf_page": 28,
+        "printed_page": 28,
+        "locator": "4.4亚太及图43"
+      },
+      "page_render": "sources/page-renders/RESEARCH-01-p029.png"
+    },
+    "category_views": [
+      "competition",
+      "target_markets"
+    ],
+    "target_market_review_date": "2026-10-10"
   }
 ]

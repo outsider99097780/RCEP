@@ -1,0 +1,26 @@
+{
+  "capture_id": "xiaomi-6max-20260904",
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "url": "https://my.priceshop.com/en/news/xiaomi-robot-vacuum-6-max-35000pa-suction-ai-triple-cameras-from-rm4499/",
+  "title": "Xiaomi Robot Vacuum 6 Max: 35,000Pa suction, AI triple cameras, from RM4,499",
+  "publication_date": "2026-09-04",
+  "author": "Alyaa Najwa",
+  "source_cache_age_raw": "3 weeks ago",
+  "accessed_at": "2026-10-10T11:12:23.294Z",
+  "access_method": "public_web_reader_cached_news",
+  "source_type": "historical_launch_news",
+  "current_stock_verified": false,
+  "products": [
+    {
+      "brand": "Xiaomi",
+      "model_name": "Robot Vacuum 6 Max",
+      "list_price_myr": "5099",
+      "promotion_price_myr": "4499",
+      "price_source_type": "launch_rrp_and_promotion_not_current_offer",
+      "source_line": 50
+    }
+  ]
+}

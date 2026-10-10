@@ -1,0 +1,165 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "xiaomi-mi-smart-robot-vacuum-2c",
+  "url": "https://my.priceshop.com/product/xiaomi-mi-smart-robot-vacuum-2c",
+  "title_raw": "Xiaomi Mi Smart Robot Vacuum 2C",
+  "source_cache_age_raw": "1.1 years ago",
+  "accessed_at": "2026-10-10T11:08:31.924Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 332,
+  "reader_captured_lines": 332,
+  "summary_price_raw": "RM729.00 - RM1,099.00",
+  "declared_seller_count_raw": "From 3 sellers",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 285,
+      "value_line": 287
+    },
+    "Dust Capacity": {
+      "value_raw": "0.55 L",
+      "section": "Capacity",
+      "line": 291,
+      "value_line": 293
+    },
+    "Power Consumption": {
+      "value_raw": "40 W",
+      "section": "Specifications",
+      "line": 297,
+      "value_line": 299
+    },
+    "Dimensions": {
+      "value_raw": "353 x 350 x 81 mm",
+      "section": "Size & Weight",
+      "line": 303,
+      "value_line": 305
+    },
+    "Weight": {
+      "value_raw": "3.6 kg",
+      "section": "Size & Weight",
+      "line": 307,
+      "value_line": 309
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "G-Store Mobile",
+      "merchant_group_raw": "mobile2go",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "Cheras, Wp Kuala Lumpur",
+      "price_raw": "RM729.00",
+      "price_line": 107,
+      "name_line": 98,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "mobile2go - Lazada",
+      "merchant_group_raw": "mobile2go",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "",
+      "price_raw": "RM729.00",
+      "price_line": 126,
+      "name_line": 119,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "mobile2go",
+      "merchant_group_raw": "mobile2go",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "",
+      "price_raw": "RM779.00",
+      "price_line": 141,
+      "name_line": 136,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - IOI City Mall",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "6",
+      "location_raw": "Sepang, Selangor",
+      "price_raw": "RM1,099.00",
+      "price_line": 168,
+      "name_line": 160,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - Sunway Velocity",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "6",
+      "location_raw": "Cheras, Wp Kuala Lumpur",
+      "price_raw": "RM1,099.00",
+      "price_line": 186,
+      "name_line": 179,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "6",
+      "location_raw": "",
+      "price_raw": "RM1,099.00",
+      "price_line": 202,
+      "name_line": 197,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Mid Valley",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "6",
+      "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+      "price_raw": "RM1,099.00",
+      "price_line": 218,
+      "name_line": 211,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - 1 Utama",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "6",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM1,099.00",
+      "price_line": 236,
+      "name_line": 229,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Lazada",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "6",
+      "location_raw": "",
+      "price_raw": "RM1,099.00",
+      "price_line": 252,
+      "name_line": 247,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets - Lazada",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "",
+      "location_raw": "",
+      "price_raw": "RM945.00",
+      "price_line": 267,
+      "name_line": 261,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn166view1",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

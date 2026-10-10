@@ -1,0 +1,312 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "xiaomi-mi-robot-vacuum-mop-2-lite",
+  "url": "https://my.priceshop.com/product/xiaomi-mi-robot-vacuum-mop-2-lite",
+  "title_raw": "Xiaomi Mi Robot Vacuum-Mop 2 Lite",
+  "source_cache_age_raw": "today",
+  "accessed_at": "2026-10-10T11:08:31.929Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 670,
+  "reader_captured_lines": 670,
+  "summary_price_raw": "RM669.00 - RM799.00",
+  "declared_seller_count_raw": "From 10 sellers",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 641,
+      "value_line": 643
+    },
+    "Power Consumption": {
+      "value_raw": "35 W",
+      "section": "Specifications",
+      "line": 647,
+      "value_line": 649
+    },
+    "Battery Capacity": {
+      "value_raw": "2600 mAh",
+      "section": "Battery",
+      "line": 653,
+      "value_line": 655
+    },
+    "Dimensions": {
+      "value_raw": "353 x 353 x 81.3 mm",
+      "section": "Size & Weight",
+      "line": 659,
+      "value_line": 661
+    },
+    "Weight": {
+      "value_raw": "3.1 kg",
+      "section": "Size & Weight",
+      "line": 663,
+      "value_line": 665
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "Asia Mobile Retail Sdn Bhd - Shopee",
+      "merchant_group_raw": "Asia Mobile Retail Sdn Bhd",
+      "merchant_group_locations_raw": "",
+      "location_raw": "",
+      "price_raw": "RM799.00",
+      "price_line": 72,
+      "name_line": 66,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Desa Home Theatre Sdn Bhd",
+      "merchant_group_raw": "Desa Home Theatre Sdn Bhd",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Kepong, Wp Kuala Lumpur",
+      "price_raw": "RM749.00",
+      "price_line": 98,
+      "name_line": 91,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Desa Home Theatre Sdn Bhd - Lazada",
+      "merchant_group_raw": "Desa Home Theatre Sdn Bhd",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM749.00",
+      "price_line": 113,
+      "name_line": 108,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Subang Jaya, Selangor",
+      "price_raw": "RM799.00",
+      "price_line": 140,
+      "name_line": 132,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets - Shopee",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM799.00",
+      "price_line": 155,
+      "name_line": 149,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "VIVID CONCEPTS - SUNWAY PYRAMID",
+      "merchant_group_raw": "VIVID CONCEPTS - Online",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM669.00",
+      "price_line": 184,
+      "name_line": 174,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "VIVID CONCEPTS - Online - Shopee",
+      "merchant_group_raw": "VIVID CONCEPTS - Online",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "",
+      "price_raw": "RM669.00",
+      "price_line": 200,
+      "name_line": 193,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "VIVID CONCEPTS - Online",
+      "merchant_group_raw": "VIVID CONCEPTS - Online",
+      "merchant_group_locations_raw": "3",
+      "location_raw": "",
+      "price_raw": "RM799.00",
+      "price_line": 214,
+      "name_line": 209,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "DirectD Subang Jaya (HQ)",
+      "merchant_group_raw": "DirectD HQ / Online Store",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Subang Jaya, Selangor",
+      "price_raw": "RM749.00",
+      "price_line": 248,
+      "name_line": 233,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": [
+        "Normal Price: RM799"
+      ]
+    },
+    {
+      "retailer_name_raw": "DirectD HQ / Online Store",
+      "merchant_group_raw": "DirectD HQ / Online Store",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM749.00",
+      "price_line": 279,
+      "name_line": 265,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": [
+        "Normal Price: RM799"
+      ]
+    },
+    {
+      "retailer_name_raw": "Gloo by SNS Network",
+      "merchant_group_raw": "Gloo by SNS Network",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM799.00",
+      "price_line": 311,
+      "name_line": 306,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "GLOO",
+      "merchant_group_raw": "Gloo by SNS Network",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM799.00",
+      "price_line": 328,
+      "name_line": 321,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "ITWorld by SNS",
+      "merchant_group_raw": "ITWorld by SNS",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM799.00",
+      "price_line": 353,
+      "name_line": 347,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "iTworld - Online",
+      "merchant_group_raw": "ITWorld by SNS",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Ipoh, Perak",
+      "price_raw": "RM799.00",
+      "price_line": 369,
+      "name_line": 362,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "SS Solution - KK Time Square",
+      "merchant_group_raw": "SS Solution",
+      "merchant_group_locations_raw": "8",
+      "location_raw": "Kota Kinabalu, Sabah",
+      "price_raw": "RM799.00",
+      "price_line": 399,
+      "name_line": 388,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "SS Solution - Section 9, Bandar Baru Bangi",
+      "merchant_group_raw": "SS Solution",
+      "merchant_group_locations_raw": "8",
+      "location_raw": "Bandar Baru Bangi, Selangor",
+      "price_raw": "RM799.00",
+      "price_line": 425,
+      "name_line": 413,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "SS Solution - Teluk Pulai, Klang",
+      "merchant_group_raw": "SS Solution",
+      "merchant_group_locations_raw": "8",
+      "location_raw": "Klang, Selangor",
+      "price_raw": "RM799.00",
+      "price_line": 452,
+      "name_line": 439,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "SS Solution - Pandan Indah KL",
+      "merchant_group_raw": "SS Solution",
+      "merchant_group_locations_raw": "8",
+      "location_raw": "Pandan Indah, Wp Kuala Lumpur",
+      "price_raw": "RM799.00",
+      "price_line": 479,
+      "name_line": 466,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "SS Solution - Section 7, Shah Alam",
+      "merchant_group_raw": "SS Solution",
+      "merchant_group_locations_raw": "8",
+      "location_raw": "Shah Alam, Selangor",
+      "price_raw": "RM799.00",
+      "price_line": 507,
+      "name_line": 494,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "SS Solution - Prima Sri Gombak",
+      "merchant_group_raw": "SS Solution",
+      "merchant_group_locations_raw": "8",
+      "location_raw": "Gombak, Wp Kuala Lumpur",
+      "price_raw": "RM799.00",
+      "price_line": 537,
+      "name_line": 521,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "SS Solution - Kelana Jaya, HQ",
+      "merchant_group_raw": "SS Solution",
+      "merchant_group_locations_raw": "8",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM799.00",
+      "price_line": 569,
+      "name_line": 553,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "SS Solution - Shopee",
+      "merchant_group_raw": "SS Solution",
+      "merchant_group_locations_raw": "8",
+      "location_raw": "",
+      "price_raw": "RM799.00",
+      "price_line": 599,
+      "name_line": 586,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "itronic Mobile Trading",
+      "merchant_group_raw": "itronic Mobile Trading",
+      "merchant_group_locations_raw": "",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM729.00",
+      "price_line": 623,
+      "name_line": 616,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn182view0",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

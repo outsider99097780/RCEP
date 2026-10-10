@@ -1,0 +1,44 @@
+{
+  "review_date": "2026-10-10",
+  "collection_method": "public_web_reader_cached_pages_only",
+  "manual_collection_cancelled": true,
+  "current_http_status_exposed": false,
+  "scope": "Malaysia PriceShop only; no other retail/brand/merchant source visited",
+  "checks": [
+    {
+      "url": "https://my.priceshop.com/robots.txt",
+      "method": "in_app_browser",
+      "result": "net::ERR_BLOCKED_BY_CLIENT",
+      "interpretation": "client-side failure; not a confirmed origin HTTP status"
+    },
+    {
+      "url": "https://my.priceshop.com/robots.txt",
+      "method": "public_web_reader",
+      "result": "not_readable"
+    },
+    {
+      "url": "https://my.priceshop.com/en/wp-page/terms-of-service/",
+      "method": "public_web_reader",
+      "result": "readable",
+      "notes": "Only selected product facts; no commercial republication, site disruption, private data or full-page mirroring."
+    },
+    {
+      "url": "https://my.priceshop.com/en/wp-page/privacy-policy/",
+      "method": "public_web_reader",
+      "result": "readable"
+    },
+    {
+      "url": "https://my.priceshop.com/category/vacuums",
+      "method": "public_web_reader",
+      "result": "undefined results found; No products are here",
+      "interpretation": "Rendered category catalogue unavailable; not evidence of zero products"
+    },
+    {
+      "url": "https://my.priceshop.com/product?q=Narwal",
+      "method": "public_web_reader",
+      "result": "Internal Error",
+      "interpretation": "Query route did not return usable catalogue; no hidden API used"
+    }
+  ],
+  "coverage_conclusion": "44 product reader documents read; complete five-brand live catalogue not established; Narwal historical evidence only."
+}

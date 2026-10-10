@@ -1,0 +1,86 @@
+{
+  "source_site": "PriceShop",
+  "url": "https://my.priceshop.com/en/news/narwal-freo-flow-freo-x10-pro-and-s30-malaysia/",
+  "page_title": "Narwal Expands Vacuum Lineup in Malaysia with Freo Flow, Freo X10 Pro, and S30; Starting from RM1,499",
+  "author": "PriceShop News",
+  "publication_date": "2025-09-29",
+  "accessed_at": "2026-10-10",
+  "access_time_precision": "date_only_cached_web_reader",
+  "access_method": "previously_read_public_page_via_web_index_cache",
+  "cache_timestamp": null,
+  "raw_snapshot_type": "selected_facts_not_full_article",
+  "http_status": null,
+  "subsequent_direct_access": {
+    "http_status": 403,
+    "accessed_at": "2026-10-10T18:12:32+08:00",
+    "page_title": "Just a moment...",
+    "collection_stopped": true
+  },
+  "facts": [
+    {
+      "country_code": "MYS",
+      "source_site": "PriceShop",
+      "brand": "Narwal",
+      "model_name": "Freo Flow",
+      "product_type": "robot_vacuum_mop",
+      "currency": "MYR",
+      "official_or_list_price_raw": "5499",
+      "promotion_price_raw": "5099",
+      "price_source_type": "historical_official_launch_news",
+      "representative_price": null,
+      "publication_date": "2025-09-29",
+      "launch_date": null,
+      "promotion_start": "2025-09-26",
+      "promotion_end": "2025-10-12",
+      "current_stock_status": null,
+      "availability_as_of_publication": "Reported available for pre-order; not checked currently",
+      "reported_sales_channels": [
+        "Narwal official Shopee store",
+        "Aihome Sunway Velocity",
+        "Aihome Plaza Low Yat",
+        "Aihome IOI City Mall"
+      ],
+      "source_ledger_id": "SRC-20261010-MYS-PriceShop-Narwal-20250929",
+      "raw_record_path": "raw/MYS-PriceShop/narwal_launch_20250929.json",
+      "product_url": "https://my.priceshop.com/en/news/narwal-freo-flow-freo-x10-pro-and-s30-malaysia/"
+    },
+    {
+      "country_code": "MYS",
+      "source_site": "PriceShop",
+      "brand": "Narwal",
+      "model_name": "Freo X10 Pro",
+      "product_type": "robot_vacuum_mop",
+      "currency": "MYR",
+      "official_or_list_price_raw": "2699",
+      "promotion_price_raw": "2399",
+      "price_source_type": "historical_official_launch_news",
+      "representative_price": null,
+      "publication_date": "2025-09-29",
+      "launch_date": null,
+      "promotion_start": "2025-09-26",
+      "promotion_end": "2025-10-12",
+      "current_stock_status": null,
+      "availability_as_of_publication": "Reported available for pre-order; not checked currently",
+      "reported_sales_channels": [
+        "Narwal official Shopee store",
+        "Aihome Sunway Velocity",
+        "Aihome Plaza Low Yat",
+        "Aihome IOI City Mall"
+      ],
+      "source_ledger_id": "SRC-20261010-MYS-PriceShop-Narwal-20250929",
+      "raw_record_path": "raw/MYS-PriceShop/narwal_launch_20250929.json",
+      "product_url": "https://my.priceshop.com/en/news/narwal-freo-flow-freo-x10-pro-and-s30-malaysia/"
+    }
+  ],
+  "excluded_product": {
+    "model_name": "S30",
+    "reason": "upright_wet_dry_floor_washer_not_robot",
+    "list_price_raw": "1699",
+    "presale_price_raw": "1499"
+  },
+  "notes": [
+    "2025 prices and promotional window, not 2026 current prices.",
+    "Channels are attributed to this launch article; other domains were not collected.",
+    "User 2026-10-10 instruction makes PriceShop the sole Malaysian retail source; PriceMe is no longer an input."
+  ]
+}

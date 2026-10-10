@@ -1,0 +1,150 @@
+{
+  "source_site": "PriceShop",
+  "source_provider": "Price Guide Sdn Bhd",
+  "country_code": "MYS",
+  "currency": "MYR",
+  "source_product_id": "roborock-s7-robot-vacuum",
+  "url": "https://my.priceshop.com/product/roborock-s7-robot-vacuum",
+  "title_raw": "Roborock S7 Robot Vacuum",
+  "source_cache_age_raw": "2 weeks ago",
+  "accessed_at": "2026-10-10T11:08:31.926Z",
+  "http_status": null,
+  "access_method": "public_web_reader_cached_page",
+  "full_reader_document_read": true,
+  "reader_total_lines": 258,
+  "reader_captured_lines": 258,
+  "summary_price_raw": "RM2,099.00 - RM2,399.00",
+  "declared_seller_count_raw": "From 4 sellers",
+  "specifications_raw": {
+    "Vacuum Type": {
+      "value_raw": "Robot",
+      "section": "Type",
+      "line": 215,
+      "value_line": 217
+    },
+    "Dust Capacity": {
+      "value_raw": "0.47 L",
+      "section": "Capacity",
+      "line": 221,
+      "value_line": 223
+    },
+    "Power Consumption": {
+      "value_raw": "58 W",
+      "section": "Specifications",
+      "line": 227,
+      "value_line": 229
+    },
+    "Noise Level": {
+      "value_raw": "58 dB",
+      "section": "Specifications",
+      "line": 231,
+      "value_line": 233
+    },
+    "Battery Capacity": {
+      "value_raw": "5200 mAh",
+      "section": "Battery",
+      "line": 237,
+      "value_line": 239
+    },
+    "Runtime": {
+      "value_raw": "150 minutes",
+      "section": "Battery",
+      "line": 241,
+      "value_line": 243
+    },
+    "Dimensions": {
+      "value_raw": "353 x 350 x 96.5 mm",
+      "section": "Size & Weight",
+      "line": 247,
+      "value_line": 249
+    },
+    "Weight": {
+      "value_raw": "4.7 kg",
+      "section": "Size & Weight",
+      "line": 251,
+      "value_line": 253
+    }
+  },
+  "offers_raw": [
+    {
+      "retailer_name_raw": "BK Gadgets",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "Subang Jaya, Selangor",
+      "price_raw": "RM2,399.00",
+      "price_line": 93,
+      "name_line": 86,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "BK Gadgets - Shopee",
+      "merchant_group_raw": "BK Gadgets",
+      "merchant_group_locations_raw": "2",
+      "location_raw": "",
+      "price_raw": "RM2,399.00",
+      "price_line": 108,
+      "name_line": 103,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - IOI City Mall",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Sepang, Selangor",
+      "price_raw": "RM2,399.00",
+      "price_line": 135,
+      "name_line": 127,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "AiHome - Sunway Velocity",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Cheras, Wp Kuala Lumpur",
+      "price_raw": "RM2,399.00",
+      "price_line": 151,
+      "name_line": 144,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Mid Valley",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Mid Valley City, Wp Kuala Lumpur",
+      "price_raw": "RM2,399.00",
+      "price_line": 167,
+      "name_line": 160,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - 1 Utama",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "Petaling Jaya, Selangor",
+      "price_raw": "RM2,399.00",
+      "price_line": 183,
+      "name_line": 176,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    },
+    {
+      "retailer_name_raw": "Ai Home - Lazada",
+      "merchant_group_raw": "Ai Home",
+      "merchant_group_locations_raw": "5",
+      "location_raw": "",
+      "price_raw": "RM2,399.00",
+      "price_line": 197,
+      "name_line": 192,
+      "quote_updated_raw": "",
+      "promotion_notes_raw": []
+    }
+  ],
+  "reader_reference": "turn170view2",
+  "cache_is_not_live_stock_check": true,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML"
+}

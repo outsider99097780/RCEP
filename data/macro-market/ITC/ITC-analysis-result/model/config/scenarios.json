@@ -1,0 +1,159 @@
+{
+  "original": [
+    "strategy_weight_topsis",
+    "equal_weight_topsis",
+    "entropy_topsis"
+  ],
+  "monte_carlo": {
+    "seed": 850980,
+    "draws": 5000,
+    "dirichlet_concentration": 40,
+    "center": [
+      0.3,
+      0.1,
+      0.1,
+      0.3,
+      0.2
+    ],
+    "seed_note": "Historical random seed preserved for method comparability; not an HS product identifier."
+  },
+  "additional_scenarios": [
+    {
+      "scenario": "strategy_weight_topsis",
+      "type": "original weight scheme",
+      "spearman_vs_base": 1.0,
+      "notes": ""
+    },
+    {
+      "scenario": "equal_weight_topsis",
+      "type": "original weight scheme",
+      "spearman_vs_base": 0.8363636363636365,
+      "notes": ""
+    },
+    {
+      "scenario": "entropy_topsis",
+      "type": "original weight scheme",
+      "spearman_vs_base": 0.8181818181818182,
+      "notes": ""
+    },
+    {
+      "scenario": "weight_market_size_x0.8",
+      "type": "single weight +/-20%; renormalized",
+      "spearman_vs_base": 0.990909090909091,
+      "notes": ""
+    },
+    {
+      "scenario": "weight_market_size_x1.2",
+      "type": "single weight +/-20%; renormalized",
+      "spearman_vs_base": 0.990909090909091,
+      "notes": ""
+    },
+    {
+      "scenario": "leave_out_market_size",
+      "type": "leave one indicator out",
+      "spearman_vs_base": 0.9090909090909091,
+      "notes": ""
+    },
+    {
+      "scenario": "weight_market_growth_x0.8",
+      "type": "single weight +/-20%; renormalized",
+      "spearman_vs_base": 1.0,
+      "notes": ""
+    },
+    {
+      "scenario": "weight_market_growth_x1.2",
+      "type": "single weight +/-20%; renormalized",
+      "spearman_vs_base": 1.0,
+      "notes": ""
+    },
+    {
+      "scenario": "leave_out_market_growth",
+      "type": "leave one indicator out",
+      "spearman_vs_base": 0.9727272727272729,
+      "notes": ""
+    },
+    {
+      "scenario": "weight_china_share_x0.8",
+      "type": "single weight +/-20%; renormalized",
+      "spearman_vs_base": 1.0,
+      "notes": ""
+    },
+    {
+      "scenario": "weight_china_share_x1.2",
+      "type": "single weight +/-20%; renormalized",
+      "spearman_vs_base": 1.0,
+      "notes": ""
+    },
+    {
+      "scenario": "leave_out_china_share",
+      "type": "leave one indicator out",
+      "spearman_vs_base": 0.990909090909091,
+      "notes": ""
+    },
+    {
+      "scenario": "weight_untapped_amount_x0.8",
+      "type": "single weight +/-20%; renormalized",
+      "spearman_vs_base": 1.0,
+      "notes": ""
+    },
+    {
+      "scenario": "weight_untapped_amount_x1.2",
+      "type": "single weight +/-20%; renormalized",
+      "spearman_vs_base": 1.0,
+      "notes": ""
+    },
+    {
+      "scenario": "leave_out_untapped_amount",
+      "type": "leave one indicator out",
+      "spearman_vs_base": 0.990909090909091,
+      "notes": ""
+    },
+    {
+      "scenario": "weight_untapped_ratio_x0.8",
+      "type": "single weight +/-20%; renormalized",
+      "spearman_vs_base": 0.990909090909091,
+      "notes": ""
+    },
+    {
+      "scenario": "weight_untapped_ratio_x1.2",
+      "type": "single weight +/-20%; renormalized",
+      "spearman_vs_base": 0.9818181818181818,
+      "notes": ""
+    },
+    {
+      "scenario": "leave_out_untapped_ratio",
+      "type": "leave one indicator out",
+      "spearman_vs_base": 0.9363636363636365,
+      "notes": ""
+    },
+    {
+      "scenario": "amounts_without_log1p",
+      "type": "amount transform",
+      "spearman_vs_base": 0.7818181818181819,
+      "notes": ""
+    },
+    {
+      "scenario": "cagr_2022_2025",
+      "type": "3-year vs 5-year CAGR",
+      "spearman_vs_base": 0.990909090909091,
+      "notes": "same 11-market sample; 3-year CAGR retains raw endpoint precision"
+    }
+  ],
+  "inapplicable_or_unavailable": [
+    {
+      "scenario": "AHP / hybrid alpha 0.3,0.5,0.7",
+      "status": "not_applicable",
+      "reason": "No valid AHP pairwise matrix or consistency test in the established method; strategy weights are not AHP weights."
+    },
+    {
+      "scenario": "EPM rounded-display tolerance",
+      "status": "not_applicable",
+      "reason": "Current official numeric records are machine-readable numbers, not rounded mn display strings."
+    },
+    {
+      "scenario": "direct/mirror complete import-demand substitution",
+      "status": "not_available",
+      "reason": "Stored China direct exports cannot replace each destination total imports from all suppliers on an equivalent basis; no complete mirror-world-demand series."
+    }
+  ]
+}

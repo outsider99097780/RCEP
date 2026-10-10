@@ -1,0 +1,40 @@
+{
+  "source_site": "PriceSpy",
+  "country_iso3": "NZL",
+  "currency": "NZD",
+  "product_id": "16461333",
+  "url": "https://pricespy.co.nz/product.php?p=16461333",
+  "accessed_at": "2026-10-10T10:19:11.702Z",
+  "page_title": "Dreame L50 Ultra AE",
+  "category": "Robot Vacuum Cleaners",
+  "site_popularity_rank_raw": "58",
+  "declared_shop_count_raw": "1",
+  "explicit_no_active_offers": false,
+  "selected_specifications_raw": {
+    "Features": "Voice control, Self-docking, Automatic mop drying, Self-emptying",
+    "Mop function": "Yes",
+    "Self-emptying": "Yes"
+  },
+  "visible_three_month_history_raw": [
+    "Falling",
+    "Lowest: $1,298.00 | Highest: $2,299.00"
+  ],
+  "offers_raw": [
+    {
+      "retailer": "JB Hi-Fi",
+      "price_raw": "$2,299.00",
+      "stock_raw": "Not in stock",
+      "title_raw": "Dreame L50 Ultra AE Robot Vacuum with Auto Mop Cleaning and Self-Emptying Base Station",
+      "partner_store_flag": true,
+      "observed_redirect_path": "/go-to-shop/12087/offer/478700?client_id=1551",
+      "visible_price_labels_raw": [
+        "$2,299.00"
+      ]
+    }
+  ],
+  "access_method": "public_browser_rendered_DOM",
+  "http_status": null,
+  "raw_snapshot_type": "selected_public_fact_fields_not_full_HTML",
+  "capture_schema_version": "20261010-v1",
+  "policy": "No hidden APIs, shop redirects, international sections or access-control bypasses used; raw values retained. Omitted metadata not captured, not zero."
+}
