@@ -1,0 +1,156 @@
+[
+  {
+    "record_id": "RR26-0176",
+    "category": "constraints_failures",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "研报将云鲸价格带覆盖窄、研发节奏慢及SKU较少列为竞争约束。",
+    "period": "截至2026-02-04",
+    "brand": "Narwal",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 13,
+      "printed_page": 13,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p013.txt",
+      "source_excerpt_whitespace_normalized": "产品研发慢以及SKU较少：目前公司共有用4个系列产品，主推J系列和逍遥系列产品，价格带覆盖相对较窄，无法形成有力竞争，对比头部品牌8-10个系列仍有较大差距。2、前期错过外销市场，现在较难突破：云鲸早期主要针对国内市场进行研发，创新集中于拖布功能（基站自清洁等），早期的海外客户更注重扫地体验（例如处理长毛地毯能力等），形成需求错配，海外市场一直占比不高。当下海外市场格局相对固定，已经较难突破。3、成本较高：云鲸年出货量较头部品牌500万台左右的出货量仍有较大差距，成本较高。2025年，公司主信的履带式产品相较于其他拖布方案，产品也相对较高。0%5%10%15%20%25%30%35%追觅意大利追觅西班牙追觅法国追觅德国",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "产品研发慢以及SKU较少",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第13页（印刷页13），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0177",
+    "category": "constraints_failures",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "研报将石头与科沃斯产品成本及“活水洗地”营销转化差异列为2025Q3国内竞争约束。",
+    "period": "2025Q3",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [
+      "不结构化存储未经公司确认的内部成本估算；不将国内约束直接套用三国。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p006.txt",
+      "source_excerpt_whitespace_normalized": "石头在2025Q3用高成本的双转盘产品应对科沃斯低成本的滚筒产品，这是双方成本差距以及盈利能力差距的主要原因。成本差异：我们拆解石头P20UltraPlus和科沃斯T80S的成本，发现成本有约500元的差异。本表格为科沃斯T80S刚上市时成本测算，伴随销量增长，预计当下硬件物料成本会低于表中测算值。图3：科沃斯某款产品成本及主要供应商拆分资料来源：开源证券研究所营销效率：科沃斯能用低成本滚筒产品与石头高成本的双转盘产品竞争的主要原因在于，消费者对于“活水洗地、不以脏拖脏”这个营销概念较易接受，无需宣传其他功能就可以实现较好的营销转化效率。石头在2025Q3并无滚筒活水洗地产品，以双转盘产品应对，但石头在2025Q4开始推出滚筒产品P20活水版，就在一定程度上解决了这个问题。我们预计，2026年石头会推出更多滚筒产品，2026年1月已经推出新滚筒产品P20Ultra活水版，进一步补全滚筒产品SKU以应对行业竞争。科沃斯滚筒的成本优势+营销效率高，使2025Q3石头与科沃斯内销净利率出现分化。对于科沃斯来说，2025Q3国补暂停后的自补，更像是一种以价换量，并非恶意价格竞争。对于石头来讲，7月并没有跟进，但是由于7月内销市占率下降较多，担心影响到双十一流量，在8月开始跟进，最终造成2025Q3扫地机、洗地机内销出现亏损。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "石头在2025Q3用高成本的双转盘产品",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第6页（印刷页6），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0202",
+    "category": "constraints_failures",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "2025Q4石头份额正文35%，图19标题37%；可能标题与双十一周期混淆。",
+    "period": "2025",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_estimate",
+    "report_use": "conflict_audit_only",
+    "metrics": [],
+    "notes": [
+      "原文差异完整保留；有图中明确值时另列采用记录。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 16,
+      "printed_page": 16,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p016.txt",
+      "source_excerpt_whitespace_normalized": "竞争格局方面，石头2025M10-11（双十一周期）市占率领先，与科沃斯双寡头格局显现，2025Q4石头/科沃斯/云鲸/追觅/小米市占率分别为35%/29%/15%/9%/6%，CR5为94%，行业集中度维持高位，龙头效应凸显。图19：石头国内2025Q4市占率37%，排名第一数据来源：奥维云网、开源证券研究所从具体产品来看，我们认为渗透率提升主要来源于以下几个方面：（1）产品力提升：通过产品迭代持续解决清洁效率、智能体验、维护成本三大痛点，性能持续提升下为消费者提供更好的产品体验。（2）价格带拓宽：通过高端款提价值、中端款走量、入门款拓客的策略，充分激活下沉市场与年轻群体，在国家以旧换新补贴下价格带进一步下拓能够促使更多消费者尝试购买。（3）技术路径多样化发展：行业从双圆盘占据绝大部份市场份额，到目前平板、双圆盘、活水履带、活水滚筒等多样化技术路径发展，针对不同痛点给予消费者更多选择，并在细分赛道上衍生出机械臂、轮足等新方案，未来在或在具身智能家用机器人发展下带动下有望解决更多消费者痛点，带动渗透率提升。2025年下半年，石头科技、追觅、云鲸等国内各家头部品牌跟进推出滚筒类产品，售价覆盖3000-5000主流价格带，行业内滚筒产品销售占比明显提升，根据奥维数据，2025年9月科沃斯、云鲸、追觅滚筒产品销售占比为64%/35%/16%，2025年10月提升至80%/76%/17%。石头科技积极布局滚筒类产品，2025Q4推出高性价比滚筒产品P20活水版（2026Q1推出迭代款P2",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "竞争格局方面，石头2025M10-11",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第16页（印刷页16），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

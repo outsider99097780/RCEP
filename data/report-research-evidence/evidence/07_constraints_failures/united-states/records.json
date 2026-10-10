@@ -1,0 +1,260 @@
+[
+  {
+    "record_id": "RR26-0065",
+    "category": "constraints_failures",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "研报称新进入者通常需多轮谈判、先在商超线上平台试销，再争取线下展位，进入周期较长。",
+    "period": "截至2026-02-04",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 20,
+      "printed_page": 20,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p020.txt",
+      "source_excerpt_whitespace_normalized": "新进入者一般需要先进行多轮商务谈判，然后进入线下商超的线上平台试销，最后才会替代线下其余品牌展位，时间较为漫长",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "新进入者一般需要先进行多轮商务谈判",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第20页（印刷页20），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0069",
+    "category": "constraints_failures",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2026年2月研报称Best Buy线下与Shark独家合作，预计该年石头暂无线下增量；9月研报又称Q2重新入驻。",
+    "period": "2026-02-04观点",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Best Buy",
+    "claim_type": "broker_forecast",
+    "report_use": "forecast_only",
+    "metrics": [],
+    "notes": [
+      "受2026年9月新报告更新，不作为2026全年已实现结果。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 21,
+      "printed_page": 21,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p021.txt",
+      "source_excerpt_whitespace_normalized": "由于该渠道2026年线下和Shark独家合作，2026年线下对石头没有增量。Shark品牌在美国线上做得并不优秀，我们认为，Bestbuy后续引入其他扫地机器人品牌的概率较高。对比来看iRobot，Bestbuy渠道产品陈列相对完善；Target渠道产品陈列明显减少，主要陈列105/205/405以及705产品，货架展位被石头明显抢占；Costco渠道展位陈列明显较少，部分门店已撤柜。图27：石头美国线下Target及Costco渠道实现突破资料来源：开源证券研究所表3：石头已经入住Target及Costco渠道KA品牌产品名称listpriesaleprice折扣率TargetRoborockQrevoCurve1599.99799.9950%QRevoPro999.99499.9950%渠道特供款479.99399.9917%Q10PF+359.99319.9911%DREAMEE30ULTRA499.99//iRobotMax705899.99549.9939%405799.99//205499.99249.9950%105299.99149.9950%Shark6款999.99599.9940%449.99//",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "由于该渠道2026年线下和Shark独家合作",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第21页（印刷页21），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0189",
+    "category": "constraints_failures",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "研报声称2026年7月28日FCC新增境外先进机器人设备管制；这里只留待核验线索，不认定其法律真实性、范围或现行有效性。",
+    "period": "研报所称2026-07-28",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "unverified_regulatory_claim",
+    "report_use": "official_verification_required",
+    "metrics": [],
+    "notes": [
+      "高影响监管断言，仅见二手研报；本轮不联网核验，禁止作为确定法规或直接进入模型。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 16,
+      "printed_page": 16,
+      "locator": "2.3北美，第16—17页",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "开源证券；本页未提供可核验FCC原文网址",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p016.txt",
+      "source_excerpt_whitespace_normalized": "2026年7月28日，美国联邦通信委员会（FCC）正式更新《受管制设备清单（CoveredList）》，其中新增境外生产的先进机器人设备进入管制清单，具体条件如下：（1）移动能力：地面自主行进、避障、导航，脱离人类现场操控，依靠传感器/指令自动运行；",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2026年7月28日，美国联邦通信委员会（FCC）",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第16页（印刷页16），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0190",
+    "category": "constraints_failures",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "研报声称新款认证和美国本土采购/组装及数据留存要求；保存原文供后续官方核验，不采纳为合规结论。",
+    "period": "研报所称新规",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "unverified_regulatory_claim",
+    "report_use": "official_verification_required",
+    "metrics": [],
+    "notes": [
+      "不得据此宣称所有国外扫地机器人被禁售；旧品、新品、豁免条件均待官方核验。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 17,
+      "printed_page": 17,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "开源证券；未附法规原文",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p017.txt",
+      "source_excerpt_whitespace_normalized": "新款机器人无法自主申请常规FCC无线准入认证（已取得FCC认证、正在售卖的老品不受禁令影响，后续可持续生产销售），需向美国国土安全部（DHS）提交专项国家安全豁免申请，经跨部门国家安全审查通过后，FCC才会发放销售许可。总体来看豁免门槛极高，要求如下（1）要求产品绝大部分零部件美国本土采购、本土组装；（2）硬件、固件、云端服务器全部置于美国境内，数据不得出境。我们认为，通过产地限制倒逼机器人产业链回流美国，是本次新规的核心诉求，本次新规对包括中国在内的所有外国企业进行了一刀切，人形机器人、四足机器人是明确提到的机器人品类，而扫地机器人以及割草机器人等消费级机器人也符合该判定标准，属于被连带品类。目前扫地机器人、割草机器人产品都在美国外地区生产，所有品牌均会面临同样情况，短期来看，可阶段性持续售卖老品，目前石头在美国售卖产品在产品力及在售SKU数量上具有优势，且占据较高份额；中长期维度来看，若未来需要赴美布局组装工厂则存在较高门槛，体量小的公司较难赴美寻找本土代工厂，而龙头将获得更高份额。展望未来，我们认为北美市场的竞争主要是石头和本土品牌（Shark、iRobot）的竞争，目前石头在线下渠道已经形成放量，有望进入高增通道，在度过渠道开拓期后净利率有望逐步提升，目前石头已经入驻Costco、Target及BestBuy渠道，SKU入驻数量显著提升，在产品力上对比Shark及iRobot具有明显优势，预计线下渠道高增可持续。2.4、亚太：收入稳步提升，土耳其市场成标杆公司亚太区收入整",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "新款机器人无法自主申请常规FCC无线准入认证",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第17页（印刷页17），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0203",
+    "category": "constraints_failures",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "美国“线下线上”顺序写80%/20%，与本段线上切入逻辑存在潜在口径/顺序问题。",
+    "period": "2025",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_estimate",
+    "report_use": "blocked_pending_resolution",
+    "metrics": [],
+    "notes": [
+      "原文差异完整保留；有图中明确值时另列采用记录。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 19,
+      "printed_page": 19,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p019.txt",
+      "source_excerpt_whitespace_normalized": "石头2025年美国线下线上销售占比预计约80%/20%，根据我们拆分，石头2025Q3北美区收入预计增长25%，根据魔镜数据，2025Q3石头北美亚马逊收入预计为7721万美元（+21%）。线下渠道入驻流程长，谈判周期久，公司最初以线上模式切入。我们认为未来伴随公司产品口碑与品牌声量持续积累，线下渠道入驻预计顺利进行，未来在线下渠道持续突破下将提供新的增量。图24：2025Q3石头北美区收入增长25%图25：2025Q3石头北美亚马逊收入7721万美元（+21%）数据来源：开源证券研究所数据来源：魔镜、开源证券研究所线上渠道方面：2025黑五数据来看，石头北美扫地机全渠道销量21万台（+58%），其中美国19万台；洗地机全渠道销量+257%，吸尘器全渠道销量+96%。线上电商渠道方面，电商渠道全品类销量+63%，其中亚马逊+63%（市占率40%），官方商城+30%，Tiktok+3000%；线下渠道方面，全品类销量+50%，扫地机各KA渠道bestseller霸榜TOP3。竞争格局来看，美国竞争相对激烈，市占率排名变化较大，石头市占率持续领0%20%40%60%80%100%2009201020112012201320142015201620172018201920202021202220232024电商线下直营线下杂货线下非杂货0%20%40%60%80%100%120%024681012北美区域收入（亿元）yoy0%20%40%60%80%100%120%0500010000",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "石头2025年美国线下线上销售占比预计约",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第19页（印刷页19），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

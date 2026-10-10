@@ -1,0 +1,52 @@
+[
+  {
+    "record_id": "RR26-0167",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "sweden",
+      "name_zh": "瑞典",
+      "iso3": "SWE",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "研报展示石头与瑞典滑雪运动员Frida Karlsson合作代言。",
+    "period": "报告时，未披露具体签约日",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 12,
+      "printed_page": 12,
+      "locator": "图20",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "石头科技瑞典Instagram官方账号，经研报转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p012.txt",
+      "source_excerpt_whitespace_normalized": "石头与瑞典滑雪运动员FridaKarlsson合作代言图21：石头与西班牙足球俱乐部皇家马德里签署全球战略合作伙伴协议资料来源：石头科技瑞典Instgram官方账号资料来源：石头科技公众号2026H1石头在欧洲走量产品为Qrevo系列（包含QrevoEdge5V1、Qrevo5V1Lite、QrevoEdge及QrevoPlus等）、追觅走量产品为L系列（包含L10sUltra、L40sProUltra等）具体对比石头与追觅走量款产品在不同地区价格来看：德国：MediaMarkt渠道追觅L10sUltraGen2（349欧元）价格低于石头的QrevoEdge5V1（499欧元）；瑞典：POWER渠道追觅L10sUltra（459欧元）价格低于石头Qrevo5V1Lite（689欧元）；丹麦：ELGIGANTEN渠道追觅L10sUltraGen2（522欧元）价格低于石头Power渠道中QrevoEdge（602欧元）；法国：Darty渠道追觅L40sProUltra（产品定位高于L10sUltra，600欧元）价格低于石头boulanger渠道中QrevoEdge5V1（649欧元）；意大利：MediaWolrd渠道追觅L10sUltra（424欧元）价格低于石头QrevoPlus（699欧元）。对比来看，追觅走量产品价格低于石头。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "石头与瑞典滑雪运动员FridaKarlsson合作代言",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第12页（印刷页12），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  }
+]

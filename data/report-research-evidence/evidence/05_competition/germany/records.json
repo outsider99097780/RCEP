@@ -1,0 +1,430 @@
+[
+  {
+    "record_id": "RR26-0121",
+    "category": "competition",
+    "geography": {
+      "key": "germany",
+      "name_zh": "德国",
+      "iso3": "DEU",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "研报认为追觅德国线下份额略高于石头，但石头线上份额明显更高。",
+    "period": "2026H1或2026E",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [
+      "市场判断来自券商样本解释，不是完整行业普查。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 14,
+      "printed_page": 14,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p014.txt",
+      "source_excerpt_whitespace_normalized": "德国市场：追觅线下市占率略高于石头，石头线上市占率远高于追觅，两者品牌影响力势均力敌。瑞典市场：石头与追觅市占率相近，品牌力强于追觅，追觅通过机场广告、购物中心开品牌集合点等方式提升品牌力。意大利市场：追觅线下市占率高于石头，石头进攻抢占市场，追觅通过提前降价阻击。西班牙市场：追觅+石头正在替代Cecotec及iRobot，西班牙市场结构正在改善，追觅及石头持续抢占低端品牌份额。波兰市场：追觅整体市占率高于石头，石头自2026年3月发布会后进行大范围铺新货，我们预计2026年整体市占率有望提升至25-30%。展望未来，我们认为追觅海外高投入无法长时间维系。回顾2026年，追觅执行了“顶级资源营销策略”，选取顶流场景进行赞助投放（春晚及超级碗），在顶级展览上进行大规模宣发（CES展、IFA展、AWE展），选取顶流明星进行代言（刘亦菲、C罗）、选取顶流渠道开设品牌旗舰店（米兰、巴黎、斯德哥尔摩旗舰店等），我们认为顶级营销资源投入是阶段性的，预计2027年将回归常态化运营策略。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "德国市场：追觅线下市占率略高于石头",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第14页（印刷页14），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0130",
+    "category": "competition",
+    "geography": {
+      "key": "germany",
+      "name_zh": "德国",
+      "iso3": "DEU",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "表2门店样本：Media Markt（杜塞尔多夫），Dreame L10s Ultra Gen2售价349欧元。",
+    "period": "2026H1采样，具体日期未披露",
+    "brand": "Dreame",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Media Markt（杜塞尔多夫）",
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "sample_retail_price",
+        "value_raw": "349",
+        "unit": "EUR",
+        "definition": "源表以欧元列示；瑞典/丹麦/波兰换算方法未披露",
+        "sku_raw": "L10s Ultra Gen2",
+        "retailer_raw": "Media Markt（杜塞尔多夫）"
+      }
+    ],
+    "notes": [
+      "仅历史门店样本；不得当作日韩澳价格或现时售价；无折扣标识保留在页文中。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 13,
+      "printed_page": 13,
+      "locator": "表2，德国/Media Markt（杜塞尔多夫）/Dreame/L10s Ultra Gen2行",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "开源证券门店采样",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p013.txt",
+      "source_excerpt_whitespace_normalized": "表2：追觅走量产品对比石头价格更低国家地点品牌产品名称售价（欧元）德国MediaMarkt（杜塞尔多夫）DreameL10sUltraGen2349德国MediaMarkt（杜塞尔多夫）RoborockQrevoEdge5V1499瑞典PowerDreameL10sUltra459瑞典PowerRoborockQrevo5V1Lite689丹麦ELGIGANTENDreameL10sUltraGen2522丹麦PowerRoborockQrevoEdge602法国DartyDreameL40sProUltra600法国boulangerRoborockQrevoEdge5V1649意大利MediaWolrdDreameL10sUltra424意大利MediaWolrdRoborockQrevoPlus699资料来源：开源证券研究所2026H1石头在欧洲高端产品为Saros系列（包含Saros10、Saros10R、Saros20）、追觅高端产品为X系列（包含X50Ultra、X60Ultra）具体对比石头与追觅旗舰款产品在不同地区价格来看：德国：MediaMarkt渠道追觅X50Ultra（799欧元）价格与石头的Saros10（797欧元）相当；瑞典：Elgiganten渠道追觅X50Ultra（826欧元）价格低于石头Saros10（900欧元）；丹麦：ELGIGANTEN渠道追觅X50Ultra（1392欧元，无折扣）价格高于石头Saros10（843欧元）；法国：boul",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "表2：追觅",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第13页（印刷页13），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0131",
+    "category": "competition",
+    "geography": {
+      "key": "germany",
+      "name_zh": "德国",
+      "iso3": "DEU",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "表2门店样本：Media Markt（杜塞尔多夫），Roborock Qrevo Edge 5V1售价499欧元。",
+    "period": "2026H1采样，具体日期未披露",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Media Markt（杜塞尔多夫）",
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "sample_retail_price",
+        "value_raw": "499",
+        "unit": "EUR",
+        "definition": "源表以欧元列示；瑞典/丹麦/波兰换算方法未披露",
+        "sku_raw": "Qrevo Edge 5V1",
+        "retailer_raw": "Media Markt（杜塞尔多夫）"
+      }
+    ],
+    "notes": [
+      "仅历史门店样本；不得当作日韩澳价格或现时售价；无折扣标识保留在页文中。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 13,
+      "printed_page": 13,
+      "locator": "表2，德国/Media Markt（杜塞尔多夫）/Roborock/Qrevo Edge 5V1行",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "开源证券门店采样",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p013.txt",
+      "source_excerpt_whitespace_normalized": "表2：追觅走量产品对比石头价格更低国家地点品牌产品名称售价（欧元）德国MediaMarkt（杜塞尔多夫）DreameL10sUltraGen2349德国MediaMarkt（杜塞尔多夫）RoborockQrevoEdge5V1499瑞典PowerDreameL10sUltra459瑞典PowerRoborockQrevo5V1Lite689丹麦ELGIGANTENDreameL10sUltraGen2522丹麦PowerRoborockQrevoEdge602法国DartyDreameL40sProUltra600法国boulangerRoborockQrevoEdge5V1649意大利MediaWolrdDreameL10sUltra424意大利MediaWolrdRoborockQrevoPlus699资料来源：开源证券研究所2026H1石头在欧洲高端产品为Saros系列（包含Saros10、Saros10R、Saros20）、追觅高端产品为X系列（包含X50Ultra、X60Ultra）具体对比石头与追觅旗舰款产品在不同地区价格来看：德国：MediaMarkt渠道追觅X50Ultra（799欧元）价格与石头的Saros10（797欧元）相当；瑞典：Elgiganten渠道追觅X50Ultra（826欧元）价格低于石头Saros10（900欧元）；丹麦：ELGIGANTEN渠道追觅X50Ultra（1392欧元，无折扣）价格高于石头Saros10（843欧元）；法国：boul",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "表2：追觅",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第13页（印刷页13），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0147",
+    "category": "competition",
+    "geography": {
+      "key": "germany",
+      "name_zh": "德国",
+      "iso3": "DEU",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "表3门店样本：Media Markt（杜塞尔多夫），Dreame X50 Ultra售价799欧元。",
+    "period": "2026H1采样，具体日期未披露",
+    "brand": "Dreame",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Media Markt（杜塞尔多夫）",
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "sample_retail_price",
+        "value_raw": "799",
+        "unit": "EUR",
+        "definition": "源表以欧元列示；瑞典/丹麦/波兰换算方法未披露",
+        "sku_raw": "X50 Ultra",
+        "retailer_raw": "Media Markt（杜塞尔多夫）"
+      }
+    ],
+    "notes": [
+      "仅历史门店样本；不得当作日韩澳价格或现时售价；无折扣标识保留在页文中。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 13,
+      "printed_page": 13,
+      "locator": "表3，德国/Media Markt（杜塞尔多夫）/Dreame/X50 Ultra行",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "开源证券门店采样",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p013.txt",
+      "source_excerpt_whitespace_normalized": "表3：追觅旗舰产品对比石头价格更低，价格促销力度更高国家地点品牌产品名称售价（欧元）意大利MediaWolrdDreameX50Ultra799意大利EuronicsBrunoRoborockSaros101499瑞典ElgigantenDreameX50Ultra826瑞典ElgigantenRoborockSaros10900法国DartyRoborockSaros10899法国boulangerDreameX50Ultra799法国boulangerRoborockSaros101499德国MediaMarkt（杜塞尔多夫）DreameX50Ultra799",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "表3：追觅",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第13页（印刷页13），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0148",
+    "category": "competition",
+    "geography": {
+      "key": "germany",
+      "name_zh": "德国",
+      "iso3": "DEU",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "表3门店样本：Media Markt（杜塞尔多夫），Roborock Saros 10售价797欧元。",
+    "period": "2026H1采样，具体日期未披露",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Media Markt（杜塞尔多夫）",
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "sample_retail_price",
+        "value_raw": "797",
+        "unit": "EUR",
+        "definition": "源表以欧元列示；瑞典/丹麦/波兰换算方法未披露",
+        "sku_raw": "Saros 10",
+        "retailer_raw": "Media Markt（杜塞尔多夫）"
+      }
+    ],
+    "notes": [
+      "仅历史门店样本；不得当作日韩澳价格或现时售价；无折扣标识保留在页文中。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 14,
+      "printed_page": 14,
+      "locator": "表3，德国/Media Markt（杜塞尔多夫）/Roborock/Saros 10行",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "开源证券门店采样",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p014.txt",
+      "source_excerpt_whitespace_normalized": "德国MediaMarkt（杜塞尔多夫）RoborockSaros10797丹麦ELGIGANTENDreameX50Ultra1392丹麦ELGIGANTENRoborockSaros10843波兰MediaExpertDreameX50Ultra744波兰MediaExpertRoborockSaros10R816资料来源：开源证券研究所另外以追觅L10sUltraGen2为例，追觅在意大利EuronicsBruno（329欧元），西班牙MediaMarkt（299欧元），波兰MediaExpert（294欧元）售价显著低于德国MediaMarkt（349欧元）、瑞典Elgiganten（551欧元）、丹麦Elgiganten（522欧元），西班牙、意大利以及波兰均为追觅相对强势市场，面临石头竞争追觅选择更为激进的价格竞争策略。表4：追觅再西班牙、意大利、波兰市场价格策略更激进国家地点品牌产品名称售价（欧元）波兰MediaExpertDreameL10sUltraGen2294意大利EuronicsBrunoDreameL10sUltraGen2329西班牙MediaMarktDreameL10sUltraGen2299瑞典ElgigantenDreameL10sUltraGen2551德国MediaMarkt（杜塞尔多夫）DreameL10sUltraGen2349丹麦ELGIGANTENDreameL10sUltraGen2522资料来源：开源证券研究所我们认为，现在及未来",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "德国MediaMarkt（杜塞尔多夫）",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第14页（印刷页14），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0157",
+    "category": "competition",
+    "geography": {
+      "key": "germany",
+      "name_zh": "德国",
+      "iso3": "DEU",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "表4门店样本：Media Markt（杜塞尔多夫），Dreame L10s Ultra Gen2售价349欧元。",
+    "period": "2026H1采样，具体日期未披露",
+    "brand": "Dreame",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Media Markt（杜塞尔多夫）",
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "sample_retail_price",
+        "value_raw": "349",
+        "unit": "EUR",
+        "definition": "源表以欧元列示；瑞典/丹麦/波兰换算方法未披露",
+        "sku_raw": "L10s Ultra Gen2",
+        "retailer_raw": "Media Markt（杜塞尔多夫）"
+      }
+    ],
+    "notes": [
+      "仅历史门店样本；不得当作日韩澳价格或现时售价；无折扣标识保留在页文中。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 14,
+      "printed_page": 14,
+      "locator": "表4，德国/Media Markt（杜塞尔多夫）/Dreame/L10s Ultra Gen2行",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "开源证券门店采样",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p014.txt",
+      "source_excerpt_whitespace_normalized": "表4：追觅再西班牙、意大利、波兰市场价格策略更激进国家地点品牌产品名称售价（欧元）波兰MediaExpertDreameL10sUltraGen2294意大利EuronicsBrunoDreameL10sUltraGen2329西班牙MediaMarktDreameL10sUltraGen2299瑞典ElgigantenDreameL10sUltraGen2551德国MediaMarkt（杜塞尔多夫）DreameL10sUltraGen2349丹麦ELGIGANTENDreameL10sUltraGen2522资料来源：开源证券研究所我们认为，现在及未来欧洲扫地机行业竞争主要为石头与追觅的竞争，对各国追觅及石头竞争情况进行总结：德国市场：追觅线下市占率略高于石头，石头线上市占率远高于追觅，两者品牌影响力势均力敌。瑞典市场：石头与追觅市占率相近，品牌力强于追觅，追觅通过机场广告、购物中心开品牌集合点等方式提升品牌力。意大利市场：追觅线下市占率高于石头，石头进攻抢占市场，追觅通过提前降价阻击。西班牙市场：追觅+石头正在替代Cecotec及iRobot，西班牙市场结构正在改善，追觅及石头持续抢占低端品牌份额。波兰市场：追觅整体市占率高于石头，石头自2026年3月发布会后进行大范围铺新货，我们预计2026年整体市占率有望提升至25-30%。展望未来，我们认为追觅海外高投入无法长时间维系。回顾2026年，追觅执行了“顶级资源营销策略”，选取顶流场景进行赞助投放（春晚及超级碗），在顶级展览上",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "表4：追觅",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第14页（印刷页14），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0204",
+    "category": "competition",
+    "geography": {
+      "key": "germany",
+      "name_zh": "德国",
+      "iso3": "DEU",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "按图33标题采用2025Q4德国亚马逊石头39%、追觅23%、科沃斯19%；正文科沃斯18%保留审计，不采用。",
+    "period": "2025Q4",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Amazon Germany",
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "roborock_amazon_market_share",
+        "value_raw": "39",
+        "unit": "%",
+        "definition": null
+      },
+      {
+        "metric": "dreame_amazon_market_share",
+        "value_raw": "23",
+        "unit": "%",
+        "definition": null
+      },
+      {
+        "metric": "ecovacs_amazon_market_share",
+        "value_raw": "19",
+        "unit": "%",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "依用户图表优先规则采用；曲线未标精确点值，不从像素推算18%还是19%。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 25,
+      "printed_page": 25,
+      "locator": "图33标题",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "魔镜，经开源证券",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p025.txt",
+      "source_excerpt_whitespace_normalized": "图33：2025Q4德国亚马逊石头/追觅/科沃斯市占率分别为39%/23%/19%数据来源：魔镜、开源证券研究所表5：石头QV35S保持黑五大促全周期德国亚马逊bestsellerTOP1位置渠道排名11月17日11月20日11月24日11月30日德亚1RoborockQV35SRoborockQV35SRoborockQV35SRoborockQV35S2RoborockQrevoCurvRoborockQrevoCurvDREAMEL10sDREAMEL40sProUltra3RoborockSaros10RDREAMEL40sProUltraECOVACST50OmniGen2RoborockSaros10R4DREAMEL10sRoborockSaros10RRoborockSaros10RRoborockQrevoCurv5RoborockQ7L5+RoborockQ7L5+RoborockQrevoCurvRoborockQ7L5+0%10%20%30%40%50%2023Q32023Q42024Q12024Q22024Q32024Q42025Q12025Q22025Q32025Q4Roborock（石头）NARWALiRobotEufyECOVACS（科沃斯）Dreametech（追觅）",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "图33：2025Q4德国亚马逊石头/追觅/科沃斯市占率分别为39%/23%/19%",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第25页（印刷页25），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

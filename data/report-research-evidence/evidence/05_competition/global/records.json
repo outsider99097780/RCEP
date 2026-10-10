@@ -1,0 +1,111 @@
+[
+  {
+    "record_id": "RR26-0004",
+    "category": "competition",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "2025年年报引述IDC，石头智能扫地机器人全球份额27.0%，居全球首位。",
+    "period": "2025",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "roborock_robot_vacuum_global_share",
+        "value_raw": "27.0",
+        "unit": "%",
+        "definition": "第26页进一步描述为全球市场销量份额；不可与所有清洁机器人混用"
+      }
+    ],
+    "notes": [
+      "第20页同段17.7%为更广清洁机器人市场份额，不是扫地机器人份额。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 20,
+      "printed_page": 20,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": "IDC，经公司年报转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p020.txt",
+      "source_excerpt_whitespace_normalized": "其中智能扫地机器人全球市场份额达27.0%，继续稳居全球市场首位，且市场份额保持持续攀升态势，充分彰显公司在核心赛道的领先地位与持续成长能力。洗地机业务通过新技术、新产品的集中突破，国内市占率于2025年跃居行业第二，实现了市场地位的显著跃升；与此同时，公司自第三季度起加快海外市场布局，积极开拓新的业务增长空间。2025年9月，公司于德国IFA展正式推出智能割草机新品类，并于年底开始出货，标志着公司在户外智能清洁领域的战略布局落地，为品类持续拓展与全球业务增长注入新动能。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "其中智能扫地机器人全球市场份额达27.0%",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第20页（印刷页20），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0120",
+    "category": "competition",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "国信证券将参与者分为专业扫地机、专业吸尘器、综合家电及其他综合企业，比较研发专注、用户认知、渠道和供应链优势。",
+    "period": "2022-06-30",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-03",
+      "title": "石头硬核科技，淬炼扫地机龙头",
+      "issuer": "国信证券",
+      "publication_date": "2022-06-30",
+      "reporting_period": null,
+      "pdf_page": 15,
+      "printed_page": 15,
+      "locator": "表6",
+      "source_relative_path": "sources/research/国信石头202206301575640813_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\国信石头202206301575640813_1(1).pdf",
+      "source_sha256": "99fce4a59cb5cd73b7124c1ee0135bf7b8520a5fcf9bc49b3cc6b278e2961811",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-03/p015.txt",
+      "source_excerpt_whitespace_normalized": "行业内主要有以下四类参与者：1）专业的扫地机器人品牌：科沃斯、石头科技、云鲸等；2）专业的吸尘器品牌：戴森、小狗、Shark等；3）综合性家电公司：美的、海尔等；4）其他综合性企业：小米、三星等。其中不同类型的企业都有其优势所在，专业的扫地机器人品牌由于更为专注这一市场，对消费者需求的认知和反应更为敏锐，在研发上的先发优势和专注性带来技术上的引领，因而在产品性能表现上会更加优异，后续辅以营销逐渐打造起品牌力，市场份额保持领先。从行业的角度看，扫地机器人功能升级快，科技属性强，反应快、产品更新迭代快的专业品牌也更能契合行业的发展。表6：扫地机器人行业的参与者主要有四类，专业品牌更契合扫地机行业的发展类别代表品牌竞争优势专业扫地机品牌科沃斯、石头、云鲸、iRobot1、对消费者需求变动更敏感，反应速度更快2、专注于研发单一产品，具有一定的先发优势3、灵活的宣传方式，品牌对品类的绑定认知更清晰专业吸尘器品牌戴森、小狗、Shark1、在清洁领域具有一定的知名度和用户群体2、研发、生产端存在协同3、供应链、生产技术更为成熟综合性家电企业美的、海尔1、资金实力雄厚，研发投入大2、渠道成熟，品牌认知度高3、成熟的生产供应体系其他综合性企业小米、三星1、资金及研发实力强大2、品牌背书，完善的供应链体系资料来源:公司公告、国信证券经济研究所整理行业格局上，扫地机器人行业的竞争格局较为集中，国内头部市占率存在集中的趋势。国内市场份额方面，科沃斯作为最先推出扫地机器人的国产品牌，在国内",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "行业内主要有以下四类参与者",
+      "citation_zh": "国信证券：《石头硬核科技，淬炼扫地机龙头》，2022-06-30，PDF第15页（印刷页15），本地来源：sources/research/国信石头202206301575640813_1(1).pdf，读取日期：2026-10-09。"
+    }
+  }
+]

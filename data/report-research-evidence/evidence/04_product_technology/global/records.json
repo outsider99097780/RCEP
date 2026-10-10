@@ -1,0 +1,494 @@
+[
+  {
+    "record_id": "RR26-0090",
+    "category": "product_technology",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "年报描述以激光/视觉/惯性传感器和SLAM建立地图，再用AI规划清扫路线。",
+    "period": "2022",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-01",
+      "title": "石头科技2022年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2022",
+      "pdf_page": 13,
+      "printed_page": 13,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2022年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2022年度报告.pdf",
+      "source_sha256": "c4c1709345f7d26d092e0f1f568956031213e9a9635342c71de9975bb63edd10",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-01/p013.txt",
+      "source_excerpt_whitespace_normalized": "智能扫地机器人在通过基于激光测距传感器、视觉传感器、惯性测量单元等传感器的SLAM算法构建出户型地图后，再根据户型地图进行定位，同时通过AI算法规划出智能、高效的清扫路径，可以有效避免漏扫、重扫。服务器端通过对联网产品数据进行深度学习、算法优化从而不断迭代升级机器人算法。同时，扫地机全线新品开发了全功能基站，除原有充电基础功能外，增加了抹布自清洁、自动集尘、抹布烘干、清洗槽烘干等，促使扫地机器人在智能化发展的道路上实现了质的跨越。2、洗地机为改善清洁效果和使用体验，公司深入研发并将最新研发成果应用于相关产品中，包括双滚刷系统、智能洗烘及全链路抗菌、智能脏污检测、自动投放清洁液等技术，使洗地机地面清洁与自清洁能力得到了提升，增强了抑菌与防臭效果，提升了使用便利性，干湿垃圾清洁一步到位。(二)主要经营模式公司紧紧围绕技术研发和品牌建设持续打造并提升公司的核心竞争力，通过技术和产品的领先性以及卓越的品牌形象获取市场份额和利润。在采购方面，公司有三种采购模式：对于高价值或核心的零部件，公司直接采购，由供应商直接发货给代工厂商；对于其他定制化的零部件，公司指定具体供应商、价格和数量后由代工厂商进行采购；对于低价值的标准化零部件，公司指定规格与型号由代工厂商自行采购管理，公司与代工厂商定期依据市场价格约定采购价格区间。生产方面，报告期内，公司开始自建工厂，目前工厂建设正在进行中，后期随着工厂的落地",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "智能扫地机器人在通过基于激光测距传感器",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2022年年度报告》，2022报告期，PDF第13页（印刷页13），本地来源：sources/report/石头科技2022年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0091",
+    "category": "product_technology",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "2023年年报列出全功能基站具备抹布自清洁、自动集尘、抹布及清洗槽烘干功能。",
+    "period": "2023",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-02",
+      "title": "石头科技2023年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2023",
+      "pdf_page": 16,
+      "printed_page": 16,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2023年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2023年度报告.pdf",
+      "source_sha256": "3d10cbff3e696142a9e93cda08a7404a7878869da99e7841630be0d5dd1c30de",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-02/p016.txt",
+      "source_excerpt_whitespace_normalized": "扫地机全线新品开发了全功能基站，除原有充电基础功能外，增加了抹布自清洁、自动集尘、抹布烘干、清洗槽烘干等功能，促使扫地机器人在智能化发展的道路上实现了质的跨越。2、洗地机为改善清洁效果和使用体验，公司深入研发并将最新研发成果应用于相关产品中，包括双滚刷系统、智能洗烘及全链路抗菌、智能脏污检测、自动投放清洁液等技术，使洗地机地面清洁与自清洁能力得到了提升，增强了抑菌与防臭效果，提升了使用便利性，干湿垃圾清洁一步到位。3、洗烘一体机随着现代生活的发展，用户在衣物清洁方面逐渐产生对衣物烘干的较强需求。现有洗烘一体机存在很多体验上的不足，无法为客户带来极致的体验，难以满足用户对产品的期望。基于洗烘一体机领域的市场现状及客户潜在的需求，公司自研了“第三种烘干技术（分子筛吸附式烘干）洗烘一体机”，解决了烘干温度过高、毛屑残留过多、烘干风道污染残留，烘干效果差、烘干时间过长等问题，同时也满足主流的嵌入式家装场景，不会额外占用更多的家装空间。不同于冷凝或热泵式烘干，公司技术产品采用物理吸附技术，利用分子筛超强的吸湿能力对衣物进行除湿。配合行业首创的双风路循环系统，独立分区，保持主循环风路相对干燥的循环暖风、循环风路无主动热源，从而实现低温干衣护理。该产品不仅可以烘真丝羊毛",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "扫地机全线新品开发了全功能基站",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2023年年度报告》，2023报告期，PDF第16页（印刷页16），本地来源：sources/report/石头科技2023年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0095",
+    "category": "product_technology",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "研报描述高端S系列及QREVO S中端系列并行，以不同价格段拓展欧洲和亚太。",
+    "period": "2024H1",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [],
+    "notes": [
+      "区域产品定位，不分摊成具体目标国SKU清单。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-05",
+      "title": "2024年中报点评：外销增长动能充足，盈利持续提升",
+      "issuer": "国信证券",
+      "publication_date": "2024-09-05",
+      "reporting_period": null,
+      "pdf_page": 1,
+      "printed_page": 42425,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/国信石头202409051639759654_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\国信石头202409051639759654_1(1).pdf",
+      "source_sha256": "a36edfbb6cc257c789a601b89b9ed73242ddb231b7980d456026242733577bc2",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-05/p001.txt",
+      "source_excerpt_whitespace_normalized": "公司高端S系列新品凭借领先的产品力占据领先份额，也推出QREVOS系列布局中端价格段，预计随着线上线下渠道的逐步渗透，同样保持较快增长。研发投入加大，盈利能力进一步提升。公司H1毛利率同比+2.7pct至53.8%，Q2毛利率+0.2pct至51.9%。预计毛利率提升一方面得益于公司技术及物料降本，新品毛利率进一步提升；另一方面，高毛利率的海外渠道占比提升。分渠道看，公司H1境内毛利率48.8%，境外毛利率58.5%；直营毛利率57.5%，经销毛利率51.9%。公司费用投入加大，Q2销售/研发/管理/财务费用率分别+0.1/+1.4/+0.6/-0.6pct至19.5%/8.3%/3.3%/-3.4pct。Q2公司归母净利率达到28.0%，同比提升3.9pct；若排除Q2收到重点软件企业退税1.5亿的影响，预计Q2公司归母净利率同比+0.3pct至22.1%。风险提示：行业竞争加剧；海外扩展不及预期；新品销售不及预期投资建议：上调盈利预测，维持“优于大市”评级公司是全球扫地机行业龙头，国内外产品、渠道持续扩张。考虑到Q2高基数下海外强劲的需求表现，上调盈利预测，预计公司2024-2026年归母净利润25.3/29.4/34.0亿（前值为24.0/27.9/32.1亿），增速为23%/16%/16%，对应PE=12/10/9倍，维持“优于大市”评级。盈利预测和财务指标202220232024E2025E2026E营业收入(百万元)6,6298,65410,52312,43114,4",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "公司高端S系列新品",
+      "citation_zh": "国信证券：《2024年中报点评：外销增长动能充足，盈利持续提升》，2024-09-05，PDF第1页（印刷页42425），本地来源：sources/research/国信石头202409051639759654_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0096",
+    "category": "product_technology",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "2024年年报披露丰富产品矩阵、拓宽价格段并推进全价位段布局。",
+    "period": "2024",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-03",
+      "title": "石头科技2024年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2024",
+      "pdf_page": 14,
+      "printed_page": 13,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2024年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2024年度报告.pdf",
+      "source_sha256": "45c065afabb814739212e3334a059d635c30bbbd1a5f1190babd04aa42a37bde",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-03/p014.txt",
+      "source_excerpt_whitespace_normalized": "不断丰富产品矩阵，拓宽价格段，推进了全价位段布局，并在主流价格段取得了重点突破。此外，公司还通过精细化的市场策略，优化销售结构，加强渠道布局，提升品牌影响力，深入挖掘市场潜力。报告期内，公司各品类齐头并进，持续推出多款新品。在智能扫地机器人领域，公司通过拓宽价位段和丰富产品矩阵，满足了不同消费者的需求，实现了销量和销额的双增长。同时，在洗地机与洗烘一体机领域，公司凭借领先的技术和优质的产品，不断推出新品，获得了良好的市场反馈和业绩突破。在国内市场，受益于家电行业“以旧换新”补贴政策的推动，公司业务收入实现了快速增长；在海外市场，通过精细化渠道布局，拓展新市场，提升了品牌和产品的影响力，实现了公司海外业务收入的大幅提升。根据董事会的战略部署，在公司管理层的领导下，公司2024年实现营业收入1,194,470.72万元，同比增长38.03%；实现利润总额209,754.68万元，实现归属于母公司所有者的净利润197,656.32万元。报告期内，公司始终坚持以技术普惠生活，以质量塑造品牌，以优质服务温暖人",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "不断丰富产品矩阵，拓宽价格段",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2024年年度报告》，2024报告期，PDF第14页（印刷页13），本地来源：sources/report/石头科技2024年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0098",
+    "category": "product_technology",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "2026年2月研报预计石头采用双转盘、滚筒、平板拖多路线并行。",
+    "period": "2026E",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_forecast",
+    "report_use": "forecast_only",
+    "metrics": [],
+    "notes": [
+      "必须作为当时券商预测引用，不能改成公司已公布的战略承诺。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p008.txt",
+      "source_excerpt_whitespace_normalized": "预计2026年石头会采取双转盘+滚筒+平板拖多方案并行，维持毛利率更有主动权。我们认为公司主力机型仍以双转盘产品为主，滚筒用来应对价格竞争，双转盘和平板拖由于竞品不再迭代，可以保持更稳定的价格和毛利率。A.滚筒方案：我们预计2026年石头会继续推出多款滚筒产品，类似2025Q4，同一款机型可能存在滚筒活水版以及双转盘版。参照2025Q4石头推出的滚筒产品P20活水版以及2026Q1推出P20Ultra活水版，同个型号的活水版可能主打性价比，硬件简配，而双转盘产品则会增加一些新功能，活水版产品可以作为补充方案，预计未来G系列也将推出滚筒产品，丰富多价格带产品以拓展滚筒市场。B.双转盘方案：我们预计2026年双转盘产品仍为石头主力机型，会继续增加一些探索性的新功能，例如新增了“轮足”连续越障功能。由于石头双转盘产品持续有产品迭代，会有更主导的定价权，也会是毛利率相对较高的产品。C.平板拖方案：平板震动拖布在国内外仍有很多粉丝，2026年1月，石头国内主推的新品G30SPro就采用声波震动擦地系统，新增平板拖布外扩贴边功能，并在宣传方案中标注是“旗舰专属”，突显是高端方案。2026年CES展石头发布三款新品（Saros20、Saros20Sonic、SarosRover），首创轮足方案更踏实可落地，除可爬楼梯的Rover外，在走量机型上也升级了相似的轮足方案提高越障能力。具体来看各产品：A.Saros20：采用轮足方案，可连续越障4.5+4cm两个台阶；双转盘拖布，拖布提升3.5cm；",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "预计2026年石头会采取双转盘+滚筒+平板拖多方案并行",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第8页（印刷页8），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0099",
+    "category": "product_technology",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "研报比较双转盘与滚筒方案在贴边、地毯防护、低矮家具通过及污水槽维护上的差异，不认为滚筒必然成为唯一主流。",
+    "period": "截至2026-02-04",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [
+      "表中参数来自不同产品示例，不能赋予所有双盘/滚筒SKU。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "locator": "表1",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "各品牌京东旗舰店、开源证券",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p008.txt",
+      "source_excerpt_whitespace_normalized": "表1：双转盘及滚筒产品在清洁能力、场景适配及产品维护方面各有优劣双转盘产品滚筒产品清洁能力清洁原理双转盘旋转+下压力反复清洁，多为定时补水/回洗，非实时自清洁“喷淋-滚洗-刮挤-回收”闭环活水，边清洁边自洁，滚筒每转一圈被刮条刮净对地压强下压力14N，压强分散下压力15N，压强相对集中清洁覆盖双盘贴边灵活，机械臂可外扩，边角贴合度好依赖伸缩滚筒（如43mm）+加长边刷，边角清洁易留死角场景适配地毯防护拖布抬升可达3.5cm，无物理隔离滚筒抬升+自动升降滚筒罩，物理包裹，干湿分离重污清洁顽固污渍可旋转多遍复拖，拖布脏后易产生二次污染滚筒活水洗，重复滚洗相对困难，能够避免二次污染低矮家具机身薄，通过率高机身略厚（内置污水箱）越障常规4.5cm越障（最高8.8cm）2cm越障产品维护耗材拖布更换相对频繁，单价较低滚筒寿命长，单价相对较高免维护免维护性相对较好，需定期清理污水槽免维护性相对较差，清洁时易吸入湿垃圾，污水槽清洁相对困难，刮条须定期手动清洁资料来源：各品牌京东旗舰店、开源证券研究所因此，我们认为，目前尚不能断定，滚筒会成为未来唯一的主流方案。从2025年内销市场各品牌市占率来看，石头即使没有主推滚筒产品，市占率仍在提升。（2）预计2026年石头会采取双转盘+滚筒+平板拖多方案并行，维持毛利率更有主动权。我们认为公司主力机型仍以双转盘产品为主，滚筒用来应对价格竞争，双转盘和平板拖由于竞品不再迭代，可以保持更稳定的价格和毛利率。A.滚筒方案：我们预计2026年石头会继续推出多款滚",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "表1：双转盘及滚筒产品",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第8页（印刷页8），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0100",
+    "category": "product_technology",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "CES 2026披露Saros 20：双转盘拖布、35000Pa吸力、拖布提升3.5cm及4.5+4cm连续双台阶越障。",
+    "period": "2026 CES",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "suction",
+        "value_raw": "35000",
+        "unit": "Pa",
+        "definition": null
+      },
+      {
+        "metric": "mop_lift",
+        "value_raw": "3.5",
+        "unit": "cm",
+        "definition": null
+      },
+      {
+        "metric": "first_step",
+        "value_raw": "4.5",
+        "unit": "cm",
+        "definition": null
+      },
+      {
+        "metric": "second_step",
+        "value_raw": "4",
+        "unit": "cm",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "4.5+4cm为连续两个台阶，不能当单台阶8.5cm。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "CES 2026、开源证券整理",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p008.txt",
+      "source_excerpt_whitespace_normalized": "Saros20：采用轮足方案，可连续越障4.5+4cm两个台阶；双转盘拖布，拖布提升3.5cm；35000Pa吸力再次升级；B.Saros20Sonic（国内G30SPro）：采用最新一代声波清洁技术，采用行业首创可伸缩贴边平板拖布，导航避障使用升降LDS方案，其余功能与Saros20相同。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "Saros20：采用轮足方案",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第8页（印刷页8），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0101",
+    "category": "product_technology",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "研报称Saros 20 Sonic对应国内G30S Pro，采用声波震动平板拖、伸缩贴边拖布及升降LDS。",
+    "period": "2026 CES",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 8,
+      "printed_page": 8,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "CES 2026、开源证券整理",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p008.txt",
+      "source_excerpt_whitespace_normalized": "Saros20Sonic（国内G30SPro）：采用最新一代声波清洁技术，采用行业首创可伸缩贴边平板拖布，导航避障使用升降LDS方案，其余功能与Saros20相同。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "Saros20Sonic（国内G30SPro）",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第8页（印刷页8），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0102",
+    "category": "product_technology",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "2025年年报描述G30 Space探索版五轴折叠仿生机械手、底盘升降；P20 Ultra Plus采用结构光+RGB识别及25000Pa吸力。",
+    "period": "2025",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [
+      {
+        "metric": "p20_ultra_plus_suction",
+        "value_raw": "25000",
+        "unit": "Pa",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "年报产品展示可能包含报告发布前新品；未据年报归属年度推断具体上市日。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 25,
+      "printed_page": 25,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p025.txt",
+      "source_excerpt_whitespace_normalized": "G30Space探索版搭载行业首创五轴折叠仿生机械手与领先的底盘升降技术；G-Rover轮足式机器人采用创新双轮足架构，实现复杂地形下的稳定移动与同步清洁；P20UltraPlus配备采用沿边结构光避障模组+RGB摄像头识别、0缠绕清扫系统及高达25000Pa飓风吸力，进一步提升产品智能化水平与清洁性能上限。洗地机业务方面，公司通过新技术、新产品的集中突破，蒸汽洗地机市场规模跃居全国第一。A30ProSteam五合一版、A30ProUltra等系列产品，分别应用160°C高温蒸汽+86°C热水洗地、蒸汽自清洁、零感清洁系统、智能投放清洁液、AI全向助力系统及APP智能互联等核心技术，高效乳化顽固污渍，全面提升地面清洁力与整机自清洁能力，兼具高效抑菌与防臭双重效果。在户外智能清洁领域，公司精准把握全球庭院智能化与户外自动化需求，依托AI导航与全地形技术，切入高速增长的海外智能割草机器人市场，有效拓展公司产品矩阵。公司在2025年IFA展会发布的RockMow系列智能割草机器人，以全地形四驱、RTK+视觉融合导航、AI感知及3cm贴边割草等核心技术，实现无边界、全地形、高安全、高效率的庭院智能割草，是公司从室内清洁向户外庭院机器人领域延伸的关键技术突破。公司高度重视产品安全与质量管控，构建了覆盖全业务流程与产品全生命周期的质量管理体系，对研发、供应链、生产、售后等全环节实施系统化管控。凭借卓越的设计能力、精湛的制造工艺、严格的质量控制与持续的技术创新，公司报告期内先后斩获“德国设计奖",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "G30Space探索版搭载",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第25页（印刷页25），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "record_id": "RR26-0178",
+    "category": "constraints_failures",
+    "geography": {
+      "key": "europe-regional",
+      "name_zh": "欧洲区域合计",
+      "iso3": null,
+      "scope": "region",
+      "role": "mature_overseas_case_regional",
+      "related_countries": []
+    },
+    "statement_zh": "开源证券认为2024Q3欧洲渠道结构调整导致经销渠道确认时点错位，不能简单当作终端需求下降。",
+    "period": "2024Q3",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [
+      "经营原因解释，不提取财务表。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-10",
+      "title": "收入错期、费用前置下业绩阶段性承压，看好2024Q4内外销实现高增",
+      "issuer": "开源证券",
+      "publication_date": "2024-10-31",
+      "reporting_period": null,
+      "pdf_page": 1,
+      "printed_page": 1,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/开源石头202410311640632873_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202410311640632873_1(1).pdf",
+      "source_sha256": "883643b9d37be52d034b9137803432c7aefecb28a287aae670d1038cd222a11b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-10/p001.txt",
+      "source_excerpt_whitespace_normalized": "主系渠道结构调整下原经销渠道收入错期延后确认所致，线上渠道增长良好。根据公司战报，7月Primeday期间石头在德亚市占率第一、销量2.6万台，同比+100%，QrevoPro销量第一，多款产品进入TOP2。（4）亚太：预计增长约20%。根据久谦数据，2024Q3石头日亚电动工具零件品类销额同比分别+12%，7月Primeday期间石头在澳亚销量同比+270%，多款产品占据亚马逊全品类销量Top3。收入错期、费用前置、品牌投放加速等多重因素下盈利能力阶段性承压2024Q3毛利率53.9%（-5.2pct），承压预计主系：（1）产品价位段更宽，定价更具性价比，2024Q3美亚/德亚/法亚均价同比分别-1%/-2%/-3%；（2）会计准则调整后售后费用计入营业成本，约影响0.4pct。费用端:期间费用率38.4%（+10.6pct），其中销售/管理/研发/财务费用率同比分别+6.8/+1.2/+1.9/+0.6pct，销售费率增长主系：（1）进一步加强海内外高端创牌、加速推新；（2）低费率的欧洲渠道收入错期；（3）双十一提前、费用进一步前置。综合影响下净利率为13.6%（-13.3pct），归母净利率13.6%（-13.3pct），扣非净利率12.5%（-13.1pct）。风险提示：新品销售不及预期；原材料价格风险；海外高通胀下需求不及预期。财务摘要和估值指标指标2022A2023A2024E2025E2026E营业收入(百万元)6,6298,65411,10614,11217,",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "主系渠道结构调整下原经销渠道收入错期延后确认所致",
+      "citation_zh": "开源证券：《收入错期、费用前置下业绩阶段性承压，看好2024Q4内外销实现高增》，2024-10-31，PDF第1页（印刷页1），本地来源：sources/research/开源石头202410311640632873_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0180",
+    "category": "constraints_failures",
+    "geography": {
+      "key": "europe-regional",
+      "name_zh": "欧洲区域合计",
+      "iso3": null,
+      "scope": "region",
+      "role": "mature_overseas_case_regional",
+      "related_countries": []
+    },
+    "statement_zh": "开源证券预计追觅顶流资源营销属于阶段性投入，2027年回归常态；这是预测，不是已经发生的竞争收缩。",
+    "period": "2027E",
+    "brand": "Dreame",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_forecast",
+    "report_use": "forecast_only",
+    "metrics": [],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 14,
+      "printed_page": 14,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p014.txt",
+      "source_excerpt_whitespace_normalized": "我们认为追觅海外高投入无法长时间维系。回顾2026年，追觅执行了“顶级资源营销策略”，选取顶流场景进行赞助投放（春晚及超级碗），在顶级展览上进行大规模宣发（CES展、IFA展、AWE展），选取顶流明星进行代言（刘亦菲、C罗）、选取顶流渠道开设品牌旗舰店（米兰、巴黎、斯德哥尔摩旗舰店等），我们认为顶级营销资源投入是阶段性的，预计2027年将回归常态化运营策略。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "我们认为追觅海外高投入无法长时间维系",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第14页（印刷页14），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  }
+]

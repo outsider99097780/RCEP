@@ -1,0 +1,54 @@
+[
+  {
+    "record_id": "RR26-0175",
+    "category": "constraints_failures",
+    "geography": {
+      "key": "overseas-regional",
+      "name_zh": "海外未细分",
+      "iso3": null,
+      "scope": "region",
+      "role": "regional_background",
+      "related_countries": []
+    },
+    "statement_zh": "开源证券认为云鲸早期侧重拖布及自清洁，而早期海外更重视地毯扫地，形成需求错配；较晚出海失去先发窗口。",
+    "period": "历史原因，报告时观点",
+    "brand": "Narwal",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [
+      "券商原因解释，非云鲸管理层确认；不得泛化所有海外消费者。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 13,
+      "printed_page": 13,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p013.txt",
+      "source_excerpt_whitespace_normalized": "云鲸早期主要针对国内市场进行研发，创新集中于拖布功能（基站自清洁等），早期的海外客户更注重扫地体验（例如处理长毛地毯能力等），形成需求错配，海外市场一直占比不高。当下海外市场格局相对固定，已经较难突破。3、成本较高：云鲸年出货量较头部品牌500万台左右的出货量仍有较大差距，成本较高。2025年，公司主信的履带式产品相较于其他拖布方案，产品也相对较高。0%5%10%15%20%25%30%35%追觅意大利追觅西班牙追觅法国追觅德国",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "云鲸早期主要针对国内市场进行研发",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第13页（印刷页13），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

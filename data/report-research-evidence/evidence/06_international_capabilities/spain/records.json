@@ -1,0 +1,56 @@
+[
+  {
+    "record_id": "RR26-0166",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "spain",
+      "name_zh": "西班牙",
+      "iso3": "ESP",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": [
+        "global"
+      ]
+    },
+    "statement_zh": "2026年1月2日石头与皇家马德里签署全球战略合作伙伴协议。",
+    "period": "2026-01-02",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [],
+    "notes": [
+      "签约地点西班牙；品牌推广范围为全球，不是西班牙市场收入证明。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 24,
+      "printed_page": 24,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "皇家马德里足球俱乐部公众号，经开源证券转述",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p024.txt",
+      "source_excerpt_whitespace_normalized": "2026年1月2日，石头科技与西班牙足球俱乐部皇家马德里在马德里正式签署全球战略合作伙伴协议，以“巅峰会晤，强者联袂”为主题开启多年合作征程。未来，石头将通过球场展示、主题营销、球员故事传播等形式在皇马全球数亿球迷前实现品牌曝光，显著提升品牌知名度，促进其在欧洲品牌影响力不断提升，进而辐射全球。图32：石头科技与西班牙足球俱乐部皇家马德里在马德里正式签署全球战略合作伙伴协议资料来源：皇家马德里足球俱乐部公众号线上方面：-40%-20%0%20%40%60%80%100%120%0246810121416欧洲区域收入（亿元）yoy-100%-50%0%50%100%150%0200040006000800010000德国亚马逊收入（万欧元）法国亚马逊收入（万欧元）德亚yoy法亚yoy",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2026年1月2日，石头科技与西班牙足球俱乐部皇家马德里",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第24页（印刷页24），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

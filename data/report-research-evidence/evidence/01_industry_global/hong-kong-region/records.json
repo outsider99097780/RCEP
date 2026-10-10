@@ -1,0 +1,61 @@
+[
+  {
+    "record_id": "RR26-0014",
+    "category": "industry_global",
+    "geography": {
+      "key": "hong-kong-region",
+      "name_zh": "中国香港",
+      "iso3": null,
+      "scope": "region",
+      "role": "regional_background_not_separate_country",
+      "related_countries": []
+    },
+    "statement_zh": "图21标注2024年中国香港扫地机渗透率为4.8%。",
+    "period": "2024",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "penetration",
+        "value_raw": "4.8",
+        "unit": "%",
+        "definition": "图21市场渗透率，分母定义未披露；不是吸尘器销量占比"
+      }
+    ],
+    "notes": [
+      "数值逐一核对图中标签；未反推未标注的历史年度数据。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 17,
+      "printed_page": 17,
+      "locator": "图21，2024年柱标签（已视觉核对）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "欧睿，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p017.txt",
+      "source_excerpt_whitespace_normalized": "图21：西班牙、美国和中国台湾市场成熟度高，渗透率分别达21.3%/15.8%/15.3%数据来源：欧睿、开源证券研究所4.3%3.8%3.6%1.2%5.4%8.1%12.9%15.3%0.4%3.1%4.8%14.5%15.8%3.6%5.7%7.3%8.4%4.8%7.4%21.3%8.9%5.2%7.4%15.5%8.8%8.1%12.9%0.8%1.7%0.0%5.0%10.0%15.0%20.0%25.0%中国全球全球(除中国)亚太(除中国)日本韩国新加坡中国台湾越南泰国中国香港北美美国加拿大欧洲西欧德国英国法国西班牙荷兰意大利瑞典捷克波兰罗马尼亚澳大利亚拉丁美洲阿根廷201320142015201620172018201920202021202220232024",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "图21：西班牙、美国和中国台湾市场成熟度高",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第17页（印刷页17），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

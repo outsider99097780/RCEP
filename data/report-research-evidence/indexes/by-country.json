@@ -1,0 +1,623 @@
+[
+  {
+    "country": "australia",
+    "name_zh": "澳大利亚",
+    "role": "TARGET_AUSTRALIA",
+    "categories": [
+      {
+        "category": "target_markets",
+        "file": "evidence/02_target_markets/australia/records.json",
+        "record_count": 7
+      }
+    ]
+  },
+  {
+    "country": "canada",
+    "name_zh": "加拿大",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/canada/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "mature_overseas_cases",
+        "file": "evidence/03_mature_overseas_cases/canada/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "china",
+    "name_zh": "中国",
+    "role": "supply_and_domestic_reference",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/china/records.json",
+        "record_count": 7
+      },
+      {
+        "category": "constraints_failures",
+        "file": "evidence/07_constraints_failures/china/records.json",
+        "record_count": 3
+      },
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/china/records.json",
+        "record_count": 3
+      },
+      {
+        "category": "product_technology",
+        "file": "evidence/04_product_technology/china/records.json",
+        "record_count": 6
+      }
+    ]
+  },
+  {
+    "country": "czechia",
+    "name_zh": "捷克",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/czechia/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "denmark",
+    "name_zh": "丹麦",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/denmark/records.json",
+        "record_count": 5
+      }
+    ]
+  },
+  {
+    "country": "europe-regional",
+    "name_zh": "欧洲区域合计",
+    "role": "mature_overseas_case_regional",
+    "categories": [
+      {
+        "category": "constraints_failures",
+        "file": "evidence/07_constraints_failures/europe-regional/records.json",
+        "record_count": 2
+      },
+      {
+        "category": "international_capabilities",
+        "file": "evidence/06_international_capabilities/europe-regional/records.json",
+        "record_count": 2
+      },
+      {
+        "category": "mature_overseas_cases",
+        "file": "evidence/03_mature_overseas_cases/europe-regional/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "finland",
+    "name_zh": "芬兰",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "mature_overseas_cases",
+        "file": "evidence/03_mature_overseas_cases/finland/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "france",
+    "name_zh": "法国",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/france/records.json",
+        "record_count": 6
+      },
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/france/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "mature_overseas_cases",
+        "file": "evidence/03_mature_overseas_cases/france/records.json",
+        "record_count": 3
+      }
+    ]
+  },
+  {
+    "country": "germany",
+    "name_zh": "德国",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/germany/records.json",
+        "record_count": 7
+      },
+      {
+        "category": "constraints_failures",
+        "file": "evidence/07_constraints_failures/germany/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/germany/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "mature_overseas_cases",
+        "file": "evidence/03_mature_overseas_cases/germany/records.json",
+        "record_count": 3
+      }
+    ]
+  },
+  {
+    "country": "global",
+    "name_zh": "全球",
+    "role": "global_background",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/global/records.json",
+        "record_count": 2
+      },
+      {
+        "category": "constraints_failures",
+        "file": "evidence/07_constraints_failures/global/records.json",
+        "record_count": 9
+      },
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/global/records.json",
+        "record_count": 8
+      },
+      {
+        "category": "international_capabilities",
+        "file": "evidence/06_international_capabilities/global/records.json",
+        "record_count": 2
+      },
+      {
+        "category": "product_technology",
+        "file": "evidence/04_product_technology/global/records.json",
+        "record_count": 9
+      }
+    ]
+  },
+  {
+    "country": "hong-kong-region",
+    "name_zh": "中国香港",
+    "role": "regional_background_not_separate_country",
+    "categories": [
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/hong-kong-region/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "indonesia",
+    "name_zh": "印度尼西亚",
+    "role": "rcep_background",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/indonesia/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/indonesia/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "israel",
+    "name_zh": "以色列",
+    "role": "supplementary_operating_case",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/israel/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "italy",
+    "name_zh": "意大利",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/italy/records.json",
+        "record_count": 8
+      },
+      {
+        "category": "constraints_failures",
+        "file": "evidence/07_constraints_failures/italy/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/italy/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "mature_overseas_cases",
+        "file": "evidence/03_mature_overseas_cases/italy/records.json",
+        "record_count": 3
+      }
+    ]
+  },
+  {
+    "country": "japan",
+    "name_zh": "日本",
+    "role": "TARGET_JAPAN",
+    "categories": [
+      {
+        "category": "international_capabilities",
+        "file": "evidence/06_international_capabilities/japan/records.json",
+        "record_count": 3
+      },
+      {
+        "category": "target_markets",
+        "file": "evidence/02_target_markets/japan/records.json",
+        "record_count": 3
+      }
+    ]
+  },
+  {
+    "country": "malaysia",
+    "name_zh": "马来西亚",
+    "role": "rcep_background_or_supply_chain",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/malaysia/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/malaysia/records.json",
+        "record_count": 2
+      },
+      {
+        "category": "international_capabilities",
+        "file": "evidence/06_international_capabilities/malaysia/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "middle-east-africa-regional",
+    "name_zh": "中东非区域合计",
+    "role": "regional_background",
+    "categories": [
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/middle-east-africa-regional/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "netherlands",
+    "name_zh": "荷兰",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/netherlands/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "mature_overseas_cases",
+        "file": "evidence/03_mature_overseas_cases/netherlands/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "north-america-regional",
+    "name_zh": "北美区域合计",
+    "role": "mature_overseas_case_regional",
+    "categories": [
+      {
+        "category": "international_capabilities",
+        "file": "evidence/06_international_capabilities/north-america-regional/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "mature_overseas_cases",
+        "file": "evidence/03_mature_overseas_cases/north-america-regional/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "overseas-regional",
+    "name_zh": "海外未细分",
+    "role": "regional_background",
+    "categories": [
+      {
+        "category": "constraints_failures",
+        "file": "evidence/07_constraints_failures/overseas-regional/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "international_capabilities",
+        "file": "evidence/06_international_capabilities/overseas-regional/records.json",
+        "record_count": 4
+      }
+    ]
+  },
+  {
+    "country": "poland",
+    "name_zh": "波兰",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/poland/records.json",
+        "record_count": 4
+      },
+      {
+        "category": "constraints_failures",
+        "file": "evidence/07_constraints_failures/poland/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/poland/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "mature_overseas_cases",
+        "file": "evidence/03_mature_overseas_cases/poland/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "romania",
+    "name_zh": "罗马尼亚",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/romania/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "singapore",
+    "name_zh": "新加坡",
+    "role": "rcep_background",
+    "categories": [
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/singapore/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "south-korea",
+    "name_zh": "韩国",
+    "role": "TARGET_KOREA",
+    "categories": [
+      {
+        "category": "international_capabilities",
+        "file": "evidence/06_international_capabilities/south-korea/records.json",
+        "record_count": 3
+      },
+      {
+        "category": "target_markets",
+        "file": "evidence/02_target_markets/south-korea/records.json",
+        "record_count": 6
+      }
+    ]
+  },
+  {
+    "country": "spain",
+    "name_zh": "西班牙",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/spain/records.json",
+        "record_count": 4
+      },
+      {
+        "category": "constraints_failures",
+        "file": "evidence/07_constraints_failures/spain/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/spain/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "international_capabilities",
+        "file": "evidence/06_international_capabilities/spain/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "mature_overseas_cases",
+        "file": "evidence/03_mature_overseas_cases/spain/records.json",
+        "record_count": 3
+      }
+    ]
+  },
+  {
+    "country": "sweden",
+    "name_zh": "瑞典",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/sweden/records.json",
+        "record_count": 5
+      },
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/sweden/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "international_capabilities",
+        "file": "evidence/06_international_capabilities/sweden/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "taiwan-region",
+    "name_zh": "中国台湾",
+    "role": "regional_background_not_separate_country",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/taiwan-region/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/taiwan-region/records.json",
+        "record_count": 2
+      }
+    ]
+  },
+  {
+    "country": "thailand",
+    "name_zh": "泰国",
+    "role": "rcep_background",
+    "categories": [
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/thailand/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "international_capabilities",
+        "file": "evidence/06_international_capabilities/thailand/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "turkiye",
+    "name_zh": "土耳其",
+    "role": "supplementary_operating_case",
+    "categories": [
+      {
+        "category": "international_capabilities",
+        "file": "evidence/06_international_capabilities/turkiye/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "united-arab-emirates",
+    "name_zh": "阿联酋",
+    "role": "supplementary_operating_case",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/united-arab-emirates/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "united-kingdom",
+    "name_zh": "英国",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/united-kingdom/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "mature_overseas_cases",
+        "file": "evidence/03_mature_overseas_cases/united-kingdom/records.json",
+        "record_count": 2
+      }
+    ]
+  },
+  {
+    "country": "united-states",
+    "name_zh": "美国",
+    "role": "mature_overseas_case",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/united-states/records.json",
+        "record_count": 5
+      },
+      {
+        "category": "constraints_failures",
+        "file": "evidence/07_constraints_failures/united-states/records.json",
+        "record_count": 5
+      },
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/united-states/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "international_capabilities",
+        "file": "evidence/06_international_capabilities/united-states/records.json",
+        "record_count": 2
+      },
+      {
+        "category": "mature_overseas_cases",
+        "file": "evidence/03_mature_overseas_cases/united-states/records.json",
+        "record_count": 13
+      },
+      {
+        "category": "product_technology",
+        "file": "evidence/04_product_technology/united-states/records.json",
+        "record_count": 1
+      }
+    ]
+  },
+  {
+    "country": "vietnam",
+    "name_zh": "越南",
+    "role": "rcep_background_or_supply_chain",
+    "categories": [
+      {
+        "category": "competition",
+        "file": "evidence/05_competition/vietnam/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "industry_global",
+        "file": "evidence/01_industry_global/vietnam/records.json",
+        "record_count": 1
+      },
+      {
+        "category": "international_capabilities",
+        "file": "evidence/06_international_capabilities/vietnam/records.json",
+        "record_count": 2
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "record_id": "RR26-0074",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "italy",
+      "name_zh": "意大利",
+      "iso3": "ITA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2026Q2意大利亚马逊：石头份额16.6%，同比增加4.3个百分点；追觅24.6%。",
+    "period": "2026Q2",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Amazon",
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "roborock_amazon_market_share",
+        "value_raw": "16.6",
+        "unit": "%",
+        "definition": "亚马逊平台市占率，正文未明确销量/销额分母"
+      },
+      {
+        "metric": "roborock_share_yoy_change",
+        "value_raw": "4.3",
+        "unit": "percentage_points",
+        "definition": null
+      },
+      {
+        "metric": "dreame_amazon_market_share",
+        "value_raw": "24.6",
+        "unit": "%",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "来源归因不一致已保留，不虚构上游数据库链接。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 10,
+      "printed_page": 10,
+      "locator": "图16、图17及正文",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "正文：卖家精灵；图16/17：魔镜（归因不一致）",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p010.txt",
+      "source_excerpt_whitespace_normalized": "2026Q2石头德国/法国/西班牙/意大利/英国亚马逊市占率分别为52.9%/27.2%/22.2%/16.6%/46.6%，分别同比+11.3/+8.9/+5.3/+4.3/+28.6pct，主要市场市占率实现稳健提升，2026Q2追觅德国/法国/西班牙/意大利/英国亚马逊市占率分别为20.9%/22.1%/16.9%/24.6%/5.7%，亚马逊线上市占率对比来看，石头仍然占据优势。图14：2026Q2石头德亚销售额5552万欧元（+45%）图15：2026Q2石头法亚销售额485万欧元（+58%）数据来源：魔镜、开源证券研究所数据来源：魔镜、开源证券研究所图16：2026Q2石头德国/法国/西班牙/意大利/英国亚马逊市占率分别为52.9%/27.2%/22.2%/16.6%/46.6%图17：2026Q2追觅德国/法国/西班牙/意大利/英国亚马逊市占率分别为20.9%/22.1%/16.9%/24.6%/5.7%数据来源：魔镜、开源证券研究所数据来源：魔镜、开源证券研究所线下方面，2026H1我们对欧洲7个国家及土耳其23家线下门店进行采样，并对其中20家门店陈列产品进行汇总：表1：欧洲7个国家线下门店采样清单国家门店德国MediaMarkt(杜塞尔多夫店)德国MediaMarkt(柏林店)法国fnac法国Darty(两家)法国boulanger意大利UnieuroPortello意大利EuronicsBruno00.10.20.30.40.5020004000600080",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2026Q2石头德国/法国/西班牙/意大利/英国亚马逊市占率",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第10页（印刷页10），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0079",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "italy",
+      "name_zh": "意大利",
+      "iso3": "ITA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "研报称石头2024年7月进入意大利市场、2024Q3进入线下渠道；Media World覆盖继续提升。",
+    "period": "2024—2026",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [],
+    "notes": [
+      "“进入市场”与首次有线上成交不是同一定义，不扩展解释。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 27,
+      "printed_page": 27,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p027.txt",
+      "source_excerpt_whitespace_normalized": "2024年7月石头进入意大利市场，并于2024Q3进入意大利线下渠道，截至2026年MediaWorld等渠道铺货覆盖率持续提升。（4）四梯队西班牙：2024年中国品牌线下展位占比为22%，市场仍被本土品牌Cecotec和iRobot占领，中国品牌有较大的提升潜力，石头于2025年5月入驻西班牙线下渠道，2026年渠道持续拓展。4.4、亚太：韩国市占率保持领先，中东、东南亚及东亚成长空间大韩国市占率保持领先，中东、东南亚、东亚成长空间大。根据我们拆分，石头2025Q3亚太区收入预计增长51%。从黑五数据来看，澳洲扫地机全渠道销量3.6万台（+96%），其中亚马逊销量+355%；洗地机GMV+113%；日本扫地机全品类销量+65%，GMV+130%，其中扫地机销量+55%，洗地机销量+500%；中东扫地机总销量+154%，GMV+78%；土耳其扫地机品类市占率第一；俄罗斯11月全渠道销量+316%。图36：2025Q3亚太区收入预计增长51%数据来源：开源证券研究所拆分市场来看，根据欧睿数据，2024年韩国/澳大利亚/中国台湾/印度尼西亚/中东非/马来西亚扫地机销售额分别为2.68/1.38/1.26/0.22/0.69/0.32亿美元，5年CAGR分别为15%/7%/10%/18%/10%/16%，中东、东南亚、东亚均拥有较大成长空间。图37：2024年韩国扫地机销售额为2.68亿美元（+4%）图38：2024年澳大利亚扫地机销售额为1.38亿美元（+9%）数据来源：欧睿、开源证",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2024年7月石头进入意大利市场",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第27页（印刷页27），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0084",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "italy",
+      "name_zh": "意大利",
+      "iso3": "ITA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2024年开源证券门店样本中，意大利中国品牌扫地机线下展位占比30%。",
+    "period": "2024",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "chinese_brands_display_share",
+        "value_raw": "30",
+        "unit": "%",
+        "definition": "门店样本展位占比，不是市场销售份额"
+      }
+    ],
+    "notes": [
+      "小样本观察，不能外推全国份额。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 27,
+      "printed_page": 27,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "开源证券：5国8个KA、15家线下门店采样",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p027.txt",
+      "source_excerpt_whitespace_normalized": "2024年中国品牌线下展位占比为30%。2024年7月石头进入意大利市场，并于2024Q3进入意大利线下渠道，截至2026年MediaWorld等渠道铺货覆盖率持续提升。（4）四梯队西班牙：2024年中国品牌线下展位占比为22%，市场仍被本土品牌Cecotec和iRobot占领，中国品牌有较大的提升潜力，石头于2025年5月入驻西班牙线下渠道，2026年渠道持续拓展。4.4、亚太：韩国市占率保持领先，中东、东南亚及东亚成长空间大韩国市占率保持领先，中东、东南亚、东亚成长空间大。根据我们拆分，石头2025Q3亚太区收入预计增长51%。从黑五数据来看，澳洲扫地机全渠道销量3.6万台（+96%），其中亚马逊销量+355%；洗地机GMV+113%；日本扫地机全品类销量+65%，GMV+130%，其中扫地机销量+55%，洗地机销量+500%；中东扫地机总销量+154%，GMV+78%；土耳其扫地机品类市占率第一；俄罗斯11月全渠道销量+316%。图36：2025Q3亚太区收入预计增长51%数据来源：开源证券研究所拆分市场来看，根据欧睿数据，2024年韩国/澳大利亚/中国台湾/印度尼西亚/中东非/马来西亚扫地机销售额分别为2.68/1.38/1.26/0.22/0.69/0.32亿美元，5年CAGR分别为15%/7%/10%/18%/10%/16%，中东、东南亚、东亚均拥有较大成长空间。图37：2024年韩国扫地机销售额为2.68亿美元（+4%）图38：2024年澳大利亚扫地机销售额为1.3",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2024年中国品牌线下展位占比",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第27页（印刷页27），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

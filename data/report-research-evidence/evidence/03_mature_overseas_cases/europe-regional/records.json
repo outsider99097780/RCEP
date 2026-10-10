@@ -1,0 +1,67 @@
+[
+  {
+    "record_id": "RR26-0086",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "europe-regional",
+      "name_zh": "欧洲区域合计",
+      "iso3": null,
+      "scope": "region",
+      "role": "mature_overseas_case_regional",
+      "related_countries": []
+    },
+    "statement_zh": "2026H1研报采样欧洲7国及土耳其共23家线下门店，其中20家陈列产品汇总。",
+    "period": "2026H1",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "sample_stores",
+        "value_raw": "23",
+        "unit": "家",
+        "definition": null
+      },
+      {
+        "metric": "aggregated_stores",
+        "value_raw": "20",
+        "unit": "家",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "不是全国概率样本。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 10,
+      "printed_page": 10,
+      "locator": "表1及正文",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p010.txt",
+      "source_excerpt_whitespace_normalized": "2026H1我们对欧洲7个国家及土耳其23家线下门店进行采样，并对其中20家门店陈列产品进行汇总：表1：欧洲7个国家线下门店采样清单国家门店德国MediaMarkt(杜塞尔多夫店)德国MediaMarkt(柏林店)法国fnac法国Darty(两家)法国boulanger意大利UnieuroPortello意大利EuronicsBruno00.10.20.30.40.502000400060008000100002023Q32023Q42024Q12024Q22024Q32024Q42025Q12025Q22025Q32025Q42026Q12026Q2石头德亚销售额（万欧元）yoy（%）-202460200400600800100012002023Q32023Q42024Q12024Q22024Q32024Q42025Q12025Q22025Q32025Q42026Q12026Q2石头法亚销售额（万欧元）yoy（%）0.0%10.0%20.0%30.0%40.0%50.0%60.0%2024Q12024Q22024Q32024Q42025Q12025Q22025Q32025Q42026Q12026Q2石头德国市占率石头法国市占率石头西班牙市占率石头意大利市占率石头英国市占率0.0%10.0%20.0%30.0%40.0%2024Q12024Q22024Q32024Q42025Q12025Q22025Q32025Q42026Q12026Q2追觅德国市占率追觅法国市占率追觅西班牙市占",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2026H1我们对欧洲7个国家及土耳其23家线下门店进行采样",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第10页（印刷页10），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  }
+]

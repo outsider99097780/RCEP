@@ -1,0 +1,54 @@
+[
+  {
+    "record_id": "RR26-0164",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "north-america-regional",
+      "name_zh": "北美区域合计",
+      "iso3": null,
+      "scope": "region",
+      "role": "mature_overseas_case_regional",
+      "related_countries": []
+    },
+    "statement_zh": "2025年年报披露北美依托Target、Costco、Home Depot扩展线下门店及SKU。",
+    "period": "2025",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "原文北美合计，不据此推断加拿大各渠道入驻。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 23,
+      "printed_page": 23,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p023.txt",
+      "source_excerpt_whitespace_normalized": "在北美市场，公司依托Target、Costco、HomeDepot等渠道持续深化品牌建设，通过线下门店及SKU数量的持续拓展，实现口碑与销量的双重增长，有效提升品牌形象与市场份额。在亚太新兴市场，公司通过布局品牌体验店、完善线下服务网络、深化本土渠道合作，全面提升市场渗透率与品牌影响力。（四）建设多元化人才队伍，共创价值，协同成长公司坚持“人才为核心”的发展理念，聚焦智能硬件、软件算法等核心高技术领域，构建覆盖人才引进、培养、激励的全链条人才管理体系，重点培育兼具技术研发与市场洞察能力的复合型人才，为公司全球化、智能化战略的持续落地与长期发展提供坚实人才保障。1、打造高效管理团队，筑牢长期发展根基公司坚持外部市场化“引才”与内部体系化“育才”双轮驱动，持续深化组织能力建设与人才团队升级。目前，公司已组建一支兼具战略视野与丰富实操经验的核心管理团队，覆盖战略发展、产品研发、财务管理、公司治理等核心领域，具备先进的管理理念与清晰的管理思路，为公司打造技术领先、管理科学、运营高效的发展格局提供了有力的人才保障。2、完善长期股权激励计划，推动人才队伍建设报告期内，公司继续推进限制性股票激励计划和“事业合伙人”持股计划的归属与解锁，完成各期各激励对象的收益分配。通过推进长期股权激励计划的有效落地，激励管理层及核心骨干主动维护股东利益、全力提升公司经营绩效，构建风险共担、利益共享的长效机制，推动公司中长期稳健发展。（五）完善多维度质量体系，树立负责任的全球企业形象公司始终坚守“让生活更有品质",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "在北美市场，公司依托Target、Costco、HomeDepot",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第23页（印刷页23），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "source_hashes_match": true,
+  "all_record_ids_unique": true,
+  "all_anchors_found": true,
+  "all_excerpt_texts_match_source_pages": true,
+  "all_page_references_exist": true,
+  "country_view_record_total_matches_master": true,
+  "record_count": 205,
+  "numeric_transcription_review": "explicit labels/table rows only; key comparison charts and price tables visually reviewed; definitions not inferred",
+  "existing_file_integrity_verification": "see publication-verification.json after publishing"
+}

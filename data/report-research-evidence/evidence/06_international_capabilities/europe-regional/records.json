@@ -1,0 +1,106 @@
+[
+  {
+    "record_id": "RR26-0161",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "europe-regional",
+      "name_zh": "欧洲区域合计",
+      "iso3": null,
+      "scope": "region",
+      "role": "mature_overseas_case_regional",
+      "related_countries": []
+    },
+    "statement_zh": "2021年国信报告认为欧洲精细化布局加速，预计亚洲市场有望突破。",
+    "period": "2021观点",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_forecast",
+    "report_use": "forecast_only",
+    "metrics": [],
+    "notes": [
+      "早期战略观察，非已实现各国份额。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-02",
+      "title": "2020年年报及2021年一季报点评：自主品牌表现靓丽，产品+市场+品牌多维发力",
+      "issuer": "国信证券",
+      "publication_date": "2021-05-05",
+      "reporting_period": null,
+      "pdf_page": 1,
+      "printed_page": 67,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/国信石头202105061490084467_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\国信石头202105061490084467_1(1).pdf",
+      "source_sha256": "335dd4553cc3a03d25a68fa3081623fb4c80a40a0be5a6658ce09592ddede7b0",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-02/p001.txt",
+      "source_excerpt_whitespace_normalized": "欧洲精细化布局加速，亚洲有望实现突破。国内市场在SKU丰富化背景下，营销活动也有望进一步多元化，叠加启用顶部流量明星合作，有利于强化内销的市占率水平。投资建议：维持“买入”评级基于国内外Q1靓丽表现上调盈利预测，预计2021-2023年净利润为18.2/23.3/29.2亿，同比+33%/28%/26%（2021-2022前值为17.5/21.9，2023为新增），对应PE为52/40/32倍，维持“买入”评级。风险提示:新品推进不及预期；行业竞争加剧；海外扩展不及预期。盈利预测和财务指标20202021E2022E2023E营业收入(百万元)4,5305,9297,5849,330(+/-%)7.7%30.9%27.9%23.0%净利润(百万元)1369182123252924(+/-%)74.9%33.0%27.7%25.8%摊薄每股收益(元)20.5427.3134.8743.86EBITMargin29.3%31.5%32.4%33.2%净资产收益率(ROE)19.2%20.8%21.7%22.9%市盈率(PE)69524032EV/EBITDA69.149.636.728.6市净率(PB)13.2110.748.767.36资料来源：wind、国信证券经济研究所预测注：摊薄每股收益按最新总股本计算0.01.02.03.04.0A/20J/20A/20O/20D/20F/21A/21沪深300石头科技",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "欧洲精细化布局加速",
+      "citation_zh": "国信证券：《2020年年报及2021年一季报点评：自主品牌表现靓丽，产品+市场+品牌多维发力》，2021-05-05，PDF第1页（印刷页67），本地来源：sources/research/国信石头202105061490084467_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0165",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "europe-regional",
+      "name_zh": "欧洲区域合计",
+      "iso3": null,
+      "scope": "region",
+      "role": "mature_overseas_case_regional",
+      "related_countries": []
+    },
+    "statement_zh": "2025年年报披露欧洲入驻MediaMarkt、家乐福零售系统。",
+    "period": "2025",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "未逐国指明覆盖。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 23,
+      "printed_page": 23,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p023.txt",
+      "source_excerpt_whitespace_normalized": "在欧洲市场，成功入驻MediaMarkt、家乐福等主流零售系统，掌握产品布局与营销策略的主动权。在北美市场，公司依托Target、Costco、HomeDepot等渠道持续深化品牌建设，通过线下门店及SKU数量的持续拓展，实现口碑与销量的双重增长，有效提升品牌形象与市场份额。在亚太新兴市场，公司通过布局品牌体验店、完善线下服务网络、深化本土渠道合作，全面提升市场渗透率与品牌影响力。（四）建设多元化人才队伍，共创价值，协同成长公司坚持“人才为核心”的发展理念，聚焦智能硬件、软件算法等核心高技术领域，构建覆盖人才引进、培养、激励的全链条人才管理体系，重点培育兼具技术研发与市场洞察能力的复合型人才，为公司全球化、智能化战略的持续落地与长期发展提供坚实人才保障。1、打造高效管理团队，筑牢长期发展根基公司坚持外部市场化“引才”与内部体系化“育才”双轮驱动，持续深化组织能力建设与人才团队升级。目前，公司已组建一支兼具战略视野与丰富实操经验的核心管理团队，覆盖战略发展、产品研发、财务管理、公司治理等核心领域，具备先进的管理理念与清晰的管理思路，为公司打造技术领先、管理科学、运营高效的发展格局提供了有力的人才保障。2、完善长期股权激励计划，推动人才队伍建设报告期内，公司继续推进限制性股票激励计划和“事业合伙人”持股计划的归属与解锁，完成各期各激励对象的收益分配。通过推进长期股权激励计划的有效落地，激励管理层及核心骨干主动维护股东利益、全力提升公司经营绩效，构建风险共担、利益共享的长效机制，推动公",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "在欧洲市场，成功入驻MediaMarkt、家乐福",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第23页（印刷页23），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

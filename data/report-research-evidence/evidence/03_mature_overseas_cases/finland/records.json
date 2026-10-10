@@ -1,0 +1,61 @@
+[
+  {
+    "record_id": "RR26-0082",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "finland",
+      "name_zh": "芬兰",
+      "iso3": "FIN",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2024年开源证券门店样本中，芬兰中国品牌扫地机线下展位占比77%。",
+    "period": "2024",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "chinese_brands_display_share",
+        "value_raw": "77",
+        "unit": "%",
+        "definition": "门店样本展位占比，不是市场销售份额"
+      }
+    ],
+    "notes": [
+      "小样本观察，不能外推全国份额。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 26,
+      "printed_page": 26,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "开源证券：5国8个KA、15家线下门店采样",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p026.txt",
+      "source_excerpt_whitespace_normalized": "2024年中国品牌扫地机线下展位占比在德国和芬兰分别达79%/77%。石头渠道力较强、旗舰新品铺货顺利，我们预计北欧市占率超40%，德国超30%。（2）二梯队法国：2024年中国品牌线下展位占比分别为44%，石头2024年4月进驻，2024年Boulanger及Darty渠道铺货覆盖率约30%，截至2026年已实现100%完全覆盖，未来随着渠道不断加速突破、有望复制德国市场成功。0%10%20%30%40%石头（西亚）追觅（西亚）小米（西亚）iRobot（西亚）0%5%10%15%20%25%30%35%石头（意亚）追觅（意亚）小米（意亚）科沃斯（意亚）",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2024年中国品牌扫地机线下展位占比",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第26页（印刷页26），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

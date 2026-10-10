@@ -1,0 +1,125 @@
+[
+  {
+    "record_id": "RR26-0060",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-kingdom",
+      "name_zh": "英国",
+      "iso3": "GBR",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2024年年报披露公司已在英国设立海外公司。",
+    "period": "2024",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "非当地收入数据；未给出首次设立日期。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-03",
+      "title": "石头科技2024年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2024",
+      "pdf_page": 15,
+      "printed_page": 14,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2024年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2024年度报告.pdf",
+      "source_sha256": "45c065afabb814739212e3334a059d635c30bbbd1a5f1190babd04aa42a37bde",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-03/p015.txt",
+      "source_excerpt_whitespace_normalized": "目前公司已在美国、英国、日本、荷兰、波兰、德国、韩国、加拿大等地设立了海外公司，及时掌握市场动态，提升策略实施效率。（三）精耕线上业务，开拓多渠道运营1、深化线上渠道合作，挖掘优质流量公司通过多元化的营销渠道，扩大产品销售和市场覆盖面。报告期内，公司继续与各电商平",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "目前公司已在美国、英国、日本",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2024年年度报告》，2024报告期，PDF第15页（印刷页14），本地来源：sources/report/石头科技2024年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0075",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-kingdom",
+      "name_zh": "英国",
+      "iso3": "GBR",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2026Q2英国亚马逊：石头份额46.6%，同比增加28.6个百分点；追觅5.7%。",
+    "period": "2026Q2",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Amazon",
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "roborock_amazon_market_share",
+        "value_raw": "46.6",
+        "unit": "%",
+        "definition": "亚马逊平台市占率，正文未明确销量/销额分母"
+      },
+      {
+        "metric": "roborock_share_yoy_change",
+        "value_raw": "28.6",
+        "unit": "percentage_points",
+        "definition": null
+      },
+      {
+        "metric": "dreame_amazon_market_share",
+        "value_raw": "5.7",
+        "unit": "%",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "来源归因不一致已保留，不虚构上游数据库链接。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 10,
+      "printed_page": 10,
+      "locator": "图16、图17及正文",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "正文：卖家精灵；图16/17：魔镜（归因不一致）",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p010.txt",
+      "source_excerpt_whitespace_normalized": "2026Q2石头德国/法国/西班牙/意大利/英国亚马逊市占率分别为52.9%/27.2%/22.2%/16.6%/46.6%，分别同比+11.3/+8.9/+5.3/+4.3/+28.6pct，主要市场市占率实现稳健提升，2026Q2追觅德国/法国/西班牙/意大利/英国亚马逊市占率分别为20.9%/22.1%/16.9%/24.6%/5.7%，亚马逊线上市占率对比来看，石头仍然占据优势。图14：2026Q2石头德亚销售额5552万欧元（+45%）图15：2026Q2石头法亚销售额485万欧元（+58%）数据来源：魔镜、开源证券研究所数据来源：魔镜、开源证券研究所图16：2026Q2石头德国/法国/西班牙/意大利/英国亚马逊市占率分别为52.9%/27.2%/22.2%/16.6%/46.6%图17：2026Q2追觅德国/法国/西班牙/意大利/英国亚马逊市占率分别为20.9%/22.1%/16.9%/24.6%/5.7%数据来源：魔镜、开源证券研究所数据来源：魔镜、开源证券研究所线下方面，2026H1我们对欧洲7个国家及土耳其23家线下门店进行采样，并对其中20家门店陈列产品进行汇总：表1：欧洲7个国家线下门店采样清单国家门店德国MediaMarkt(杜塞尔多夫店)德国MediaMarkt(柏林店)法国fnac法国Darty(两家)法国boulanger意大利UnieuroPortello意大利EuronicsBruno00.10.20.30.40.5020004000600080",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2026Q2石头德国/法国/西班牙/意大利/英国亚马逊市占率",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第10页（印刷页10），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  }
+]

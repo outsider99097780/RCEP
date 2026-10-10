@@ -1,0 +1,78 @@
+{
+  "conflicts": [
+    {
+      "issue_id": "CONFLICT-MYS-2024",
+      "type": "same_source_value_conflict",
+      "record_ids": [
+        "RR26-0199",
+        "RR26-0200"
+      ],
+      "resolution": "resolved_by_user_chart_precedence",
+      "selected_record_id": "RR26-0200",
+      "selected_value": "0.20",
+      "unit": "亿美元"
+    },
+    {
+      "issue_id": "CONFLICT-GERMANY-P25",
+      "type": "internal_inconsistency",
+      "record_ids": [
+        "RR26-0201"
+      ],
+      "values_raw": [
+        "18",
+        "19"
+      ],
+      "resolution": "resolved_by_user_chart_precedence"
+    },
+    {
+      "issue_id": "CONFLICT-CHINA-P16",
+      "type": "internal_inconsistency",
+      "record_ids": [
+        "RR26-0202"
+      ],
+      "values_raw": [
+        "35",
+        "37"
+      ],
+      "resolution": "resolved_by_user_chart_precedence"
+    },
+    {
+      "issue_id": "CONFLICT-UNITED-STATES-P19",
+      "type": "internal_inconsistency",
+      "record_ids": [
+        "RR26-0203"
+      ],
+      "values_raw": [
+        "80",
+        "20"
+      ],
+      "resolution": "unresolved; no matching company-channel chart; excluded"
+    },
+    {
+      "issue_id": "SKU-PL-SAROS10",
+      "type": "body_table_model_conflict",
+      "source_id": "RESEARCH-12",
+      "pdf_page": 14,
+      "details": "正文Saros 10与表3 Saros 10R不同；保留表中型号，不合并。"
+    },
+    {
+      "issue_id": "SOURCE-ATTRIBUTION-EU-2026Q2",
+      "type": "upstream_attribution_conflict",
+      "source_id": "RESEARCH-12",
+      "pdf_page": 10,
+      "details": "正文卖家精灵、图16/17魔镜；两者保留，不伪造底层URL。"
+    }
+  ],
+  "regulatory_claims_pending_official_check": [
+    "RR26-0189",
+    "RR26-0190"
+  ],
+  "temporal_updates": [
+    {
+      "topic": "Best Buy入驻",
+      "earlier": "RESEARCH-01 p21",
+      "later": "RESEARCH-12 p15",
+      "handling": "保留日期分别引用，不把后续重新入驻当作早期报告不存在"
+    }
+  ]
+}

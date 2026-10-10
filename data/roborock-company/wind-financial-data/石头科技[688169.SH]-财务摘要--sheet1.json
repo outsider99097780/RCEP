@@ -1,0 +1,3220 @@
+{
+  "format": "xlsx-sheet-json",
+  "formatVersion": 2,
+  "sourceWorkbook": "石头科技[688169.SH]-财务摘要.xlsx",
+  "sourceWorkbookSha256": "2fdf4fa18e6c781576671779ec1c6d8fa32d75f19d34380a6d6b6dd1426612cb",
+  "sheetName": "sheet1",
+  "sheetIndex": 0,
+  "sheetState": "visible",
+  "sourceWorksheetXml": "xl/worksheets/sheet1.xml",
+  "dimension": "A1:D87",
+  "rowCount": 87,
+  "columnCount": 4,
+  "dataRange": "A1:D87",
+  "cellEncoding": "rows is the lossless cell-record matrix. Null means no explicit XLSX cell. For numeric cells, value and rawValue retain the exact XLSX decimal text.",
+  "valueEncoding": "values is the analysis-ready matrix over dataRange. Text stays text, blank positions are null, booleans stay boolean, and numeric cells are JSON numbers. rows remains the authoritative exact representation.",
+  "rows": [
+    [
+      {
+        "ref": "A1",
+        "type": "string",
+        "value": "石头科技[688169.SH] - 财务摘要(单位：万元 , CNY)",
+        "rawValue": "0"
+      },
+      {
+        "ref": "B1",
+        "type": "string",
+        "value": "2025-12-31",
+        "rawValue": "1"
+      },
+      {
+        "ref": "C1",
+        "type": "string",
+        "value": "2024-12-31",
+        "rawValue": "2"
+      },
+      {
+        "ref": "D1",
+        "type": "string",
+        "value": "2023-12-31",
+        "rawValue": "3"
+      }
+    ],
+    [
+      {
+        "ref": "A2",
+        "type": "string",
+        "value": "报告期",
+        "rawValue": "4"
+      },
+      {
+        "ref": "B2",
+        "type": "string",
+        "value": "2025年报",
+        "rawValue": "5"
+      },
+      {
+        "ref": "C2",
+        "type": "string",
+        "value": "2024年报",
+        "rawValue": "6"
+      },
+      {
+        "ref": "D2",
+        "type": "string",
+        "value": "2023年报",
+        "rawValue": "7"
+      }
+    ],
+    [
+      {
+        "ref": "A3",
+        "type": "string",
+        "value": "报表类型",
+        "rawValue": "8"
+      },
+      {
+        "ref": "B3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "9"
+      },
+      {
+        "ref": "C3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "9"
+      },
+      {
+        "ref": "D3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "9"
+      }
+    ],
+    [
+      {
+        "ref": "A4",
+        "type": "string",
+        "value": "利润表摘要",
+        "rawValue": "10"
+      },
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A5",
+        "type": "string",
+        "value": "    营业总收入",
+        "rawValue": "11"
+      },
+      {
+        "ref": "B5",
+        "type": "number",
+        "value": "1869477.68",
+        "rawValue": "1869477.68",
+        "styleId": "1"
+      },
+      {
+        "ref": "C5",
+        "type": "number",
+        "value": "1194470.72",
+        "rawValue": "1194470.72",
+        "styleId": "1"
+      },
+      {
+        "ref": "D5",
+        "type": "number",
+        "value": "865378.38",
+        "rawValue": "865378.38",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A6",
+        "type": "string",
+        "value": "        同比(%)",
+        "rawValue": "12"
+      },
+      {
+        "ref": "B6",
+        "type": "number",
+        "value": "56.51",
+        "rawValue": "56.51",
+        "styleId": "1"
+      },
+      {
+        "ref": "C6",
+        "type": "number",
+        "value": "38.03",
+        "rawValue": "38.03",
+        "styleId": "1"
+      },
+      {
+        "ref": "D6",
+        "type": "number",
+        "value": "30.55",
+        "rawValue": "30.55",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A7",
+        "type": "string",
+        "value": "    营业总成本",
+        "rawValue": "13"
+      },
+      {
+        "ref": "B7",
+        "type": "number",
+        "value": "1744562.29",
+        "rawValue": "1744562.29",
+        "styleId": "1"
+      },
+      {
+        "ref": "C7",
+        "type": "number",
+        "value": "1015822.02",
+        "rawValue": "1015822.02",
+        "styleId": "1"
+      },
+      {
+        "ref": "D7",
+        "type": "number",
+        "value": "646582.06",
+        "rawValue": "646582.06",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A8",
+        "type": "string",
+        "value": "    营业利润",
+        "rawValue": "14"
+      },
+      {
+        "ref": "B8",
+        "type": "number",
+        "value": "144736.9",
+        "rawValue": "144736.9",
+        "styleId": "1"
+      },
+      {
+        "ref": "C8",
+        "type": "number",
+        "value": "209029.53",
+        "rawValue": "209029.53",
+        "styleId": "1"
+      },
+      {
+        "ref": "D8",
+        "type": "number",
+        "value": "231720.82",
+        "rawValue": "231720.82",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A9",
+        "type": "string",
+        "value": "        同比(%)",
+        "rawValue": "12"
+      },
+      {
+        "ref": "B9",
+        "type": "number",
+        "value": "-30.76",
+        "rawValue": "-30.76",
+        "styleId": "1"
+      },
+      {
+        "ref": "C9",
+        "type": "number",
+        "value": "-9.79",
+        "rawValue": "-9.79",
+        "styleId": "1"
+      },
+      {
+        "ref": "D9",
+        "type": "number",
+        "value": "72.36",
+        "rawValue": "72.36",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A10",
+        "type": "string",
+        "value": "    利润总额",
+        "rawValue": "15"
+      },
+      {
+        "ref": "B10",
+        "type": "number",
+        "value": "144687.45",
+        "rawValue": "144687.45",
+        "styleId": "1"
+      },
+      {
+        "ref": "C10",
+        "type": "number",
+        "value": "209754.68",
+        "rawValue": "209754.68",
+        "styleId": "1"
+      },
+      {
+        "ref": "D10",
+        "type": "number",
+        "value": "231978.32",
+        "rawValue": "231978.32",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A11",
+        "type": "string",
+        "value": "        同比(%)",
+        "rawValue": "12"
+      },
+      {
+        "ref": "B11",
+        "type": "number",
+        "value": "-31.02",
+        "rawValue": "-31.02",
+        "styleId": "1"
+      },
+      {
+        "ref": "C11",
+        "type": "number",
+        "value": "-9.58",
+        "rawValue": "-9.58",
+        "styleId": "1"
+      },
+      {
+        "ref": "D11",
+        "type": "number",
+        "value": "71.94",
+        "rawValue": "71.94",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A12",
+        "type": "string",
+        "value": "    净利润",
+        "rawValue": "16"
+      },
+      {
+        "ref": "B12",
+        "type": "number",
+        "value": "136330.24",
+        "rawValue": "136330.24",
+        "styleId": "1"
+      },
+      {
+        "ref": "C12",
+        "type": "number",
+        "value": "197654.41",
+        "rawValue": "197654.41",
+        "styleId": "1"
+      },
+      {
+        "ref": "D12",
+        "type": "number",
+        "value": "205120.47",
+        "rawValue": "205120.47",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A13",
+        "type": "string",
+        "value": "        同比(%)",
+        "rawValue": "12"
+      },
+      {
+        "ref": "B13",
+        "type": "number",
+        "value": "-31.03",
+        "rawValue": "-31.03",
+        "styleId": "1"
+      },
+      {
+        "ref": "C13",
+        "type": "number",
+        "value": "-3.64",
+        "rawValue": "-3.64",
+        "styleId": "1"
+      },
+      {
+        "ref": "D13",
+        "type": "number",
+        "value": "73.32",
+        "rawValue": "73.32",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A14",
+        "type": "string",
+        "value": "    归属母公司股东的净利润",
+        "rawValue": "17"
+      },
+      {
+        "ref": "B14",
+        "type": "number",
+        "value": "136332.23",
+        "rawValue": "136332.23",
+        "styleId": "1"
+      },
+      {
+        "ref": "C14",
+        "type": "number",
+        "value": "197656.32",
+        "rawValue": "197656.32",
+        "styleId": "1"
+      },
+      {
+        "ref": "D14",
+        "type": "number",
+        "value": "205121.74",
+        "rawValue": "205121.74",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A15",
+        "type": "string",
+        "value": "        同比(%)",
+        "rawValue": "12"
+      },
+      {
+        "ref": "B15",
+        "type": "number",
+        "value": "-31.03",
+        "rawValue": "-31.03",
+        "styleId": "1"
+      },
+      {
+        "ref": "C15",
+        "type": "number",
+        "value": "-3.64",
+        "rawValue": "-3.64",
+        "styleId": "1"
+      },
+      {
+        "ref": "D15",
+        "type": "number",
+        "value": "73.32",
+        "rawValue": "73.32",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A16",
+        "type": "string",
+        "value": "    非经常性损益",
+        "rawValue": "18"
+      },
+      {
+        "ref": "B16",
+        "type": "number",
+        "value": "27114.5",
+        "rawValue": "27114.5",
+        "styleId": "1"
+      },
+      {
+        "ref": "C16",
+        "type": "number",
+        "value": "35616.36",
+        "rawValue": "35616.36",
+        "styleId": "1"
+      },
+      {
+        "ref": "D16",
+        "type": "number",
+        "value": "22512.77",
+        "rawValue": "22512.77",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A17",
+        "type": "string",
+        "value": "    扣非后归属母公司股东的净利润",
+        "rawValue": "19"
+      },
+      {
+        "ref": "B17",
+        "type": "number",
+        "value": "109217.73",
+        "rawValue": "109217.73",
+        "styleId": "1"
+      },
+      {
+        "ref": "C17",
+        "type": "number",
+        "value": "162039.97",
+        "rawValue": "162039.97",
+        "styleId": "1"
+      },
+      {
+        "ref": "D17",
+        "type": "number",
+        "value": "182608.97",
+        "rawValue": "182608.97",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A18",
+        "type": "string",
+        "value": "        同比(%)",
+        "rawValue": "12"
+      },
+      {
+        "ref": "B18",
+        "type": "number",
+        "value": "-32.6",
+        "rawValue": "-32.6",
+        "styleId": "1"
+      },
+      {
+        "ref": "C18",
+        "type": "number",
+        "value": "-11.26",
+        "rawValue": "-11.26",
+        "styleId": "1"
+      },
+      {
+        "ref": "D18",
+        "type": "number",
+        "value": "52.46",
+        "rawValue": "52.46",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A19",
+        "type": "string",
+        "value": "    研发支出",
+        "rawValue": "20"
+      },
+      {
+        "ref": "B19",
+        "type": "number",
+        "value": "141956.62",
+        "rawValue": "141956.62",
+        "styleId": "1"
+      },
+      {
+        "ref": "C19",
+        "type": "number",
+        "value": "97143.88",
+        "rawValue": "97143.88",
+        "styleId": "1"
+      },
+      {
+        "ref": "D19",
+        "type": "number",
+        "value": "61902.57",
+        "rawValue": "61902.57",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A20",
+        "type": "string",
+        "value": "    EBIT",
+        "rawValue": "21"
+      },
+      {
+        "ref": "B20",
+        "type": "number",
+        "value": "118540.2",
+        "rawValue": "118540.2",
+        "styleId": "1"
+      },
+      {
+        "ref": "C20",
+        "type": "number",
+        "value": "177370.38",
+        "rawValue": "177370.38",
+        "styleId": "1"
+      },
+      {
+        "ref": "D20",
+        "type": "number",
+        "value": "208654.87",
+        "rawValue": "208654.87",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A21",
+        "type": "string",
+        "value": "    EBITDA",
+        "rawValue": "22"
+      },
+      {
+        "ref": "B21",
+        "type": "number",
+        "value": "146556.33",
+        "rawValue": "146556.33",
+        "styleId": "1"
+      },
+      {
+        "ref": "C21",
+        "type": "number",
+        "value": "193526.66",
+        "rawValue": "193526.66",
+        "styleId": "1"
+      },
+      {
+        "ref": "D21",
+        "type": "number",
+        "value": "222740.51",
+        "rawValue": "222740.51",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A22",
+        "type": "string",
+        "value": "资产负债表摘要",
+        "rawValue": "23"
+      },
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A23",
+        "type": "string",
+        "value": "    流动资产",
+        "rawValue": "24"
+      },
+      {
+        "ref": "B23",
+        "type": "number",
+        "value": "1507776.42",
+        "rawValue": "1507776.42",
+        "styleId": "1"
+      },
+      {
+        "ref": "C23",
+        "type": "number",
+        "value": "1175245.21",
+        "rawValue": "1175245.21",
+        "styleId": "1"
+      },
+      {
+        "ref": "D23",
+        "type": "number",
+        "value": "889686.79",
+        "rawValue": "889686.79",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A24",
+        "type": "string",
+        "value": "    固定资产",
+        "rawValue": "25"
+      },
+      {
+        "ref": "B24",
+        "type": "number",
+        "value": "148922.38",
+        "rawValue": "148922.38",
+        "styleId": "1"
+      },
+      {
+        "ref": "C24",
+        "type": "number",
+        "value": "137260.67",
+        "rawValue": "137260.67",
+        "styleId": "1"
+      },
+      {
+        "ref": "D24",
+        "type": "number",
+        "value": "128573.71",
+        "rawValue": "128573.71",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A25",
+        "type": "string",
+        "value": "    长期股权投资",
+        "rawValue": "26"
+      },
+      {
+        "ref": "B25",
+        "type": "number",
+        "value": "1068.88",
+        "rawValue": "1068.88",
+        "styleId": "1"
+      },
+      {
+        "ref": "C25",
+        "type": "number",
+        "value": "2042.04",
+        "rawValue": "2042.04",
+        "styleId": "1"
+      },
+      {
+        "ref": "D25",
+        "type": "number",
+        "value": "2035.06",
+        "rawValue": "2035.06",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A26",
+        "type": "string",
+        "value": "    资产总计",
+        "rawValue": "27"
+      },
+      {
+        "ref": "B26",
+        "type": "number",
+        "value": "1966939.76",
+        "rawValue": "1966939.76",
+        "styleId": "1"
+      },
+      {
+        "ref": "C26",
+        "type": "number",
+        "value": "1748473",
+        "rawValue": "1748473",
+        "styleId": "1"
+      },
+      {
+        "ref": "D26",
+        "type": "number",
+        "value": "1437664.16",
+        "rawValue": "1437664.16",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A27",
+        "type": "string",
+        "value": "        同比(%)",
+        "rawValue": "12"
+      },
+      {
+        "ref": "B27",
+        "type": "number",
+        "value": "12.49",
+        "rawValue": "12.49",
+        "styleId": "1"
+      },
+      {
+        "ref": "C27",
+        "type": "number",
+        "value": "21.62",
+        "rawValue": "21.62",
+        "styleId": "1"
+      },
+      {
+        "ref": "D27",
+        "type": "number",
+        "value": "32.71",
+        "rawValue": "32.71",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A28",
+        "type": "string",
+        "value": "    流动负债",
+        "rawValue": "28"
+      },
+      {
+        "ref": "B28",
+        "type": "number",
+        "value": "547294.01",
+        "rawValue": "547294.01",
+        "styleId": "1"
+      },
+      {
+        "ref": "C28",
+        "type": "number",
+        "value": "442736.75",
+        "rawValue": "442736.75",
+        "styleId": "1"
+      },
+      {
+        "ref": "D28",
+        "type": "number",
+        "value": "287906.46",
+        "rawValue": "287906.46",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A29",
+        "type": "string",
+        "value": "    非流动负债",
+        "rawValue": "29"
+      },
+      {
+        "ref": "B29",
+        "type": "number",
+        "value": "18480.2",
+        "rawValue": "18480.2",
+        "styleId": "1"
+      },
+      {
+        "ref": "C29",
+        "type": "number",
+        "value": "18717.92",
+        "rawValue": "18717.92",
+        "styleId": "1"
+      },
+      {
+        "ref": "D29",
+        "type": "number",
+        "value": "11607.41",
+        "rawValue": "11607.41",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A30",
+        "type": "string",
+        "value": "    负债合计",
+        "rawValue": "30"
+      },
+      {
+        "ref": "B30",
+        "type": "number",
+        "value": "565774.21",
+        "rawValue": "565774.21",
+        "styleId": "1"
+      },
+      {
+        "ref": "C30",
+        "type": "number",
+        "value": "461454.67",
+        "rawValue": "461454.67",
+        "styleId": "1"
+      },
+      {
+        "ref": "D30",
+        "type": "number",
+        "value": "299513.87",
+        "rawValue": "299513.87",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A31",
+        "type": "string",
+        "value": "        同比(%)",
+        "rawValue": "12"
+      },
+      {
+        "ref": "B31",
+        "type": "number",
+        "value": "22.61",
+        "rawValue": "22.61",
+        "styleId": "1"
+      },
+      {
+        "ref": "C31",
+        "type": "number",
+        "value": "54.07",
+        "rawValue": "54.07",
+        "styleId": "1"
+      },
+      {
+        "ref": "D31",
+        "type": "number",
+        "value": "134.79",
+        "rawValue": "134.79",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A32",
+        "type": "string",
+        "value": "    股东权益",
+        "rawValue": "31"
+      },
+      {
+        "ref": "B32",
+        "type": "number",
+        "value": "1401165.55",
+        "rawValue": "1401165.55",
+        "styleId": "1"
+      },
+      {
+        "ref": "C32",
+        "type": "number",
+        "value": "1287018.33",
+        "rawValue": "1287018.33",
+        "styleId": "1"
+      },
+      {
+        "ref": "D32",
+        "type": "number",
+        "value": "1138150.29",
+        "rawValue": "1138150.29",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A33",
+        "type": "string",
+        "value": "    归属母公司股东的权益",
+        "rawValue": "32"
+      },
+      {
+        "ref": "B33",
+        "type": "number",
+        "value": "1401071.77",
+        "rawValue": "1401071.77",
+        "styleId": "1"
+      },
+      {
+        "ref": "C33",
+        "type": "number",
+        "value": "1286922.57",
+        "rawValue": "1286922.57",
+        "styleId": "1"
+      },
+      {
+        "ref": "D33",
+        "type": "number",
+        "value": "1138052.61",
+        "rawValue": "1138052.61",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A34",
+        "type": "string",
+        "value": "        同比(%)",
+        "rawValue": "12"
+      },
+      {
+        "ref": "B34",
+        "type": "number",
+        "value": "8.87",
+        "rawValue": "8.87",
+        "styleId": "1"
+      },
+      {
+        "ref": "C34",
+        "type": "number",
+        "value": "13.08",
+        "rawValue": "13.08",
+        "styleId": "1"
+      },
+      {
+        "ref": "D34",
+        "type": "number",
+        "value": "19.09",
+        "rawValue": "19.09",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A35",
+        "type": "string",
+        "value": "    资本公积金",
+        "rawValue": "33"
+      },
+      {
+        "ref": "B35",
+        "type": "number",
+        "value": "516834.67",
+        "rawValue": "516834.67",
+        "styleId": "1"
+      },
+      {
+        "ref": "C35",
+        "type": "number",
+        "value": "521948.76",
+        "rawValue": "521948.76",
+        "styleId": "1"
+      },
+      {
+        "ref": "D35",
+        "type": "number",
+        "value": "516186.43",
+        "rawValue": "516186.43",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A36",
+        "type": "string",
+        "value": "    盈余公积金",
+        "rawValue": "34"
+      },
+      {
+        "ref": "B36",
+        "type": "number",
+        "value": "12955.32",
+        "rawValue": "12955.32",
+        "styleId": "1"
+      },
+      {
+        "ref": "C36",
+        "type": "number",
+        "value": "9236.16",
+        "rawValue": "9236.16",
+        "styleId": "1"
+      },
+      {
+        "ref": "D36",
+        "type": "number",
+        "value": "6573.87",
+        "rawValue": "6573.87",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A37",
+        "type": "string",
+        "value": "    未分配利润",
+        "rawValue": "35"
+      },
+      {
+        "ref": "B37",
+        "type": "number",
+        "value": "863243.54",
+        "rawValue": "863243.54",
+        "styleId": "1"
+      },
+      {
+        "ref": "C37",
+        "type": "number",
+        "value": "750394.09",
+        "rawValue": "750394.09",
+        "styleId": "1"
+      },
+      {
+        "ref": "D37",
+        "type": "number",
+        "value": "616851.82",
+        "rawValue": "616851.82",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A38",
+        "type": "string",
+        "value": "现金流量表摘要",
+        "rawValue": "36"
+      },
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A39",
+        "type": "string",
+        "value": "    销售商品提供劳务收到的现金",
+        "rawValue": "37"
+      },
+      {
+        "ref": "B39",
+        "type": "number",
+        "value": "1970900.35",
+        "rawValue": "1970900.35",
+        "styleId": "1"
+      },
+      {
+        "ref": "C39",
+        "type": "number",
+        "value": "1259390.81",
+        "rawValue": "1259390.81",
+        "styleId": "1"
+      },
+      {
+        "ref": "D39",
+        "type": "number",
+        "value": "926238.39",
+        "rawValue": "926238.39",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A40",
+        "type": "string",
+        "value": "    经营活动现金净流量",
+        "rawValue": "38"
+      },
+      {
+        "ref": "B40",
+        "type": "number",
+        "value": "77356.63",
+        "rawValue": "77356.63",
+        "styleId": "1"
+      },
+      {
+        "ref": "C40",
+        "type": "number",
+        "value": "173386.8",
+        "rawValue": "173386.8",
+        "styleId": "1"
+      },
+      {
+        "ref": "D40",
+        "type": "number",
+        "value": "218593.14",
+        "rawValue": "218593.14",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A41",
+        "type": "string",
+        "value": "    购建固定无形长期资产支付的现金",
+        "rawValue": "39"
+      },
+      {
+        "ref": "B41",
+        "type": "number",
+        "value": "48067.89",
+        "rawValue": "48067.89",
+        "styleId": "1"
+      },
+      {
+        "ref": "C41",
+        "type": "number",
+        "value": "29254.52",
+        "rawValue": "29254.52",
+        "styleId": "1"
+      },
+      {
+        "ref": "D41",
+        "type": "number",
+        "value": "24781",
+        "rawValue": "24781",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A42",
+        "type": "string",
+        "value": "    投资支付的现金",
+        "rawValue": "40"
+      },
+      {
+        "ref": "B42",
+        "type": "number",
+        "value": "859001.84",
+        "rawValue": "859001.84",
+        "styleId": "1"
+      },
+      {
+        "ref": "C42",
+        "type": "number",
+        "value": "695014.97",
+        "rawValue": "695014.97",
+        "styleId": "1"
+      },
+      {
+        "ref": "D42",
+        "type": "number",
+        "value": "815516.13",
+        "rawValue": "815516.13",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A43",
+        "type": "string",
+        "value": "    投资活动现金净流量",
+        "rawValue": "41"
+      },
+      {
+        "ref": "B43",
+        "type": "number",
+        "value": "-15873.95",
+        "rawValue": "-15873.95",
+        "styleId": "1"
+      },
+      {
+        "ref": "C43",
+        "type": "number",
+        "value": "-35199.93",
+        "rawValue": "-35199.93",
+        "styleId": "1"
+      },
+      {
+        "ref": "D43",
+        "type": "number",
+        "value": "-234821.36",
+        "rawValue": "-234821.36",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A44",
+        "type": "string",
+        "value": "    吸收投资收到的现金",
+        "rawValue": "42"
+      },
+      {
+        "ref": "B44",
+        "type": "number",
+        "value": "2214.39",
+        "rawValue": "2214.39",
+        "styleId": "1"
+      },
+      {
+        "ref": "C44",
+        "type": "number",
+        "value": "2597.47",
+        "rawValue": "2597.47",
+        "styleId": "1"
+      },
+      {
+        "ref": "D44",
+        "type": "number",
+        "value": "749.85",
+        "rawValue": "749.85",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A45",
+        "type": "string",
+        "value": "    取得借款收到的现金",
+        "rawValue": "43"
+      },
+      {
+        "ref": "B45",
+        "type": "number",
+        "value": "275000",
+        "rawValue": "275000",
+        "styleId": "1"
+      },
+      {
+        "ref": "C45",
+        "type": "number",
+        "value": "90214.52",
+        "rawValue": "90214.52",
+        "styleId": "1"
+      },
+      {
+        "ref": "D45",
+        "type": "number",
+        "value": "92841.12",
+        "rawValue": "92841.12",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A46",
+        "type": "string",
+        "value": "    筹资活动现金净流量",
+        "rawValue": "44"
+      },
+      {
+        "ref": "B46",
+        "type": "number",
+        "value": "22993.97",
+        "rawValue": "22993.97",
+        "styleId": "1"
+      },
+      {
+        "ref": "C46",
+        "type": "number",
+        "value": "-80017.01",
+        "rawValue": "-80017.01",
+        "styleId": "1"
+      },
+      {
+        "ref": "D46",
+        "type": "number",
+        "value": "19897.41",
+        "rawValue": "19897.41",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A47",
+        "type": "string",
+        "value": "    现金净增加额",
+        "rawValue": "45"
+      },
+      {
+        "ref": "B47",
+        "type": "number",
+        "value": "85471.07",
+        "rawValue": "85471.07",
+        "styleId": "1"
+      },
+      {
+        "ref": "C47",
+        "type": "number",
+        "value": "61785.41",
+        "rawValue": "61785.41",
+        "styleId": "1"
+      },
+      {
+        "ref": "D47",
+        "type": "number",
+        "value": "4846.52",
+        "rawValue": "4846.52",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A48",
+        "type": "string",
+        "value": "    期末现金余额",
+        "rawValue": "46"
+      },
+      {
+        "ref": "B48",
+        "type": "number",
+        "value": "230097.35",
+        "rawValue": "230097.35",
+        "styleId": "1"
+      },
+      {
+        "ref": "C48",
+        "type": "number",
+        "value": "144626.27",
+        "rawValue": "144626.27",
+        "styleId": "1"
+      },
+      {
+        "ref": "D48",
+        "type": "number",
+        "value": "82840.86",
+        "rawValue": "82840.86",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A49",
+        "type": "string",
+        "value": "    折旧与摊销",
+        "rawValue": "47"
+      },
+      {
+        "ref": "B49",
+        "type": "number",
+        "value": "28016.13",
+        "rawValue": "28016.13",
+        "styleId": "1"
+      },
+      {
+        "ref": "C49",
+        "type": "number",
+        "value": "16156.28",
+        "rawValue": "16156.28",
+        "styleId": "1"
+      },
+      {
+        "ref": "D49",
+        "type": "number",
+        "value": "14085.65",
+        "rawValue": "14085.65",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A50",
+        "type": "string",
+        "value": "关键比率",
+        "rawValue": "48"
+      },
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A51",
+        "type": "string",
+        "value": "    ROE(摊薄)(%)",
+        "rawValue": "49"
+      },
+      {
+        "ref": "B51",
+        "type": "number",
+        "value": "9.73",
+        "rawValue": "9.73",
+        "styleId": "1"
+      },
+      {
+        "ref": "C51",
+        "type": "number",
+        "value": "15.36",
+        "rawValue": "15.36",
+        "styleId": "1"
+      },
+      {
+        "ref": "D51",
+        "type": "number",
+        "value": "18.02",
+        "rawValue": "18.02",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A52",
+        "type": "string",
+        "value": "    ROE(加权)(%)",
+        "rawValue": "50"
+      },
+      {
+        "ref": "B52",
+        "type": "number",
+        "value": "10.14",
+        "rawValue": "10.14",
+        "styleId": "1"
+      },
+      {
+        "ref": "C52",
+        "type": "number",
+        "value": "16.18",
+        "rawValue": "16.18",
+        "styleId": "1"
+      },
+      {
+        "ref": "D52",
+        "type": "number",
+        "value": "19.56",
+        "rawValue": "19.56",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A53",
+        "type": "string",
+        "value": "    扣非后ROE(摊薄)(%)",
+        "rawValue": "51"
+      },
+      {
+        "ref": "B53",
+        "type": "number",
+        "value": "7.8",
+        "rawValue": "7.8",
+        "styleId": "1"
+      },
+      {
+        "ref": "C53",
+        "type": "number",
+        "value": "12.59",
+        "rawValue": "12.59",
+        "styleId": "1"
+      },
+      {
+        "ref": "D53",
+        "type": "number",
+        "value": "16.05",
+        "rawValue": "16.05",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A54",
+        "type": "string",
+        "value": "    ROE(TTM)",
+        "rawValue": "52"
+      },
+      {
+        "ref": "B54",
+        "type": "number",
+        "value": "9.73",
+        "rawValue": "9.73",
+        "styleId": "1"
+      },
+      {
+        "ref": "C54",
+        "type": "number",
+        "value": "15.36",
+        "rawValue": "15.36",
+        "styleId": "1"
+      },
+      {
+        "ref": "D54",
+        "type": "number",
+        "value": "18.02",
+        "rawValue": "18.02",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A55",
+        "type": "string",
+        "value": "    ROA(%)",
+        "rawValue": "53"
+      },
+      {
+        "ref": "B55",
+        "type": "number",
+        "value": "7.34",
+        "rawValue": "7.34",
+        "styleId": "1"
+      },
+      {
+        "ref": "C55",
+        "type": "number",
+        "value": "12.41",
+        "rawValue": "12.41",
+        "styleId": "1"
+      },
+      {
+        "ref": "D55",
+        "type": "number",
+        "value": "16.27",
+        "rawValue": "16.27",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A56",
+        "type": "string",
+        "value": "    ROIC(%)",
+        "rawValue": "54"
+      },
+      {
+        "ref": "B56",
+        "type": "number",
+        "value": "8.69",
+        "rawValue": "8.69",
+        "styleId": "1"
+      },
+      {
+        "ref": "C56",
+        "type": "number",
+        "value": "14.82",
+        "rawValue": "14.82",
+        "styleId": "1"
+      },
+      {
+        "ref": "D56",
+        "type": "number",
+        "value": "18.34",
+        "rawValue": "18.34",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A57",
+        "type": "string",
+        "value": "    销售毛利率(%)",
+        "rawValue": "55"
+      },
+      {
+        "ref": "B57",
+        "type": "number",
+        "value": "42.35",
+        "rawValue": "42.35",
+        "styleId": "1"
+      },
+      {
+        "ref": "C57",
+        "type": "number",
+        "value": "50.14",
+        "rawValue": "50.14",
+        "styleId": "1"
+      },
+      {
+        "ref": "D57",
+        "type": "number",
+        "value": "55.13",
+        "rawValue": "55.13",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A58",
+        "type": "string",
+        "value": "    销售净利率(%)",
+        "rawValue": "56"
+      },
+      {
+        "ref": "B58",
+        "type": "number",
+        "value": "7.29",
+        "rawValue": "7.29",
+        "styleId": "1"
+      },
+      {
+        "ref": "C58",
+        "type": "number",
+        "value": "16.55",
+        "rawValue": "16.55",
+        "styleId": "1"
+      },
+      {
+        "ref": "D58",
+        "type": "number",
+        "value": "23.7",
+        "rawValue": "23.7",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A59",
+        "type": "string",
+        "value": "    扣非后销售净利率(%)",
+        "rawValue": "57"
+      },
+      {
+        "ref": "B59",
+        "type": "number",
+        "value": "5.84",
+        "rawValue": "5.84",
+        "styleId": "1"
+      },
+      {
+        "ref": "C59",
+        "type": "number",
+        "value": "13.57",
+        "rawValue": "13.57",
+        "styleId": "1"
+      },
+      {
+        "ref": "D59",
+        "type": "number",
+        "value": "21.1",
+        "rawValue": "21.1",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A60",
+        "type": "string",
+        "value": "    EBIT Margin(%)",
+        "rawValue": "58"
+      },
+      {
+        "ref": "B60",
+        "type": "number",
+        "value": "6.34",
+        "rawValue": "6.34",
+        "styleId": "1"
+      },
+      {
+        "ref": "C60",
+        "type": "number",
+        "value": "14.85",
+        "rawValue": "14.85",
+        "styleId": "1"
+      },
+      {
+        "ref": "D60",
+        "type": "number",
+        "value": "24.11",
+        "rawValue": "24.11",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A61",
+        "type": "string",
+        "value": "    EBITDA Margin(%)",
+        "rawValue": "59"
+      },
+      {
+        "ref": "B61",
+        "type": "number",
+        "value": "7.84",
+        "rawValue": "7.84",
+        "styleId": "1"
+      },
+      {
+        "ref": "C61",
+        "type": "number",
+        "value": "16.2",
+        "rawValue": "16.2",
+        "styleId": "1"
+      },
+      {
+        "ref": "D61",
+        "type": "number",
+        "value": "25.74",
+        "rawValue": "25.74",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A62",
+        "type": "string",
+        "value": "    资产负债率(%)",
+        "rawValue": "60"
+      },
+      {
+        "ref": "B62",
+        "type": "number",
+        "value": "28.76",
+        "rawValue": "28.76",
+        "styleId": "1"
+      },
+      {
+        "ref": "C62",
+        "type": "number",
+        "value": "26.39",
+        "rawValue": "26.39",
+        "styleId": "1"
+      },
+      {
+        "ref": "D62",
+        "type": "number",
+        "value": "20.83",
+        "rawValue": "20.83",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A63",
+        "type": "string",
+        "value": "    资产周转率(倍)",
+        "rawValue": "61"
+      },
+      {
+        "ref": "B63",
+        "type": "number",
+        "value": "1.01",
+        "rawValue": "1.01",
+        "styleId": "1"
+      },
+      {
+        "ref": "C63",
+        "type": "number",
+        "value": "0.75",
+        "rawValue": "0.75",
+        "styleId": "1"
+      },
+      {
+        "ref": "D63",
+        "type": "number",
+        "value": "0.69",
+        "rawValue": "0.69",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A64",
+        "type": "string",
+        "value": "    销售商品和劳务收到现金/营业收入(%)",
+        "rawValue": "62"
+      },
+      {
+        "ref": "B64",
+        "type": "number",
+        "value": "105.43",
+        "rawValue": "105.43",
+        "styleId": "1"
+      },
+      {
+        "ref": "C64",
+        "type": "number",
+        "value": "105.44",
+        "rawValue": "105.44",
+        "styleId": "1"
+      },
+      {
+        "ref": "D64",
+        "type": "number",
+        "value": "107.03",
+        "rawValue": "107.03",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A65",
+        "type": "string",
+        "value": "每股指标",
+        "rawValue": "63"
+      },
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A66",
+        "type": "string",
+        "value": "    EPS(基本)",
+        "rawValue": "64"
+      },
+      {
+        "ref": "B66",
+        "type": "number",
+        "value": "5.29",
+        "rawValue": "5.29",
+        "styleId": "1"
+      },
+      {
+        "ref": "C66",
+        "type": "number",
+        "value": "10.77",
+        "rawValue": "10.77",
+        "styleId": "1"
+      },
+      {
+        "ref": "D66",
+        "type": "number",
+        "value": "15.66",
+        "rawValue": "15.66",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A67",
+        "type": "string",
+        "value": "    EPS(稀释)",
+        "rawValue": "65"
+      },
+      {
+        "ref": "B67",
+        "type": "number",
+        "value": "5.28",
+        "rawValue": "5.28",
+        "styleId": "1"
+      },
+      {
+        "ref": "C67",
+        "type": "number",
+        "value": "10.71",
+        "rawValue": "10.71",
+        "styleId": "1"
+      },
+      {
+        "ref": "D67",
+        "type": "number",
+        "value": "15.58",
+        "rawValue": "15.58",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A68",
+        "type": "string",
+        "value": "    EPS(摊薄)",
+        "rawValue": "66"
+      },
+      {
+        "ref": "B68",
+        "type": "number",
+        "value": "5.26",
+        "rawValue": "5.26",
+        "styleId": "1"
+      },
+      {
+        "ref": "C68",
+        "type": "number",
+        "value": "10.7",
+        "rawValue": "10.7",
+        "styleId": "1"
+      },
+      {
+        "ref": "D68",
+        "type": "number",
+        "value": "15.6",
+        "rawValue": "15.6",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A69",
+        "type": "string",
+        "value": "    扣非后EPS(基本)",
+        "rawValue": "67"
+      },
+      {
+        "ref": "B69",
+        "type": "number",
+        "value": "4.24",
+        "rawValue": "4.24",
+        "styleId": "1"
+      },
+      {
+        "ref": "C69",
+        "type": "number",
+        "value": "8.83",
+        "rawValue": "8.83",
+        "styleId": "1"
+      },
+      {
+        "ref": "D69",
+        "type": "number",
+        "value": "13.94",
+        "rawValue": "13.94",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A70",
+        "type": "string",
+        "value": "    每股净资产BPS",
+        "rawValue": "68"
+      },
+      {
+        "ref": "B70",
+        "type": "number",
+        "value": "54.07",
+        "rawValue": "54.07",
+        "styleId": "1"
+      },
+      {
+        "ref": "C70",
+        "type": "number",
+        "value": "69.67",
+        "rawValue": "69.67",
+        "styleId": "1"
+      },
+      {
+        "ref": "D70",
+        "type": "number",
+        "value": "86.56",
+        "rawValue": "86.56",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A71",
+        "type": "string",
+        "value": "    每股销售额SPS",
+        "rawValue": "69"
+      },
+      {
+        "ref": "B71",
+        "type": "number",
+        "value": "72.15",
+        "rawValue": "72.15",
+        "styleId": "1"
+      },
+      {
+        "ref": "C71",
+        "type": "number",
+        "value": "64.66",
+        "rawValue": "64.66",
+        "styleId": "1"
+      },
+      {
+        "ref": "D71",
+        "type": "number",
+        "value": "65.82",
+        "rawValue": "65.82",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A72",
+        "type": "string",
+        "value": "    每股经营现金流OCFPS",
+        "rawValue": "70"
+      },
+      {
+        "ref": "B72",
+        "type": "number",
+        "value": "2.99",
+        "rawValue": "2.99",
+        "styleId": "1"
+      },
+      {
+        "ref": "C72",
+        "type": "number",
+        "value": "9.39",
+        "rawValue": "9.39",
+        "styleId": "1"
+      },
+      {
+        "ref": "D72",
+        "type": "number",
+        "value": "16.63",
+        "rawValue": "16.63",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A73",
+        "type": "string",
+        "value": "    每股现金净流量CFPS",
+        "rawValue": "71"
+      },
+      {
+        "ref": "B73",
+        "type": "number",
+        "value": "3.3",
+        "rawValue": "3.3",
+        "styleId": "1"
+      },
+      {
+        "ref": "C73",
+        "type": "number",
+        "value": "3.34",
+        "rawValue": "3.34",
+        "styleId": "1"
+      },
+      {
+        "ref": "D73",
+        "type": "number",
+        "value": "0.37",
+        "rawValue": "0.37",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A74",
+        "type": "string",
+        "value": "    每股企业自由现金流量",
+        "rawValue": "72"
+      },
+      {
+        "ref": "B74",
+        "type": "number",
+        "value": "-3.6",
+        "rawValue": "-3.6",
+        "styleId": "1"
+      },
+      {
+        "ref": "C74",
+        "type": "number",
+        "value": "31.27",
+        "rawValue": "31.27",
+        "styleId": "1"
+      },
+      {
+        "ref": "D74",
+        "type": "number",
+        "value": "16.12",
+        "rawValue": "16.12",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A75",
+        "type": "string",
+        "value": "    P/E(TTM)",
+        "rawValue": "73"
+      },
+      {
+        "ref": "B75",
+        "type": "number",
+        "value": "25.55",
+        "rawValue": "25.55",
+        "styleId": "1"
+      },
+      {
+        "ref": "C75",
+        "type": "number",
+        "value": "18.73",
+        "rawValue": "18.73",
+        "styleId": "1"
+      },
+      {
+        "ref": "D75",
+        "type": "number",
+        "value": "22.03",
+        "rawValue": "22.03",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A76",
+        "type": "string",
+        "value": "    P/E(LYR)",
+        "rawValue": "74"
+      },
+      {
+        "ref": "B76",
+        "type": "number",
+        "value": "19.93",
+        "rawValue": "19.93",
+        "styleId": "1"
+      },
+      {
+        "ref": "C76",
+        "type": "number",
+        "value": "19.75",
+        "rawValue": "19.75",
+        "styleId": "1"
+      },
+      {
+        "ref": "D76",
+        "type": "number",
+        "value": "31.43",
+        "rawValue": "31.43",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A77",
+        "type": "string",
+        "value": "    P/B(MRQ)",
+        "rawValue": "75"
+      },
+      {
+        "ref": "B77",
+        "type": "number",
+        "value": "2.86",
+        "rawValue": "2.86",
+        "styleId": "1"
+      },
+      {
+        "ref": "C77",
+        "type": "number",
+        "value": "3.29",
+        "rawValue": "3.29",
+        "styleId": "1"
+      },
+      {
+        "ref": "D77",
+        "type": "number",
+        "value": "3.48",
+        "rawValue": "3.48",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A78",
+        "type": "string",
+        "value": "    P/S(TTM)",
+        "rawValue": "76"
+      },
+      {
+        "ref": "B78",
+        "type": "number",
+        "value": "2.32",
+        "rawValue": "2.32",
+        "styleId": "1"
+      },
+      {
+        "ref": "C78",
+        "type": "number",
+        "value": "4.06",
+        "rawValue": "4.06",
+        "styleId": "1"
+      },
+      {
+        "ref": "D78",
+        "type": "number",
+        "value": "4.69",
+        "rawValue": "4.69",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A79",
+        "type": "string",
+        "value": "其他",
+        "rawValue": "77"
+      },
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A80",
+        "type": "string",
+        "value": "    员工总数(人)",
+        "rawValue": "78"
+      },
+      {
+        "ref": "B80",
+        "type": "number",
+        "value": "3452",
+        "rawValue": "3452",
+        "styleId": "2"
+      },
+      {
+        "ref": "C80",
+        "type": "number",
+        "value": "2560",
+        "rawValue": "2560",
+        "styleId": "2"
+      },
+      {
+        "ref": "D80",
+        "type": "number",
+        "value": "1593",
+        "rawValue": "1593",
+        "styleId": "2"
+      }
+    ],
+    [
+      {
+        "ref": "A81",
+        "type": "string",
+        "value": "显示币种",
+        "rawValue": "79"
+      },
+      {
+        "ref": "B81",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "80"
+      },
+      {
+        "ref": "C81",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "80"
+      },
+      {
+        "ref": "D81",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "80"
+      }
+    ],
+    [
+      {
+        "ref": "A82",
+        "type": "string",
+        "value": "原始币种",
+        "rawValue": "81"
+      },
+      {
+        "ref": "B82",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "80"
+      },
+      {
+        "ref": "C82",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "80"
+      },
+      {
+        "ref": "D82",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "80"
+      }
+    ],
+    [
+      {
+        "ref": "A83",
+        "type": "string",
+        "value": "转换汇率",
+        "rawValue": "82"
+      },
+      {
+        "ref": "B83",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      },
+      {
+        "ref": "C83",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      },
+      {
+        "ref": "D83",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A84",
+        "type": "string",
+        "value": "汇率类型",
+        "rawValue": "83"
+      },
+      {
+        "ref": "B84",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "84"
+      },
+      {
+        "ref": "C84",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "84"
+      },
+      {
+        "ref": "D84",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "84"
+      }
+    ],
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A87",
+        "type": "string",
+        "value": "数据来源：Wind",
+        "rawValue": "85"
+      },
+      null,
+      null,
+      null
+    ]
+  ],
+  "values": [
+    [
+      "石头科技[688169.SH] - 财务摘要(单位：万元 , CNY)",
+      "2025-12-31",
+      "2024-12-31",
+      "2023-12-31"
+    ],
+    [
+      "报告期",
+      "2025年报",
+      "2024年报",
+      "2023年报"
+    ],
+    [
+      "报表类型",
+      "合并报表",
+      "合并报表",
+      "合并报表"
+    ],
+    [
+      "利润表摘要",
+      null,
+      null,
+      null
+    ],
+    [
+      "    营业总收入",
+      1869477.68,
+      1194470.72,
+      865378.38
+    ],
+    [
+      "        同比(%)",
+      56.51,
+      38.03,
+      30.55
+    ],
+    [
+      "    营业总成本",
+      1744562.29,
+      1015822.02,
+      646582.06
+    ],
+    [
+      "    营业利润",
+      144736.9,
+      209029.53,
+      231720.82
+    ],
+    [
+      "        同比(%)",
+      -30.76,
+      -9.79,
+      72.36
+    ],
+    [
+      "    利润总额",
+      144687.45,
+      209754.68,
+      231978.32
+    ],
+    [
+      "        同比(%)",
+      -31.02,
+      -9.58,
+      71.94
+    ],
+    [
+      "    净利润",
+      136330.24,
+      197654.41,
+      205120.47
+    ],
+    [
+      "        同比(%)",
+      -31.03,
+      -3.64,
+      73.32
+    ],
+    [
+      "    归属母公司股东的净利润",
+      136332.23,
+      197656.32,
+      205121.74
+    ],
+    [
+      "        同比(%)",
+      -31.03,
+      -3.64,
+      73.32
+    ],
+    [
+      "    非经常性损益",
+      27114.5,
+      35616.36,
+      22512.77
+    ],
+    [
+      "    扣非后归属母公司股东的净利润",
+      109217.73,
+      162039.97,
+      182608.97
+    ],
+    [
+      "        同比(%)",
+      -32.6,
+      -11.26,
+      52.46
+    ],
+    [
+      "    研发支出",
+      141956.62,
+      97143.88,
+      61902.57
+    ],
+    [
+      "    EBIT",
+      118540.2,
+      177370.38,
+      208654.87
+    ],
+    [
+      "    EBITDA",
+      146556.33,
+      193526.66,
+      222740.51
+    ],
+    [
+      "资产负债表摘要",
+      null,
+      null,
+      null
+    ],
+    [
+      "    流动资产",
+      1507776.42,
+      1175245.21,
+      889686.79
+    ],
+    [
+      "    固定资产",
+      148922.38,
+      137260.67,
+      128573.71
+    ],
+    [
+      "    长期股权投资",
+      1068.88,
+      2042.04,
+      2035.06
+    ],
+    [
+      "    资产总计",
+      1966939.76,
+      1748473,
+      1437664.16
+    ],
+    [
+      "        同比(%)",
+      12.49,
+      21.62,
+      32.71
+    ],
+    [
+      "    流动负债",
+      547294.01,
+      442736.75,
+      287906.46
+    ],
+    [
+      "    非流动负债",
+      18480.2,
+      18717.92,
+      11607.41
+    ],
+    [
+      "    负债合计",
+      565774.21,
+      461454.67,
+      299513.87
+    ],
+    [
+      "        同比(%)",
+      22.61,
+      54.07,
+      134.79
+    ],
+    [
+      "    股东权益",
+      1401165.55,
+      1287018.33,
+      1138150.29
+    ],
+    [
+      "    归属母公司股东的权益",
+      1401071.77,
+      1286922.57,
+      1138052.61
+    ],
+    [
+      "        同比(%)",
+      8.87,
+      13.08,
+      19.09
+    ],
+    [
+      "    资本公积金",
+      516834.67,
+      521948.76,
+      516186.43
+    ],
+    [
+      "    盈余公积金",
+      12955.32,
+      9236.16,
+      6573.87
+    ],
+    [
+      "    未分配利润",
+      863243.54,
+      750394.09,
+      616851.82
+    ],
+    [
+      "现金流量表摘要",
+      null,
+      null,
+      null
+    ],
+    [
+      "    销售商品提供劳务收到的现金",
+      1970900.35,
+      1259390.81,
+      926238.39
+    ],
+    [
+      "    经营活动现金净流量",
+      77356.63,
+      173386.8,
+      218593.14
+    ],
+    [
+      "    购建固定无形长期资产支付的现金",
+      48067.89,
+      29254.52,
+      24781
+    ],
+    [
+      "    投资支付的现金",
+      859001.84,
+      695014.97,
+      815516.13
+    ],
+    [
+      "    投资活动现金净流量",
+      -15873.95,
+      -35199.93,
+      -234821.36
+    ],
+    [
+      "    吸收投资收到的现金",
+      2214.39,
+      2597.47,
+      749.85
+    ],
+    [
+      "    取得借款收到的现金",
+      275000,
+      90214.52,
+      92841.12
+    ],
+    [
+      "    筹资活动现金净流量",
+      22993.97,
+      -80017.01,
+      19897.41
+    ],
+    [
+      "    现金净增加额",
+      85471.07,
+      61785.41,
+      4846.52
+    ],
+    [
+      "    期末现金余额",
+      230097.35,
+      144626.27,
+      82840.86
+    ],
+    [
+      "    折旧与摊销",
+      28016.13,
+      16156.28,
+      14085.65
+    ],
+    [
+      "关键比率",
+      null,
+      null,
+      null
+    ],
+    [
+      "    ROE(摊薄)(%)",
+      9.73,
+      15.36,
+      18.02
+    ],
+    [
+      "    ROE(加权)(%)",
+      10.14,
+      16.18,
+      19.56
+    ],
+    [
+      "    扣非后ROE(摊薄)(%)",
+      7.8,
+      12.59,
+      16.05
+    ],
+    [
+      "    ROE(TTM)",
+      9.73,
+      15.36,
+      18.02
+    ],
+    [
+      "    ROA(%)",
+      7.34,
+      12.41,
+      16.27
+    ],
+    [
+      "    ROIC(%)",
+      8.69,
+      14.82,
+      18.34
+    ],
+    [
+      "    销售毛利率(%)",
+      42.35,
+      50.14,
+      55.13
+    ],
+    [
+      "    销售净利率(%)",
+      7.29,
+      16.55,
+      23.7
+    ],
+    [
+      "    扣非后销售净利率(%)",
+      5.84,
+      13.57,
+      21.1
+    ],
+    [
+      "    EBIT Margin(%)",
+      6.34,
+      14.85,
+      24.11
+    ],
+    [
+      "    EBITDA Margin(%)",
+      7.84,
+      16.2,
+      25.74
+    ],
+    [
+      "    资产负债率(%)",
+      28.76,
+      26.39,
+      20.83
+    ],
+    [
+      "    资产周转率(倍)",
+      1.01,
+      0.75,
+      0.69
+    ],
+    [
+      "    销售商品和劳务收到现金/营业收入(%)",
+      105.43,
+      105.44,
+      107.03
+    ],
+    [
+      "每股指标",
+      null,
+      null,
+      null
+    ],
+    [
+      "    EPS(基本)",
+      5.29,
+      10.77,
+      15.66
+    ],
+    [
+      "    EPS(稀释)",
+      5.28,
+      10.71,
+      15.58
+    ],
+    [
+      "    EPS(摊薄)",
+      5.26,
+      10.7,
+      15.6
+    ],
+    [
+      "    扣非后EPS(基本)",
+      4.24,
+      8.83,
+      13.94
+    ],
+    [
+      "    每股净资产BPS",
+      54.07,
+      69.67,
+      86.56
+    ],
+    [
+      "    每股销售额SPS",
+      72.15,
+      64.66,
+      65.82
+    ],
+    [
+      "    每股经营现金流OCFPS",
+      2.99,
+      9.39,
+      16.63
+    ],
+    [
+      "    每股现金净流量CFPS",
+      3.3,
+      3.34,
+      0.37
+    ],
+    [
+      "    每股企业自由现金流量",
+      -3.6,
+      31.27,
+      16.12
+    ],
+    [
+      "    P/E(TTM)",
+      25.55,
+      18.73,
+      22.03
+    ],
+    [
+      "    P/E(LYR)",
+      19.93,
+      19.75,
+      31.43
+    ],
+    [
+      "    P/B(MRQ)",
+      2.86,
+      3.29,
+      3.48
+    ],
+    [
+      "    P/S(TTM)",
+      2.32,
+      4.06,
+      4.69
+    ],
+    [
+      "其他",
+      null,
+      null,
+      null
+    ],
+    [
+      "    员工总数(人)",
+      3452,
+      2560,
+      1593
+    ],
+    [
+      "显示币种",
+      "CNY",
+      "CNY",
+      "CNY"
+    ],
+    [
+      "原始币种",
+      "CNY",
+      "CNY",
+      "CNY"
+    ],
+    [
+      "转换汇率",
+      1,
+      1,
+      1
+    ],
+    [
+      "汇率类型",
+      "最新汇率",
+      "最新汇率",
+      "最新汇率"
+    ],
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "数据来源：Wind",
+      null,
+      null,
+      null
+    ]
+  ],
+  "analysisSchema": {
+    "layout": "wideFinancialMatrix",
+    "titleCell": "A1",
+    "labelColumn": "A",
+    "headerRows": {
+      "periodDate": 1,
+      "reportPeriod": 2,
+      "statementType": 3
+    },
+    "dataStartRow": 4,
+    "columnDescriptors": [
+      {
+        "column": "B",
+        "columnIndex": 2,
+        "periodDate": "2025-12-31",
+        "reportPeriod": "2025年报",
+        "statementType": "合并报表"
+      },
+      {
+        "column": "C",
+        "columnIndex": 3,
+        "periodDate": "2024-12-31",
+        "reportPeriod": "2024年报",
+        "statementType": "合并报表"
+      },
+      {
+        "column": "D",
+        "columnIndex": 4,
+        "periodDate": "2023-12-31",
+        "reportPeriod": "2023年报",
+        "statementType": "合并报表"
+      }
+    ],
+    "periodOrder": "descending",
+    "sourceUnitText": "万元",
+    "currency": "CNY",
+    "caveats": [
+      "The periods are stored in descending order in the source workbook and remain in that order here."
+    ]
+  },
+  "rowMetadata": [
+    {
+      "r": "1"
+    },
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "13"
+    },
+    {
+      "r": "14"
+    },
+    {
+      "r": "15"
+    },
+    {
+      "r": "16"
+    },
+    {
+      "r": "17"
+    },
+    {
+      "r": "18"
+    },
+    {
+      "r": "19"
+    },
+    {
+      "r": "20"
+    },
+    {
+      "r": "21"
+    },
+    {
+      "r": "22"
+    },
+    {
+      "r": "23"
+    },
+    {
+      "r": "24"
+    },
+    {
+      "r": "25"
+    },
+    {
+      "r": "26"
+    },
+    {
+      "r": "27"
+    },
+    {
+      "r": "28"
+    },
+    {
+      "r": "29"
+    },
+    {
+      "r": "30"
+    },
+    {
+      "r": "31"
+    },
+    {
+      "r": "32"
+    },
+    {
+      "r": "33"
+    },
+    {
+      "r": "34"
+    },
+    {
+      "r": "35"
+    },
+    {
+      "r": "36"
+    },
+    {
+      "r": "37"
+    },
+    {
+      "r": "38"
+    },
+    {
+      "r": "39"
+    },
+    {
+      "r": "40"
+    },
+    {
+      "r": "41"
+    },
+    {
+      "r": "42"
+    },
+    {
+      "r": "43"
+    },
+    {
+      "r": "44"
+    },
+    {
+      "r": "45"
+    },
+    {
+      "r": "46"
+    },
+    {
+      "r": "47"
+    },
+    {
+      "r": "48"
+    },
+    {
+      "r": "49"
+    },
+    {
+      "r": "50"
+    },
+    {
+      "r": "51"
+    },
+    {
+      "r": "52"
+    },
+    {
+      "r": "53"
+    },
+    {
+      "r": "54"
+    },
+    {
+      "r": "55"
+    },
+    {
+      "r": "56"
+    },
+    {
+      "r": "57"
+    },
+    {
+      "r": "58"
+    },
+    {
+      "r": "59"
+    },
+    {
+      "r": "60"
+    },
+    {
+      "r": "61"
+    },
+    {
+      "r": "62"
+    },
+    {
+      "r": "63"
+    },
+    {
+      "r": "64"
+    },
+    {
+      "r": "65"
+    },
+    {
+      "r": "66"
+    },
+    {
+      "r": "67"
+    },
+    {
+      "r": "68"
+    },
+    {
+      "r": "69"
+    },
+    {
+      "r": "70"
+    },
+    {
+      "r": "71"
+    },
+    {
+      "r": "72"
+    },
+    {
+      "r": "73"
+    },
+    {
+      "r": "74"
+    },
+    {
+      "r": "75"
+    },
+    {
+      "r": "76"
+    },
+    {
+      "r": "77"
+    },
+    {
+      "r": "78"
+    },
+    {
+      "r": "79"
+    },
+    {
+      "r": "80"
+    },
+    {
+      "r": "81"
+    },
+    {
+      "r": "82"
+    },
+    {
+      "r": "83"
+    },
+    {
+      "r": "84"
+    },
+    {
+      "r": "87"
+    }
+  ],
+  "columnMetadata": [
+    {
+      "min": "1",
+      "max": "1",
+      "width": "44.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "2",
+      "max": "2",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "3",
+      "max": "3",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "4",
+      "max": "4",
+      "width": "20.83203125",
+      "customWidth": "1"
+    }
+  ],
+  "mergedRanges": [],
+  "viewMetadata": [
+    {
+      "sheetViewAttributes": {
+        "workbookViewId": "0"
+      },
+      "pane": null
+    }
+  ],
+  "counts": {
+    "explicitCells": 319,
+    "nonEmptyCells": 319,
+    "formulaCells": 0
+  },
+  "verification": {
+    "sourceWorkbookSha256Matched": true,
+    "cellCoordinatesMatched": true,
+    "cellValuesAndTypesMatched": true,
+    "formulasMatched": true,
+    "analysisValuesCheckedAgainstExactCells": true,
+    "previousJsonSha256": "60cd63c2a53d219c54429bc144c33258466901679c4eae503e7041f530326c75"
+  }
+}

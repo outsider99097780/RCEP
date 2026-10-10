@@ -1,0 +1,4504 @@
+{
+  "format": "xlsx-sheet-json",
+  "formatVersion": 2,
+  "sourceWorkbook": "石头科技[688169.SH]-利润表.xlsx",
+  "sourceWorkbookSha256": "cc235730235590775fc47b0c0e1809ce93158ec8c491b8c95bf766e8db8091e5",
+  "sheetName": "sheet1",
+  "sheetIndex": 0,
+  "sheetState": "visible",
+  "sourceWorksheetXml": "xl/worksheets/sheet1.xml",
+  "dimension": "A1:L49",
+  "rowCount": 49,
+  "columnCount": 12,
+  "dataRange": "A1:L49",
+  "cellEncoding": "rows is the lossless cell-record matrix. Null means no explicit XLSX cell. For numeric cells, value and rawValue retain the exact XLSX decimal text.",
+  "valueEncoding": "values is the analysis-ready matrix over dataRange. Text stays text, blank positions are null, booleans stay boolean, and numeric cells are JSON numbers. rows remains the authoritative exact representation.",
+  "rows": [
+    [
+      {
+        "ref": "A1",
+        "type": "string",
+        "value": "石头科技[688169.SH] - 利润表(单位：百万元 , CNY)",
+        "rawValue": "0"
+      },
+      {
+        "ref": "B1",
+        "type": "string",
+        "value": "2016-12-31",
+        "rawValue": "1"
+      },
+      {
+        "ref": "C1",
+        "type": "string",
+        "value": "2017-12-31",
+        "rawValue": "2"
+      },
+      {
+        "ref": "D1",
+        "type": "string",
+        "value": "2018-12-31",
+        "rawValue": "3"
+      },
+      {
+        "ref": "E1",
+        "type": "string",
+        "value": "2019-12-31",
+        "rawValue": "4"
+      },
+      {
+        "ref": "F1",
+        "type": "string",
+        "value": "2020-12-31",
+        "rawValue": "5"
+      },
+      {
+        "ref": "G1",
+        "type": "string",
+        "value": "2021-12-31",
+        "rawValue": "6"
+      },
+      {
+        "ref": "H1",
+        "type": "string",
+        "value": "2022-12-31",
+        "rawValue": "7"
+      },
+      {
+        "ref": "I1",
+        "type": "string",
+        "value": "2023-12-31",
+        "rawValue": "8"
+      },
+      {
+        "ref": "J1",
+        "type": "string",
+        "value": "2024-12-31",
+        "rawValue": "9"
+      },
+      {
+        "ref": "K1",
+        "type": "string",
+        "value": "2025-12-31",
+        "rawValue": "10"
+      },
+      {
+        "ref": "L1",
+        "type": "string",
+        "value": "2026-06-30",
+        "rawValue": "11"
+      }
+    ],
+    [
+      {
+        "ref": "A2",
+        "type": "string",
+        "value": "报告期",
+        "rawValue": "12"
+      },
+      {
+        "ref": "B2",
+        "type": "string",
+        "value": "2016年报",
+        "rawValue": "13"
+      },
+      {
+        "ref": "C2",
+        "type": "string",
+        "value": "2017年报",
+        "rawValue": "14"
+      },
+      {
+        "ref": "D2",
+        "type": "string",
+        "value": "2018年报",
+        "rawValue": "15"
+      },
+      {
+        "ref": "E2",
+        "type": "string",
+        "value": "2019年报",
+        "rawValue": "16"
+      },
+      {
+        "ref": "F2",
+        "type": "string",
+        "value": "2020年报",
+        "rawValue": "17"
+      },
+      {
+        "ref": "G2",
+        "type": "string",
+        "value": "2021年报",
+        "rawValue": "18"
+      },
+      {
+        "ref": "H2",
+        "type": "string",
+        "value": "2022年报",
+        "rawValue": "19"
+      },
+      {
+        "ref": "I2",
+        "type": "string",
+        "value": "2023年报",
+        "rawValue": "20"
+      },
+      {
+        "ref": "J2",
+        "type": "string",
+        "value": "2024年报",
+        "rawValue": "21"
+      },
+      {
+        "ref": "K2",
+        "type": "string",
+        "value": "2025年报",
+        "rawValue": "22"
+      },
+      {
+        "ref": "L2",
+        "type": "string",
+        "value": "2026中报",
+        "rawValue": "23"
+      }
+    ],
+    [
+      {
+        "ref": "A3",
+        "type": "string",
+        "value": "报表类型",
+        "rawValue": "24"
+      },
+      {
+        "ref": "B3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "25"
+      },
+      {
+        "ref": "C3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "25"
+      },
+      {
+        "ref": "D3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "25"
+      },
+      {
+        "ref": "E3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "25"
+      },
+      {
+        "ref": "F3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "25"
+      },
+      {
+        "ref": "G3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "25"
+      },
+      {
+        "ref": "H3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "25"
+      },
+      {
+        "ref": "I3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "25"
+      },
+      {
+        "ref": "J3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "25"
+      },
+      {
+        "ref": "K3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "25"
+      },
+      {
+        "ref": "L3",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "25"
+      }
+    ],
+    [
+      {
+        "ref": "A4",
+        "type": "string",
+        "value": "营业总收入",
+        "rawValue": "26"
+      },
+      {
+        "ref": "B4",
+        "type": "number",
+        "value": "183.127",
+        "rawValue": "183.127",
+        "styleId": "1"
+      },
+      {
+        "ref": "C4",
+        "type": "number",
+        "value": "1118.8176",
+        "rawValue": "1118.8176",
+        "styleId": "1"
+      },
+      {
+        "ref": "D4",
+        "type": "number",
+        "value": "3051.2504",
+        "rawValue": "3051.2504",
+        "styleId": "1"
+      },
+      {
+        "ref": "E4",
+        "type": "number",
+        "value": "4204.902",
+        "rawValue": "4204.902",
+        "styleId": "1"
+      },
+      {
+        "ref": "F4",
+        "type": "number",
+        "value": "4530.4387",
+        "rawValue": "4530.4387",
+        "styleId": "1"
+      },
+      {
+        "ref": "G4",
+        "type": "number",
+        "value": "5837.0513",
+        "rawValue": "5837.0513",
+        "styleId": "1"
+      },
+      {
+        "ref": "H4",
+        "type": "number",
+        "value": "6628.7164",
+        "rawValue": "6628.7164",
+        "styleId": "1"
+      },
+      {
+        "ref": "I4",
+        "type": "number",
+        "value": "8653.7838",
+        "rawValue": "8653.7838",
+        "styleId": "1"
+      },
+      {
+        "ref": "J4",
+        "type": "number",
+        "value": "11944.7072",
+        "rawValue": "11944.7072",
+        "styleId": "1"
+      },
+      {
+        "ref": "K4",
+        "type": "number",
+        "value": "18694.7768",
+        "rawValue": "18694.7768",
+        "styleId": "1"
+      },
+      {
+        "ref": "L4",
+        "type": "number",
+        "value": "10084.4145",
+        "rawValue": "10084.4145",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A5",
+        "type": "string",
+        "value": "    营业收入",
+        "rawValue": "27"
+      },
+      {
+        "ref": "B5",
+        "type": "number",
+        "value": "183.127",
+        "rawValue": "183.127",
+        "styleId": "1"
+      },
+      {
+        "ref": "C5",
+        "type": "number",
+        "value": "1118.8176",
+        "rawValue": "1118.8176",
+        "styleId": "1"
+      },
+      {
+        "ref": "D5",
+        "type": "number",
+        "value": "3051.2504",
+        "rawValue": "3051.2504",
+        "styleId": "1"
+      },
+      {
+        "ref": "E5",
+        "type": "number",
+        "value": "4204.902",
+        "rawValue": "4204.902",
+        "styleId": "1"
+      },
+      {
+        "ref": "F5",
+        "type": "number",
+        "value": "4530.4387",
+        "rawValue": "4530.4387",
+        "styleId": "1"
+      },
+      {
+        "ref": "G5",
+        "type": "number",
+        "value": "5837.0513",
+        "rawValue": "5837.0513",
+        "styleId": "1"
+      },
+      {
+        "ref": "H5",
+        "type": "number",
+        "value": "6628.7164",
+        "rawValue": "6628.7164",
+        "styleId": "1"
+      },
+      {
+        "ref": "I5",
+        "type": "number",
+        "value": "8653.7838",
+        "rawValue": "8653.7838",
+        "styleId": "1"
+      },
+      {
+        "ref": "J5",
+        "type": "number",
+        "value": "11944.7072",
+        "rawValue": "11944.7072",
+        "styleId": "1"
+      },
+      {
+        "ref": "K5",
+        "type": "number",
+        "value": "18694.7768",
+        "rawValue": "18694.7768",
+        "styleId": "1"
+      },
+      {
+        "ref": "L5",
+        "type": "number",
+        "value": "10084.4145",
+        "rawValue": "10084.4145",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A6",
+        "type": "string",
+        "value": "营业总成本",
+        "rawValue": "28"
+      },
+      {
+        "ref": "B6",
+        "type": "number",
+        "value": "194.4095",
+        "rawValue": "194.4095",
+        "styleId": "1"
+      },
+      {
+        "ref": "C6",
+        "type": "number",
+        "value": "1039.6489",
+        "rawValue": "1039.6489",
+        "styleId": "1"
+      },
+      {
+        "ref": "D6",
+        "type": "number",
+        "value": "2680.0163",
+        "rawValue": "2680.0163",
+        "styleId": "1"
+      },
+      {
+        "ref": "E6",
+        "type": "number",
+        "value": "3310.608",
+        "rawValue": "3310.608",
+        "styleId": "1"
+      },
+      {
+        "ref": "F6",
+        "type": "number",
+        "value": "3168.7473",
+        "rawValue": "3168.7473",
+        "styleId": "1"
+      },
+      {
+        "ref": "G6",
+        "type": "number",
+        "value": "4501.0261",
+        "rawValue": "4501.0261",
+        "styleId": "1"
+      },
+      {
+        "ref": "H6",
+        "type": "number",
+        "value": "5239.076",
+        "rawValue": "5239.076",
+        "styleId": "1"
+      },
+      {
+        "ref": "I6",
+        "type": "number",
+        "value": "6465.8206",
+        "rawValue": "6465.8206",
+        "styleId": "1"
+      },
+      {
+        "ref": "J6",
+        "type": "number",
+        "value": "10158.2202",
+        "rawValue": "10158.2202",
+        "styleId": "1"
+      },
+      {
+        "ref": "K6",
+        "type": "number",
+        "value": "17445.6229",
+        "rawValue": "17445.6229",
+        "styleId": "1"
+      },
+      {
+        "ref": "L6",
+        "type": "number",
+        "value": "9151.3854",
+        "rawValue": "9151.3854",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A7",
+        "type": "string",
+        "value": "    营业成本",
+        "rawValue": "29"
+      },
+      {
+        "ref": "B7",
+        "type": "number",
+        "value": "147.9407",
+        "rawValue": "147.9407",
+        "styleId": "1"
+      },
+      {
+        "ref": "C7",
+        "type": "number",
+        "value": "876.6908",
+        "rawValue": "876.6908",
+        "styleId": "1"
+      },
+      {
+        "ref": "D7",
+        "type": "number",
+        "value": "2172.8792",
+        "rawValue": "2172.8792",
+        "styleId": "1"
+      },
+      {
+        "ref": "E7",
+        "type": "number",
+        "value": "2685.9893",
+        "rawValue": "2685.9893",
+        "styleId": "1"
+      },
+      {
+        "ref": "F7",
+        "type": "number",
+        "value": "2205.2258",
+        "rawValue": "2205.2258",
+        "styleId": "1"
+      },
+      {
+        "ref": "G7",
+        "type": "number",
+        "value": "3029.0153",
+        "rawValue": "3029.0153",
+        "styleId": "1"
+      },
+      {
+        "ref": "H7",
+        "type": "number",
+        "value": "3363.2631",
+        "rawValue": "3363.2631",
+        "styleId": "1"
+      },
+      {
+        "ref": "I7",
+        "type": "number",
+        "value": "3882.5526",
+        "rawValue": "3882.5526",
+        "styleId": "1"
+      },
+      {
+        "ref": "J7",
+        "type": "number",
+        "value": "5955.6856",
+        "rawValue": "5955.6856",
+        "styleId": "1"
+      },
+      {
+        "ref": "K7",
+        "type": "number",
+        "value": "10777.5394",
+        "rawValue": "10777.5394",
+        "styleId": "1"
+      },
+      {
+        "ref": "L7",
+        "type": "number",
+        "value": "5721.8155",
+        "rawValue": "5721.8155",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A8",
+        "type": "string",
+        "value": "    税金及附加",
+        "rawValue": "30"
+      },
+      {
+        "ref": "B8",
+        "type": "number",
+        "value": "0.2264",
+        "rawValue": "0.2264",
+        "styleId": "1"
+      },
+      {
+        "ref": "C8",
+        "type": "number",
+        "value": "4.4907",
+        "rawValue": "4.4907",
+        "styleId": "1"
+      },
+      {
+        "ref": "D8",
+        "type": "number",
+        "value": "19.5023",
+        "rawValue": "19.5023",
+        "styleId": "1"
+      },
+      {
+        "ref": "E8",
+        "type": "number",
+        "value": "20.1069",
+        "rawValue": "20.1069",
+        "styleId": "1"
+      },
+      {
+        "ref": "F8",
+        "type": "number",
+        "value": "29.6164",
+        "rawValue": "29.6164",
+        "styleId": "1"
+      },
+      {
+        "ref": "G8",
+        "type": "number",
+        "value": "25.7689",
+        "rawValue": "25.7689",
+        "styleId": "1"
+      },
+      {
+        "ref": "H8",
+        "type": "number",
+        "value": "33.4081",
+        "rawValue": "33.4081",
+        "styleId": "1"
+      },
+      {
+        "ref": "I8",
+        "type": "number",
+        "value": "74.6046",
+        "rawValue": "74.6046",
+        "styleId": "1"
+      },
+      {
+        "ref": "J8",
+        "type": "number",
+        "value": "79.8998",
+        "rawValue": "79.8998",
+        "styleId": "1"
+      },
+      {
+        "ref": "K8",
+        "type": "number",
+        "value": "75.9492",
+        "rawValue": "75.9492",
+        "styleId": "1"
+      },
+      {
+        "ref": "L8",
+        "type": "number",
+        "value": "47.6855",
+        "rawValue": "47.6855",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A9",
+        "type": "string",
+        "value": "    销售费用",
+        "rawValue": "31"
+      },
+      {
+        "ref": "B9",
+        "type": "number",
+        "value": "1.5421",
+        "rawValue": "1.5421",
+        "styleId": "1"
+      },
+      {
+        "ref": "C9",
+        "type": "number",
+        "value": "28.811",
+        "rawValue": "28.811",
+        "styleId": "1"
+      },
+      {
+        "ref": "D9",
+        "type": "number",
+        "value": "163.293",
+        "rawValue": "163.293",
+        "styleId": "1"
+      },
+      {
+        "ref": "E9",
+        "type": "number",
+        "value": "353.7901",
+        "rawValue": "353.7901",
+        "styleId": "1"
+      },
+      {
+        "ref": "F9",
+        "type": "number",
+        "value": "619.9922",
+        "rawValue": "619.9922",
+        "styleId": "1"
+      },
+      {
+        "ref": "G9",
+        "type": "number",
+        "value": "938.4684",
+        "rawValue": "938.4684",
+        "styleId": "1"
+      },
+      {
+        "ref": "H9",
+        "type": "number",
+        "value": "1318.3296",
+        "rawValue": "1318.3296",
+        "styleId": "1"
+      },
+      {
+        "ref": "I9",
+        "type": "number",
+        "value": "1817.2518",
+        "rawValue": "1817.2518",
+        "styleId": "1"
+      },
+      {
+        "ref": "J9",
+        "type": "number",
+        "value": "2967.2014",
+        "rawValue": "2967.2014",
+        "styleId": "1"
+      },
+      {
+        "ref": "K9",
+        "type": "number",
+        "value": "4894.3462",
+        "rawValue": "4894.3462",
+        "styleId": "1"
+      },
+      {
+        "ref": "L9",
+        "type": "number",
+        "value": "2250.5621",
+        "rawValue": "2250.5621",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A10",
+        "type": "string",
+        "value": "    管理费用",
+        "rawValue": "32"
+      },
+      {
+        "ref": "B10",
+        "type": "number",
+        "value": "9.5066",
+        "rawValue": "9.5066",
+        "styleId": "1"
+      },
+      {
+        "ref": "C10",
+        "type": "number",
+        "value": "20.5068",
+        "rawValue": "20.5068",
+        "styleId": "1"
+      },
+      {
+        "ref": "D10",
+        "type": "number",
+        "value": "206.0917",
+        "rawValue": "206.0917",
+        "styleId": "1"
+      },
+      {
+        "ref": "E10",
+        "type": "number",
+        "value": "59.5911",
+        "rawValue": "59.5911",
+        "styleId": "1"
+      },
+      {
+        "ref": "F10",
+        "type": "number",
+        "value": "83.1504",
+        "rawValue": "83.1504",
+        "styleId": "1"
+      },
+      {
+        "ref": "G10",
+        "type": "number",
+        "value": "118.9229",
+        "rawValue": "118.9229",
+        "styleId": "1"
+      },
+      {
+        "ref": "H10",
+        "type": "number",
+        "value": "141.2106",
+        "rawValue": "141.2106",
+        "styleId": "1"
+      },
+      {
+        "ref": "I10",
+        "type": "number",
+        "value": "210.981",
+        "rawValue": "210.981",
+        "styleId": "1"
+      },
+      {
+        "ref": "J10",
+        "type": "number",
+        "value": "345.6492",
+        "rawValue": "345.6492",
+        "styleId": "1"
+      },
+      {
+        "ref": "K10",
+        "type": "number",
+        "value": "431.0134",
+        "rawValue": "431.0134",
+        "styleId": "1"
+      },
+      {
+        "ref": "L10",
+        "type": "number",
+        "value": "234.7643",
+        "rawValue": "234.7643",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A11",
+        "type": "string",
+        "value": "    研发费用",
+        "rawValue": "33"
+      },
+      {
+        "ref": "B11",
+        "type": "number",
+        "value": "39.3593",
+        "rawValue": "39.3593",
+        "styleId": "1"
+      },
+      {
+        "ref": "C11",
+        "type": "number",
+        "value": "106.2772",
+        "rawValue": "106.2772",
+        "styleId": "1"
+      },
+      {
+        "ref": "D11",
+        "type": "number",
+        "value": "116.6156",
+        "rawValue": "116.6156",
+        "styleId": "1"
+      },
+      {
+        "ref": "E11",
+        "type": "number",
+        "value": "192.7959",
+        "rawValue": "192.7959",
+        "styleId": "1"
+      },
+      {
+        "ref": "F11",
+        "type": "number",
+        "value": "262.7822",
+        "rawValue": "262.7822",
+        "styleId": "1"
+      },
+      {
+        "ref": "G11",
+        "type": "number",
+        "value": "440.8006",
+        "rawValue": "440.8006",
+        "styleId": "1"
+      },
+      {
+        "ref": "H11",
+        "type": "number",
+        "value": "488.6125",
+        "rawValue": "488.6125",
+        "styleId": "1"
+      },
+      {
+        "ref": "I11",
+        "type": "number",
+        "value": "619.0257",
+        "rawValue": "619.0257",
+        "styleId": "1"
+      },
+      {
+        "ref": "J11",
+        "type": "number",
+        "value": "971.4388",
+        "rawValue": "971.4388",
+        "styleId": "1"
+      },
+      {
+        "ref": "K11",
+        "type": "number",
+        "value": "1419.5662",
+        "rawValue": "1419.5662",
+        "styleId": "1"
+      },
+      {
+        "ref": "L11",
+        "type": "number",
+        "value": "720.1861",
+        "rawValue": "720.1861",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A12",
+        "type": "string",
+        "value": "    财务费用",
+        "rawValue": "34"
+      },
+      {
+        "ref": "B12",
+        "type": "number",
+        "value": "-5.4517",
+        "rawValue": "-5.4517",
+        "styleId": "1"
+      },
+      {
+        "ref": "C12",
+        "type": "number",
+        "value": "0.2522",
+        "rawValue": "0.2522",
+        "styleId": "1"
+      },
+      {
+        "ref": "D12",
+        "type": "number",
+        "value": "1.4294",
+        "rawValue": "1.4294",
+        "styleId": "1"
+      },
+      {
+        "ref": "E12",
+        "type": "number",
+        "value": "-1.6655",
+        "rawValue": "-1.6655",
+        "styleId": "1"
+      },
+      {
+        "ref": "F12",
+        "type": "number",
+        "value": "-32.0195",
+        "rawValue": "-32.0195",
+        "styleId": "1"
+      },
+      {
+        "ref": "G12",
+        "type": "number",
+        "value": "-51.95",
+        "rawValue": "-51.95",
+        "styleId": "1"
+      },
+      {
+        "ref": "H12",
+        "type": "number",
+        "value": "-105.7479",
+        "rawValue": "-105.7479",
+        "styleId": "1"
+      },
+      {
+        "ref": "I12",
+        "type": "number",
+        "value": "-138.595",
+        "rawValue": "-138.595",
+        "styleId": "1"
+      },
+      {
+        "ref": "J12",
+        "type": "number",
+        "value": "-161.6545",
+        "rawValue": "-161.6545",
+        "styleId": "1"
+      },
+      {
+        "ref": "K12",
+        "type": "number",
+        "value": "-152.7914",
+        "rawValue": "-152.7914",
+        "styleId": "1"
+      },
+      {
+        "ref": "L12",
+        "type": "number",
+        "value": "176.3718",
+        "rawValue": "176.3718",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A13",
+        "type": "string",
+        "value": "    其中：利息费用",
+        "rawValue": "35"
+      },
+      {
+        "ref": "B13",
+        "type": "number",
+        "value": "0.3463",
+        "rawValue": "0.3463",
+        "styleId": "1"
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "ref": "G13",
+        "type": "number",
+        "value": "1.4102",
+        "rawValue": "1.4102",
+        "styleId": "1"
+      },
+      {
+        "ref": "H13",
+        "type": "number",
+        "value": "1.5793",
+        "rawValue": "1.5793",
+        "styleId": "1"
+      },
+      {
+        "ref": "I13",
+        "type": "number",
+        "value": "9.4983",
+        "rawValue": "9.4983",
+        "styleId": "1"
+      },
+      {
+        "ref": "J13",
+        "type": "number",
+        "value": "10.323",
+        "rawValue": "10.323",
+        "styleId": "1"
+      },
+      {
+        "ref": "K13",
+        "type": "number",
+        "value": "10.1222",
+        "rawValue": "10.1222",
+        "styleId": "1"
+      },
+      {
+        "ref": "L13",
+        "type": "number",
+        "value": "15.3525",
+        "rawValue": "15.3525",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A14",
+        "type": "string",
+        "value": "          减：利息收入",
+        "rawValue": "36"
+      },
+      {
+        "ref": "B14",
+        "type": "number",
+        "value": "0.0711",
+        "rawValue": "0.0711",
+        "styleId": "1"
+      },
+      {
+        "ref": "C14",
+        "type": "number",
+        "value": "0.2187",
+        "rawValue": "0.2187",
+        "styleId": "1"
+      },
+      {
+        "ref": "D14",
+        "type": "number",
+        "value": "0.5563",
+        "rawValue": "0.5563",
+        "styleId": "1"
+      },
+      {
+        "ref": "E14",
+        "type": "number",
+        "value": "2.2802",
+        "rawValue": "2.2802",
+        "styleId": "1"
+      },
+      {
+        "ref": "F14",
+        "type": "number",
+        "value": "52.261",
+        "rawValue": "52.261",
+        "styleId": "1"
+      },
+      {
+        "ref": "G14",
+        "type": "number",
+        "value": "69.7483",
+        "rawValue": "69.7483",
+        "styleId": "1"
+      },
+      {
+        "ref": "H14",
+        "type": "number",
+        "value": "92.7273",
+        "rawValue": "92.7273",
+        "styleId": "1"
+      },
+      {
+        "ref": "I14",
+        "type": "number",
+        "value": "134.6043",
+        "rawValue": "134.6043",
+        "styleId": "1"
+      },
+      {
+        "ref": "J14",
+        "type": "number",
+        "value": "175.0931",
+        "rawValue": "175.0931",
+        "styleId": "1"
+      },
+      {
+        "ref": "K14",
+        "type": "number",
+        "value": "158.5543",
+        "rawValue": "158.5543",
+        "styleId": "1"
+      },
+      {
+        "ref": "L14",
+        "type": "number",
+        "value": "73.1863",
+        "rawValue": "73.1863",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A15",
+        "type": "string",
+        "value": "    加：其他收益",
+        "rawValue": "37"
+      },
+      null,
+      null,
+      {
+        "ref": "D15",
+        "type": "number",
+        "value": "3.8143",
+        "rawValue": "3.8143",
+        "styleId": "1"
+      },
+      {
+        "ref": "E15",
+        "type": "number",
+        "value": "6.3539",
+        "rawValue": "6.3539",
+        "styleId": "1"
+      },
+      {
+        "ref": "F15",
+        "type": "number",
+        "value": "67.0224",
+        "rawValue": "67.0224",
+        "styleId": "1"
+      },
+      {
+        "ref": "G15",
+        "type": "number",
+        "value": "41.7553",
+        "rawValue": "41.7553",
+        "styleId": "1"
+      },
+      {
+        "ref": "H15",
+        "type": "number",
+        "value": "61.3184",
+        "rawValue": "61.3184",
+        "styleId": "1"
+      },
+      {
+        "ref": "I15",
+        "type": "number",
+        "value": "121.3383",
+        "rawValue": "121.3383",
+        "styleId": "1"
+      },
+      {
+        "ref": "J15",
+        "type": "number",
+        "value": "193.2405",
+        "rawValue": "193.2405",
+        "styleId": "1"
+      },
+      {
+        "ref": "K15",
+        "type": "number",
+        "value": "189.6161",
+        "rawValue": "189.6161",
+        "styleId": "1"
+      },
+      {
+        "ref": "L15",
+        "type": "number",
+        "value": "73.6871",
+        "rawValue": "73.6871",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A16",
+        "type": "string",
+        "value": "    投资净收益",
+        "rawValue": "38"
+      },
+      {
+        "ref": "B16",
+        "type": "number",
+        "value": "0.0374",
+        "rawValue": "0.0374",
+        "styleId": "1"
+      },
+      {
+        "ref": "C16",
+        "type": "number",
+        "value": "1.4387",
+        "rawValue": "1.4387",
+        "styleId": "1"
+      },
+      {
+        "ref": "D16",
+        "type": "number",
+        "value": "4.4695",
+        "rawValue": "4.4695",
+        "styleId": "1"
+      },
+      {
+        "ref": "E16",
+        "type": "number",
+        "value": "16.2737",
+        "rawValue": "16.2737",
+        "styleId": "1"
+      },
+      {
+        "ref": "F16",
+        "type": "number",
+        "value": "48.5289",
+        "rawValue": "48.5289",
+        "styleId": "1"
+      },
+      {
+        "ref": "G16",
+        "type": "number",
+        "value": "190.9016",
+        "rawValue": "190.9016",
+        "styleId": "1"
+      },
+      {
+        "ref": "H16",
+        "type": "number",
+        "value": "32.8353",
+        "rawValue": "32.8353",
+        "styleId": "1"
+      },
+      {
+        "ref": "I16",
+        "type": "number",
+        "value": "62.4654",
+        "rawValue": "62.4654",
+        "styleId": "1"
+      },
+      {
+        "ref": "J16",
+        "type": "number",
+        "value": "151.0269",
+        "rawValue": "151.0269",
+        "styleId": "1"
+      },
+      {
+        "ref": "K16",
+        "type": "number",
+        "value": "111.8996",
+        "rawValue": "111.8996",
+        "styleId": "1"
+      },
+      {
+        "ref": "L16",
+        "type": "number",
+        "value": "58.5277",
+        "rawValue": "58.5277",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A17",
+        "type": "string",
+        "value": "    其中：对联营企业和合营企业的投资收益",
+        "rawValue": "39"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "ref": "G17",
+        "type": "number",
+        "value": "-0.1138",
+        "rawValue": "-0.1138",
+        "styleId": "1"
+      },
+      {
+        "ref": "H17",
+        "type": "number",
+        "value": "-0.228",
+        "rawValue": "-0.228",
+        "styleId": "1"
+      },
+      {
+        "ref": "I17",
+        "type": "number",
+        "value": "-0.3077",
+        "rawValue": "-0.3077",
+        "styleId": "1"
+      },
+      {
+        "ref": "J17",
+        "type": "number",
+        "value": "0.0698",
+        "rawValue": "0.0698",
+        "styleId": "1"
+      },
+      {
+        "ref": "K17",
+        "type": "number",
+        "value": "0.316",
+        "rawValue": "0.316",
+        "styleId": "1"
+      },
+      {
+        "ref": "L17",
+        "type": "number",
+        "value": "-0.0084",
+        "rawValue": "-0.0084",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A18",
+        "type": "string",
+        "value": "    公允价值变动净收益",
+        "rawValue": "40"
+      },
+      null,
+      null,
+      {
+        "ref": "D18",
+        "type": "number",
+        "value": "2.4257",
+        "rawValue": "2.4257",
+        "styleId": "1"
+      },
+      {
+        "ref": "E18",
+        "type": "number",
+        "value": "7.4335",
+        "rawValue": "7.4335",
+        "styleId": "1"
+      },
+      {
+        "ref": "F18",
+        "type": "number",
+        "value": "109.771",
+        "rawValue": "109.771",
+        "styleId": "1"
+      },
+      {
+        "ref": "G18",
+        "type": "number",
+        "value": "62.1576",
+        "rawValue": "62.1576",
+        "styleId": "1"
+      },
+      {
+        "ref": "H18",
+        "type": "number",
+        "value": "-63.7958",
+        "rawValue": "-63.7958",
+        "styleId": "1"
+      },
+      {
+        "ref": "I18",
+        "type": "number",
+        "value": "114.3104",
+        "rawValue": "114.3104",
+        "styleId": "1"
+      },
+      {
+        "ref": "J18",
+        "type": "number",
+        "value": "44.8269",
+        "rawValue": "44.8269",
+        "styleId": "1"
+      },
+      {
+        "ref": "K18",
+        "type": "number",
+        "value": "67.2017",
+        "rawValue": "67.2017",
+        "styleId": "1"
+      },
+      {
+        "ref": "L18",
+        "type": "number",
+        "value": "91.1435",
+        "rawValue": "91.1435",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A19",
+        "type": "string",
+        "value": "    资产减值损失",
+        "rawValue": "41"
+      },
+      {
+        "ref": "B19",
+        "type": "number",
+        "value": "1.286",
+        "rawValue": "1.286",
+        "styleId": "1"
+      },
+      {
+        "ref": "C19",
+        "type": "number",
+        "value": "2.6204",
+        "rawValue": "2.6204",
+        "styleId": "1"
+      },
+      {
+        "ref": "D19",
+        "type": "number",
+        "value": "0.205",
+        "rawValue": "0.205",
+        "styleId": "1"
+      },
+      null,
+      {
+        "ref": "F19",
+        "type": "number",
+        "value": "-31.0382",
+        "rawValue": "-31.0382",
+        "styleId": "1"
+      },
+      {
+        "ref": "G19",
+        "type": "number",
+        "value": "-30.1538",
+        "rawValue": "-30.1538",
+        "styleId": "1"
+      },
+      {
+        "ref": "H19",
+        "type": "number",
+        "value": "-66.0666",
+        "rawValue": "-66.0666",
+        "styleId": "1"
+      },
+      {
+        "ref": "I19",
+        "type": "number",
+        "value": "-148.0472",
+        "rawValue": "-148.0472",
+        "styleId": "1"
+      },
+      {
+        "ref": "J19",
+        "type": "number",
+        "value": "-95.203",
+        "rawValue": "-95.203",
+        "styleId": "1"
+      },
+      {
+        "ref": "K19",
+        "type": "number",
+        "value": "-161.7893",
+        "rawValue": "-161.7893",
+        "styleId": "1"
+      },
+      {
+        "ref": "L19",
+        "type": "number",
+        "value": "-156.3505",
+        "rawValue": "-156.3505",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A20",
+        "type": "string",
+        "value": "    信用减值损失",
+        "rawValue": "42"
+      },
+      null,
+      null,
+      null,
+      {
+        "ref": "E20",
+        "type": "number",
+        "value": "0.5706",
+        "rawValue": "0.5706",
+        "styleId": "1"
+      },
+      {
+        "ref": "F20",
+        "type": "number",
+        "value": "0.5338",
+        "rawValue": "0.5338",
+        "styleId": "1"
+      },
+      {
+        "ref": "G20",
+        "type": "number",
+        "value": "-2.5792",
+        "rawValue": "-2.5792",
+        "styleId": "1"
+      },
+      {
+        "ref": "H20",
+        "type": "number",
+        "value": "-3.619",
+        "rawValue": "-3.619",
+        "styleId": "1"
+      },
+      {
+        "ref": "I20",
+        "type": "number",
+        "value": "-21.7561",
+        "rawValue": "-21.7561",
+        "styleId": "1"
+      },
+      {
+        "ref": "J20",
+        "type": "number",
+        "value": "10.8766",
+        "rawValue": "10.8766",
+        "styleId": "1"
+      },
+      {
+        "ref": "K20",
+        "type": "number",
+        "value": "-9.3766",
+        "rawValue": "-9.3766",
+        "styleId": "1"
+      },
+      {
+        "ref": "L20",
+        "type": "number",
+        "value": "1.3906",
+        "rawValue": "1.3906",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A21",
+        "type": "string",
+        "value": "    资产处置收益",
+        "rawValue": "43"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "ref": "H21",
+        "type": "number",
+        "value": "-5.9235",
+        "rawValue": "-5.9235",
+        "styleId": "1"
+      },
+      {
+        "ref": "I21",
+        "type": "number",
+        "value": "0.9342",
+        "rawValue": "0.9342",
+        "styleId": "1"
+      },
+      {
+        "ref": "J21",
+        "type": "number",
+        "value": "-0.9595",
+        "rawValue": "-0.9595",
+        "styleId": "1"
+      },
+      {
+        "ref": "K21",
+        "type": "number",
+        "value": "0.6636",
+        "rawValue": "0.6636",
+        "styleId": "1"
+      },
+      {
+        "ref": "L21",
+        "type": "number",
+        "value": "0.082",
+        "rawValue": "0.082",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A22",
+        "type": "string",
+        "value": "营业利润",
+        "rawValue": "44"
+      },
+      {
+        "ref": "B22",
+        "type": "number",
+        "value": "-11.245",
+        "rawValue": "-11.245",
+        "styleId": "1"
+      },
+      {
+        "ref": "C22",
+        "type": "number",
+        "value": "80.6074",
+        "rawValue": "80.6074",
+        "styleId": "1"
+      },
+      {
+        "ref": "D22",
+        "type": "number",
+        "value": "381.9437",
+        "rawValue": "381.9437",
+        "styleId": "1"
+      },
+      {
+        "ref": "E22",
+        "type": "number",
+        "value": "924.9258",
+        "rawValue": "924.9258",
+        "styleId": "1"
+      },
+      {
+        "ref": "F22",
+        "type": "number",
+        "value": "1556.5095",
+        "rawValue": "1556.5095",
+        "styleId": "1"
+      },
+      {
+        "ref": "G22",
+        "type": "number",
+        "value": "1598.1068",
+        "rawValue": "1598.1068",
+        "styleId": "1"
+      },
+      {
+        "ref": "H22",
+        "type": "number",
+        "value": "1344.3891",
+        "rawValue": "1344.3891",
+        "styleId": "1"
+      },
+      {
+        "ref": "I22",
+        "type": "number",
+        "value": "2317.2082",
+        "rawValue": "2317.2082",
+        "styleId": "1"
+      },
+      {
+        "ref": "J22",
+        "type": "number",
+        "value": "2090.2953",
+        "rawValue": "2090.2953",
+        "styleId": "1"
+      },
+      {
+        "ref": "K22",
+        "type": "number",
+        "value": "1447.369",
+        "rawValue": "1447.369",
+        "styleId": "1"
+      },
+      {
+        "ref": "L22",
+        "type": "number",
+        "value": "1001.5095",
+        "rawValue": "1001.5095",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A23",
+        "type": "string",
+        "value": "    加：营业外收入",
+        "rawValue": "45"
+      },
+      {
+        "ref": "B23",
+        "type": "number",
+        "value": "0.0051",
+        "rawValue": "0.0051",
+        "styleId": "1"
+      },
+      {
+        "ref": "C23",
+        "type": "number",
+        "value": "0.0073",
+        "rawValue": "0.0073",
+        "styleId": "1"
+      },
+      {
+        "ref": "D23",
+        "type": "number",
+        "value": "0.1039",
+        "rawValue": "0.1039",
+        "styleId": "1"
+      },
+      {
+        "ref": "E23",
+        "type": "number",
+        "value": "0.215",
+        "rawValue": "0.215",
+        "styleId": "1"
+      },
+      {
+        "ref": "F23",
+        "type": "number",
+        "value": "0.2022",
+        "rawValue": "0.2022",
+        "styleId": "1"
+      },
+      {
+        "ref": "G23",
+        "type": "number",
+        "value": "0.0158",
+        "rawValue": "0.0158",
+        "styleId": "1"
+      },
+      {
+        "ref": "H23",
+        "type": "number",
+        "value": "5.6498",
+        "rawValue": "5.6498",
+        "styleId": "1"
+      },
+      {
+        "ref": "I23",
+        "type": "number",
+        "value": "2.6969",
+        "rawValue": "2.6969",
+        "styleId": "1"
+      },
+      {
+        "ref": "J23",
+        "type": "number",
+        "value": "11.7134",
+        "rawValue": "11.7134",
+        "styleId": "1"
+      },
+      {
+        "ref": "K23",
+        "type": "number",
+        "value": "5.7769",
+        "rawValue": "5.7769",
+        "styleId": "1"
+      },
+      {
+        "ref": "L23",
+        "type": "number",
+        "value": "3.9265",
+        "rawValue": "3.9265",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A24",
+        "type": "string",
+        "value": "    减：营业外支出",
+        "rawValue": "46"
+      },
+      null,
+      null,
+      {
+        "ref": "D24",
+        "type": "number",
+        "value": "0.1354",
+        "rawValue": "0.1354",
+        "styleId": "1"
+      },
+      {
+        "ref": "E24",
+        "type": "number",
+        "value": "0.0077",
+        "rawValue": "0.0077",
+        "styleId": "1"
+      },
+      {
+        "ref": "F24",
+        "type": "number",
+        "value": "0.3092",
+        "rawValue": "0.3092",
+        "styleId": "1"
+      },
+      {
+        "ref": "G24",
+        "type": "number",
+        "value": "0.0907",
+        "rawValue": "0.0907",
+        "styleId": "1"
+      },
+      {
+        "ref": "H24",
+        "type": "number",
+        "value": "0.8332",
+        "rawValue": "0.8332",
+        "styleId": "1"
+      },
+      {
+        "ref": "I24",
+        "type": "number",
+        "value": "0.1219",
+        "rawValue": "0.1219",
+        "styleId": "1"
+      },
+      {
+        "ref": "J24",
+        "type": "number",
+        "value": "4.4619",
+        "rawValue": "4.4619",
+        "styleId": "1"
+      },
+      {
+        "ref": "K24",
+        "type": "number",
+        "value": "6.2714",
+        "rawValue": "6.2714",
+        "styleId": "1"
+      },
+      {
+        "ref": "L24",
+        "type": "number",
+        "value": "3.5448",
+        "rawValue": "3.5448",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A25",
+        "type": "string",
+        "value": "利润总额",
+        "rawValue": "47"
+      },
+      {
+        "ref": "B25",
+        "type": "number",
+        "value": "-11.2399",
+        "rawValue": "-11.2399",
+        "styleId": "1"
+      },
+      {
+        "ref": "C25",
+        "type": "number",
+        "value": "80.6147",
+        "rawValue": "80.6147",
+        "styleId": "1"
+      },
+      {
+        "ref": "D25",
+        "type": "number",
+        "value": "381.9122",
+        "rawValue": "381.9122",
+        "styleId": "1"
+      },
+      {
+        "ref": "E25",
+        "type": "number",
+        "value": "925.1331",
+        "rawValue": "925.1331",
+        "styleId": "1"
+      },
+      {
+        "ref": "F25",
+        "type": "number",
+        "value": "1556.4025",
+        "rawValue": "1556.4025",
+        "styleId": "1"
+      },
+      {
+        "ref": "G25",
+        "type": "number",
+        "value": "1598.0319",
+        "rawValue": "1598.0319",
+        "styleId": "1"
+      },
+      {
+        "ref": "H25",
+        "type": "number",
+        "value": "1349.2058",
+        "rawValue": "1349.2058",
+        "styleId": "1"
+      },
+      {
+        "ref": "I25",
+        "type": "number",
+        "value": "2319.7832",
+        "rawValue": "2319.7832",
+        "styleId": "1"
+      },
+      {
+        "ref": "J25",
+        "type": "number",
+        "value": "2097.5468",
+        "rawValue": "2097.5468",
+        "styleId": "1"
+      },
+      {
+        "ref": "K25",
+        "type": "number",
+        "value": "1446.8745",
+        "rawValue": "1446.8745",
+        "styleId": "1"
+      },
+      {
+        "ref": "L25",
+        "type": "number",
+        "value": "1001.8913",
+        "rawValue": "1001.8913",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A26",
+        "type": "string",
+        "value": "    减：所得税",
+        "rawValue": "48"
+      },
+      null,
+      {
+        "ref": "C26",
+        "type": "number",
+        "value": "13.6185",
+        "rawValue": "13.6185",
+        "styleId": "1"
+      },
+      {
+        "ref": "D26",
+        "type": "number",
+        "value": "74.3244",
+        "rawValue": "74.3244",
+        "styleId": "1"
+      },
+      {
+        "ref": "E26",
+        "type": "number",
+        "value": "142.2744",
+        "rawValue": "142.2744",
+        "styleId": "1"
+      },
+      {
+        "ref": "F26",
+        "type": "number",
+        "value": "186.9876",
+        "rawValue": "186.9876",
+        "styleId": "1"
+      },
+      {
+        "ref": "G26",
+        "type": "number",
+        "value": "195.5667",
+        "rawValue": "195.5667",
+        "styleId": "1"
+      },
+      {
+        "ref": "H26",
+        "type": "number",
+        "value": "165.7384",
+        "rawValue": "165.7384",
+        "styleId": "1"
+      },
+      {
+        "ref": "I26",
+        "type": "number",
+        "value": "268.5785",
+        "rawValue": "268.5785",
+        "styleId": "1"
+      },
+      {
+        "ref": "J26",
+        "type": "number",
+        "value": "121.0027",
+        "rawValue": "121.0027",
+        "styleId": "1"
+      },
+      {
+        "ref": "K26",
+        "type": "number",
+        "value": "83.5722",
+        "rawValue": "83.5722",
+        "styleId": "1"
+      },
+      {
+        "ref": "L26",
+        "type": "number",
+        "value": "15.4538",
+        "rawValue": "15.4538",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A27",
+        "type": "string",
+        "value": "净利润",
+        "rawValue": "49"
+      },
+      {
+        "ref": "B27",
+        "type": "number",
+        "value": "-11.2399",
+        "rawValue": "-11.2399",
+        "styleId": "1"
+      },
+      {
+        "ref": "C27",
+        "type": "number",
+        "value": "66.9962",
+        "rawValue": "66.9962",
+        "styleId": "1"
+      },
+      {
+        "ref": "D27",
+        "type": "number",
+        "value": "307.5878",
+        "rawValue": "307.5878",
+        "styleId": "1"
+      },
+      {
+        "ref": "E27",
+        "type": "number",
+        "value": "782.8587",
+        "rawValue": "782.8587",
+        "styleId": "1"
+      },
+      {
+        "ref": "F27",
+        "type": "number",
+        "value": "1369.4149",
+        "rawValue": "1369.4149",
+        "styleId": "1"
+      },
+      {
+        "ref": "G27",
+        "type": "number",
+        "value": "1402.4651",
+        "rawValue": "1402.4651",
+        "styleId": "1"
+      },
+      {
+        "ref": "H27",
+        "type": "number",
+        "value": "1183.4674",
+        "rawValue": "1183.4674",
+        "styleId": "1"
+      },
+      {
+        "ref": "I27",
+        "type": "number",
+        "value": "2051.2047",
+        "rawValue": "2051.2047",
+        "styleId": "1"
+      },
+      {
+        "ref": "J27",
+        "type": "number",
+        "value": "1976.5441",
+        "rawValue": "1976.5441",
+        "styleId": "1"
+      },
+      {
+        "ref": "K27",
+        "type": "number",
+        "value": "1363.3024",
+        "rawValue": "1363.3024",
+        "styleId": "1"
+      },
+      {
+        "ref": "L27",
+        "type": "number",
+        "value": "986.4375",
+        "rawValue": "986.4375",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A28",
+        "type": "string",
+        "value": "    持续经营净利润",
+        "rawValue": "50"
+      },
+      {
+        "ref": "B28",
+        "type": "number",
+        "value": "-11.2399",
+        "rawValue": "-11.2399",
+        "styleId": "1"
+      },
+      {
+        "ref": "C28",
+        "type": "number",
+        "value": "66.9962",
+        "rawValue": "66.9962",
+        "styleId": "1"
+      },
+      {
+        "ref": "D28",
+        "type": "number",
+        "value": "307.5878",
+        "rawValue": "307.5878",
+        "styleId": "1"
+      },
+      {
+        "ref": "E28",
+        "type": "number",
+        "value": "782.8587",
+        "rawValue": "782.8587",
+        "styleId": "1"
+      },
+      {
+        "ref": "F28",
+        "type": "number",
+        "value": "1369.4149",
+        "rawValue": "1369.4149",
+        "styleId": "1"
+      },
+      {
+        "ref": "G28",
+        "type": "number",
+        "value": "1402.4651",
+        "rawValue": "1402.4651",
+        "styleId": "1"
+      },
+      {
+        "ref": "H28",
+        "type": "number",
+        "value": "1183.4674",
+        "rawValue": "1183.4674",
+        "styleId": "1"
+      },
+      {
+        "ref": "I28",
+        "type": "number",
+        "value": "2051.2047",
+        "rawValue": "2051.2047",
+        "styleId": "1"
+      },
+      {
+        "ref": "J28",
+        "type": "number",
+        "value": "1976.5441",
+        "rawValue": "1976.5441",
+        "styleId": "1"
+      },
+      {
+        "ref": "K28",
+        "type": "number",
+        "value": "1363.3024",
+        "rawValue": "1363.3024",
+        "styleId": "1"
+      },
+      {
+        "ref": "L28",
+        "type": "number",
+        "value": "986.4375",
+        "rawValue": "986.4375",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A29",
+        "type": "string",
+        "value": "    减：少数股东损益",
+        "rawValue": "51"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "ref": "G29",
+        "type": "number",
+        "value": "-0.0109",
+        "rawValue": "-0.0109",
+        "styleId": "1"
+      },
+      {
+        "ref": "H29",
+        "type": "number",
+        "value": "-0.0095",
+        "rawValue": "-0.0095",
+        "styleId": "1"
+      },
+      {
+        "ref": "I29",
+        "type": "number",
+        "value": "-0.0127",
+        "rawValue": "-0.0127",
+        "styleId": "1"
+      },
+      {
+        "ref": "J29",
+        "type": "number",
+        "value": "-0.0191",
+        "rawValue": "-0.0191",
+        "styleId": "1"
+      },
+      {
+        "ref": "K29",
+        "type": "number",
+        "value": "-0.0199",
+        "rawValue": "-0.0199",
+        "styleId": "1"
+      },
+      {
+        "ref": "L29",
+        "type": "number",
+        "value": "0",
+        "rawValue": "0",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A30",
+        "type": "string",
+        "value": "    归属于母公司所有者的净利润",
+        "rawValue": "52"
+      },
+      {
+        "ref": "B30",
+        "type": "number",
+        "value": "-11.2399",
+        "rawValue": "-11.2399",
+        "styleId": "1"
+      },
+      {
+        "ref": "C30",
+        "type": "number",
+        "value": "66.9962",
+        "rawValue": "66.9962",
+        "styleId": "1"
+      },
+      {
+        "ref": "D30",
+        "type": "number",
+        "value": "307.5878",
+        "rawValue": "307.5878",
+        "styleId": "1"
+      },
+      {
+        "ref": "E30",
+        "type": "number",
+        "value": "782.8587",
+        "rawValue": "782.8587",
+        "styleId": "1"
+      },
+      {
+        "ref": "F30",
+        "type": "number",
+        "value": "1369.4149",
+        "rawValue": "1369.4149",
+        "styleId": "1"
+      },
+      {
+        "ref": "G30",
+        "type": "number",
+        "value": "1402.4761",
+        "rawValue": "1402.4761",
+        "styleId": "1"
+      },
+      {
+        "ref": "H30",
+        "type": "number",
+        "value": "1183.4769",
+        "rawValue": "1183.4769",
+        "styleId": "1"
+      },
+      {
+        "ref": "I30",
+        "type": "number",
+        "value": "2051.2174",
+        "rawValue": "2051.2174",
+        "styleId": "1"
+      },
+      {
+        "ref": "J30",
+        "type": "number",
+        "value": "1976.5632",
+        "rawValue": "1976.5632",
+        "styleId": "1"
+      },
+      {
+        "ref": "K30",
+        "type": "number",
+        "value": "1363.3223",
+        "rawValue": "1363.3223",
+        "styleId": "1"
+      },
+      {
+        "ref": "L30",
+        "type": "number",
+        "value": "986.4375",
+        "rawValue": "986.4375",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A31",
+        "type": "string",
+        "value": "    加：其他综合收益",
+        "rawValue": "53"
+      },
+      null,
+      null,
+      {
+        "ref": "D31",
+        "type": "number",
+        "value": "0.3525",
+        "rawValue": "0.3525",
+        "styleId": "1"
+      },
+      {
+        "ref": "E31",
+        "type": "number",
+        "value": "3.2329",
+        "rawValue": "3.2329",
+        "styleId": "1"
+      },
+      {
+        "ref": "F31",
+        "type": "number",
+        "value": "-11.1203",
+        "rawValue": "-11.1203",
+        "styleId": "1"
+      },
+      {
+        "ref": "G31",
+        "type": "number",
+        "value": "-5.6773",
+        "rawValue": "-5.6773",
+        "styleId": "1"
+      },
+      {
+        "ref": "H31",
+        "type": "number",
+        "value": "17.7248",
+        "rawValue": "17.7248",
+        "styleId": "1"
+      },
+      {
+        "ref": "I31",
+        "type": "number",
+        "value": "-0.7997",
+        "rawValue": "-0.7997",
+        "styleId": "1"
+      },
+      {
+        "ref": "J31",
+        "type": "number",
+        "value": "12.3552",
+        "rawValue": "12.3552",
+        "styleId": "1"
+      },
+      {
+        "ref": "K31",
+        "type": "number",
+        "value": "-9.1107",
+        "rawValue": "-9.1107",
+        "styleId": "1"
+      },
+      {
+        "ref": "L31",
+        "type": "number",
+        "value": "-51.4886",
+        "rawValue": "-51.4886",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A32",
+        "type": "string",
+        "value": "综合收益总额",
+        "rawValue": "54"
+      },
+      {
+        "ref": "B32",
+        "type": "number",
+        "value": "-11.2399",
+        "rawValue": "-11.2399",
+        "styleId": "1"
+      },
+      {
+        "ref": "C32",
+        "type": "number",
+        "value": "66.9962",
+        "rawValue": "66.9962",
+        "styleId": "1"
+      },
+      {
+        "ref": "D32",
+        "type": "number",
+        "value": "307.9403",
+        "rawValue": "307.9403",
+        "styleId": "1"
+      },
+      {
+        "ref": "E32",
+        "type": "number",
+        "value": "786.0917",
+        "rawValue": "786.0917",
+        "styleId": "1"
+      },
+      {
+        "ref": "F32",
+        "type": "number",
+        "value": "1358.2946",
+        "rawValue": "1358.2946",
+        "styleId": "1"
+      },
+      {
+        "ref": "G32",
+        "type": "number",
+        "value": "1396.7879",
+        "rawValue": "1396.7879",
+        "styleId": "1"
+      },
+      {
+        "ref": "H32",
+        "type": "number",
+        "value": "1201.1922",
+        "rawValue": "1201.1922",
+        "styleId": "1"
+      },
+      {
+        "ref": "I32",
+        "type": "number",
+        "value": "2050.405",
+        "rawValue": "2050.405",
+        "styleId": "1"
+      },
+      {
+        "ref": "J32",
+        "type": "number",
+        "value": "1988.8993",
+        "rawValue": "1988.8993",
+        "styleId": "1"
+      },
+      {
+        "ref": "K32",
+        "type": "number",
+        "value": "1354.1916",
+        "rawValue": "1354.1916",
+        "styleId": "1"
+      },
+      {
+        "ref": "L32",
+        "type": "number",
+        "value": "934.9489",
+        "rawValue": "934.9489",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A33",
+        "type": "string",
+        "value": "    减：归属于少数股东的综合收益总额",
+        "rawValue": "55"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "ref": "G33",
+        "type": "number",
+        "value": "-0.0109",
+        "rawValue": "-0.0109",
+        "styleId": "1"
+      },
+      {
+        "ref": "H33",
+        "type": "number",
+        "value": "-0.0095",
+        "rawValue": "-0.0095",
+        "styleId": "1"
+      },
+      {
+        "ref": "I33",
+        "type": "number",
+        "value": "-0.0127",
+        "rawValue": "-0.0127",
+        "styleId": "1"
+      },
+      {
+        "ref": "J33",
+        "type": "number",
+        "value": "-0.0191",
+        "rawValue": "-0.0191",
+        "styleId": "1"
+      },
+      {
+        "ref": "K33",
+        "type": "number",
+        "value": "-0.0199",
+        "rawValue": "-0.0199",
+        "styleId": "1"
+      },
+      {
+        "ref": "L33",
+        "type": "number",
+        "value": "0",
+        "rawValue": "0",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A34",
+        "type": "string",
+        "value": "    归属于母公司普通股东综合收益总额",
+        "rawValue": "56"
+      },
+      {
+        "ref": "B34",
+        "type": "number",
+        "value": "-11.2399",
+        "rawValue": "-11.2399",
+        "styleId": "1"
+      },
+      {
+        "ref": "C34",
+        "type": "number",
+        "value": "66.9962",
+        "rawValue": "66.9962",
+        "styleId": "1"
+      },
+      {
+        "ref": "D34",
+        "type": "number",
+        "value": "307.9403",
+        "rawValue": "307.9403",
+        "styleId": "1"
+      },
+      {
+        "ref": "E34",
+        "type": "number",
+        "value": "786.0917",
+        "rawValue": "786.0917",
+        "styleId": "1"
+      },
+      {
+        "ref": "F34",
+        "type": "number",
+        "value": "1358.2946",
+        "rawValue": "1358.2946",
+        "styleId": "1"
+      },
+      {
+        "ref": "G34",
+        "type": "number",
+        "value": "1396.7988",
+        "rawValue": "1396.7988",
+        "styleId": "1"
+      },
+      {
+        "ref": "H34",
+        "type": "number",
+        "value": "1201.2017",
+        "rawValue": "1201.2017",
+        "styleId": "1"
+      },
+      {
+        "ref": "I34",
+        "type": "number",
+        "value": "2050.4177",
+        "rawValue": "2050.4177",
+        "styleId": "1"
+      },
+      {
+        "ref": "J34",
+        "type": "number",
+        "value": "1988.9184",
+        "rawValue": "1988.9184",
+        "styleId": "1"
+      },
+      {
+        "ref": "K34",
+        "type": "number",
+        "value": "1354.2116",
+        "rawValue": "1354.2116",
+        "styleId": "1"
+      },
+      {
+        "ref": "L34",
+        "type": "number",
+        "value": "934.9489",
+        "rawValue": "934.9489",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A35",
+        "type": "string",
+        "value": "每股收益：",
+        "rawValue": "57"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A36",
+        "type": "string",
+        "value": "    基本每股收益",
+        "rawValue": "58"
+      },
+      null,
+      null,
+      {
+        "ref": "D36",
+        "type": "number",
+        "value": "6.15",
+        "rawValue": "6.15",
+        "styleId": "1"
+      },
+      {
+        "ref": "E36",
+        "type": "number",
+        "value": "15.66",
+        "rawValue": "15.66",
+        "styleId": "1"
+      },
+      {
+        "ref": "F36",
+        "type": "number",
+        "value": "21.43",
+        "rawValue": "21.43",
+        "styleId": "1"
+      },
+      {
+        "ref": "G36",
+        "type": "number",
+        "value": "21.03",
+        "rawValue": "21.03",
+        "styleId": "1"
+      },
+      {
+        "ref": "H36",
+        "type": "number",
+        "value": "12.66",
+        "rawValue": "12.66",
+        "styleId": "1"
+      },
+      {
+        "ref": "I36",
+        "type": "number",
+        "value": "15.66",
+        "rawValue": "15.66",
+        "styleId": "1"
+      },
+      {
+        "ref": "J36",
+        "type": "number",
+        "value": "10.77",
+        "rawValue": "10.77",
+        "styleId": "1"
+      },
+      {
+        "ref": "K36",
+        "type": "number",
+        "value": "5.29",
+        "rawValue": "5.29",
+        "styleId": "1"
+      },
+      {
+        "ref": "L36",
+        "type": "number",
+        "value": "3.83",
+        "rawValue": "3.83",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A37",
+        "type": "string",
+        "value": "    稀释每股收益",
+        "rawValue": "59"
+      },
+      null,
+      null,
+      {
+        "ref": "D37",
+        "type": "number",
+        "value": "6.15",
+        "rawValue": "6.15",
+        "styleId": "1"
+      },
+      {
+        "ref": "E37",
+        "type": "number",
+        "value": "15.66",
+        "rawValue": "15.66",
+        "styleId": "1"
+      },
+      {
+        "ref": "F37",
+        "type": "number",
+        "value": "21.39",
+        "rawValue": "21.39",
+        "styleId": "1"
+      },
+      {
+        "ref": "G37",
+        "type": "number",
+        "value": "20.91",
+        "rawValue": "20.91",
+        "styleId": "1"
+      },
+      {
+        "ref": "H37",
+        "type": "number",
+        "value": "12.62",
+        "rawValue": "12.62",
+        "styleId": "1"
+      },
+      {
+        "ref": "I37",
+        "type": "number",
+        "value": "15.58",
+        "rawValue": "15.58",
+        "styleId": "1"
+      },
+      {
+        "ref": "J37",
+        "type": "number",
+        "value": "10.71",
+        "rawValue": "10.71",
+        "styleId": "1"
+      },
+      {
+        "ref": "K37",
+        "type": "number",
+        "value": "5.28",
+        "rawValue": "5.28",
+        "styleId": "1"
+      },
+      {
+        "ref": "L37",
+        "type": "number",
+        "value": "3.83",
+        "rawValue": "3.83",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A38",
+        "type": "string",
+        "value": "显示币种",
+        "rawValue": "60"
+      },
+      {
+        "ref": "B38",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "C38",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "D38",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "E38",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "F38",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "G38",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "H38",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "I38",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "J38",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "K38",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "L38",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      }
+    ],
+    [
+      {
+        "ref": "A39",
+        "type": "string",
+        "value": "原始币种",
+        "rawValue": "62"
+      },
+      {
+        "ref": "B39",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "C39",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "D39",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "E39",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "F39",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "G39",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "H39",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "I39",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "J39",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "K39",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      },
+      {
+        "ref": "L39",
+        "type": "string",
+        "value": "CNY",
+        "rawValue": "61"
+      }
+    ],
+    [
+      {
+        "ref": "A40",
+        "type": "string",
+        "value": "转换汇率",
+        "rawValue": "63"
+      },
+      {
+        "ref": "B40",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      },
+      {
+        "ref": "C40",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      },
+      {
+        "ref": "D40",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      },
+      {
+        "ref": "E40",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      },
+      {
+        "ref": "F40",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      },
+      {
+        "ref": "G40",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      },
+      {
+        "ref": "H40",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      },
+      {
+        "ref": "I40",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      },
+      {
+        "ref": "J40",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      },
+      {
+        "ref": "K40",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      },
+      {
+        "ref": "L40",
+        "type": "number",
+        "value": "1",
+        "rawValue": "1",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A41",
+        "type": "string",
+        "value": "汇率类型",
+        "rawValue": "64"
+      },
+      {
+        "ref": "B41",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "65"
+      },
+      {
+        "ref": "C41",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "65"
+      },
+      {
+        "ref": "D41",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "65"
+      },
+      {
+        "ref": "E41",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "65"
+      },
+      {
+        "ref": "F41",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "65"
+      },
+      {
+        "ref": "G41",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "65"
+      },
+      {
+        "ref": "H41",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "65"
+      },
+      {
+        "ref": "I41",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "65"
+      },
+      {
+        "ref": "J41",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "65"
+      },
+      {
+        "ref": "K41",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "65"
+      },
+      {
+        "ref": "L41",
+        "type": "string",
+        "value": "最新汇率",
+        "rawValue": "65"
+      }
+    ],
+    [
+      {
+        "ref": "A42",
+        "type": "string",
+        "value": "税率",
+        "rawValue": "66"
+      },
+      {
+        "ref": "B42",
+        "type": "number",
+        "value": "25",
+        "rawValue": "25",
+        "styleId": "1"
+      },
+      {
+        "ref": "C42",
+        "type": "number",
+        "value": "15",
+        "rawValue": "15",
+        "styleId": "1"
+      },
+      {
+        "ref": "D42",
+        "type": "number",
+        "value": "15",
+        "rawValue": "15",
+        "styleId": "1"
+      },
+      {
+        "ref": "E42",
+        "type": "number",
+        "value": "15",
+        "rawValue": "15",
+        "styleId": "1"
+      },
+      {
+        "ref": "F42",
+        "type": "number",
+        "value": "15",
+        "rawValue": "15",
+        "styleId": "1"
+      },
+      {
+        "ref": "G42",
+        "type": "number",
+        "value": "15",
+        "rawValue": "15",
+        "styleId": "1"
+      },
+      {
+        "ref": "H42",
+        "type": "number",
+        "value": "15",
+        "rawValue": "15",
+        "styleId": "1"
+      },
+      {
+        "ref": "I42",
+        "type": "number",
+        "value": "15",
+        "rawValue": "15",
+        "styleId": "1"
+      },
+      {
+        "ref": "J42",
+        "type": "number",
+        "value": "15",
+        "rawValue": "15",
+        "styleId": "1"
+      },
+      {
+        "ref": "K42",
+        "type": "number",
+        "value": "15",
+        "rawValue": "15",
+        "styleId": "1"
+      },
+      null
+    ],
+    [
+      {
+        "ref": "A43",
+        "type": "string",
+        "value": "税率说明",
+        "rawValue": "67"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A44",
+        "type": "string",
+        "value": "审计意见(境内)",
+        "rawValue": "68"
+      },
+      {
+        "ref": "B44",
+        "type": "string",
+        "value": "标准无保留意见",
+        "rawValue": "69"
+      },
+      {
+        "ref": "C44",
+        "type": "string",
+        "value": "标准无保留意见",
+        "rawValue": "69"
+      },
+      {
+        "ref": "D44",
+        "type": "string",
+        "value": "标准无保留意见",
+        "rawValue": "69"
+      },
+      {
+        "ref": "E44",
+        "type": "string",
+        "value": "标准无保留意见",
+        "rawValue": "69"
+      },
+      {
+        "ref": "F44",
+        "type": "string",
+        "value": "标准无保留意见",
+        "rawValue": "69"
+      },
+      {
+        "ref": "G44",
+        "type": "string",
+        "value": "标准无保留意见",
+        "rawValue": "69"
+      },
+      {
+        "ref": "H44",
+        "type": "string",
+        "value": "标准无保留意见",
+        "rawValue": "69"
+      },
+      {
+        "ref": "I44",
+        "type": "string",
+        "value": "标准无保留意见",
+        "rawValue": "69"
+      },
+      {
+        "ref": "J44",
+        "type": "string",
+        "value": "标准无保留意见",
+        "rawValue": "69"
+      },
+      {
+        "ref": "K44",
+        "type": "string",
+        "value": "标准无保留意见",
+        "rawValue": "69"
+      },
+      null
+    ],
+    [
+      {
+        "ref": "A45",
+        "type": "string",
+        "value": "公告日期",
+        "rawValue": "70"
+      },
+      {
+        "ref": "B45",
+        "type": "string",
+        "value": "2020-01-23",
+        "rawValue": "71"
+      },
+      {
+        "ref": "C45",
+        "type": "string",
+        "value": "2020-01-23",
+        "rawValue": "71"
+      },
+      {
+        "ref": "D45",
+        "type": "string",
+        "value": "2020-01-23",
+        "rawValue": "71"
+      },
+      {
+        "ref": "E45",
+        "type": "string",
+        "value": "2020-04-28",
+        "rawValue": "72"
+      },
+      {
+        "ref": "F45",
+        "type": "string",
+        "value": "2021-04-30",
+        "rawValue": "73"
+      },
+      {
+        "ref": "G45",
+        "type": "string",
+        "value": "2022-04-22",
+        "rawValue": "74"
+      },
+      {
+        "ref": "H45",
+        "type": "string",
+        "value": "2023-04-27",
+        "rawValue": "75"
+      },
+      {
+        "ref": "I45",
+        "type": "string",
+        "value": "2024-03-29",
+        "rawValue": "76"
+      },
+      {
+        "ref": "J45",
+        "type": "string",
+        "value": "2025-04-04",
+        "rawValue": "77"
+      },
+      {
+        "ref": "K45",
+        "type": "string",
+        "value": "2026-04-23",
+        "rawValue": "78"
+      },
+      {
+        "ref": "L45",
+        "type": "string",
+        "value": "2026-08-25",
+        "rawValue": "79"
+      }
+    ],
+    [
+      {
+        "ref": "A46",
+        "type": "string",
+        "value": "数据来源",
+        "rawValue": "80"
+      },
+      {
+        "ref": "B46",
+        "type": "string",
+        "value": "公司公告值",
+        "rawValue": "81"
+      },
+      {
+        "ref": "C46",
+        "type": "string",
+        "value": "公司公告值",
+        "rawValue": "81"
+      },
+      {
+        "ref": "D46",
+        "type": "string",
+        "value": "公司公告值",
+        "rawValue": "81"
+      },
+      {
+        "ref": "E46",
+        "type": "string",
+        "value": "公司公告值",
+        "rawValue": "81"
+      },
+      {
+        "ref": "F46",
+        "type": "string",
+        "value": "公司公告值",
+        "rawValue": "81"
+      },
+      {
+        "ref": "G46",
+        "type": "string",
+        "value": "公司公告值",
+        "rawValue": "81"
+      },
+      {
+        "ref": "H46",
+        "type": "string",
+        "value": "公司公告值",
+        "rawValue": "81"
+      },
+      {
+        "ref": "I46",
+        "type": "string",
+        "value": "公司公告值",
+        "rawValue": "81"
+      },
+      {
+        "ref": "J46",
+        "type": "string",
+        "value": "公司公告值",
+        "rawValue": "81"
+      },
+      {
+        "ref": "K46",
+        "type": "string",
+        "value": "公司公告值",
+        "rawValue": "81"
+      },
+      {
+        "ref": "L46",
+        "type": "string",
+        "value": "公司公告值",
+        "rawValue": "81"
+      }
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A49",
+        "type": "string",
+        "value": "数据来源：Wind",
+        "rawValue": "82"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "values": [
+    [
+      "石头科技[688169.SH] - 利润表(单位：百万元 , CNY)",
+      "2016-12-31",
+      "2017-12-31",
+      "2018-12-31",
+      "2019-12-31",
+      "2020-12-31",
+      "2021-12-31",
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31",
+      "2026-06-30"
+    ],
+    [
+      "报告期",
+      "2016年报",
+      "2017年报",
+      "2018年报",
+      "2019年报",
+      "2020年报",
+      "2021年报",
+      "2022年报",
+      "2023年报",
+      "2024年报",
+      "2025年报",
+      "2026中报"
+    ],
+    [
+      "报表类型",
+      "合并报表",
+      "合并报表",
+      "合并报表",
+      "合并报表",
+      "合并报表",
+      "合并报表",
+      "合并报表",
+      "合并报表",
+      "合并报表",
+      "合并报表",
+      "合并报表"
+    ],
+    [
+      "营业总收入",
+      183.127,
+      1118.8176,
+      3051.2504,
+      4204.902,
+      4530.4387,
+      5837.0513,
+      6628.7164,
+      8653.7838,
+      11944.7072,
+      18694.7768,
+      10084.4145
+    ],
+    [
+      "    营业收入",
+      183.127,
+      1118.8176,
+      3051.2504,
+      4204.902,
+      4530.4387,
+      5837.0513,
+      6628.7164,
+      8653.7838,
+      11944.7072,
+      18694.7768,
+      10084.4145
+    ],
+    [
+      "营业总成本",
+      194.4095,
+      1039.6489,
+      2680.0163,
+      3310.608,
+      3168.7473,
+      4501.0261,
+      5239.076,
+      6465.8206,
+      10158.2202,
+      17445.6229,
+      9151.3854
+    ],
+    [
+      "    营业成本",
+      147.9407,
+      876.6908,
+      2172.8792,
+      2685.9893,
+      2205.2258,
+      3029.0153,
+      3363.2631,
+      3882.5526,
+      5955.6856,
+      10777.5394,
+      5721.8155
+    ],
+    [
+      "    税金及附加",
+      0.2264,
+      4.4907,
+      19.5023,
+      20.1069,
+      29.6164,
+      25.7689,
+      33.4081,
+      74.6046,
+      79.8998,
+      75.9492,
+      47.6855
+    ],
+    [
+      "    销售费用",
+      1.5421,
+      28.811,
+      163.293,
+      353.7901,
+      619.9922,
+      938.4684,
+      1318.3296,
+      1817.2518,
+      2967.2014,
+      4894.3462,
+      2250.5621
+    ],
+    [
+      "    管理费用",
+      9.5066,
+      20.5068,
+      206.0917,
+      59.5911,
+      83.1504,
+      118.9229,
+      141.2106,
+      210.981,
+      345.6492,
+      431.0134,
+      234.7643
+    ],
+    [
+      "    研发费用",
+      39.3593,
+      106.2772,
+      116.6156,
+      192.7959,
+      262.7822,
+      440.8006,
+      488.6125,
+      619.0257,
+      971.4388,
+      1419.5662,
+      720.1861
+    ],
+    [
+      "    财务费用",
+      -5.4517,
+      0.2522,
+      1.4294,
+      -1.6655,
+      -32.0195,
+      -51.95,
+      -105.7479,
+      -138.595,
+      -161.6545,
+      -152.7914,
+      176.3718
+    ],
+    [
+      "    其中：利息费用",
+      0.3463,
+      null,
+      null,
+      null,
+      null,
+      1.4102,
+      1.5793,
+      9.4983,
+      10.323,
+      10.1222,
+      15.3525
+    ],
+    [
+      "          减：利息收入",
+      0.0711,
+      0.2187,
+      0.5563,
+      2.2802,
+      52.261,
+      69.7483,
+      92.7273,
+      134.6043,
+      175.0931,
+      158.5543,
+      73.1863
+    ],
+    [
+      "    加：其他收益",
+      null,
+      null,
+      3.8143,
+      6.3539,
+      67.0224,
+      41.7553,
+      61.3184,
+      121.3383,
+      193.2405,
+      189.6161,
+      73.6871
+    ],
+    [
+      "    投资净收益",
+      0.0374,
+      1.4387,
+      4.4695,
+      16.2737,
+      48.5289,
+      190.9016,
+      32.8353,
+      62.4654,
+      151.0269,
+      111.8996,
+      58.5277
+    ],
+    [
+      "    其中：对联营企业和合营企业的投资收益",
+      null,
+      null,
+      null,
+      null,
+      null,
+      -0.1138,
+      -0.228,
+      -0.3077,
+      0.0698,
+      0.316,
+      -0.0084
+    ],
+    [
+      "    公允价值变动净收益",
+      null,
+      null,
+      2.4257,
+      7.4335,
+      109.771,
+      62.1576,
+      -63.7958,
+      114.3104,
+      44.8269,
+      67.2017,
+      91.1435
+    ],
+    [
+      "    资产减值损失",
+      1.286,
+      2.6204,
+      0.205,
+      null,
+      -31.0382,
+      -30.1538,
+      -66.0666,
+      -148.0472,
+      -95.203,
+      -161.7893,
+      -156.3505
+    ],
+    [
+      "    信用减值损失",
+      null,
+      null,
+      null,
+      0.5706,
+      0.5338,
+      -2.5792,
+      -3.619,
+      -21.7561,
+      10.8766,
+      -9.3766,
+      1.3906
+    ],
+    [
+      "    资产处置收益",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      -5.9235,
+      0.9342,
+      -0.9595,
+      0.6636,
+      0.082
+    ],
+    [
+      "营业利润",
+      -11.245,
+      80.6074,
+      381.9437,
+      924.9258,
+      1556.5095,
+      1598.1068,
+      1344.3891,
+      2317.2082,
+      2090.2953,
+      1447.369,
+      1001.5095
+    ],
+    [
+      "    加：营业外收入",
+      0.0051,
+      0.0073,
+      0.1039,
+      0.215,
+      0.2022,
+      0.0158,
+      5.6498,
+      2.6969,
+      11.7134,
+      5.7769,
+      3.9265
+    ],
+    [
+      "    减：营业外支出",
+      null,
+      null,
+      0.1354,
+      0.0077,
+      0.3092,
+      0.0907,
+      0.8332,
+      0.1219,
+      4.4619,
+      6.2714,
+      3.5448
+    ],
+    [
+      "利润总额",
+      -11.2399,
+      80.6147,
+      381.9122,
+      925.1331,
+      1556.4025,
+      1598.0319,
+      1349.2058,
+      2319.7832,
+      2097.5468,
+      1446.8745,
+      1001.8913
+    ],
+    [
+      "    减：所得税",
+      null,
+      13.6185,
+      74.3244,
+      142.2744,
+      186.9876,
+      195.5667,
+      165.7384,
+      268.5785,
+      121.0027,
+      83.5722,
+      15.4538
+    ],
+    [
+      "净利润",
+      -11.2399,
+      66.9962,
+      307.5878,
+      782.8587,
+      1369.4149,
+      1402.4651,
+      1183.4674,
+      2051.2047,
+      1976.5441,
+      1363.3024,
+      986.4375
+    ],
+    [
+      "    持续经营净利润",
+      -11.2399,
+      66.9962,
+      307.5878,
+      782.8587,
+      1369.4149,
+      1402.4651,
+      1183.4674,
+      2051.2047,
+      1976.5441,
+      1363.3024,
+      986.4375
+    ],
+    [
+      "    减：少数股东损益",
+      null,
+      null,
+      null,
+      null,
+      null,
+      -0.0109,
+      -0.0095,
+      -0.0127,
+      -0.0191,
+      -0.0199,
+      0
+    ],
+    [
+      "    归属于母公司所有者的净利润",
+      -11.2399,
+      66.9962,
+      307.5878,
+      782.8587,
+      1369.4149,
+      1402.4761,
+      1183.4769,
+      2051.2174,
+      1976.5632,
+      1363.3223,
+      986.4375
+    ],
+    [
+      "    加：其他综合收益",
+      null,
+      null,
+      0.3525,
+      3.2329,
+      -11.1203,
+      -5.6773,
+      17.7248,
+      -0.7997,
+      12.3552,
+      -9.1107,
+      -51.4886
+    ],
+    [
+      "综合收益总额",
+      -11.2399,
+      66.9962,
+      307.9403,
+      786.0917,
+      1358.2946,
+      1396.7879,
+      1201.1922,
+      2050.405,
+      1988.8993,
+      1354.1916,
+      934.9489
+    ],
+    [
+      "    减：归属于少数股东的综合收益总额",
+      null,
+      null,
+      null,
+      null,
+      null,
+      -0.0109,
+      -0.0095,
+      -0.0127,
+      -0.0191,
+      -0.0199,
+      0
+    ],
+    [
+      "    归属于母公司普通股东综合收益总额",
+      -11.2399,
+      66.9962,
+      307.9403,
+      786.0917,
+      1358.2946,
+      1396.7988,
+      1201.2017,
+      2050.4177,
+      1988.9184,
+      1354.2116,
+      934.9489
+    ],
+    [
+      "每股收益：",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "    基本每股收益",
+      null,
+      null,
+      6.15,
+      15.66,
+      21.43,
+      21.03,
+      12.66,
+      15.66,
+      10.77,
+      5.29,
+      3.83
+    ],
+    [
+      "    稀释每股收益",
+      null,
+      null,
+      6.15,
+      15.66,
+      21.39,
+      20.91,
+      12.62,
+      15.58,
+      10.71,
+      5.28,
+      3.83
+    ],
+    [
+      "显示币种",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY"
+    ],
+    [
+      "原始币种",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY",
+      "CNY"
+    ],
+    [
+      "转换汇率",
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      "汇率类型",
+      "最新汇率",
+      "最新汇率",
+      "最新汇率",
+      "最新汇率",
+      "最新汇率",
+      "最新汇率",
+      "最新汇率",
+      "最新汇率",
+      "最新汇率",
+      "最新汇率",
+      "最新汇率"
+    ],
+    [
+      "税率",
+      25,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      null
+    ],
+    [
+      "税率说明",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "审计意见(境内)",
+      "标准无保留意见",
+      "标准无保留意见",
+      "标准无保留意见",
+      "标准无保留意见",
+      "标准无保留意见",
+      "标准无保留意见",
+      "标准无保留意见",
+      "标准无保留意见",
+      "标准无保留意见",
+      "标准无保留意见",
+      null
+    ],
+    [
+      "公告日期",
+      "2020-01-23",
+      "2020-01-23",
+      "2020-01-23",
+      "2020-04-28",
+      "2021-04-30",
+      "2022-04-22",
+      "2023-04-27",
+      "2024-03-29",
+      "2025-04-04",
+      "2026-04-23",
+      "2026-08-25"
+    ],
+    [
+      "数据来源",
+      "公司公告值",
+      "公司公告值",
+      "公司公告值",
+      "公司公告值",
+      "公司公告值",
+      "公司公告值",
+      "公司公告值",
+      "公司公告值",
+      "公司公告值",
+      "公司公告值",
+      "公司公告值"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "数据来源：Wind",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "analysisSchema": {
+    "layout": "wideFinancialMatrix",
+    "titleCell": "A1",
+    "labelColumn": "A",
+    "headerRows": {
+      "periodDate": 1,
+      "reportPeriod": 2,
+      "statementType": 3
+    },
+    "dataStartRow": 4,
+    "columnDescriptors": [
+      {
+        "column": "B",
+        "columnIndex": 2,
+        "periodDate": "2016-12-31",
+        "reportPeriod": "2016年报",
+        "statementType": "合并报表"
+      },
+      {
+        "column": "C",
+        "columnIndex": 3,
+        "periodDate": "2017-12-31",
+        "reportPeriod": "2017年报",
+        "statementType": "合并报表"
+      },
+      {
+        "column": "D",
+        "columnIndex": 4,
+        "periodDate": "2018-12-31",
+        "reportPeriod": "2018年报",
+        "statementType": "合并报表"
+      },
+      {
+        "column": "E",
+        "columnIndex": 5,
+        "periodDate": "2019-12-31",
+        "reportPeriod": "2019年报",
+        "statementType": "合并报表"
+      },
+      {
+        "column": "F",
+        "columnIndex": 6,
+        "periodDate": "2020-12-31",
+        "reportPeriod": "2020年报",
+        "statementType": "合并报表"
+      },
+      {
+        "column": "G",
+        "columnIndex": 7,
+        "periodDate": "2021-12-31",
+        "reportPeriod": "2021年报",
+        "statementType": "合并报表"
+      },
+      {
+        "column": "H",
+        "columnIndex": 8,
+        "periodDate": "2022-12-31",
+        "reportPeriod": "2022年报",
+        "statementType": "合并报表"
+      },
+      {
+        "column": "I",
+        "columnIndex": 9,
+        "periodDate": "2023-12-31",
+        "reportPeriod": "2023年报",
+        "statementType": "合并报表"
+      },
+      {
+        "column": "J",
+        "columnIndex": 10,
+        "periodDate": "2024-12-31",
+        "reportPeriod": "2024年报",
+        "statementType": "合并报表"
+      },
+      {
+        "column": "K",
+        "columnIndex": 11,
+        "periodDate": "2025-12-31",
+        "reportPeriod": "2025年报",
+        "statementType": "合并报表"
+      },
+      {
+        "column": "L",
+        "columnIndex": 12,
+        "periodDate": "2026-06-30",
+        "reportPeriod": "2026中报",
+        "statementType": "合并报表"
+      }
+    ],
+    "periodOrder": "ascending",
+    "sourceUnitText": "百万元",
+    "currency": "CNY",
+    "caveats": [
+      "Interim and annual periods coexist; compare matching periods or state any annualization assumption explicitly."
+    ]
+  },
+  "rowMetadata": [
+    {
+      "r": "1"
+    },
+    {
+      "r": "2"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "13"
+    },
+    {
+      "r": "14"
+    },
+    {
+      "r": "15"
+    },
+    {
+      "r": "16"
+    },
+    {
+      "r": "17"
+    },
+    {
+      "r": "18"
+    },
+    {
+      "r": "19"
+    },
+    {
+      "r": "20"
+    },
+    {
+      "r": "21"
+    },
+    {
+      "r": "22"
+    },
+    {
+      "r": "23"
+    },
+    {
+      "r": "24"
+    },
+    {
+      "r": "25"
+    },
+    {
+      "r": "26"
+    },
+    {
+      "r": "27"
+    },
+    {
+      "r": "28"
+    },
+    {
+      "r": "29"
+    },
+    {
+      "r": "30"
+    },
+    {
+      "r": "31"
+    },
+    {
+      "r": "32"
+    },
+    {
+      "r": "33"
+    },
+    {
+      "r": "34"
+    },
+    {
+      "r": "35"
+    },
+    {
+      "r": "36"
+    },
+    {
+      "r": "37"
+    },
+    {
+      "r": "38"
+    },
+    {
+      "r": "39"
+    },
+    {
+      "r": "40"
+    },
+    {
+      "r": "41"
+    },
+    {
+      "r": "42"
+    },
+    {
+      "r": "43"
+    },
+    {
+      "r": "44"
+    },
+    {
+      "r": "45"
+    },
+    {
+      "r": "46"
+    },
+    {
+      "r": "49"
+    }
+  ],
+  "columnMetadata": [
+    {
+      "min": "1",
+      "max": "1",
+      "width": "44.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "2",
+      "max": "2",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "3",
+      "max": "3",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "4",
+      "max": "4",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "5",
+      "max": "5",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "6",
+      "max": "6",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "7",
+      "max": "7",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "8",
+      "max": "8",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "9",
+      "max": "9",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "10",
+      "max": "10",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "11",
+      "max": "11",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "12",
+      "max": "12",
+      "width": "20.83203125",
+      "customWidth": "1"
+    }
+  ],
+  "mergedRanges": [],
+  "viewMetadata": [
+    {
+      "sheetViewAttributes": {
+        "workbookViewId": "0"
+      },
+      "pane": null
+    }
+  ],
+  "counts": {
+    "explicitCells": 487,
+    "nonEmptyCells": 487,
+    "formulaCells": 0
+  },
+  "verification": {
+    "sourceWorkbookSha256Matched": true,
+    "cellCoordinatesMatched": true,
+    "cellValuesAndTypesMatched": true,
+    "formulasMatched": true,
+    "analysisValuesCheckedAgainstExactCells": true,
+    "previousJsonSha256": "e4e9cdd9c7724aa648e8a5b3e5869f7c57fe8a2cf921e9521815719949b647ed"
+  }
+}

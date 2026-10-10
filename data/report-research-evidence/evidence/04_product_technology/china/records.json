@@ -1,0 +1,436 @@
+[
+  {
+    "record_id": "RR26-0092",
+    "category": "product_technology",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "2021年8月25日发布G10，首发到手价3999元；具备自动补水、回洗、2500Pa吸力和高频震动拖地。",
+    "period": "2021-08-25",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "launch_sale_price",
+        "value_raw": "3999",
+        "unit": "元人民币",
+        "definition": null
+      },
+      {
+        "metric": "suction",
+        "value_raw": "2500",
+        "unit": "Pa",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "仅扫地机G10；同页U10为洗地机，未并入扫地机指标。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-07",
+      "title": "双旗舰产品力强劲，新品拉动业绩高增可期",
+      "issuer": "开源证券",
+      "publication_date": "2021-08-26",
+      "reporting_period": null,
+      "pdf_page": 3,
+      "printed_page": 3,
+      "locator": "第1、2节",
+      "source_relative_path": "sources/research/开源石头202108261512505640_1(1).PDF",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202108261512505640_1(1).PDF",
+      "source_sha256": "e81dbe4e57117c4ff282359a841ff4dea11f25062b2b4adc909c4827c3ff0f62",
+      "original_data_provider_as_cited": "京东及开源证券整理",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-07/p003.txt",
+      "source_excerpt_whitespace_normalized": "石头自清洁扫拖机器人G10首发到手价3999元，石头智能双刷洗地机U10首发到手价3499元。8月25日10点在天猫、京东、苏宁、抖音等各大平台同步开售。石头天猫旗舰店+石头京东自营店首日预售情况：石头自清洁扫拖机器人G10预售756台（其中石头天猫旗舰店预售218台、石头京东自营店预售538台），石头智能双刷洗地机U10预售878台（其中石头天猫预售196台、石头京东预售台682台），表现符合预期。2、石头G10：自动洗拖布的震动扫拖机器人2.1、石头G10产品亮点（1）行业首创水箱自动补水，拖地续航超400平米。石头G10上搭载一个可以自动补水的水箱，能够在自清洁充电桩基座的配合下，完成机器人水箱自动补水，拖地续航超400平米。无需用户再自己动手进行拆卸拖布、手洗拖布和拆卸水箱加水等工作。图1：石头G10扫地机水箱可自动补水，拖地续航超400㎡资料来源：京东（2）升级自动回洗，通过洗刷刮彻底实现抹布清洁。对于自动回洗，公司在石头G10上做出了创新性设计，采用“洗刮刷”的方式对拖布进行彻底的清洁，基座内部可喷水的拖布清洁装置通过蠕动泵连接清水箱，在滑轨的带动下往返“洗刷刮”，最后将污水排净，实现整个清洁过程。（3）拖布清洗档位任选，用户自由度更高。鉴于不同用户对洗拖布的清洁度和时间的要求不同，用户可在手机APP中根据需求设置不同的洗拖布模式档位，有标准回洗、智能回洗、手动回洗、手动放桩回洗四种档位进行选择，用户自由度更高。（4）2500Pa吸力、3000转高频震动设计，吸擦能力",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "石头自清洁扫拖机器人G10首发到手价",
+      "citation_zh": "开源证券：《双旗舰产品力强劲，新品拉动业绩高增可期》，2021-08-26，PDF第3页（印刷页3），本地来源：sources/research/开源石头202108261512505640_1(1).PDF，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0094",
+    "category": "product_technology",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "2023年中报点评称P10定价3299元，定位较低价全能款。",
+    "period": "2023H1",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "reported_price",
+        "value_raw": "3299",
+        "unit": "元人民币",
+        "definition": null
+      }
+    ],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-04",
+      "title": "2023年中报点评：技术优势得到彰显，经营实现大幅改善",
+      "issuer": "国信证券",
+      "publication_date": "2023-09-01",
+      "reporting_period": null,
+      "pdf_page": 1,
+      "printed_page": 39186,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/国信石头202309031597465324_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\国信石头202309031597465324_1(1).pdf",
+      "source_sha256": "3b6d6db6c4b1ea70aff894c6d142a12572daea7d2d16c76571bbd532b00ec393",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-04/p001.txt",
+      "source_excerpt_whitespace_normalized": "定价3299元的低价全能款扫地机P10，但毛利率环比及同比均有提升，侧面反映出公司强大的降本能力。公司费用率稳中略降，Q2销售/研发/管理/财务同比分别-1.0/-0.0/+0.6/-0.4pct至19.4%/7.0%/2.7%/-2.9%。叠加汇兑收益增加及税收返还对利润产生积极影响，公司Q2归母净利率提升6.7pct至24.2%。产品力优势得到彰显，看好公司在全球市场的持续拓展。公司以技术研发起家，在导航算法、硬件研发与设计等软硬件技术上持续深耕，推出多款高性能的扫地机爆款产品，产品力突出、价格卡位精准。在扫地机以价换量的背景下，研发实力及产品力或将成为更为重要的竞争要素，公司的技术实力全球领先，有望助推公司在全球市场的持续发展。风险提示：行业竞争加剧；海外扩展不及预期；新品销售不及预期。投资建议：上调盈利预测，维持“买入”评级考虑到国内外扫地机行业已企稳回升、公司盈利能力实现改善，上调盈利预测，预计2023-2025年归母净利润15.9/18.3/21.8亿（前值为13.6/16.4/19.2亿），增速34%/15%/19%，对应PE=18/15/13倍，维持“买入”评级。盈利预测和财务指标202120222023E2024E2025E营业收入(百万元)5,8376,6297,9429,33410,954(+/-%)28.8%13.6%19.8%17.5%17.4%净利润(百万元)14021183158718322183(+/-%)2.4%-15.6%34.1%15.5%1",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "定价3299元的低价全能款扫地机P10",
+      "citation_zh": "国信证券：《2023年中报点评：技术优势得到彰显，经营实现大幅改善》，2023-09-01，PDF第1页（印刷页39186），本地来源：sources/research/国信石头202309031597465324_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0097",
+    "category": "product_technology",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "开源证券将石头2025年主力产品策略概括为“加量不加价”，强调新品功能增加而成本未明显下降。",
+    "period": "2025",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [
+      "产品战略归因属于券商观点；不采用其推测的内部成本作为公司事实。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 6,
+      "printed_page": 6,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p006.txt",
+      "source_excerpt_whitespace_normalized": "产品策略：石头科技的产品策略是“加量不加价”策略。石头扫地机主力产品处于4000价格带，每年都会推出这个价格带新品，新品会增加新功能，例如P20UltraPlus增加了拖布拆装、吸力增大到25000Pa、80度洗拖布升级到100度，新增延墙结构光、45度热风烘干升级到55度等，同时采用升降LDS方案成本也较高。石头的降本能力体现在了“加量不加价”，但是新品总成本并没有明显下降。科沃斯2025年产用的则是“极简”或“降本”产品策略，科沃斯的T80S主要强调滚筒活水洗地功能，并没有“堆料”很多新功能，因为科沃斯的降本体现在成本直接下降。此外，科沃斯通过增加零部件自供比例以及更换二线供应商，物料成本下降较多。石头在2025Q3用高成本的双转盘产品应对科沃斯低成本的滚筒产品，这是双方成本差距以及盈利能力差距的主要原因。成本差异：我们拆解石头P20UltraPlus和科沃斯T80S的成本，发现成本有约500元的差异。本表格为科沃斯T80S刚上市时成本测算，伴随销量增长，预计当下硬件物料成本会低于表中测算值。图3：科沃斯某款产品成本及主要供应商拆分资料来源：开源证券研究所营销效率：科沃斯能用低成本滚筒产品与石头高成本的双转盘产品竞争的主要原因在于，消费者对于“活水洗地、不以脏拖脏”这个营销概念较易接受，无需宣传其他功能就可以实现较好的营销转化效率。石头在2025Q3并无滚筒活水洗地产品，以双转盘产品应对，但石头在2025Q4开始推出滚筒产品P20活水版，就在一定程度上解决了这个问题。我们预计",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "产品策略：石头科技的产品策略是",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第6页（印刷页6），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0103",
+    "category": "product_technology",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "2026H2 P30 Pro新品：标准版4299元，上下水版4699元，吸力40000Pa，双层越障8.8cm，厚度8.98cm，热水洗地60℃。",
+    "period": "2026H2",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "standard_price",
+        "value_raw": "4299",
+        "unit": "元人民币",
+        "definition": null
+      },
+      {
+        "metric": "water_connection_price",
+        "value_raw": "4699",
+        "unit": "元人民币",
+        "definition": null
+      },
+      {
+        "metric": "suction",
+        "value_raw": "40000",
+        "unit": "Pa",
+        "definition": null
+      },
+      {
+        "metric": "dual_step_obstacle",
+        "value_raw": "8.8",
+        "unit": "cm",
+        "definition": "双层越障，非单层"
+      },
+      {
+        "metric": "body_height",
+        "value_raw": "8.98",
+        "unit": "cm",
+        "definition": null
+      },
+      {
+        "metric": "hot_water_mopping_temperature",
+        "value_raw": "60",
+        "unit": "℃",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "研报称报告时已在售；价格不是日/韩/澳当地价格。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "locator": "图13及正文",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "淘宝各品牌旗舰店、开源证券",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p009.txt",
+      "source_excerpt_whitespace_normalized": "P30Pro（2026H2新品）：售价4299元（上下水版4699元），配备自适应伸缩滚筒，40000Pa高吸力电机，实现8.8cm双层越障，机身厚度8.98cm，支持20mm以下中长毛地毯清洁，新增60度热水洗地功能。G30SUltra（2026H2新品）：售价5499元（上下水版5999元），配备自适应伸缩滚筒，41000Pa高吸力电机，实现8.8cm双层越障，机身厚度8.98cm，新增75度热水洗地、0.2S闪速避让、63度热风速烘功能。P20Ultra活水版（2026H1新品）：售价3899元（上下水版4299元），配备自适应伸缩滚筒，22000Pa吸力电机，支持13mm以下短毛地毯清洁，2cm越障。2026年新品在电机吸力、越障、地毯清洁及机身厚度方面均有明显提升，另外新增热水洗地机、闪速避让、热风烘干等功能，在产品力大幅提升下售价小幅提升，产品性价比进一步凸显。横向对比科沃斯2026H2新品，石头P30Pro价格与科沃斯T90sPro价格相当，但在越障、热水洗地、机身厚度及物体识别方面具有优势。图13：2026年滚筒扫地机新品对比资料来源：淘宝各品牌旗舰店、开源证券研究所我们在之前报告中提到，科沃斯在2025H2能够较好盈利的原因主要在两方面，一是成本优势，科沃斯通过增加零部件自供比例以及更换二线供应商对成本进行压缩，二是营销优势，消费者对于“活水洗地、不以脏拖脏”这个营销概念较易接受，无需宣传其他功能就可以实现较好的营销转化效率。石头在2026H2主推滚筒产品，营销",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "P30Pro（2026H2新品）",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第9页（印刷页9），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0104",
+    "category": "product_technology",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "2026H2 G30S Ultra新品：标准版5499元，上下水版5999元，吸力41000Pa，双层越障8.8cm，厚度8.98cm，热水洗地75℃。",
+    "period": "2026H2",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "standard_price",
+        "value_raw": "5499",
+        "unit": "元人民币",
+        "definition": null
+      },
+      {
+        "metric": "water_connection_price",
+        "value_raw": "5999",
+        "unit": "元人民币",
+        "definition": null
+      },
+      {
+        "metric": "suction",
+        "value_raw": "41000",
+        "unit": "Pa",
+        "definition": null
+      },
+      {
+        "metric": "dual_step_obstacle",
+        "value_raw": "8.8",
+        "unit": "cm",
+        "definition": "双层越障，非单层"
+      },
+      {
+        "metric": "body_height",
+        "value_raw": "8.98",
+        "unit": "cm",
+        "definition": null
+      },
+      {
+        "metric": "hot_water_mopping_temperature",
+        "value_raw": "75",
+        "unit": "℃",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "研报称报告时已在售；价格不是日/韩/澳当地价格。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "locator": "图13及正文",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "淘宝各品牌旗舰店、开源证券",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p009.txt",
+      "source_excerpt_whitespace_normalized": "G30SUltra（2026H2新品）：售价5499元（上下水版5999元），配备自适应伸缩滚筒，41000Pa高吸力电机，实现8.8cm双层越障，机身厚度8.98cm，新增75度热水洗地、0.2S闪速避让、63度热风速烘功能。P20Ultra活水版（2026H1新品）：售价3899元（上下水版4299元），配备自适应伸缩滚筒，22000Pa吸力电机，支持13mm以下短毛地毯清洁，2cm越障。2026年新品在电机吸力、越障、地毯清洁及机身厚度方面均有明显提升，另外新增热水洗地机、闪速避让、热风烘干等功能，在产品力大幅提升下售价小幅提升，产品性价比进一步凸显。横向对比科沃斯2026H2新品，石头P30Pro价格与科沃斯T90sPro价格相当，但在越障、热水洗地、机身厚度及物体识别方面具有优势。图13：2026年滚筒扫地机新品对比资料来源：淘宝各品牌旗舰店、开源证券研究所我们在之前报告中提到，科沃斯在2025H2能够较好盈利的原因主要在两方面，一是成本优势，科沃斯通过增加零部件自供比例以及更换二线供应商对成本进行压缩，二是营销优势，消费者对于“活水洗地、不以脏拖脏”这个营销概念较易接受，无需宣传其他功能就可以实现较好的营销转化效率。石头在2026H2主推滚筒产品，营销效率有望明显提升，叠加石头于2026Q1开始对供应链进行降本缩小与科沃斯成本差距，我们预计石头与科沃斯的内销利润率分化将会收窄。展望未来，我们认为国内扫地机行业主要为石头和科沃斯的竞争，2026H2石头预计对主推滚筒新品",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "G30SUltra（2026H2新品）",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第9页（印刷页9），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0105",
+    "category": "product_technology",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "P20 Ultra活水版：标准3899元、上下水4299元，22000Pa吸力，2cm越障，支持13mm以下短毛地毯。",
+    "period": "2026H1",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "standard_price",
+        "value_raw": "3899",
+        "unit": "元人民币",
+        "definition": null
+      },
+      {
+        "metric": "water_connection_price",
+        "value_raw": "4299",
+        "unit": "元人民币",
+        "definition": null
+      },
+      {
+        "metric": "suction",
+        "value_raw": "22000",
+        "unit": "Pa",
+        "definition": null
+      },
+      {
+        "metric": "obstacle",
+        "value_raw": "2",
+        "unit": "cm",
+        "definition": null
+      },
+      {
+        "metric": "carpet_pile_limit",
+        "value_raw": "13",
+        "unit": "mm",
+        "definition": "原文以下",
+        "qualifier": "less_than"
+      }
+    ],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 9,
+      "printed_page": 9,
+      "locator": "图13及正文",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "淘宝各品牌旗舰店、开源证券",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p009.txt",
+      "source_excerpt_whitespace_normalized": "P20Ultra活水版（2026H1新品）：售价3899元（上下水版4299元），配备自适应伸缩滚筒，22000Pa吸力电机，支持13mm以下短毛地毯清洁，2cm越障。2026年新品在电机吸力、越障、地毯清洁及机身厚度方面均有明显提升，另外新增热水洗地机、闪速避让、热风烘干等功能，在产品力大幅提升下售价小幅提升，产品性价比进一步凸显。横向对比科沃斯2026H2新品，石头P30Pro价格与科沃斯T90sPro价格相当，但在越障、热水洗地、机身厚度及物体识别方面具有优势。图13：2026年滚筒扫地机新品对比资料来源：淘宝各品牌旗舰店、开源证券研究所我们在之前报告中提到，科沃斯在2025H2能够较好盈利的原因主要在两方面，一是成本优势，科沃斯通过增加零部件自供比例以及更换二线供应商对成本进行压缩，二是营销优势，消费者对于“活水洗地、不以脏拖脏”这个营销概念较易接受，无需宣传其他功能就可以实现较好的营销转化效率。石头在2026H2主推滚筒产品，营销效率有望明显提升，叠加石头于2026Q1开始对供应链进行降本缩小与科沃斯成本差距，我们预计石头与科沃斯的内销利润率分化将会收窄。展望未来，我们认为国内扫地机行业主要为石头和科沃斯的竞争，2026H2石头预计对主推滚筒新品，有效弥补高成本劣势及提升营销转化率，在流量及资源扶持及国内产品结构向滚筒倾斜下市占率有望提升，叠加自身双圆盘产品龙头优势及平板托特色技术路线差异化布局，整体市占率有望得到显著提升；利润率在营销、成本差距缩窄及国补影响减弱下有望",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "P20Ultra活水版（2026H1新品）",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第9页（印刷页9），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  }
+]

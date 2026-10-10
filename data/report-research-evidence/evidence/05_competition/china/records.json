@@ -1,0 +1,436 @@
+[
+  {
+    "record_id": "RR26-0106",
+    "category": "competition",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "2026Q2中国扫地机线上Roborock市占率33.4%，同比变化4.3个百分点。",
+    "period": "2026Q2",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "China online",
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "online_market_share",
+        "value_raw": "33.4",
+        "unit": "%",
+        "definition": null
+      },
+      {
+        "metric": "online_share_yoy_change",
+        "value_raw": "4.3",
+        "unit": "percentage_points",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "正文市占率，结合图8/9为销额背景；不能视作RCEP目标国份额。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "奥维云网，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p007.txt",
+      "source_excerpt_whitespace_normalized": "2026Q2石头/科沃斯/追觅/云鲸/小米线上市占率分别为33.4%/33.1%/13.0%/6.6%/6.1%，分别同比+4.3/+4.3/-0.9/-9.1/-2.8pct，石头及科沃斯市占率合计接近70%，双寡头格局进一步突出，竞争格局持续改善，我们认为进入2026H2后，伴随追觅投放力度降低，云鲸市占率无突破情况下，石头及科沃斯市占率有望进一步提升，在双寡头格局下头部公司减少价格竞争有望带来行业盈利能力逐步回升。图8：2026Q2石头扫地机国内线上销售额19.0亿元（同比+11%，下同）图9：2026Q2石头及科沃斯线上市占率合计接近70%数据来源：奥维云网、开源证券研究所数据来源：奥维云网、开源证券研究所国内产品结构来看，受益于科沃斯持续的消费者教育，国内对滚筒产品的接受程度逐步提升，根据奥维云网，2025H1/2025H2/2026H1内销线上滚筒产品占比分别为20.0%/32.7%/40.0%，目前科沃斯、追觅、石头等品牌均布局该技术路径产品，其中科沃斯占据多数份额，2025H1至2026H1线上滚筒产品销售额占扫地机行业销售额比例分别为15.5%/22.0%/25.1%。图10：2026H1内销线上滚筒产品占比提升至40%数据来源：奥维云网、开源证券研究所0%10%20%30%40%50%60%70%80%05101520252025Q12025Q22025Q32025Q42026Q12026Q2石头销售额（亿元）yoy（%）0.0%10.0%20.0%30.0%",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2026Q2石头/科沃斯/追觅/云鲸/小米线上市占率",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第7页（印刷页7），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0107",
+    "category": "competition",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "2026Q2中国扫地机线上Ecovacs市占率33.1%，同比变化4.3个百分点。",
+    "period": "2026Q2",
+    "brand": "Ecovacs",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "China online",
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "online_market_share",
+        "value_raw": "33.1",
+        "unit": "%",
+        "definition": null
+      },
+      {
+        "metric": "online_share_yoy_change",
+        "value_raw": "4.3",
+        "unit": "percentage_points",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "正文市占率，结合图8/9为销额背景；不能视作RCEP目标国份额。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "奥维云网，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p007.txt",
+      "source_excerpt_whitespace_normalized": "2026Q2石头/科沃斯/追觅/云鲸/小米线上市占率分别为33.4%/33.1%/13.0%/6.6%/6.1%，分别同比+4.3/+4.3/-0.9/-9.1/-2.8pct，石头及科沃斯市占率合计接近70%，双寡头格局进一步突出，竞争格局持续改善，我们认为进入2026H2后，伴随追觅投放力度降低，云鲸市占率无突破情况下，石头及科沃斯市占率有望进一步提升，在双寡头格局下头部公司减少价格竞争有望带来行业盈利能力逐步回升。图8：2026Q2石头扫地机国内线上销售额19.0亿元（同比+11%，下同）图9：2026Q2石头及科沃斯线上市占率合计接近70%数据来源：奥维云网、开源证券研究所数据来源：奥维云网、开源证券研究所国内产品结构来看，受益于科沃斯持续的消费者教育，国内对滚筒产品的接受程度逐步提升，根据奥维云网，2025H1/2025H2/2026H1内销线上滚筒产品占比分别为20.0%/32.7%/40.0%，目前科沃斯、追觅、石头等品牌均布局该技术路径产品，其中科沃斯占据多数份额，2025H1至2026H1线上滚筒产品销售额占扫地机行业销售额比例分别为15.5%/22.0%/25.1%。图10：2026H1内销线上滚筒产品占比提升至40%数据来源：奥维云网、开源证券研究所0%10%20%30%40%50%60%70%80%05101520252025Q12025Q22025Q32025Q42026Q12026Q2石头销售额（亿元）yoy（%）0.0%10.0%20.0%30.0%",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2026Q2石头/科沃斯/追觅/云鲸/小米线上市占率",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第7页（印刷页7），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0108",
+    "category": "competition",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "2026Q2中国扫地机线上Dreame市占率13.0%，同比变化-0.9个百分点。",
+    "period": "2026Q2",
+    "brand": "Dreame",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "China online",
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "online_market_share",
+        "value_raw": "13.0",
+        "unit": "%",
+        "definition": null
+      },
+      {
+        "metric": "online_share_yoy_change",
+        "value_raw": "-0.9",
+        "unit": "percentage_points",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "正文市占率，结合图8/9为销额背景；不能视作RCEP目标国份额。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "奥维云网，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p007.txt",
+      "source_excerpt_whitespace_normalized": "2026Q2石头/科沃斯/追觅/云鲸/小米线上市占率分别为33.4%/33.1%/13.0%/6.6%/6.1%，分别同比+4.3/+4.3/-0.9/-9.1/-2.8pct，石头及科沃斯市占率合计接近70%，双寡头格局进一步突出，竞争格局持续改善，我们认为进入2026H2后，伴随追觅投放力度降低，云鲸市占率无突破情况下，石头及科沃斯市占率有望进一步提升，在双寡头格局下头部公司减少价格竞争有望带来行业盈利能力逐步回升。图8：2026Q2石头扫地机国内线上销售额19.0亿元（同比+11%，下同）图9：2026Q2石头及科沃斯线上市占率合计接近70%数据来源：奥维云网、开源证券研究所数据来源：奥维云网、开源证券研究所国内产品结构来看，受益于科沃斯持续的消费者教育，国内对滚筒产品的接受程度逐步提升，根据奥维云网，2025H1/2025H2/2026H1内销线上滚筒产品占比分别为20.0%/32.7%/40.0%，目前科沃斯、追觅、石头等品牌均布局该技术路径产品，其中科沃斯占据多数份额，2025H1至2026H1线上滚筒产品销售额占扫地机行业销售额比例分别为15.5%/22.0%/25.1%。图10：2026H1内销线上滚筒产品占比提升至40%数据来源：奥维云网、开源证券研究所0%10%20%30%40%50%60%70%80%05101520252025Q12025Q22025Q32025Q42026Q12026Q2石头销售额（亿元）yoy（%）0.0%10.0%20.0%30.0%",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2026Q2石头/科沃斯/追觅/云鲸/小米线上市占率",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第7页（印刷页7），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0109",
+    "category": "competition",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "2026Q2中国扫地机线上Narwal市占率6.6%，同比变化-9.1个百分点。",
+    "period": "2026Q2",
+    "brand": "Narwal",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "China online",
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "online_market_share",
+        "value_raw": "6.6",
+        "unit": "%",
+        "definition": null
+      },
+      {
+        "metric": "online_share_yoy_change",
+        "value_raw": "-9.1",
+        "unit": "percentage_points",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "正文市占率，结合图8/9为销额背景；不能视作RCEP目标国份额。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "奥维云网，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p007.txt",
+      "source_excerpt_whitespace_normalized": "2026Q2石头/科沃斯/追觅/云鲸/小米线上市占率分别为33.4%/33.1%/13.0%/6.6%/6.1%，分别同比+4.3/+4.3/-0.9/-9.1/-2.8pct，石头及科沃斯市占率合计接近70%，双寡头格局进一步突出，竞争格局持续改善，我们认为进入2026H2后，伴随追觅投放力度降低，云鲸市占率无突破情况下，石头及科沃斯市占率有望进一步提升，在双寡头格局下头部公司减少价格竞争有望带来行业盈利能力逐步回升。图8：2026Q2石头扫地机国内线上销售额19.0亿元（同比+11%，下同）图9：2026Q2石头及科沃斯线上市占率合计接近70%数据来源：奥维云网、开源证券研究所数据来源：奥维云网、开源证券研究所国内产品结构来看，受益于科沃斯持续的消费者教育，国内对滚筒产品的接受程度逐步提升，根据奥维云网，2025H1/2025H2/2026H1内销线上滚筒产品占比分别为20.0%/32.7%/40.0%，目前科沃斯、追觅、石头等品牌均布局该技术路径产品，其中科沃斯占据多数份额，2025H1至2026H1线上滚筒产品销售额占扫地机行业销售额比例分别为15.5%/22.0%/25.1%。图10：2026H1内销线上滚筒产品占比提升至40%数据来源：奥维云网、开源证券研究所0%10%20%30%40%50%60%70%80%05101520252025Q12025Q22025Q32025Q42026Q12026Q2石头销售额（亿元）yoy（%）0.0%10.0%20.0%30.0%",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2026Q2石头/科沃斯/追觅/云鲸/小米线上市占率",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第7页（印刷页7），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0110",
+    "category": "competition",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "2026Q2中国扫地机线上Xiaomi市占率6.1%，同比变化-2.8个百分点。",
+    "period": "2026Q2",
+    "brand": "Xiaomi",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "China online",
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "online_market_share",
+        "value_raw": "6.1",
+        "unit": "%",
+        "definition": null
+      },
+      {
+        "metric": "online_share_yoy_change",
+        "value_raw": "-2.8",
+        "unit": "percentage_points",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "正文市占率，结合图8/9为销额背景；不能视作RCEP目标国份额。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 7,
+      "printed_page": 7,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "奥维云网，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p007.txt",
+      "source_excerpt_whitespace_normalized": "2026Q2石头/科沃斯/追觅/云鲸/小米线上市占率分别为33.4%/33.1%/13.0%/6.6%/6.1%，分别同比+4.3/+4.3/-0.9/-9.1/-2.8pct，石头及科沃斯市占率合计接近70%，双寡头格局进一步突出，竞争格局持续改善，我们认为进入2026H2后，伴随追觅投放力度降低，云鲸市占率无突破情况下，石头及科沃斯市占率有望进一步提升，在双寡头格局下头部公司减少价格竞争有望带来行业盈利能力逐步回升。图8：2026Q2石头扫地机国内线上销售额19.0亿元（同比+11%，下同）图9：2026Q2石头及科沃斯线上市占率合计接近70%数据来源：奥维云网、开源证券研究所数据来源：奥维云网、开源证券研究所国内产品结构来看，受益于科沃斯持续的消费者教育，国内对滚筒产品的接受程度逐步提升，根据奥维云网，2025H1/2025H2/2026H1内销线上滚筒产品占比分别为20.0%/32.7%/40.0%，目前科沃斯、追觅、石头等品牌均布局该技术路径产品，其中科沃斯占据多数份额，2025H1至2026H1线上滚筒产品销售额占扫地机行业销售额比例分别为15.5%/22.0%/25.1%。图10：2026H1内销线上滚筒产品占比提升至40%数据来源：奥维云网、开源证券研究所0%10%20%30%40%50%60%70%80%05101520252025Q12025Q22025Q32025Q42026Q12026Q2石头销售额（亿元）yoy（%）0.0%10.0%20.0%30.0%",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2026Q2石头/科沃斯/追觅/云鲸/小米线上市占率",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第7页（印刷页7），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0119",
+    "category": "competition",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "国信证券认为小米在自清洁扫地机迭代周期受到头部及新品牌竞争，份额下滑。",
+    "period": "2021—2022M5",
+    "brand": "Xiaomi",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-03",
+      "title": "石头硬核科技，淬炼扫地机龙头",
+      "issuer": "国信证券",
+      "publication_date": "2022-06-30",
+      "reporting_period": null,
+      "pdf_page": 16,
+      "printed_page": 16,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/国信石头202206301575640813_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\国信石头202206301575640813_1(1).pdf",
+      "source_sha256": "99fce4a59cb5cd73b7124c1ee0135bf7b8520a5fcf9bc49b3cc6b278e2961811",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-03/p016.txt",
+      "source_excerpt_whitespace_normalized": "小米则在头部的竞争以及新兴品牌的加入下，在此轮自清洁扫地机器人更新迭代的周期中市占率出现下滑。其余品牌的市占率均不超过5%。（注：由于扫地机器人线上销售占比超过95%，此次只讨论线上市场份额的情况。）图23：扫地机器人行业集中度较高，且在持续提升图24：2021年及2022年以来石头科技、云鲸等市占率提升资料来源：奥维云网、国信证券经济研究所整理注：由于扫地机器人线上销售占比95%以上，此处为线上的市场份额情况资料来源：奥维云网、国信证券经济研究所整理注：由于扫地机器人线上销售占比95%以上，此处为线上的市场份额情况从全球市场格局来看，扫地机器人行业集中度依然较高，国内品牌的全球市占率不断提升。在国内市场取得优势领先地位的同时，科沃斯、石头等头部品牌通过亚马逊等跨境电商平台、经销商等全球分销网络大力开拓全球市场，在北美、欧洲等地取得良好的成绩。根据iRobot及第三方机构的数据，2020年全球扫地机器人市场份额中，iRobot占46%/-6pct，国内龙头科沃斯和石头科技市场份额提升明显，分别达到17%/+3pct和9%/+1pct，排在第2和第3位。2016-2020年，石头的全球市场份额提升最快，从无到全球第三共提升9pct，其次是科沃斯，全球市场份额提升7pct。借助国内优质完备的供应链和高效的研发体系，国内龙头企业有望凭借着产品品质与价格优势在国外逐步扩大市场份额，实现全球化发展。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "小米则在头部的竞争以及新兴品牌的加入下",
+      "citation_zh": "国信证券：《石头硬核科技，淬炼扫地机龙头》，2022-06-30，PDF第16页（印刷页16），本地来源：sources/research/国信石头202206301575640813_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0205",
+    "category": "competition",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "图19的2025Q4石头曲线直接标注35%，采用35%；图注37%保留审计。",
+    "period": "2025Q4",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "online_market_share",
+        "value_raw": "35",
+        "unit": "%",
+        "definition": "图中2025Q4直接数据标签"
+      }
+    ],
+    "notes": [
+      "图表内部仍有图注37%与图内数据标签35%的差异，优先图内明确标签，不采用图注。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 16,
+      "printed_page": 16,
+      "locator": "图19，2025Q4蓝线数据标签35%",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "奥维云网，经开源证券",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p016.txt",
+      "source_excerpt_whitespace_normalized": "图19：石头国内2025Q4市占率37%，排名第一数据来源：奥维云网、开源证券研究所从具体产品来看，我们认为渗透率提升主要来源于以下几个方面：（1）产品力提升：通过产品迭代持续解决清洁效率、智能体验、维护成本三大痛点，性能持续提升下为消费者提供更好的产品体验。（2）价格带拓宽：通过高端款提价值、中端款走量、入门款拓客的策略，充分激活下沉市场与年轻群体，在国家以旧换新补贴下价格带进一步下拓能够促使更多消费者尝试购买。（3）技术路径多样化发展：行业从双圆盘占据绝大部份市场份额，到目前平板、双圆盘、活水履带、活水滚筒等多样化技术路径发展，针对不同痛点给予消费者更多选择，并在细分赛道上衍生出机械臂、轮足等新方案，未来在或在具身智能家用机器人发展下带动下有望解决更多消费者痛点，带动渗透率提升。2025年下半年，石头科技、追觅、云鲸等国内各家头部品牌跟进推出滚筒类产品，售价覆盖3000-5000主流价格带，行业内滚筒产品销售占比明显提升，根据奥维数据，2025年9月科沃斯、云鲸、追觅滚筒产品销售占比为64%/35%/16%，2025年10月提升至80%/76%/17%。石头科技积极布局滚筒类产品，2025Q4推出高性价比滚筒产品P20活水版（2026Q1推出迭代款P20Ultra活水版），270mm超长滚筒实现全域增压活水洗地，15mm滚筒智能抬升+自动升降滚筒罩实现地毯“只扫不拖、干湿分离”，在3000-4000元主流价格带保持高性能的同时兼具性价比。我们认为石头在以双转盘产品为主力产品，",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "图19：石头国内2025Q4市占率37%",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第16页（印刷页16），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

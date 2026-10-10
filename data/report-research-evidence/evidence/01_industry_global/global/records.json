@@ -1,0 +1,491 @@
+[
+  {
+    "record_id": "RR26-0001",
+    "category": "industry_global",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "2024年全球智能扫地机器人出货量2060.3万台，增长11.2%；销额93.1亿美元，增长19.7%。",
+    "period": "2024",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "shipments",
+        "value_raw": "2,060.3",
+        "unit": "万台",
+        "definition": null
+      },
+      {
+        "metric": "shipments_yoy",
+        "value_raw": "11.2",
+        "unit": "%",
+        "definition": null
+      },
+      {
+        "metric": "sales_value",
+        "value_raw": "93.1",
+        "unit": "亿美元",
+        "definition": null
+      },
+      {
+        "metric": "sales_value_yoy",
+        "value_raw": "19.7",
+        "unit": "%",
+        "definition": null
+      }
+    ],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-03",
+      "title": "石头科技2024年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2024",
+      "pdf_page": 18,
+      "printed_page": 17,
+      "locator": "第三节，行业发展阶段",
+      "source_relative_path": "sources/report/石头科技2024年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2024年度报告.pdf",
+      "source_sha256": "45c065afabb814739212e3334a059d635c30bbbd1a5f1190babd04aa42a37bde",
+      "original_data_provider_as_cited": "IDC",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-03/p018.txt",
+      "source_excerpt_whitespace_normalized": "全球智能扫地机器人市场2024年全年出货2,060.3万台，同比增长11.2%；全年销额达93.1亿美金，同比增长19.7%。其中第四季度全球扫地机器人市场出货591.8万台，同比增长7.8%，增速较前三季度有所放缓。随着行业内推出搭载AI导航、机械臂等技术的旗舰新品，2024年市场加速向智能化、一体化方向演进。具体来看，受益于国内“以旧换新”政策的推动，扫地机器人市场表现尤为突出，全年出货538.9万台，同比增长6.7%，其中四季度在“国补”政策的刺激下，出货量达到175万台，同比增长28.2%。预计到2030年，中国清洁电器的市场规模有望达到600亿元。清洁电器凭借其独特的功能和市场需求，展现了强大的市场竞争力。在海外市场方面，清洁电器亦存在广阔的增长空间，智能家电在全球家电市场中的份额不断提升，多次成为推动家电市场增长的重要引擎。全球消费者正在不断寻找简化日常生活、提升家居舒适度和安全性的解决方案。智能扫地机器人凭借其便利性、能源效率和安全性的优势，依托导航算法和清洁技术的持续性升级，通过人工智能(AI)和清洁产品的深度融合，在复杂环境适应能力和智能清洁决策系统构建方面不断取得突破，为用户提供了更加智能化、个性化的清洁解决方案。作为智能家居行业的核心驱动力之一，智能扫地机预计将继续保持高于整体智能家居市场的年增长率。展望未来，随着技术的不断演进和市场的进一步拓展，行业有望将迎来更广阔的发展空间和机遇，成为智能家居领域的一大亮点。（2）行业基本特点智能清洁电器行业是一个技术创",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "全球智能扫地机器人市场2024年全年出货",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2024年年度报告》，2024报告期，PDF第18页（印刷页17），本地来源：sources/report/石头科技2024年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0002",
+    "category": "industry_global",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "2025年全球智能扫地机器人出货量2412.4万台，同比增长17.1%。",
+    "period": "2025",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "shipments",
+        "value_raw": "2,412.4",
+        "unit": "万台",
+        "definition": null
+      },
+      {
+        "metric": "shipments_yoy",
+        "value_raw": "17.1",
+        "unit": "%",
+        "definition": null
+      }
+    ],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 19,
+      "printed_page": 19,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": "IDC",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p019.txt",
+      "source_excerpt_whitespace_normalized": "2025年全球智能扫地机器人市场出货量2,412.4万台，同比增长17.1%。与此同时，中国品牌的智能清洁电器及扫地机器人在全球市场持续拓展，凭借其技术先进性和功能全面性受到了市场的追捧。根据IDC报告，2025年全球家用智能扫地机器人前五大厂商占据70.4%的市场份额，行业集中度高。中国品牌通过卓越的产品性能、高效的供应链管理、长期的市场布局以及",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2025年全球智能扫地机器人市场出货量",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第19页（印刷页19），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0003",
+    "category": "industry_global",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "2025年全球家用智能扫地机器人前五大厂商市场份额70.4%。",
+    "period": "2025",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "cr5",
+        "value_raw": "70.4",
+        "unit": "%",
+        "definition": "原文未在该句重述销量/销额分母"
+      }
+    ],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 16,
+      "printed_page": 16,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": "IDC",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p016.txt",
+      "source_excerpt_whitespace_normalized": "2025年全球家用智能扫地机器人前五大厂商占据70.4%的市场份额，行业集中度高。随着居民生活水平和对于生活品质的提升，智能扫地机器人市场需求快速增长。近年来，行业技术和产品发展迅速，已经经历了从随机碰撞清扫到路径规划清扫，从单清扫产品到洗拖一体产品，再到全基站自清洁产品的发展过程。如今，随着导航技术、三维立体空间扫描技术、AI避障技术等不断升级，自动上下水、全基站、底盘升降、仿生机械臂、RRmindGPT智慧交互大模型等功能的相继出现，智能扫地机器人正朝着智能化、自主清洁方向持续迭代，技术的日益进步也推动行业的持续增长。技术的进步和消费者对于便利生活追求的不断提高，共同催生了智能清洁电器市场的蓬勃发展，全球范围内智能扫地机器人的普及和需求呈现出显著增长趋势。随着具身智能和多模态AI的深度集成，清洁电器的功能和效率正在不断突破，为用户提供了更加智能化、个性化的清洁解决方案。展望未来，随着技术的不断演进和市场的进一步拓展，清洁电器行业有望将迎来更广阔的发展空间和机遇，成为智能家居领域的一大亮点。（2）行业基本特点随着现代生活节奏加快，消费者对高效、省心、省时的智能清洁产品的需求持续攀升，成为行业规模增长的核心驱动力。与传统家居清洁产品相比，智能清洁电器（智能扫地机器人、洗地机等）通过自动化与智能化技术的深度应用，在软硬件层面持续迭代，有效降低人工参与度、大幅提升产品实用性，推动行业持续扩容。奥维云网（AVC）推总数据显示，2025年中国清洁电器市场零售额达471亿元，同比增长11.",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2025年全球家用智能扫地机器人前五大厂商",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第16页（印刷页16），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0005",
+    "category": "industry_global",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "研报引述GFK：2021年全球扫地机器人市场规模53亿美元，同比增长18%；中国零售额占比32%。",
+    "period": "2021",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "market_value",
+        "value_raw": "53",
+        "unit": "亿美元",
+        "definition": null
+      },
+      {
+        "metric": "market_value_yoy",
+        "value_raw": "18",
+        "unit": "%",
+        "definition": null
+      },
+      {
+        "metric": "china_share_global_retail_value",
+        "value_raw": "32",
+        "unit": "%",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "与IDC出货统计不是同一统计体系，不拼接为统一时间序列。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-03",
+      "title": "石头硬核科技，淬炼扫地机龙头",
+      "issuer": "国信证券",
+      "publication_date": "2022-06-30",
+      "reporting_period": null,
+      "pdf_page": 14,
+      "printed_page": 14,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/国信石头202206301575640813_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\国信石头202206301575640813_1(1).pdf",
+      "source_sha256": "99fce4a59cb5cd73b7124c1ee0135bf7b8520a5fcf9bc49b3cc6b278e2961811",
+      "original_data_provider_as_cited": "GFK",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-03/p014.txt",
+      "source_excerpt_whitespace_normalized": "2021年全球扫地机器人规模达到53亿美元，同比增长18%，中国是全球最大的扫地机器人市场，零售额占比32%。海外扫地机器人市场基本由欧美构成，根据iRobot的年报，2021年中国以外的扫地机器人市场规模共27.9亿美元（只计算售价200美元以上的产品），其中北美占比35.3%，EMEA（欧洲、中东及非洲）占比49.8%，日本占比9%。图21：国内扫地机销量渗透率高于发达国家（万台，2021年）图22：2021年全球扫地机市场份额分布情况资料来源：Euromonitor、奥维云网、国信证券经济研究所整理资料来源：GFK、iRobot、奥维云网、国信证券经济研究所整理注：海外地区分布情况根据iRobot年报推算，只包含售价在200美元以上的扫地机器人市场分布情况，会忽视部分低端市场海外发达国家对于吸尘器等清洁类产品的接受度显著更高，扫地机渗透率有望快速提升。我们选取海外扫地机和吸尘器主要的消费地区美国、西欧、日韩进行测算，结合Euromonitor的数据，以上述三个地区2021年扫地机在吸尘器中的销量渗透率为10.3%、9.3%、11.4%作为基础计算。由于上述地区吸尘器渗透率都已超过90%，故假设其吸尘器销量保持2021年的水平、扫地机销售均价保持不变，而",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2021年全球扫地机器人规模达到",
+      "citation_zh": "国信证券：《石头硬核科技，淬炼扫地机龙头》，2022-06-30，PDF第14页（印刷页14），本地来源：sources/research/国信石头202206301575640813_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0006",
+    "category": "industry_global",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "2024年全球扫地机市场渗透率约3.8%。",
+    "period": "2024",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "penetration",
+        "value_raw": "3.8",
+        "unit": "%",
+        "definition": "报告称市场渗透率，未说明分母；保留原口径",
+        "qualifier": "approximately"
+      }
+    ],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 17,
+      "printed_page": 17,
+      "locator": "图21及正文",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "欧睿，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p017.txt",
+      "source_excerpt_whitespace_normalized": "2024年全球扫地机市场渗透率为3.8%左右，在较为成熟的市场中，观察各地区扫地机渗透率情况，亚洲地区中国台湾（15.3%）、新加坡（12.9%），欧洲地区西班牙（21.3%）、捷克（15.5%），美洲地区美国（15.8%）渗透率保持领先，而目前中国大陆扫地机渗透率仅为5%左右。从产品来看，目前全球头部厂商均来自中国，石头、科沃斯等在产品供给上优于其他市场，本土化生产在成本上具有较大优势，在产品力及价格优势双重驱动下，未来中国扫地机行业渗透率有望进一步提升。从消费者教育来看，中国扫地机器人市场起步晚，2016年后才进入快速发展期，欧美市场早于中国5-8年开始普及，近年来，随着直播、自媒体的传播以及国补刺激，渗透率有望向欧美靠拢。图21：西班牙、美国和中国台湾市场成熟度高，渗透率分别达21.3%/15.8%/15.3%数据来源：欧睿、开源证券研究所4.3%3.8%3.6%1.2%5.4%8.1%12.9%15.3%0.4%3.1%4.8%14.5%15.8%3.6%5.7%7.3%8.4%4.8%7.4%21.3%8.9%5.2%7.4%15.5%8.8%8.1%12.9%0.8%1.7%0.0%5.0%10.0%15.0%20.0%25.0%中国全球全球(除中国)亚太(除中国)日本韩国新加坡中国台湾越南泰国中国香港北美美国加拿大欧洲西欧德国英国法国西班牙荷兰意大利瑞典捷克波兰罗马尼亚澳大利亚拉丁美洲阿根廷20132014201520162017201820192020202120",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2024年全球扫地机市场渗透率为",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第17页（印刷页17），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0030",
+    "category": "industry_global",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "行业从随机碰撞向路径规划、从单清扫向洗拖一体和全基站自清洁发展。",
+    "period": "2025",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 16,
+      "printed_page": 16,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p016.txt",
+      "source_excerpt_whitespace_normalized": "已经经历了从随机碰撞清扫到路径规划清扫，从单清扫产品到洗拖一体产品，再到全基站自清洁产品的发展过程。如今，随着导航技术、三维立体空间扫描技术、AI避障技术等不断升级，自动上下水、全基站、底盘升降、仿生机械臂、RRmindGPT智慧交互大模型等功能的相继出现，智能扫地机器人正朝着智能化、自主清洁方向持续迭代，技术的日益进步也推动行业的持续增长。技术的进步和消费者对于便利生活追求的不断提高，共同催生了智能清洁电器市场的蓬勃发展，全球范围内智能扫地机器人的普及和需求呈现出显著增长趋势。随着具身智能和多模态AI的深度集成，清洁电器的功能和效率正在不断突破，为用户提供了更加智能化、个性化的清洁解决方案。展望未来，随着技术的不断演进和市场的进一步拓展，清洁电器行业有望将迎来更广阔的发展空间和机遇，成为智能家居领域的一大亮点。（2）行业基本特点随着现代生活节奏加快，消费者对高效、省心、省时的智能清洁产品的需求持续攀升，成为行业规模增长的核心驱动力。与传统家居清洁产品相比，智能清洁电器（智能扫地机器人、洗地机等）通过自动化与智能化技术的深度应用，在软硬件层面持续迭代，有效降低人工参与度、大幅提升产品实用性，推动行业持续扩容。奥维云网（AVC）推总数据显示，2025年中国清洁电器市场零售额达471亿元，同比增长11.3%，零售量3,550万台，同比增长17.0%，在整体家电市场同比下滑4.3%的背景下，成为唯一实现量额双增的品类，凸显需求端的强劲韧性。智能清洁电器行业的发展受到技术和产品创新的驱动",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "已经经历了从随机碰撞清扫到路径规划清扫",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第16页（印刷页16），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0031",
+    "category": "industry_global",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "消费者关注顽固污渍、宠物清洁、复杂场景避障等使用痛点。",
+    "period": "2025",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 17,
+      "printed_page": 17,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p017.txt",
+      "source_excerpt_whitespace_normalized": "尤其对顽固污渍清洁、宠物友好清洁、复杂场景避障等痛点需求更为迫切，这也对行业的技术及产品研发能力提出了持续提升的挑战。2、公司所处的行业地位分析及其变化情况公司是国际上将激光雷达技术、雷达升降技术、3D-TOF导航技术、精密光学视觉导航避障、仿生机械手及相关算法大规模应用于智能扫地机器人领域的领先企业。公司紧密跟踪行业动态与技术发展趋势，依托领先的激光雷达导航算法、创新的硬件研发设计及国际一流的品质管理体系，陆续推出了智能扫地机器人、洗地机、智能割草机及其他智能电器，为消费者提供了全场景的家居清洁解决方案，推动产品从“清洁工具”向“家庭智能伙伴”方向迈进。同时，公司凭借持续强劲的研发实力，不断推动技术创新与产品迭代，有效支撑主营业务发展，持续扩大产品市场份额，稳固并强化了其在行业内的领先地位。2025年，公司研发投入14.20亿元，较上年同比增长46.13%；公司研发人员1,481人，较上年研发人员同比增长41.99%；公司新增授权专利1,975项，公司产品P20UltraPlus、G30Space探索版、G-Rover轮足式机器人、P20活水版，A30ProSteam五合一版、A30Pro系列洗地机，",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "尤其对顽固污渍清洁、宠物友好清洁",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第17页（印刷页17），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0032",
+    "category": "industry_global",
+    "geography": {
+      "key": "global",
+      "name_zh": "全球",
+      "iso3": null,
+      "scope": "global",
+      "role": "global_background",
+      "related_countries": []
+    },
+    "statement_zh": "国信证券2022年报告测算2030年全球市场规模912亿元、2021—2030年CAGR12.7%，这是历史预测，不是已实现规模。",
+    "period": "2030E",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_forecast",
+    "report_use": "forecast_only",
+    "metrics": [
+      {
+        "metric": "forecast_global_market_value",
+        "value_raw": "912",
+        "unit": "亿元人民币",
+        "definition": null
+      },
+      {
+        "metric": "forecast_cagr_2021_2030",
+        "value_raw": "12.7",
+        "unit": "%",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "假设包含主要海外地区吸尘器销量和均价不变、扫地机销量渗透率逐年加2pct及汇率6.5；不可替代实际数据。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-03",
+      "title": "石头硬核科技，淬炼扫地机龙头",
+      "issuer": "国信证券",
+      "publication_date": "2022-06-30",
+      "reporting_period": null,
+      "pdf_page": 15,
+      "printed_page": 15,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/国信石头202206301575640813_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\国信石头202206301575640813_1(1).pdf",
+      "source_sha256": "99fce4a59cb5cd73b7124c1ee0135bf7b8520a5fcf9bc49b3cc6b278e2961811",
+      "original_data_provider_as_cited": "国信证券模型测算",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-03/p015.txt",
+      "source_excerpt_whitespace_normalized": "到2030年，全球扫地机器人规模预计可达912亿元，2021-2030年复合增速预计可达12.7%。表5：2030年海外扫地机器人规模有望突破80亿美元20212022E2023E2024E2025E2026E2027E2028E2029E2030E2021年吸尘器销量（万台）扫地机销量渗透率（扫地机器人销量/所有吸尘器销量）美国3819美国10.3%12.3%14.3%16.3%18.3%20.3%22.3%24.3%26.3%28.3%西欧3629西欧9.3%11.3%13.3%15.3%17.3%19.3%21.3%23.3%25.3%27.3%日韩1127日韩11.4%13.4%15.4%17.4%19.4%21.4%23.4%25.4%27.4%29.4%扫地机销量（万台）美国39347054662269977585292810041081西欧3384104835556287007738469189912021年扫地机器人销售均价（美元/台）日韩128151173196219241264286309331扫地机销售额（亿美元）美国323.4美国12.715.217.720.122.625.127.530.032.535.0西欧378.2西欧12.815.518.321.023.726.529.232.034.737.5日韩306.6日韩3.94.65.36.06.77.48.18.89.510.2合计规模（亿美元）29.435.341.247.153.059.064.9",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "到2030年，全球扫地机器人规模预计可达",
+      "citation_zh": "国信证券：《石头硬核科技，淬炼扫地机龙头》，2022-06-30，PDF第15页（印刷页15），本地来源：sources/research/国信石头202206301575640813_1(1).pdf，读取日期：2026-10-09。"
+    }
+  }
+]

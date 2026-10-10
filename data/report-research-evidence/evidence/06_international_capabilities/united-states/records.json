@@ -1,0 +1,111 @@
+[
+  {
+    "record_id": "RR26-0170",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": [
+        "vietnam"
+      ]
+    },
+    "statement_zh": "国信2025年8月报告预期越南产能爬坡将减轻美国关税影响。",
+    "period": "2025H2E",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_forecast",
+    "report_use": "forecast_only",
+    "metrics": [],
+    "notes": [
+      "供应应对机制的预测，不证明实际适用税率或原产地合规。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-06",
+      "title": "2025年中报点评：收入延续高增，盈利有望企稳修复",
+      "issuer": "国信证券",
+      "publication_date": "2025-08-18",
+      "reporting_period": null,
+      "pdf_page": 1,
+      "printed_page": 54159,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/国信石头202508181729979686_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\国信石头202508181729979686_1(1).pdf",
+      "source_sha256": "30ac2d034198c2ab0b3214e14c3b94db43a7adcf92103bc56b01e05281cb767b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-06/p001.txt",
+      "source_excerpt_whitespace_normalized": "随着公司越南产能逐步爬坡、关税影响环比改善，洗地机等新业务盈利稳步提升，预计公司下半年盈利有望企稳回升。风险提示：关税及国际贸易形势风险；行业竞争加剧；海外扩展不及预期。投资建议：调整盈利预测，维持“优于大市”评级公司是全球扫地机行业龙头，国内外产品矩阵、渠道加速扩张。考虑到美国关税的影响和公司积极的市场策略，调整盈利预测，预计公司2025-2027年归母净利润20.2/27.3/33.8亿（前值为21.3/27.3/32.3亿），增速为+2%/+35%/+24%，对应PE=23/17/14倍，维持“优于大市”评级。盈利预测和财务指标202320242025E2026E2027E营业收入(百万元)8,65411,94518,06622,73827,608(+/-%)30.5%38.0%51.2%25.9%21.4%净利润(百万元)20511977202027313383(+/-%)73.3%-3.6%2.2%35.2%23.9%每股收益（元）15.6010.707.8010.5413.06EBITMargin23.7%13.6%10.3%11.1%11.5%净资产收益率（ROE）18.0%15.4%14%17%19%市盈率（PE）11.717.123.517.414.0EV/EBITDA12.522.027.020.917.3市净率（PB）2.12.63.32.92.6资料来源：Wind、国信证券经济研究所预测注：摊薄每股收益按最新总股本计算",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "随着公司越南产能逐步爬坡、关税影响环比改善",
+      "citation_zh": "国信证券：《2025年中报点评：收入延续高增，盈利有望企稳修复》，2025-08-18，PDF第1页（印刷页54159），本地来源：sources/research/国信石头202508181729979686_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0171",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": [
+        "vietnam",
+        "malaysia"
+      ]
+    },
+    "statement_zh": "公司年报将越南、马来西亚产能布局与应对美国关税及贸易环境风险联系起来。",
+    "period": "2025",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "不从该段计算具体税率。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 52,
+      "printed_page": 52,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p052.txt",
+      "source_excerpt_whitespace_normalized": "为有效应对关税政策及国际贸易环境变化带来的风险，公司通过加强全球化产能布局来提升供应链的灵活性与抗风险能力。自2024年10月起，公司的越南代工厂已开始陆续发货，2025年，公司进一步新增马来西亚代工厂生产业务，通过多元化产能布局，为公司产品供应保障提供更多的灵活性和安全性。后续公司将结合中美贸易发展态势，综合权衡生产效率与关税影响，以效益最大化为目标持续优化产能布局，进一步提升北美市场运营效率。同时，公司持续推进本土化运营战略，通过优化产品结构、完善全价格带布局、深耕渠道建设及强化品牌营销等方式，持续提升在北美市场的竞争力和市场份额。未来，公司将密切关注国际贸易政策动向，采取灵活应对策略，抓住国内政策机会，扩大内销的同时，继续抓住欧洲、亚太等市场的拓展机会，寻求新的业务增长点。此外，公司将通过丰富价格矩阵，增强品牌影响力和认可度，提升竞争力和溢价能力，最大限度降低关税政策变动对公司业务发展的不利影响。3、地缘政治冲突与战争风险全球地缘政治冲突持续发酵，对公司全球化经营带来潜在风险。一方面，中东等区域冲突直接影响关键航运通道，推高海运物流成本、降低运输效率，目前已对公司中东业务的物流运输及人员外派造成轻微影响，若冲突持续升级，可能冲击全球供应链稳定，影响订单交付效率。另一方面，地缘冲突引发的能源价格波动、通胀高企与经济下行压力，将抑制海外消费者对智能扫地机器人等耐用消费品的购买意愿，导致区域市场需求有所减弱，可能会对公司海外业绩增长造成不利影响。为有效应对地缘政治冲突与战争风险，",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "为有效应对关税政策及国际贸易环境变化带来的风险",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第52页（印刷页52），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

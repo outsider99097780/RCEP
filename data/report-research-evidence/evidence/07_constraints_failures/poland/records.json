@@ -1,0 +1,54 @@
+[
+  {
+    "record_id": "RR26-0089",
+    "category": "constraints_failures",
+    "geography": {
+      "key": "poland",
+      "name_zh": "波兰",
+      "iso3": "POL",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2026H1门店样本中，追觅在波兰渠道入驻领先石头。",
+    "period": "2026H1",
+    "brand": "Dreame",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [
+      "采样门店渠道及SKU，不是全市场份额。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 11,
+      "printed_page": 11,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p011.txt",
+      "source_excerpt_whitespace_normalized": "追觅在意大利、西班牙以及波兰三国渠道入驻领先石头，在瑞典、丹麦、德国、法国追觅与石头入驻相当，石头与追觅入驻SKU数量整体来看领先其他品牌，其中iRobot及科沃斯入驻渠道及SKU数量处于第二梯队。图18：追觅在西班牙、意大利等国渠道入驻领先于石头数据来源：开源证券研究所从采样结果分析，追觅在欧洲线下投放更为激进，费用投放相对较高，具体对比两品牌线下情况：追觅：完成大多数渠道入驻，在渠道中占据相对优势点位，产品以店中店、岛台方式及货架等方式进行陈列；KA渠道外，追觅在大型购物中心开设品牌旗舰店，签约巨星C罗、配合机场等地广告投放及增加部分渠道导购配置进行宣发，综合来看渠道投放费用相对较高。石头：完成大多数渠道覆盖，在渠道中占据相对性价比更高点位，产品以岛台及货架方式进行陈列，通过与本土热门运动（在瑞典与本土滑雪运动员合作、在全欧与皇家马德里签署战略合作伙伴协议）进行联动提高品牌曝光，渠道费用投放相对良性。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "追觅在意大利、西班牙以及波兰三国渠道入驻领先石头",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第11页（印刷页11），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  }
+]

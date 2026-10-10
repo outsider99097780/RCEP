@@ -1,0 +1,158 @@
+[
+  {
+    "record_id": "RR26-0050",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "south-korea",
+      "name_zh": "韩国",
+      "iso3": "KOR",
+      "scope": "country",
+      "role": "TARGET_KOREA",
+      "related_countries": []
+    },
+    "statement_zh": "2022年年报列示公司已在韩国设立海外公司，以理解当地市场、提升运营或售后服务。",
+    "period": "2022",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "仅证明报告期已设立，不代表首次进入年份或当地收入。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-01",
+      "title": "石头科技2022年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2022",
+      "pdf_page": 12,
+      "printed_page": 12,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2022年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2022年度报告.pdf",
+      "source_sha256": "c4c1709345f7d26d092e0f1f568956031213e9a9635342c71de9975bb63edd10",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-01/p012.txt",
+      "source_excerpt_whitespace_normalized": "目前公司已在美国、日本、荷兰、波兰、德国、韩国等地设立了海外公司，在美国亚马逊、家得宝、塔吉特、百思买、沃尔玛等线上平台开设线上品牌专卖店，且通过持续的品牌投入获得了广泛的消费者认可。（三）精耕线上业务，开拓多渠道运营公司通过多元化的营销渠道，扩大产品销售和市场覆盖面。报告期内，公司继续与各电商平台进行深度合作，布局产品并充分挖掘平台的流量，同时，公司还通过营销策略、市场调研等手",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "目前公司已在美国",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2022年年度报告》，2022报告期，PDF第12页（印刷页12），本地来源：sources/report/石头科技2022年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0052",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "south-korea",
+      "name_zh": "韩国",
+      "iso3": "KOR",
+      "scope": "country",
+      "role": "TARGET_KOREA",
+      "related_countries": []
+    },
+    "statement_zh": "2023年年报列示公司已在韩国设立海外公司，以理解当地市场、提升运营或售后服务。",
+    "period": "2023",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "仅证明报告期已设立，不代表首次进入年份或当地收入。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-02",
+      "title": "石头科技2023年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2023",
+      "pdf_page": 15,
+      "printed_page": 15,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2023年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2023年度报告.pdf",
+      "source_sha256": "3d10cbff3e696142a9e93cda08a7404a7878869da99e7841630be0d5dd1c30de",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-02/p015.txt",
+      "source_excerpt_whitespace_normalized": "目前公司已在美国、日本、荷兰、波兰、德国、韩国等地设立了海外公司，在美国Amazon、HomeDepot、Target、Bestbuy、WalMart等线上平台开设线上品牌专卖店，公司于2023年首次进入美国线下实体连锁零售渠道Target，通过持续的品牌投入获得了广泛的消费者认可。（三）精耕线上业务，开拓多渠道运营公司通过多元化的营销渠道，扩大产品销售和市场覆盖面。报告期内，公司继续与各电商平台进行深度合作，布局产品并充分挖掘平台的流量，同时，公司还通过营销策略、市场调研等手段，提高营销效率和市场反应速度，进一步稳定公司的行业地位。此外，公司聚焦新兴业态和渠道，进一步丰富线下销售渠道。在国内，公司通过经销方式，在部分核心城市商圈开设线下体验店，精准聚焦用户需求，提升用户感知和体验，助力行业渗透率提升。在海外，公司于2023年首次进入美国线下实体连锁零售，目前已经扩展到美国线下180多家Target商店。（四）建设多元化人才队伍，优培价值，共同成长在团队建设方面，公司进一步深化了外部招聘与内部培养相结合的机制。目前，公司已经组建了一支在战略发展、产品研发、财务管理、公司治理等方面经验丰富的管理团队，具备先进的管理理念和清晰的管理思路，为把公司建设成为一家技术领先、管理科学、流程优化、效率显著的企业提供了强有力的人才保障。公司将ESG发展理念融入日常生产运营及管理之中，坚持科技创新、保障产品质量、优化客户服务、助力员工发展，以高标准要求助推公司可持续发展。未来，公司将协同各利益相关",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "目前公司已在美国",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2023年年度报告》，2023报告期，PDF第15页（印刷页15），本地来源：sources/report/石头科技2023年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0054",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "south-korea",
+      "name_zh": "韩国",
+      "iso3": "KOR",
+      "scope": "country",
+      "role": "TARGET_KOREA",
+      "related_countries": []
+    },
+    "statement_zh": "2024年年报列示公司已在韩国设立海外公司，以理解当地市场、提升运营或售后服务。",
+    "period": "2024",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "仅证明报告期已设立，不代表首次进入年份或当地收入。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-03",
+      "title": "石头科技2024年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2024",
+      "pdf_page": 15,
+      "printed_page": 14,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2024年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2024年度报告.pdf",
+      "source_sha256": "45c065afabb814739212e3334a059d635c30bbbd1a5f1190babd04aa42a37bde",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-03/p015.txt",
+      "source_excerpt_whitespace_normalized": "目前公司已在美国、英国、日本、荷兰、波兰、德国、韩国、加拿大等地设立了海外公司，及时掌握市场动态，提升策略实施效率。（三）精耕线上业务，开拓多渠道运营1、深化线上渠道合作，挖掘优质流量公司通过多元化的营销渠道，扩大产品销售和市场覆盖面。报告期内，公司继续与各电商平",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "目前公司已在美国",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2024年年度报告》，2024报告期，PDF第15页（印刷页14），本地来源：sources/report/石头科技2024年度报告.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

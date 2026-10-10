@@ -1,0 +1,184 @@
+[
+  {
+    "record_id": "RR26-0008",
+    "category": "target_markets",
+    "geography": {
+      "key": "japan",
+      "name_zh": "日本",
+      "iso3": "JPN",
+      "scope": "country",
+      "role": "TARGET_JAPAN",
+      "related_countries": []
+    },
+    "statement_zh": "图21标注2024年日本扫地机渗透率为5.4%。",
+    "period": "2024",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "penetration",
+        "value_raw": "5.4",
+        "unit": "%",
+        "definition": "图21市场渗透率，分母定义未披露；不是吸尘器销量占比"
+      }
+    ],
+    "notes": [
+      "数值逐一核对图中标签；未反推未标注的历史年度数据。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 17,
+      "printed_page": 17,
+      "locator": "图21，2024年柱标签（已视觉核对）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "欧睿，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p017.txt",
+      "source_excerpt_whitespace_normalized": "图21：西班牙、美国和中国台湾市场成熟度高，渗透率分别达21.3%/15.8%/15.3%数据来源：欧睿、开源证券研究所4.3%3.8%3.6%1.2%5.4%8.1%12.9%15.3%0.4%3.1%4.8%14.5%15.8%3.6%5.7%7.3%8.4%4.8%7.4%21.3%8.9%5.2%7.4%15.5%8.8%8.1%12.9%0.8%1.7%0.0%5.0%10.0%15.0%20.0%25.0%中国全球全球(除中国)亚太(除中国)日本韩国新加坡中国台湾越南泰国中国香港北美美国加拿大欧洲西欧德国英国法国西班牙荷兰意大利瑞典捷克波兰罗马尼亚澳大利亚拉丁美洲阿根廷201320142015201620172018201920202021202220232024",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "图21：西班牙、美国和中国台湾市场成熟度高",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第17页（印刷页17），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0042",
+    "category": "target_markets",
+    "geography": {
+      "key": "japan",
+      "name_zh": "日本",
+      "iso3": "JPN",
+      "scope": "country",
+      "role": "TARGET_JAPAN",
+      "related_countries": []
+    },
+    "statement_zh": "研报列示2025黑五数据：日本扫地机销量增长55%；全品类销量增长65%、GMV增长130%。",
+    "period": "2025 Black Friday",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "robot_vacuum_volume_yoy",
+        "value_raw": "55",
+        "unit": "%",
+        "definition": "石头扫地机；黑五期间，不是全年日本行业增速"
+      },
+      {
+        "metric": "all_categories_volume_yoy",
+        "value_raw": "65",
+        "unit": "%",
+        "definition": "原文全品类，范围表述含混"
+      },
+      {
+        "metric": "all_categories_gmv_yoy",
+        "value_raw": "130",
+        "unit": "%",
+        "definition": "原文全品类"
+      }
+    ],
+    "notes": [
+      "原文“日本扫地机全品类”与后续分品类混用，55%仅用于扫地机，65%/130%不得当作扫地机单品类。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 27,
+      "printed_page": 27,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "黑五数据，报告未注明该段原始提供者或网址",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p027.txt",
+      "source_excerpt_whitespace_normalized": "日本扫地机全品类销量+65%，GMV+130%，其中扫地机销量+55%，洗地机销量+500%；中东扫地机总销量+154%，GMV+78%；土耳其扫地机品类市占率第一；俄罗斯11月全渠道销量+316%。图36：2025Q3亚太区收入预计增长51%数据来源：开源证券研究所拆分市场来看，根据欧睿数据，2024年韩国/澳大利亚/中国台湾/印度尼西亚/中东非/马来西亚扫地机销售额分别为2.68/1.38/1.26/0.22/0.69/0.32亿美元，5年CAGR分别为15%/7%/10%/18%/10%/16%，中东、东南亚、东亚均拥有较大成长空间。图37：2024年韩国扫地机销售额为2.68亿美元（+4%）图38：2024年澳大利亚扫地机销售额为1.38亿美元（+9%）数据来源：欧睿、开源证券研究所数据来源：欧睿、开源证券研究所-40%-20%0%20%40%60%80%0246810亚太区域收入（亿元）yoy-10%0%10%20%30%40%0200400600韩国销额（百万美元）YOY-20%0%20%40%60%80%100%050100150200250澳大利亚销额（百万美元）YOY",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "日本扫地机全品类销量",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第27页（印刷页27），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0045",
+    "category": "target_markets",
+    "geography": {
+      "key": "japan",
+      "name_zh": "日本",
+      "iso3": "JPN",
+      "scope": "country",
+      "role": "TARGET_JAPAN",
+      "related_countries": []
+    },
+    "statement_zh": "2025年年报将日本列为前期已布局市场，并披露这些市场占有率持续攀升，未给出各国数值。",
+    "period": "2025",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "公司定性披露，不补填具体市场份额。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 22,
+      "printed_page": 22,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p022.txt",
+      "source_excerpt_whitespace_normalized": "日本、澳大利亚、泰国、越南等前期已布局市场的占有率持续攀升，取得持续突破。2025年，在“PrimeDay”、“黑色星期五”等多个重要消费大促期间，公司在欧洲、北美、亚太三大区域全面领跑，全品类实现爆发式增长，多国市占率登顶。截至报告期末，公司产品已遍布全球170多个国家和地区，其中智能扫地机器人累计销量超过2,500万台,通过科技创新为千万消费者带来品质生活。与此同时，公司已在多个主要海外市场设立分公司或子公司，以深度贴合当地市场需求，全面提升消费者的产品、购物及使用全链条体验。（三）线上线下协同发力，构建全球多渠道运营体系公司坚持线上线下协同推进，深耕线上流量运营，积极拓展线下渠道，构建覆盖全球的全渠道运营网络，结合智能硬件产品特性持续优化产品展示与体验场景，提升产品触达效率与用户体验，进一步强化高科技智能硬件企业品牌形象。1、深化线上渠道合作，挖掘全球优质流量公司持续深化与各主要电商平台的合作，创新运营模式，不断扩大产品销售覆盖面。国内依托天猫、京东、抖音等主流平台，通过直播带货、场景化种草等形式持续提升触达效率；海外新增Shopee、Lazada等主流平台合作，并巩固Amazon等既有平台优势，实现线上渠道全球化覆盖。通过技术科普、产品实测等内容形式有效传递产品技术价值，持续提升消费者认可度与品牌知名度。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "日本、澳大利亚、泰国、越南等前期已布局市场",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第22页（印刷页22），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

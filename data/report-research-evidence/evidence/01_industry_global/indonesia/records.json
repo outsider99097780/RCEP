@@ -1,0 +1,65 @@
+[
+  {
+    "record_id": "RR26-0196",
+    "category": "industry_global",
+    "geography": {
+      "key": "indonesia",
+      "name_zh": "印度尼西亚",
+      "iso3": "IDN",
+      "scope": "country",
+      "role": "rcep_background",
+      "related_countries": []
+    },
+    "statement_zh": "2024年印度尼西亚扫地机销售额0.22亿美元，原文5年CAGR18%。",
+    "period": "2024",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "market_sales_value",
+        "value_raw": "0.22",
+        "unit": "亿美元",
+        "definition": null
+      },
+      {
+        "metric": "five_year_cagr",
+        "value_raw": "18",
+        "unit": "%",
+        "definition": "原文未明示起止年"
+      }
+    ],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 27,
+      "printed_page": 27,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "欧睿，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p027.txt",
+      "source_excerpt_whitespace_normalized": "根据欧睿数据，2024年韩国/澳大利亚/中国台湾/印度尼西亚/中东非/马来西亚扫地机销售额分别为2.68/1.38/1.26/0.22/0.69/0.32亿美元，5年CAGR分别为15%/7%/10%/18%/10%/16%，中东、东南亚、东亚均拥有较大成长空间。图37：2024年韩国扫地机销售额为2.68亿美元（+4%）图38：2024年澳大利亚扫地机销售额为1.38亿美元（+9%）数据来源：欧睿、开源证券研究所数据来源：欧睿、开源证券研究所-40%-20%0%20%40%60%80%0246810亚太区域收入（亿元）yoy-10%0%10%20%30%40%0200400600韩国销额（百万美元）YOY-20%0%20%40%60%80%100%050100150200250澳大利亚销额（百万美元）YOY",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "根据欧睿数据，2024年韩国/澳大利亚",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第27页（印刷页27），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

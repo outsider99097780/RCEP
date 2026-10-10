@@ -1,0 +1,848 @@
+[
+  {
+    "record_id": "RR26-0055",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2022年年报披露美国Amazon、Home Depot、Target、Best Buy、Walmart等线上平台已开设品牌专卖店。",
+    "period": "2022",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "online_brand_stores",
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "此处为线上平台，不能据此声称2022年已覆盖线下实体门店。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-01",
+      "title": "石头科技2022年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2022",
+      "pdf_page": 12,
+      "printed_page": 12,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2022年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2022年度报告.pdf",
+      "source_sha256": "c4c1709345f7d26d092e0f1f568956031213e9a9635342c71de9975bb63edd10",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-01/p012.txt",
+      "source_excerpt_whitespace_normalized": "在美国亚马逊、家得宝、塔吉特、百思买、沃尔玛等线上平台开设线上品牌专卖店，且通过持续的品牌投入获得了广泛的消费者认可。（三）精耕线上业务，开拓多渠道运营公司通过多元化的营销渠道，扩大产品销售和市场覆盖面。报告期内，公司继续与各电商平台进行深度合作，布局产品并充分挖掘平台的流量，同时，公司还通过营销策略、市场调研等手",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "在美国亚马逊、家得宝",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2022年年度报告》，2022报告期，PDF第12页（印刷页12），本地来源：sources/report/石头科技2022年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0056",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2023年首次进入美国Target线下实体连锁零售；年报称已扩展至180多家Target门店。",
+    "period": "2023",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Target offline",
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [
+      {
+        "metric": "target_store_coverage",
+        "value_raw": "180",
+        "unit": "家",
+        "definition": "公司披露Target门店覆盖",
+        "qualifier": "greater_than"
+      }
+    ],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-02",
+      "title": "石头科技2023年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2023",
+      "pdf_page": 15,
+      "printed_page": 15,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2023年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2023年度报告.pdf",
+      "source_sha256": "3d10cbff3e696142a9e93cda08a7404a7878869da99e7841630be0d5dd1c30de",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-02/p015.txt",
+      "source_excerpt_whitespace_normalized": "公司于2023年首次进入美国线下实体连锁零售渠道Target，通过持续的品牌投入获得了广泛的消费者认可。（三）精耕线上业务，开拓多渠道运营公司通过多元化的营销渠道，扩大产品销售和市场覆盖面。报告期内，公司继续与各电商平台进行深度合作，布局产品并充分挖掘平台的流量，同时，公司还通过营销策略、市场调研等手段，提高营销效率和市场反应速度，进一步稳定公司的行业地位。此外，公司聚焦新兴业态和渠道，进一步丰富线下销售渠道。在国内，公司通过经销方式，在部分核心城市商圈开设线下体验店，精准聚焦用户需求，提升用户感知和体验，助力行业渗透率提升。在海外，公司于2023年首次进入美国线下实体连锁零售，目前已经扩展到美国线下180多家Target商店。（四）建设多元化人才队伍，优培价值，共同成长在团队建设方面，公司进一步深化了外部招聘与内部培养相结合的机制。目前，公司已经组建了一支在战略发展、产品研发、财务管理、公司治理等方面经验丰富的管理团队，具备先进的管理理念和清晰的管理思路，为把公司建设成为一家技术领先、管理科学、流程优化、效率显著的企业提供了强有力的人才保障。公司将ESG发展理念融入日常生产运营及管理之中，坚持科技创新、保障产品质量、优化客户服务、助力员工发展，以高标准要求助推公司可持续发展。未来，公司将协同各利益相关方持续打造客户信任、社会认可、员工满意、环境友好的商业生态模式，为相关方创造更多经济、社会及环境价值。（五）完善多维度质量体系，积极维护利益相关方，树立良好企业形象公司作为全球领先",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "公司于2023年首次进入美国线下实体连锁零售渠道Target",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2023年年度报告》，2023报告期，PDF第15页（印刷页15），本地来源：sources/report/石头科技2023年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0058",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2024年年报披露公司已在美国设立海外公司。",
+    "period": "2024",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "非当地收入数据；未给出首次设立日期。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-03",
+      "title": "石头科技2024年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2024",
+      "pdf_page": 15,
+      "printed_page": 14,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2024年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2024年度报告.pdf",
+      "source_sha256": "45c065afabb814739212e3334a059d635c30bbbd1a5f1190babd04aa42a37bde",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-03/p015.txt",
+      "source_excerpt_whitespace_normalized": "目前公司已在美国、英国、日本、荷兰、波兰、德国、韩国、加拿大等地设立了海外公司，及时掌握市场动态，提升策略实施效率。（三）精耕线上业务，开拓多渠道运营1、深化线上渠道合作，挖掘优质流量公司通过多元化的营销渠道，扩大产品销售和市场覆盖面。报告期内，公司继续与各电商平",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "目前公司已在美国、英国、日本",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2024年年度报告》，2024报告期，PDF第15页（印刷页14），本地来源：sources/report/石头科技2024年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0064",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "研报将美国开拓路径描述为先线上切入，通过产品口碑与品牌积累逐步拓展线下KA。",
+    "period": "截至2026-02-04",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [
+      "进入路径解释，未来线下突破属券商判断。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 19,
+      "printed_page": 19,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p019.txt",
+      "source_excerpt_whitespace_normalized": "线下渠道入驻流程长，谈判周期久，公司最初以线上模式切入。我们认为未来伴随公司产品口碑与品牌声量持续积累，线下渠道入驻预计顺利进行，未来在线下渠道持续突破下将提供新的增量。图24：2025Q3石头北美区收入增长25%图25：2025Q3石头北美亚马逊收入7721万美元（+21%）数据来源：开源证券研究所数据来源：魔镜、开源证券研究所线上渠道方面",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "线下渠道入驻流程长，谈判周期久",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第19页（印刷页19），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0066",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "报告以洛杉矶邮编90001采样：Target商城13款扫地机；2026年初附近12公里内20家门店支持Qrevo Pro自提，2024年初为3家支持S7 Max Ultra。",
+    "period": "2024年初与2026年初",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Target",
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "online_robot_vacuum_sku_count",
+        "value_raw": "13",
+        "unit": "款",
+        "definition": null
+      },
+      {
+        "metric": "local_pickup_store_count_2026",
+        "value_raw": "20",
+        "unit": "家",
+        "definition": null
+      },
+      {
+        "metric": "local_pickup_store_count_2024",
+        "value_raw": "3",
+        "unit": "家",
+        "definition": null
+      },
+      {
+        "metric": "sample_radius",
+        "value_raw": "12",
+        "unit": "公里",
+        "definition": null
+      }
+    ],
+    "notes": [
+      "地方样本、不同主销SKU，不能外推美国全国门店总量或因果效果。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 22,
+      "printed_page": 22,
+      "locator": "图28及正文",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "Target官网及开源证券采样",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p022.txt",
+      "source_excerpt_whitespace_normalized": "目前Target商城已上线13款扫地机产品，7款洗地机产品。对比2024年数据来看，2024年初主销产品S7MaxUltra在定位点12公里内仅3家门店能够实现线下自提，2026年初主销产品QrevoPro在定位点附近12公里内有20家门店能够实现线下自提，线下门店渗透率明显提升，预计已有30%门店支持石头主销产品自提。图28：Target洛杉矶区域（邮编90001）石头主销产品12公里内20家门店支持自提（2024年仅3家）资料来源：Target官网Costco：以洛杉矶为例（邮编90001），目前Costco商城已上线3款扫地机产品（QXRevo及其迭代款），其中1款仅支持线上购买，以QXRevo基础款为例，在定位点附近12公里内共有6家门店能够实现线下自提，线下门店渗透率预计为35%。图29：Costco洛杉矶区域（邮编90001）石头主销产品12公里内6家门店支持自提",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "目前Target商城已上线13款扫地机产品",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第22页（印刷页22），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0067",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "洛杉矶90001样本：Costco商城3款扫地机，其中1款仅线上购买；附近12公里6家门店支持QX Revo基础款自提。",
+    "period": "截至2026-02-04",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Costco",
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "online_robot_vacuum_sku_count",
+        "value_raw": "3",
+        "unit": "款",
+        "definition": null
+      },
+      {
+        "metric": "online_only_sku_count",
+        "value_raw": "1",
+        "unit": "款",
+        "definition": null
+      },
+      {
+        "metric": "local_pickup_store_count",
+        "value_raw": "6",
+        "unit": "家",
+        "definition": null
+      },
+      {
+        "metric": "sample_radius",
+        "value_raw": "12",
+        "unit": "公里",
+        "definition": null
+      }
+    ],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 22,
+      "printed_page": 22,
+      "locator": "图29及正文",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "Costco官网及开源证券采样",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p022.txt",
+      "source_excerpt_whitespace_normalized": "目前Costco商城已上线3款扫地机产品（QXRevo及其迭代款），其中1款仅支持线上购买，以QXRevo基础款为例，在定位点附近12公里内共有6家门店能够实现线下自提，线下门店渗透率预计为35%。图29：Costco洛杉矶区域（邮编90001）石头主销产品12公里内6家门店支持自提",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "目前Costco商城已上线3款扫地机产品",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第22页（印刷页22），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0068",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2026年9月研报称石头于2026Q2重新进入Best Buy，已在Costco、Target、Best Buy入驻。",
+    "period": "2026Q2",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Best Buy",
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [],
+    "notes": [
+      "与2026年2月研报的独家合作约束体现时间变化；保留两期材料而非覆盖旧事实。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 15,
+      "printed_page": 15,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p015.txt",
+      "source_excerpt_whitespace_normalized": "公司于2026Q2重新进入了BestBuy渠道，目前已在Costco、Target、BestBuy实现产品入驻。图22：2026Q2石头美国亚马逊扫地机销售额10475万美元（+99.0%）图23：2026Q2石头美国亚马逊扫地机市占率31.1%，市占率保持领先数据来源：魔镜、开源证券研究所数据来源：魔镜、开源证券研究所线下渠道方面：目前石头扫地机产品已经突破Costco渠道，BestBuy及Target渠道SKU陈列也有所增加，我们预计随着未来新渠道入驻及陈列SKU数量增加，线下份额将逐步提升。2026H1来看：Target渠道：石头在售产品为QrevoCurve、QRevoPro、Q10PF+以及渠道特供机型，售价分别为799.99/499.99/319.99/399.99美元，凭借领先的产品力在中端价格带保持较低折扣。其他品牌来看，Shark/iRobot/追觅在售产品分别为6/4/1款，对比来看石头入驻产品数量与iRobot相当，价格带与Shark相近。Costco渠道：2026Q1QXRevo入驻（该渠道仅有2款扫地机产品在售，另一款为Shark），售价499美元，相较于BestBuy、Target渠道，产品定位偏中端，预计2026Q2SKU入驻数量进一步提升。BestBuy渠道：Shark占据主导优势，石头在2025年曾进驻过BestBuy渠道后，目前已经完成重新入驻，主要替代iRobot货架展位，相较于Shark在产品力上更具优势，有望持续形成放量。0%20%40%",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "公司于2026Q2重新进入了BestBuy渠道",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第15页（印刷页15），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0070",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2026Q2石头美国亚马逊扫地机销售额10475万美元，同比增长99.0%，份额31.1%；报告提示Prime Day错期放大同比。",
+    "period": "2026Q2",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Amazon US",
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "amazon_sales_value",
+        "value_raw": "10475",
+        "unit": "万美元",
+        "definition": "平台扫地机销售额，非公司财报收入"
+      },
+      {
+        "metric": "amazon_sales_value_yoy",
+        "value_raw": "99.0",
+        "unit": "%",
+        "definition": null
+      },
+      {
+        "metric": "amazon_market_share",
+        "value_raw": "31.1",
+        "unit": "%",
+        "definition": "报告平台市占率，图示销售额口径"
+      }
+    ],
+    "notes": [
+      "不能与日本/韩国/澳大利亚全市场份额直接横比；促销错期因素已保留。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 15,
+      "printed_page": 15,
+      "locator": "图22、图23及正文",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": "魔镜，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p015.txt",
+      "source_excerpt_whitespace_normalized": "2026Q2石头美国亚马逊扫地机销售额10475万美元（+99.0%），同比增速较高主系亚马逊PD会员日错期影响，剔除该影响后，我们认为石头仍能保持较好增长，市占率方面，石头2026Q2美亚扫地机市占率31.1%，持续领跑行业。线下渠道有望进入高增通道，预计贡献更多增量，公司于2026Q2重新进入了BestBuy渠道，目前已在Costco、Target、BestBuy实现产品入驻。图22：2026Q2石头美国亚马逊扫地机销售额10475万美元（+99.0%）图23：2026Q2石头美国亚马逊扫地机市占率31.1%，市占率保持领先数据来源：魔镜、开源证券研究所数据来源：魔镜、开源证券研究所线下渠道方面：目前石头扫地机产品已经突破Costco渠道，BestBuy及Target渠道SKU陈列也有所增加，我们预计随着未来新渠道入驻及陈列SKU数量增加，线下份额将逐步提升。2026H1来看：Target渠道：石头在售产品为QrevoCurve、QRevoPro、Q10PF+以及渠道特供机型，售价分别为799.99/499.99/319.99/399.99美元，凭借领先的产品力在中端价格带保持较低折扣。其他品牌来看，Shark/iRobot/追觅在售产品分别为6/4/1款，对比来看石头入驻产品数量与iRobot相当，价格带与Shark相近。Costco渠道：2026Q1QXRevo入驻（该渠道仅有2款扫地机产品在售，另一款为Shark），售价499美元，相较于BestBuy、Target渠道",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2026Q2石头美国亚马逊扫地机销售额10475万美元",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第15页（印刷页15），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0125",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "Target采样Qrevo Curve：list price 1599.99美元、sale price 799.99美元，报告折扣率50%。",
+    "period": "报告采样时，具体日未披露",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Target",
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "list_price",
+        "value_raw": "1599.99",
+        "unit": "USD",
+        "definition": "源表list prie，不擅称官方MSRP"
+      },
+      {
+        "metric": "sale_price",
+        "value_raw": "799.99",
+        "unit": "USD",
+        "definition": null
+      },
+      {
+        "metric": "discount_reported",
+        "value_raw": "50",
+        "unit": "%",
+        "definition": "保留源表取整值，不重新计算"
+      }
+    ],
+    "notes": [
+      "原文Qrevo Curve拼写保留；不自动改成Curv型号。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 21,
+      "printed_page": 21,
+      "locator": "表3，Target/Roborock行",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "开源证券实地采样",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p021.txt",
+      "source_excerpt_whitespace_normalized": "表3：石头已经入住Target及Costco渠道KA品牌产品名称listpriesaleprice折扣率TargetRoborockQrevoCurve1599.99799.9950%QRevoPro999.99499.9950%渠道特供款479.99399.9917%Q10PF+359.99319.9911%DREAMEE30ULTRA499.99//iRobotMax705899.99549.9939%405799.99//205499.99249.9950%105299.99149.9950%Shark6款999.99599.9940%449.99//",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "表3：石头已经入住Target及Costco渠道",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第21页（印刷页21），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0126",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "Target采样Q Revo Pro：list price 999.99美元、sale price 499.99美元，报告折扣率50%。",
+    "period": "报告采样时，具体日未披露",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Target",
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "list_price",
+        "value_raw": "999.99",
+        "unit": "USD",
+        "definition": "源表list prie，不擅称官方MSRP"
+      },
+      {
+        "metric": "sale_price",
+        "value_raw": "499.99",
+        "unit": "USD",
+        "definition": null
+      },
+      {
+        "metric": "discount_reported",
+        "value_raw": "50",
+        "unit": "%",
+        "definition": "保留源表取整值，不重新计算"
+      }
+    ],
+    "notes": [
+      "原文Qrevo Curve拼写保留；不自动改成Curv型号。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 21,
+      "printed_page": 21,
+      "locator": "表3，Target/Roborock行",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "开源证券实地采样",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p021.txt",
+      "source_excerpt_whitespace_normalized": "表3：石头已经入住Target及Costco渠道KA品牌产品名称listpriesaleprice折扣率TargetRoborockQrevoCurve1599.99799.9950%QRevoPro999.99499.9950%渠道特供款479.99399.9917%Q10PF+359.99319.9911%DREAMEE30ULTRA499.99//iRobotMax705899.99549.9939%405799.99//205499.99249.9950%105299.99149.9950%Shark6款999.99599.9940%449.99//",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "表3：石头已经入住Target及Costco渠道",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第21页（印刷页21），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0127",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "Target采样渠道特供款：list price 479.99美元、sale price 399.99美元，报告折扣率17%。",
+    "period": "报告采样时，具体日未披露",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Target",
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "list_price",
+        "value_raw": "479.99",
+        "unit": "USD",
+        "definition": "源表list prie，不擅称官方MSRP"
+      },
+      {
+        "metric": "sale_price",
+        "value_raw": "399.99",
+        "unit": "USD",
+        "definition": null
+      },
+      {
+        "metric": "discount_reported",
+        "value_raw": "17",
+        "unit": "%",
+        "definition": "保留源表取整值，不重新计算"
+      }
+    ],
+    "notes": [
+      "原文Qrevo Curve拼写保留；不自动改成Curv型号。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 21,
+      "printed_page": 21,
+      "locator": "表3，Target/Roborock行",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "开源证券实地采样",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p021.txt",
+      "source_excerpt_whitespace_normalized": "表3：石头已经入住Target及Costco渠道KA品牌产品名称listpriesaleprice折扣率TargetRoborockQrevoCurve1599.99799.9950%QRevoPro999.99499.9950%渠道特供款479.99399.9917%Q10PF+359.99319.9911%DREAMEE30ULTRA499.99//iRobotMax705899.99549.9939%405799.99//205499.99249.9950%105299.99149.9950%Shark6款999.99599.9940%449.99//",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "表3：石头已经入住Target及Costco渠道",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第21页（印刷页21），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0128",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "Target采样Q10 PF+：list price 359.99美元、sale price 319.99美元，报告折扣率11%。",
+    "period": "报告采样时，具体日未披露",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Target",
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "list_price",
+        "value_raw": "359.99",
+        "unit": "USD",
+        "definition": "源表list prie，不擅称官方MSRP"
+      },
+      {
+        "metric": "sale_price",
+        "value_raw": "319.99",
+        "unit": "USD",
+        "definition": null
+      },
+      {
+        "metric": "discount_reported",
+        "value_raw": "11",
+        "unit": "%",
+        "definition": "保留源表取整值，不重新计算"
+      }
+    ],
+    "notes": [
+      "原文Qrevo Curve拼写保留；不自动改成Curv型号。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 21,
+      "printed_page": 21,
+      "locator": "表3，Target/Roborock行",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "开源证券实地采样",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p021.txt",
+      "source_excerpt_whitespace_normalized": "表3：石头已经入住Target及Costco渠道KA品牌产品名称listpriesaleprice折扣率TargetRoborockQrevoCurve1599.99799.9950%QRevoPro999.99499.9950%渠道特供款479.99399.9917%Q10PF+359.99319.9911%DREAMEE30ULTRA499.99//iRobotMax705899.99549.9939%405799.99//205499.99249.9950%105299.99149.9950%Shark6款999.99599.9940%449.99//",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "表3：石头已经入住Target及Costco渠道",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第21页（印刷页21），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0129",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "united-states",
+      "name_zh": "美国",
+      "iso3": "USA",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "Costco样本QX REVO在list price列列示499美元，sale price和折扣率为“/”。",
+    "period": "报告采样时，具体日未披露",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Costco",
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [
+      {
+        "metric": "list_price",
+        "value_raw": "499",
+        "unit": "USD",
+        "definition": null
+      },
+      {
+        "metric": "sale_price",
+        "value_raw": null,
+        "unit": "USD",
+        "definition": null,
+        "missing_marker_raw": "/"
+      },
+      {
+        "metric": "discount_reported",
+        "value_raw": null,
+        "unit": "%",
+        "definition": null,
+        "missing_marker_raw": "/"
+      }
+    ],
+    "notes": [
+      "未将“/”改成0，也未把499强行归为sale price。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 22,
+      "printed_page": 22,
+      "locator": "表3续表，Costco行",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p022.txt",
+      "source_excerpt_whitespace_normalized": "CostcoroborockQXREVO499//Shark1款479//资料来源：开源证券研究所具体从线上官网看各大KA产品入驻情况，Target：以洛杉矶为例（邮编90001），目前Target商城已上线13款扫地机产品，7款洗地机产品。对比2024年数据来看，2024年初主销产品S7MaxUltra在定位点12公里内仅3家门店能够实现线下自提，2026年初主销产品QrevoPro在定位点附近12公里内有20家门店能够实现线下自提，线下门店渗透率明显提升，预计已有30%门店支持石头主销产品自提。图28：Target洛杉矶区域（邮编90001）石头主销产品12公里内20家门店支持自提（2024年仅3家）资料来源：Target官网Costco：以洛杉矶为例（邮编90001），目前Costco商城已上线3款扫地机产品（QXRevo及其迭代款），其中1款仅支持线上购买，以QXRevo基础款为例，在定位点附近12公里内共有6家门店能够实现线下自提，线下门店渗透率预计为35%。图29：Costco洛杉矶区域（邮编90001）石头主销产品12公里内6家门店支持自提",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "Costco roborock QX REVO 499",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第22页（印刷页22），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

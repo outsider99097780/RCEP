@@ -1,0 +1,54 @@
+[
+  {
+    "record_id": "RR26-0174",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "turkiye",
+      "name_zh": "土耳其",
+      "iso3": "TUR",
+      "scope": "country",
+      "role": "supplementary_operating_case",
+      "related_countries": []
+    },
+    "statement_zh": "研报称土耳其采用FSD代理模式；Media Markt、TEKNOSA等渠道入驻，以大型岛台和导购服务高收入消费者。",
+    "period": "2026H1",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [],
+    "notes": [
+      "与日韩澳角色不同，补充国际化运营案例；高定价关税归因是券商解释。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-12",
+      "title": "降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期",
+      "issuer": "开源证券",
+      "publication_date": "2026-09-06",
+      "reporting_period": null,
+      "pdf_page": 17,
+      "printed_page": 17,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/开源石头202609081829142381_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\开源石头202609081829142381_1(1).pdf",
+      "source_sha256": "72eb106f4c5d2276cbd2cc2e725e246d37c567c466faf1635b956df6a8ba753f",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-12/p017.txt",
+      "source_excerpt_whitespace_normalized": "韩国和土耳其是主力市场，使用FSD(Full-ServiceDistributed)模式，费用主要由代理商进行投放，我们预计利润率稳定，俄罗期、澳洲、中东以及东南亚增速较快，为额外增量市场。以标杆市场土耳其为例，目前石头已经入驻多数MediaMarkt、TEKNOSA等专家家电卖场。土耳其由于关税原因，定价为全球较高水平，同款机型售价远超欧洲、北美，目标消费人群为高净值高收入人群，价格敏感度相对较低，更注重产品使用体验，石头在主要商场布置大型岛台，配合专属导购吸引顾客。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "韩国和土耳其是主力市场",
+      "citation_zh": "开源证券：《降本提效叠加竞争格局改善，扫地机龙头有望迎来业绩收获期》，2026-09-06，PDF第17页（印刷页17），本地来源：sources/research/开源石头202609081829142381_1(1).pdf，读取日期：2026-10-09。"
+    }
+  }
+]

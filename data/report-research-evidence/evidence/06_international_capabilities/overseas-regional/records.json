@@ -1,0 +1,208 @@
+[
+  {
+    "record_id": "RR26-0159",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "overseas-regional",
+      "name_zh": "海外未细分",
+      "iso3": null,
+      "scope": "region",
+      "role": "regional_background",
+      "related_countries": []
+    },
+    "statement_zh": "国信证券梳理：2017年自有品牌经销商接洽出海，2018年开拓Amazon并主动接洽经销商，后续设海外机构及直接拓展分销商。",
+    "period": "2017—2022",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_observation",
+    "report_use": "cite_as_broker_observation",
+    "metrics": [],
+    "notes": [
+      "原文未指明2018年Amazon首次开拓的具体国家，保留海外区域范围。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-03",
+      "title": "石头硬核科技，淬炼扫地机龙头",
+      "issuer": "国信证券",
+      "publication_date": "2022-06-30",
+      "reporting_period": null,
+      "pdf_page": 24,
+      "printed_page": 24,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/国信石头202206301575640813_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\国信石头202206301575640813_1(1).pdf",
+      "source_sha256": "99fce4a59cb5cd73b7124c1ee0135bf7b8520a5fcf9bc49b3cc6b278e2961811",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-03/p024.txt",
+      "source_excerpt_whitespace_normalized": "2018年公司开拓亚马逊渠道，并主动接洽国机、俄速通等经销商，产品在海外的销售规模日益扩大。此后，凭借着高品质的产品，公司逐步在主要海外市场设立当地分公司和海外公司，直接扩展海外区域分销商和线上电商渠道，并在当地进行线上线下的营销推广，持续扩张海外市场份额。如果将经销商销往海外的部分加总记为境外收入，预计2021年公司自主品牌海外收入占比超过70%。2）国内渠道方面，除小米模式外，公司以线上销售为主，涵盖京东、苏宁、唯品会的电商平台入仓和主要电商平台及官网的B2C模式，其中电商B2C模式占比最高。公司首家线下门店在2022年4月落户成都，后续有望逐步建立线下直营渠道。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2018年公司开拓亚马逊渠道",
+      "citation_zh": "国信证券：《石头硬核科技，淬炼扫地机龙头》，2022-06-30，PDF第24页（印刷页24），本地来源：sources/research/国信石头202206301575640813_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0160",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "overseas-regional",
+      "name_zh": "海外未细分",
+      "iso3": null,
+      "scope": "region",
+      "role": "regional_background",
+      "related_countries": []
+    },
+    "statement_zh": "研报称根据订单预测和库存制定采购计划，再向代工厂下单；海外用经销商和Amazon拓展渠道。",
+    "period": "截至2022-06-30",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [
+      "机制解释，不据此虚构库存或履约绩效。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-03",
+      "title": "石头硬核科技，淬炼扫地机龙头",
+      "issuer": "国信证券",
+      "publication_date": "2022-06-30",
+      "reporting_period": null,
+      "pdf_page": 25,
+      "printed_page": 25,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/国信石头202206301575640813_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\国信石头202206301575640813_1(1).pdf",
+      "source_sha256": "99fce4a59cb5cd73b7124c1ee0135bf7b8520a5fcf9bc49b3cc6b278e2961811",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-03/p025.txt",
+      "source_excerpt_whitespace_normalized": "采用以订单拉动整个供应链系统的生产模式，渠道效率较高。由于外销运输时间较长且占比较高，公司会定期根据客户提供的订单预测及库存情况制定采购计划，之后再下单给代工厂商，缓解公司的库存压力。此外，公司在国内以线上为主，国外采用经销商扩展线上和线下渠道，并在亚马逊电商平台进行销售，以较低的成本将产品销往国内外消费者。图38：公司的存货周转天数好于可比公司（单位：天）资料来源:Wind、国信证券经济研究所整理公司对渠道商议价能力持续增强，凭借优异产品性能，持续扩大直销占比。公司前期较为依赖小米渠道；推出自主品牌之后，凭借优异的产品性能，紫光、慕晨等经销商主动接洽公司，与公司进行合作。背后强大的产品力，公司在线上渠道逐渐积累起口碑，线上销售占比不断提升，公司对渠道的议价能力逐渐增强。2021年公司前三大客户销售占比分别14.75%、13.43%和12.77%，从绝对金额上看，前三大客户占比已较为分散。此外，凭借领先同行的口碑评价，公司在亚马逊上的销售大幅增长，目前已在美国亚马逊上占据10%左右的市场份额。在线上赢得优势之后，公司开始借助线上的良好表现直接开拓海外区域分销商，2021年公司在海外线上渠道和直接对接的海外分销渠道销售额增长80.05%，占营收的比重达到",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "采用以订单拉动整个供应链系统的生产模式",
+      "citation_zh": "国信证券：《石头硬核科技，淬炼扫地机龙头》，2022-06-30，PDF第25页（印刷页25），本地来源：sources/research/国信石头202206301575640813_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0162",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "overseas-regional",
+      "name_zh": "海外未细分",
+      "iso3": null,
+      "scope": "region",
+      "role": "regional_background",
+      "related_countries": []
+    },
+    "statement_zh": "国信2025年中报点评描述扩宽海外价格段、细化渠道网点，深耕南欧和英国等区域。",
+    "period": "2025H1",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_interpretation",
+    "report_use": "cite_as_broker_interpretation",
+    "metrics": [],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-06",
+      "title": "2025年中报点评：收入延续高增，盈利有望企稳修复",
+      "issuer": "国信证券",
+      "publication_date": "2025-08-18",
+      "reporting_period": null,
+      "pdf_page": 1,
+      "printed_page": 54159,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/国信石头202508181729979686_1(1).pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\国信石头202508181729979686_1(1).pdf",
+      "source_sha256": "30ac2d034198c2ab0b3214e14c3b94db43a7adcf92103bc56b01e05281cb767b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-06/p001.txt",
+      "source_excerpt_whitespace_normalized": "公司扩充海外产品价格段，细化渠道网点布局，在稳固优势市场的同时，加大南欧、英国等新区域的深耕，海外领先优势进一步突出。2025Q2公司外销收入预计增长超50%，其中欧洲/亚太收入增长约50%，北美收入增长超30%。经营策略及关税影响盈利，预计下半年净利率改善。公司Q2毛利率同比-8.0pct至43.9%，预计受美国关税、洗地机占比提升、及价格带拓宽等影响。Q2销售/管理/研发/财务费用率同比分别+7.6/-0.2/+1.0/+1.9pct至27.1%/3.1%/9.4%/-1.6%，销售费用增加系公司在全球提高直营渠道覆盖、渠道及营销投入增加。Q2公司归母净利率同比-18.9pct至9.2%，环比提升1.4pct。随着公司越南产能逐步爬坡、关税影响环比改善，洗地机等新业务盈利稳步提升，预计公司下半年盈利有望企稳回升。风险提示：关税及国际贸易形势风险；行业竞争加剧；海外扩展不及预期。投资建议：调整盈利预测，维持“优于大市”评级公司是全球扫地机行业龙头，国内外产品矩阵、渠道加速扩张。考虑到美国关税的影响和公司积极的市场策略，调整盈利预测，预计公司2025-2027年归母净利润20.2/27.3/33.8亿（前值为21.3/27.3/32.3亿），增速为+2%/+35%/+24%，对应PE=23/17/14倍，维持“优于大市”评级。盈利预测和财务指标202320242025E2026E2027E营业收入(百万元)8,65411,94518,06622,73827,608(+/-%)30",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "公司扩充海外产品价格段，细化渠道网点布局",
+      "citation_zh": "国信证券：《2025年中报点评：收入延续高增，盈利有望企稳修复》，2025-08-18，PDF第1页（印刷页54159），本地来源：sources/research/国信石头202508181729979686_1(1).pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0163",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "overseas-regional",
+      "name_zh": "海外未细分",
+      "iso3": null,
+      "scope": "region",
+      "role": "regional_background",
+      "related_countries": []
+    },
+    "statement_zh": "2025年年报披露新增Shopee、Lazada合作并巩固Amazon平台优势。",
+    "period": "2025",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": "Amazon;Shopee;Lazada",
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "年报未逐国列出平台入驻，不自动归入所有东南亚国家。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 22,
+      "printed_page": 22,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p022.txt",
+      "source_excerpt_whitespace_normalized": "海外新增Shopee、Lazada等主流平台合作，并巩固Amazon等既有平台优势，实现线上渠道全球化覆盖。通过技术科普、产品实测等内容形式有效传递产品技术价值，持续提升消费者认可度与品牌知名度。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "海外新增Shopee、Lazada等主流平台合作",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第22页（印刷页22），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

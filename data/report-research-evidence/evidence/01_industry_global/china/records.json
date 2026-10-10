@@ -1,0 +1,187 @@
+[
+  {
+    "record_id": "RR26-0007",
+    "category": "industry_global",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "图21标注2024年中国扫地机渗透率为4.3%。",
+    "period": "2024",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "penetration",
+        "value_raw": "4.3",
+        "unit": "%",
+        "definition": "图21市场渗透率，分母定义未披露；不是吸尘器销量占比"
+      }
+    ],
+    "notes": [
+      "数值逐一核对图中标签；未反推未标注的历史年度数据。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 17,
+      "printed_page": 17,
+      "locator": "图21，2024年柱标签（已视觉核对）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": "欧睿，经开源证券转引",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p017.txt",
+      "source_excerpt_whitespace_normalized": "图21：西班牙、美国和中国台湾市场成熟度高，渗透率分别达21.3%/15.8%/15.3%数据来源：欧睿、开源证券研究所4.3%3.8%3.6%1.2%5.4%8.1%12.9%15.3%0.4%3.1%4.8%14.5%15.8%3.6%5.7%7.3%8.4%4.8%7.4%21.3%8.9%5.2%7.4%15.5%8.8%8.1%12.9%0.8%1.7%0.0%5.0%10.0%15.0%20.0%25.0%中国全球全球(除中国)亚太(除中国)日本韩国新加坡中国台湾越南泰国中国香港北美美国加拿大欧洲西欧德国英国法国西班牙荷兰意大利瑞典捷克波兰罗马尼亚澳大利亚拉丁美洲阿根廷201320142015201620172018201920202021202220232024",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "图21：西班牙、美国和中国台湾市场成熟度高",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第17页（印刷页17），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0028",
+    "category": "industry_global",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "2022年中国扫地机器人零售额124.1亿元，销量441.4万台。",
+    "period": "2022",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "retail_value",
+        "value_raw": "124.1",
+        "unit": "亿元人民币",
+        "definition": null
+      },
+      {
+        "metric": "retail_volume",
+        "value_raw": "441.4",
+        "unit": "万台",
+        "definition": null
+      }
+    ],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-01",
+      "title": "石头科技2022年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2022",
+      "pdf_page": 14,
+      "printed_page": 14,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2022年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2022年度报告.pdf",
+      "source_sha256": "c4c1709345f7d26d092e0f1f568956031213e9a9635342c71de9975bb63edd10",
+      "original_data_provider_as_cited": "奥维云网",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-01/p014.txt",
+      "source_excerpt_whitespace_normalized": "2022年国内扫地机器人零售额规模达到124.1亿元，销量达到441.4万台。智能扫地机器人行业技术及资金壁垒较高，根据奥维云网数据，2022年国内智能扫地机器人品牌集中度再度提升，TOP5品牌占比由2020年的83.1%增加到2022年的92.6%。海外市场，根据GFK海外数据监测显示，2020年海外清洁电器销量突破7000万台，同比增长13%；销售额突破130亿美元，同比增长15%。2021年，海外清洁电器销量达到7700万台，同比增长13%；销售额突破140亿美元，同比增长15%。但是进入2022年后，受俄乌冲突及其他综合因素影响，消费市场整体呈现下跌趋势。中国厂商近年来技术迭代提速，技术及产品优势逐渐领先于传统海外厂商。根据GFK数据，截至2022年底，国产智能扫地机器人已占据海外市场近50%的份额，国内品牌市占率有望持续提升。（2）行业基本特点我国智能扫地机器人产业发展较晚，但在产品市场供给与需求上均呈现快速增长态势。一方面，由于城市化发展、居民购买力持续增长、互联网产业发展不断培育用户的消费习惯等因素影响，消费者对于服务机器人，尤其是适用于家庭场景的智能扫地机器人产品有着广泛的需求；另一方面，智能扫地机器人企业通过技术创新带来产品的持续升级，更好地解决用户在清洁过程中存在的痛点问题，加速行业的发展。同时，随着互联网技术的不断发展，我国互联网用户数量不断扩大，整体渗透率较高，近年来直播带货等新零售模式的快速发展使得线上购物逐渐成为较为主流的购买方式。而互联网用户群体与智",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2022年国内扫地机器人零售额规模",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2022年年度报告》，2022报告期，PDF第14页（印刷页14），本地来源：sources/report/石头科技2022年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0029",
+    "category": "industry_global",
+    "geography": {
+      "key": "china",
+      "name_zh": "中国",
+      "iso3": "CHN",
+      "scope": "country",
+      "role": "supply_and_domestic_reference",
+      "related_countries": []
+    },
+    "statement_zh": "2023年中国扫地机器人零售额137亿元，销量458万台。",
+    "period": "2023",
+    "brand": null,
+    "brand_group": null,
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "secondary_statistic",
+    "report_use": "cite_with_secondary_source_attribution",
+    "metrics": [
+      {
+        "metric": "retail_value",
+        "value_raw": "137",
+        "unit": "亿元人民币",
+        "definition": null
+      },
+      {
+        "metric": "retail_volume",
+        "value_raw": "458",
+        "unit": "万台",
+        "definition": null
+      }
+    ],
+    "notes": [],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-02",
+      "title": "石头科技2023年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2023",
+      "pdf_page": 60,
+      "printed_page": 60,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2023年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2023年度报告.pdf",
+      "source_sha256": "3d10cbff3e696142a9e93cda08a7404a7878869da99e7841630be0d5dd1c30de",
+      "original_data_provider_as_cited": "奥维云网",
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-02/p060.txt",
+      "source_excerpt_whitespace_normalized": "2023年扫地机器人零售额规模达到137亿元，销量达到458万台。此外，随着智能技术的日益提升和完善，预计全球扫地机器人市场仍有较大的成长空间。智能扫地机器人市场的主要参与者包括服务机器人公司、传统家电公司等。随着市场参与者的增多，竞争将变得更加激烈。对于国内智能扫地机器人市场而言，拥有强大品牌、自主研发能力的企业将进一步巩固其市场地位。根据奥维云网数据，2023年，中国智能扫地机器人线上市场CR5已超过93%，行业龙头企业有较强资金及研发壁垒，智能扫地机器人头部品牌将保持稳健发展。(二)公司发展战略√适用□不适用公司致力于成为一家持续创造全球口碑最好产品的企业，已走进全球170多个国家和地区的1,500万家庭，公司致力于不断探索科技前沿，通过创新简化生活，为客户创造高品质、高品位的产品价值。同时，公司也积极为股东实现回报，为社会做出贡献。未来，公司将继续以市场为导向，发挥技术研发优势，提升市场营销实力，强化技术服务支持，进一步拓展国内外市场，全面提升公司的盈利能力，为生活更有品质感而不断努力。1、技术战略公司将继续专注于对跨学科技术的研究，尤其是对人工智能、导航算法、新型传感器等核心技术的研究，并持续吸引和培养研发人才，以不断发展和加强技术优势。技术优势作为公司发展的基石和驱动力，对于公司未来的成长至关重要。因此，公司将继续深耕智能扫地机器人基础技术的研究，以进一步巩固和强化其技术领先地位。除此之外，公司还将积极在其他智能电器领域进行探索与实践。2、市场战略公司秉持立足中国、面",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2023年扫地机器人零售额规模",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2023年年度报告》，2023报告期，PDF第60页（印刷页60），本地来源：sources/report/石头科技2023年度报告.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

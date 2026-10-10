@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-09",
+  "instruction_file": "instruction.md",
+  "instruction_sha256": "b343bae9ecd834ee673abe47582a2e3358848013c9c119de42691334d39d5244",
+  "source_count": 17,
+  "source_pages_total": 1283,
+  "selected_evidence_pages": 62,
+  "pdf_extractor": "pypdf",
+  "page_rendering": "pypdfium2",
+  "normalization": "only whitespace removal in excerpt; original extracted full-page text preserved",
+  "metrics_normalization": "none; numeric values are strings preserving source precision; units kept raw; percentage points distinct from percentages",
+  "user_conflict_policy": "2026-10-09: explicit table cells / chart data labels > chart captions > body text; original disagreements retained as audit-only",
+  "modeling_performed": false,
+  "internet_search_performed": false,
+  "existing_data_modified": false,
+  "claim_types": {
+    "secondary_statistic": 67,
+    "company_disclosure": 34,
+    "broker_forecast": 7,
+    "broker_estimate": 6,
+    "broker_observation": 63,
+    "broker_interpretation": 19,
+    "risk_disclosure": 7,
+    "unverified_regulatory_claim": 2
+  },
+  "category_counts": {
+    "industry_global": 33,
+    "competition": 59,
+    "target_markets": 16,
+    "international_capabilities": 24,
+    "mature_overseas_cases": 33,
+    "constraints_failures": 24,
+    "product_technology": 16
+  },
+  "visual_reviewed_pages": [
+    {
+      "source_id": "REPORT-03",
+      "pdf_page": 18,
+      "render": "sources/page-renders/REPORT-03-p018.png"
+    },
+    {
+      "source_id": "REPORT-04",
+      "pdf_page": 19,
+      "render": "sources/page-renders/REPORT-04-p019.png"
+    },
+    {
+      "source_id": "REPORT-04",
+      "pdf_page": 20,
+      "render": "sources/page-renders/REPORT-04-p020.png"
+    },
+    {
+      "source_id": "REPORT-04",
+      "pdf_page": 25,
+      "render": "sources/page-renders/REPORT-04-p025.png"
+    },
+    {
+      "source_id": "RESEARCH-01",
+      "pdf_page": 8,
+      "render": "sources/page-renders/RESEARCH-01-p008.png"
+    },
+    {
+      "source_id": "RESEARCH-01",
+      "pdf_page": 16,
+      "render": "sources/page-renders/RESEARCH-01-p016.png"
+    },
+    {
+      "source_id": "RESEARCH-01",
+      "pdf_page": 17,
+      "render": "sources/page-renders/RESEARCH-01-p017.png"
+    },
+    {
+      "source_id": "RESEARCH-01",
+      "pdf_page": 21,
+      "render": "sources/page-renders/RESEARCH-01-p021.png"
+    },
+    {
+      "source_id": "RESEARCH-01",
+      "pdf_page": 22,
+      "render": "sources/page-renders/RESEARCH-01-p022.png"
+    },
+    {
+      "source_id": "RESEARCH-01",
+      "pdf_page": 25,
+      "render": "sources/page-renders/RESEARCH-01-p025.png"
+    },
+    {
+      "source_id": "RESEARCH-01",
+      "pdf_page": 27,
+      "render": "sources/page-renders/RESEARCH-01-p027.png"
+    },
+    {
+      "source_id": "RESEARCH-01",
+      "pdf_page": 28,
+      "render": "sources/page-renders/RESEARCH-01-p028.png"
+    },
+    {
+      "source_id": "RESEARCH-12",
+      "pdf_page": 9,
+      "render": "sources/page-renders/RESEARCH-12-p009.png"
+    },
+    {
+      "source_id": "RESEARCH-12",
+      "pdf_page": 10,
+      "render": "sources/page-renders/RESEARCH-12-p010.png"
+    },
+    {
+      "source_id": "RESEARCH-12",
+      "pdf_page": 13,
+      "render": "sources/page-renders/RESEARCH-12-p013.png"
+    },
+    {
+      "source_id": "RESEARCH-12",
+      "pdf_page": 14,
+      "render": "sources/page-renders/RESEARCH-12-p014.png"
+    }
+  ]
+}

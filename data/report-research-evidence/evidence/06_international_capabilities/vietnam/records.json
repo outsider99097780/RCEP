@@ -1,0 +1,108 @@
+[
+  {
+    "record_id": "RR26-0048",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "vietnam",
+      "name_zh": "越南",
+      "iso3": "VNM",
+      "scope": "country",
+      "role": "rcep_background_or_supply_chain",
+      "related_countries": []
+    },
+    "statement_zh": "2025年年报将越南列为前期已布局市场，并披露这些市场占有率持续攀升，未给出各国数值。",
+    "period": "2025",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "公司定性披露，不补填具体市场份额。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 22,
+      "printed_page": 22,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p022.txt",
+      "source_excerpt_whitespace_normalized": "日本、澳大利亚、泰国、越南等前期已布局市场的占有率持续攀升，取得持续突破。2025年，在“PrimeDay”、“黑色星期五”等多个重要消费大促期间，公司在欧洲、北美、亚太三大区域全面领跑，全品类实现爆发式增长，多国市占率登顶。截至报告期末，公司产品已遍布全球170多个国家和地区，其中智能扫地机器人累计销量超过2,500万台,通过科技创新为千万消费者带来品质生活。与此同时，公司已在多个主要海外市场设立分公司或子公司，以深度贴合当地市场需求，全面提升消费者的产品、购物及使用全链条体验。（三）线上线下协同发力，构建全球多渠道运营体系公司坚持线上线下协同推进，深耕线上流量运营，积极拓展线下渠道，构建覆盖全球的全渠道运营网络，结合智能硬件产品特性持续优化产品展示与体验场景，提升产品触达效率与用户体验，进一步强化高科技智能硬件企业品牌形象。1、深化线上渠道合作，挖掘全球优质流量公司持续深化与各主要电商平台的合作，创新运营模式，不断扩大产品销售覆盖面。国内依托天猫、京东、抖音等主流平台，通过直播带货、场景化种草等形式持续提升触达效率；海外新增Shopee、Lazada等主流平台合作，并巩固Amazon等既有平台优势，实现线上渠道全球化覆盖。通过技术科普、产品实测等内容形式有效传递产品技术价值，持续提升消费者认可度与品牌知名度。",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "日本、澳大利亚、泰国、越南等前期已布局市场",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第22页（印刷页22），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
+    }
+  },
+  {
+    "record_id": "RR26-0168",
+    "category": "international_capabilities",
+    "geography": {
+      "key": "vietnam",
+      "name_zh": "越南",
+      "iso3": "VNM",
+      "scope": "country",
+      "role": "rcep_background_or_supply_chain",
+      "related_countries": [
+        "united-states"
+      ]
+    },
+    "statement_zh": "2025年年报披露2024Q4启动越南代工并陆续发货。",
+    "period": "2024Q4",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "供应链产地证据，不等于当地销售渠道，也不直接证明原产地资格或优惠税率。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-04",
+      "title": "石头科技2025年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2025",
+      "pdf_page": 26,
+      "printed_page": 26,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2025年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2025年度报告.pdf",
+      "source_sha256": "c9cf8915cc55c654eafb6dc9a495ca25ada6b5e5ce04a1d04ace7003a194d96b",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-04/p026.txt",
+      "source_excerpt_whitespace_normalized": "2024年第四季度启动越南代工生产业务并开始陆续发货，成为首家在海外建立代工生产能力的中国智能扫地机器人制造商；2025年进一步新增马来西亚代工厂生产业务，通过多元化产能布局持续提升供应保障的灵活性与安全性，有效降低地缘政治风险，增强服务国际市场的能力。在渠道网络层面，公司已建立多元直销渠道与强大线下分销网络，通过与主流电商平台及知名零售连锁深度合作，线上线下协同扩大市场覆盖范围，持续提升品牌影响力与市场份额。5、经验丰富且富有远见的管理团队公司管理团队由经验丰富的行业专家与研发专业人员共同组成，凭借前瞻性的战略视野、深厚的行业洞察力及互补的专业能力，能够精准把握市场发展趋势与竞争态势，为公司实现稳健经营与可持续发展奠定了坚实基础，是推动公司持续高速增长的关键支撑。公司高度重视研发体系建设，持续优化研发资源配置。截至2025年12月31日，公司超过40%的员工从事研发工作，研发团队中超过38%的成员拥有硕士或博士学位，团队呈现多学科交",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "2024年第四季度启动越南代工生产业务并开始陆续发货",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2025年年度报告》，2025报告期，PDF第26页（印刷页26），本地来源：sources/report/石头科技2025年度报告.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

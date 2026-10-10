@@ -1,0 +1,1198 @@
+{
+  "format": "xlsx-sheet-json",
+  "formatVersion": 2,
+  "sourceWorkbook": "石头科技-主营构成(按项目).xlsx",
+  "sourceWorkbookSha256": "ae7e9d4ace04b3232bc5043f108810c7e04798bc89d43b4efd2bdf27f876f967",
+  "sheetName": "产品",
+  "sheetIndex": 0,
+  "sheetState": "visible",
+  "sourceWorksheetXml": "xl/worksheets/sheet1.xml",
+  "dimension": "A1:M24",
+  "rowCount": 24,
+  "columnCount": 7,
+  "dataRange": "A1:G24",
+  "cellEncoding": "rows is the lossless cell-record matrix. Null means no explicit XLSX cell. For numeric cells, value and rawValue retain the exact XLSX decimal text.",
+  "valueEncoding": "values is the analysis-ready matrix over dataRange. Text stays text, blank positions are null, booleans stay boolean, and numeric cells are JSON numbers. rows remains the authoritative exact representation.",
+  "rows": [
+    [
+      {
+        "ref": "A1",
+        "type": "string",
+        "value": "产品",
+        "rawValue": "0"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      {
+        "ref": "B3",
+        "type": "string",
+        "value": "2021-12-31",
+        "rawValue": "1"
+      },
+      {
+        "ref": "C3",
+        "type": "string",
+        "value": "2022-12-31",
+        "rawValue": "2"
+      },
+      {
+        "ref": "D3",
+        "type": "string",
+        "value": "2023-12-31",
+        "rawValue": "3"
+      },
+      {
+        "ref": "E3",
+        "type": "string",
+        "value": "2024-12-31",
+        "rawValue": "4"
+      },
+      {
+        "ref": "F3",
+        "type": "string",
+        "value": "2025-12-31",
+        "rawValue": "5"
+      },
+      {
+        "ref": "G3",
+        "type": "string",
+        "value": "2026-06-30",
+        "rawValue": "6"
+      }
+    ],
+    [
+      {
+        "ref": "A4",
+        "type": "string",
+        "value": "报告期",
+        "rawValue": "7"
+      },
+      {
+        "ref": "B4",
+        "type": "string",
+        "value": "2021年报",
+        "rawValue": "8"
+      },
+      {
+        "ref": "C4",
+        "type": "string",
+        "value": "2022年报",
+        "rawValue": "9"
+      },
+      {
+        "ref": "D4",
+        "type": "string",
+        "value": "2023年报",
+        "rawValue": "10"
+      },
+      {
+        "ref": "E4",
+        "type": "string",
+        "value": "2024年报",
+        "rawValue": "11"
+      },
+      {
+        "ref": "F4",
+        "type": "string",
+        "value": "2025年报",
+        "rawValue": "12"
+      },
+      {
+        "ref": "G4",
+        "type": "string",
+        "value": "2026中报",
+        "rawValue": "13"
+      }
+    ],
+    [
+      {
+        "ref": "A5",
+        "type": "string",
+        "value": "报表类型",
+        "rawValue": "14"
+      },
+      {
+        "ref": "B5",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "15"
+      },
+      {
+        "ref": "C5",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "15"
+      },
+      {
+        "ref": "D5",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "15"
+      },
+      {
+        "ref": "E5",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "15"
+      },
+      {
+        "ref": "F5",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "15"
+      },
+      {
+        "ref": "G5",
+        "type": "string",
+        "value": "合并报表",
+        "rawValue": "15"
+      }
+    ],
+    [
+      {
+        "ref": "A6",
+        "type": "string",
+        "value": "数据类型",
+        "rawValue": "16"
+      },
+      {
+        "ref": "B6",
+        "type": "string",
+        "value": "指标数值",
+        "rawValue": "17"
+      },
+      {
+        "ref": "C6",
+        "type": "string",
+        "value": "指标数值",
+        "rawValue": "17"
+      },
+      {
+        "ref": "D6",
+        "type": "string",
+        "value": "指标数值",
+        "rawValue": "17"
+      },
+      {
+        "ref": "E6",
+        "type": "string",
+        "value": "指标数值",
+        "rawValue": "17"
+      },
+      {
+        "ref": "F6",
+        "type": "string",
+        "value": "指标数值",
+        "rawValue": "17"
+      },
+      {
+        "ref": "G6",
+        "type": "string",
+        "value": "指标数值",
+        "rawValue": "17"
+      }
+    ],
+    [
+      {
+        "ref": "A7",
+        "type": "string",
+        "value": "销售智能清洁设备",
+        "rawValue": "18"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A8",
+        "type": "string",
+        "value": "  收入",
+        "rawValue": "19"
+      },
+      {
+        "ref": "B8",
+        "type": "number",
+        "value": "5837.05",
+        "rawValue": "5837.05",
+        "styleId": "1"
+      },
+      {
+        "ref": "C8",
+        "type": "number",
+        "value": "6610.74",
+        "rawValue": "6610.74",
+        "styleId": "1"
+      },
+      {
+        "ref": "D8",
+        "type": "number",
+        "value": "8639.48",
+        "rawValue": "8639.48",
+        "styleId": "1"
+      },
+      {
+        "ref": "E8",
+        "type": "number",
+        "value": "11918.47",
+        "rawValue": "11918.47",
+        "styleId": "1"
+      },
+      {
+        "ref": "F8",
+        "type": "number",
+        "value": "15172.94",
+        "rawValue": "15172.94",
+        "styleId": "1"
+      },
+      {
+        "ref": "G8",
+        "type": "number",
+        "value": "10076.85",
+        "rawValue": "10076.85",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A9",
+        "type": "string",
+        "value": "  成本",
+        "rawValue": "20"
+      },
+      {
+        "ref": "B9",
+        "type": "number",
+        "value": "3029.02",
+        "rawValue": "3029.02",
+        "styleId": "1"
+      },
+      {
+        "ref": "C9",
+        "type": "number",
+        "value": "3350.64",
+        "rawValue": "3350.64",
+        "styleId": "1"
+      },
+      {
+        "ref": "D9",
+        "type": "number",
+        "value": "3859.86",
+        "rawValue": "3859.86",
+        "styleId": "1"
+      },
+      {
+        "ref": "E9",
+        "type": "number",
+        "value": "5916.84",
+        "rawValue": "5916.84",
+        "styleId": "1"
+      },
+      {
+        "ref": "F9",
+        "type": "number",
+        "value": "8604.84",
+        "rawValue": "8604.84",
+        "styleId": "1"
+      },
+      {
+        "ref": "G9",
+        "type": "number",
+        "value": "5718.11",
+        "rawValue": "5718.11",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A10",
+        "type": "string",
+        "value": "  毛利",
+        "rawValue": "21"
+      },
+      {
+        "ref": "B10",
+        "type": "number",
+        "value": "2808.04",
+        "rawValue": "2808.04",
+        "styleId": "1"
+      },
+      {
+        "ref": "C10",
+        "type": "number",
+        "value": "3260.1",
+        "rawValue": "3260.1",
+        "styleId": "1"
+      },
+      {
+        "ref": "D10",
+        "type": "number",
+        "value": "4779.62",
+        "rawValue": "4779.62",
+        "styleId": "1"
+      },
+      {
+        "ref": "E10",
+        "type": "number",
+        "value": "6001.63",
+        "rawValue": "6001.63",
+        "styleId": "1"
+      },
+      {
+        "ref": "F10",
+        "type": "number",
+        "value": "6568.11",
+        "rawValue": "6568.11",
+        "styleId": "1"
+      },
+      {
+        "ref": "G10",
+        "type": "number",
+        "value": "4358.74",
+        "rawValue": "4358.74",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A11",
+        "type": "string",
+        "value": "  毛利率(%)",
+        "rawValue": "22"
+      },
+      {
+        "ref": "B11",
+        "type": "number",
+        "value": "48.11",
+        "rawValue": "48.11",
+        "styleId": "1"
+      },
+      {
+        "ref": "C11",
+        "type": "number",
+        "value": "49.32",
+        "rawValue": "49.32",
+        "styleId": "1"
+      },
+      {
+        "ref": "D11",
+        "type": "number",
+        "value": "55.32",
+        "rawValue": "55.32",
+        "styleId": "1"
+      },
+      {
+        "ref": "E11",
+        "type": "number",
+        "value": "50.36",
+        "rawValue": "50.36",
+        "styleId": "1"
+      },
+      {
+        "ref": "F11",
+        "type": "number",
+        "value": "43.29",
+        "rawValue": "43.29",
+        "styleId": "1"
+      },
+      {
+        "ref": "G11",
+        "type": "number",
+        "value": "43.25",
+        "rawValue": "43.25",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A12",
+        "type": "string",
+        "value": "其他业务",
+        "rawValue": "23"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A13",
+        "type": "string",
+        "value": "  收入",
+        "rawValue": "19"
+      },
+      null,
+      {
+        "ref": "C13",
+        "type": "number",
+        "value": "17.98",
+        "rawValue": "17.98",
+        "styleId": "1"
+      },
+      {
+        "ref": "D13",
+        "type": "number",
+        "value": "14.3",
+        "rawValue": "14.3",
+        "styleId": "1"
+      },
+      {
+        "ref": "E13",
+        "type": "number",
+        "value": "26.23",
+        "rawValue": "26.23",
+        "styleId": "1"
+      },
+      {
+        "ref": "F13",
+        "type": "number",
+        "value": "14.45",
+        "rawValue": "14.45",
+        "styleId": "1"
+      },
+      {
+        "ref": "G13",
+        "type": "number",
+        "value": "7.56",
+        "rawValue": "7.56",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A14",
+        "type": "string",
+        "value": "  成本",
+        "rawValue": "20"
+      },
+      null,
+      {
+        "ref": "C14",
+        "type": "number",
+        "value": "12.62",
+        "rawValue": "12.62",
+        "styleId": "1"
+      },
+      {
+        "ref": "D14",
+        "type": "number",
+        "value": "22.7",
+        "rawValue": "22.7",
+        "styleId": "1"
+      },
+      {
+        "ref": "E14",
+        "type": "number",
+        "value": "38.85",
+        "rawValue": "38.85",
+        "styleId": "1"
+      },
+      {
+        "ref": "F14",
+        "type": "number",
+        "value": "14.01",
+        "rawValue": "14.01",
+        "styleId": "1"
+      },
+      {
+        "ref": "G14",
+        "type": "number",
+        "value": "3.7",
+        "rawValue": "3.7",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A15",
+        "type": "string",
+        "value": "  毛利",
+        "rawValue": "21"
+      },
+      null,
+      {
+        "ref": "C15",
+        "type": "number",
+        "value": "5.36",
+        "rawValue": "5.36",
+        "styleId": "1"
+      },
+      {
+        "ref": "D15",
+        "type": "number",
+        "value": "-8.39",
+        "rawValue": "-8.39",
+        "styleId": "1"
+      },
+      {
+        "ref": "E15",
+        "type": "number",
+        "value": "-12.61",
+        "rawValue": "-12.61",
+        "styleId": "1"
+      },
+      {
+        "ref": "F15",
+        "type": "number",
+        "value": "0.44",
+        "rawValue": "0.44",
+        "styleId": "1"
+      },
+      {
+        "ref": "G15",
+        "type": "number",
+        "value": "3.86",
+        "rawValue": "3.86",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A16",
+        "type": "string",
+        "value": "  毛利率(%)",
+        "rawValue": "22"
+      },
+      null,
+      {
+        "ref": "C16",
+        "type": "number",
+        "value": "29.79",
+        "rawValue": "29.79",
+        "styleId": "1"
+      },
+      {
+        "ref": "D16",
+        "type": "number",
+        "value": "-58.68",
+        "rawValue": "-58.68",
+        "styleId": "1"
+      },
+      {
+        "ref": "E16",
+        "type": "number",
+        "value": "-48.07",
+        "rawValue": "-48.07",
+        "styleId": "1"
+      },
+      {
+        "ref": "F16",
+        "type": "number",
+        "value": "3.05",
+        "rawValue": "3.05",
+        "styleId": "1"
+      },
+      {
+        "ref": "G16",
+        "type": "number",
+        "value": "51.05",
+        "rawValue": "51.05",
+        "styleId": "1"
+      }
+    ],
+    [
+      {
+        "ref": "A17",
+        "type": "string",
+        "value": "其他智能电器产品",
+        "rawValue": "24"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A18",
+        "type": "string",
+        "value": "  收入",
+        "rawValue": "19"
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "ref": "F18",
+        "type": "number",
+        "value": "3507.38",
+        "rawValue": "3507.38",
+        "styleId": "1"
+      },
+      null
+    ],
+    [
+      {
+        "ref": "A19",
+        "type": "string",
+        "value": "  成本",
+        "rawValue": "20"
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "ref": "F19",
+        "type": "number",
+        "value": "2158.69",
+        "rawValue": "2158.69",
+        "styleId": "1"
+      },
+      null
+    ],
+    [
+      {
+        "ref": "A20",
+        "type": "string",
+        "value": "  毛利",
+        "rawValue": "21"
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "ref": "F20",
+        "type": "number",
+        "value": "1348.69",
+        "rawValue": "1348.69",
+        "styleId": "1"
+      },
+      null
+    ],
+    [
+      {
+        "ref": "A21",
+        "type": "string",
+        "value": "  毛利率(%)",
+        "rawValue": "22"
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "ref": "F21",
+        "type": "number",
+        "value": "38.45",
+        "rawValue": "38.45",
+        "styleId": "1"
+      },
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "ref": "A24",
+        "type": "string",
+        "value": "数据来源：Wind",
+        "rawValue": "25"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "values": [
+    [
+      "产品",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "2021-12-31",
+      "2022-12-31",
+      "2023-12-31",
+      "2024-12-31",
+      "2025-12-31",
+      "2026-06-30"
+    ],
+    [
+      "报告期",
+      "2021年报",
+      "2022年报",
+      "2023年报",
+      "2024年报",
+      "2025年报",
+      "2026中报"
+    ],
+    [
+      "报表类型",
+      "合并报表",
+      "合并报表",
+      "合并报表",
+      "合并报表",
+      "合并报表",
+      "合并报表"
+    ],
+    [
+      "数据类型",
+      "指标数值",
+      "指标数值",
+      "指标数值",
+      "指标数值",
+      "指标数值",
+      "指标数值"
+    ],
+    [
+      "销售智能清洁设备",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "  收入",
+      5837.05,
+      6610.74,
+      8639.48,
+      11918.47,
+      15172.94,
+      10076.85
+    ],
+    [
+      "  成本",
+      3029.02,
+      3350.64,
+      3859.86,
+      5916.84,
+      8604.84,
+      5718.11
+    ],
+    [
+      "  毛利",
+      2808.04,
+      3260.1,
+      4779.62,
+      6001.63,
+      6568.11,
+      4358.74
+    ],
+    [
+      "  毛利率(%)",
+      48.11,
+      49.32,
+      55.32,
+      50.36,
+      43.29,
+      43.25
+    ],
+    [
+      "其他业务",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "  收入",
+      null,
+      17.98,
+      14.3,
+      26.23,
+      14.45,
+      7.56
+    ],
+    [
+      "  成本",
+      null,
+      12.62,
+      22.7,
+      38.85,
+      14.01,
+      3.7
+    ],
+    [
+      "  毛利",
+      null,
+      5.36,
+      -8.39,
+      -12.61,
+      0.44,
+      3.86
+    ],
+    [
+      "  毛利率(%)",
+      null,
+      29.79,
+      -58.68,
+      -48.07,
+      3.05,
+      51.05
+    ],
+    [
+      "其他智能电器产品",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "  收入",
+      null,
+      null,
+      null,
+      null,
+      3507.38,
+      null
+    ],
+    [
+      "  成本",
+      null,
+      null,
+      null,
+      null,
+      2158.69,
+      null
+    ],
+    [
+      "  毛利",
+      null,
+      null,
+      null,
+      null,
+      1348.69,
+      null
+    ],
+    [
+      "  毛利率(%)",
+      null,
+      null,
+      null,
+      null,
+      38.45,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "数据来源：Wind",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "analysisSchema": {
+    "layout": "wideFinancialMatrix",
+    "titleCell": "A1",
+    "labelColumn": "A",
+    "headerRows": {
+      "periodDate": 3,
+      "reportPeriod": 4,
+      "statementType": 5,
+      "dataType": 6
+    },
+    "dataStartRow": 7,
+    "columnDescriptors": [
+      {
+        "column": "B",
+        "columnIndex": 2,
+        "periodDate": "2021-12-31",
+        "reportPeriod": "2021年报",
+        "statementType": "合并报表",
+        "dataType": "指标数值"
+      },
+      {
+        "column": "C",
+        "columnIndex": 3,
+        "periodDate": "2022-12-31",
+        "reportPeriod": "2022年报",
+        "statementType": "合并报表",
+        "dataType": "指标数值"
+      },
+      {
+        "column": "D",
+        "columnIndex": 4,
+        "periodDate": "2023-12-31",
+        "reportPeriod": "2023年报",
+        "statementType": "合并报表",
+        "dataType": "指标数值"
+      },
+      {
+        "column": "E",
+        "columnIndex": 5,
+        "periodDate": "2024-12-31",
+        "reportPeriod": "2024年报",
+        "statementType": "合并报表",
+        "dataType": "指标数值"
+      },
+      {
+        "column": "F",
+        "columnIndex": 6,
+        "periodDate": "2025-12-31",
+        "reportPeriod": "2025年报",
+        "statementType": "合并报表",
+        "dataType": "指标数值"
+      },
+      {
+        "column": "G",
+        "columnIndex": 7,
+        "periodDate": "2026-06-30",
+        "reportPeriod": "2026中报",
+        "statementType": "合并报表",
+        "dataType": "指标数值"
+      }
+    ],
+    "periodOrder": "ascending",
+    "sourceUnitText": null,
+    "currency": null,
+    "caveats": [
+      "The worksheet does not explicitly state a monetary unit; determine the unit from the authoritative source before combining monetary amounts across files.",
+      "Interim and annual periods coexist; compare matching periods or state any annualization assumption explicitly."
+    ]
+  },
+  "rowMetadata": [
+    {
+      "r": "1"
+    },
+    {
+      "r": "3"
+    },
+    {
+      "r": "4"
+    },
+    {
+      "r": "5"
+    },
+    {
+      "r": "6"
+    },
+    {
+      "r": "7"
+    },
+    {
+      "r": "8"
+    },
+    {
+      "r": "9"
+    },
+    {
+      "r": "10"
+    },
+    {
+      "r": "11"
+    },
+    {
+      "r": "12"
+    },
+    {
+      "r": "13"
+    },
+    {
+      "r": "14"
+    },
+    {
+      "r": "15"
+    },
+    {
+      "r": "16"
+    },
+    {
+      "r": "17"
+    },
+    {
+      "r": "18"
+    },
+    {
+      "r": "19"
+    },
+    {
+      "r": "20"
+    },
+    {
+      "r": "21"
+    },
+    {
+      "r": "24"
+    }
+  ],
+  "columnMetadata": [
+    {
+      "min": "1",
+      "max": "1",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "2",
+      "max": "2",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "3",
+      "max": "3",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "4",
+      "max": "4",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "5",
+      "max": "5",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "6",
+      "max": "6",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "7",
+      "max": "7",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "8",
+      "max": "8",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "9",
+      "max": "9",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "10",
+      "max": "10",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "11",
+      "max": "11",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "12",
+      "max": "12",
+      "width": "20.83203125",
+      "customWidth": "1"
+    },
+    {
+      "min": "13",
+      "max": "13",
+      "width": "20.83203125",
+      "customWidth": "1"
+    }
+  ],
+  "mergedRanges": [
+    "A1:M1"
+  ],
+  "viewMetadata": [
+    {
+      "sheetViewAttributes": {
+        "workbookViewId": "0"
+      },
+      "pane": null
+    }
+  ],
+  "counts": {
+    "explicitCells": 92,
+    "nonEmptyCells": 92,
+    "formulaCells": 0
+  },
+  "verification": {
+    "sourceWorkbookSha256Matched": true,
+    "cellCoordinatesMatched": true,
+    "cellValuesAndTypesMatched": true,
+    "formulasMatched": true,
+    "analysisValuesCheckedAgainstExactCells": true,
+    "previousJsonSha256": "c95e0192b072c0c0d771383f30be487d1e95021c9823e298d9b1acb62c17537c"
+  }
+}

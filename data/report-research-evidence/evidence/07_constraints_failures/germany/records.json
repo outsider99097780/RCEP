@@ -1,0 +1,54 @@
+[
+  {
+    "record_id": "RR26-0201",
+    "category": "constraints_failures",
+    "geography": {
+      "key": "germany",
+      "name_zh": "德国",
+      "iso3": "DEU",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2025Q4德国科沃斯Amazon份额正文18%，图33标题19%。",
+    "period": "2025",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "broker_estimate",
+    "report_use": "conflict_audit_only",
+    "metrics": [],
+    "notes": [
+      "原文差异完整保留；有图中明确值时另列采用记录。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": true,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "RESEARCH-01",
+      "title": "公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点",
+      "issuer": "开源证券",
+      "publication_date": "2026-02-04",
+      "reporting_period": null,
+      "pdf_page": 25,
+      "printed_page": 25,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\research\\2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf",
+      "source_sha256": "0ef5af9f734e5b0753809c077428697d643caa68ceb85641f9060ef9f8acdf6e",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/RESEARCH-01/p025.txt",
+      "source_excerpt_whitespace_normalized": "德国亚马逊保持市占率领先位置，2025Q4石头/追觅/科沃斯市占率分别为39%/23%/18%。单品来看，2025黑五石头同样保持领先，QV35S保持黑五大促全周期bestsellerTOP1位置，从上榜品牌来看，石头/追觅/科沃斯进入前十排名的产品数分别为5.25/2.5/1.25个。图33：2025Q4德国亚马逊石头/追觅/科沃斯市占率分别为39%/23%/19%数据来源：魔镜、开源证券研究所表5：石头QV35S保持黑五大促全周期德国亚马逊bestsellerTOP1位置渠道排名11月17日11月20日11月24日11月30日德亚1RoborockQV35SRoborockQV35SRoborockQV35SRoborockQV35S2RoborockQrevoCurvRoborockQrevoCurvDREAMEL10sDREAMEL40sProUltra3RoborockSaros10RDREAMEL40sProUltraECOVACST50OmniGen2RoborockSaros10R4DREAMEL10sRoborockSaros10RRoborockSaros10RRoborockQrevoCurv5RoborockQ7L5+RoborockQ7L5+RoborockQrevoCurvRoborockQ7L5+0%10%20%30%40%50%2023Q32023Q42024Q12024Q22024Q32024Q42025Q12025Q22025Q32025Q4R",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "德国亚马逊保持市占率领先位置",
+      "citation_zh": "开源证券：《公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点》，2026-02-04，PDF第25页（印刷页25），本地来源：sources/research/2026-02-05_开源证券_石头科技（688169）：公司深度报告：新业务大幅减亏+扫地机行业竞争缓和，2026年净利率迎来拐点.pdf，读取日期：2026-10-09。"
+    }
+  }
+]

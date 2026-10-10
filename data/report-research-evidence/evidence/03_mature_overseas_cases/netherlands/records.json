@@ -1,0 +1,54 @@
+[
+  {
+    "record_id": "RR26-0061",
+    "category": "mature_overseas_cases",
+    "geography": {
+      "key": "netherlands",
+      "name_zh": "荷兰",
+      "iso3": "NLD",
+      "scope": "country",
+      "role": "mature_overseas_case",
+      "related_countries": []
+    },
+    "statement_zh": "2024年年报披露公司已在荷兰设立海外公司。",
+    "period": "2024",
+    "brand": "Roborock",
+    "brand_group": "core_comparison",
+    "product_scope": "robot_vacuum_unless_explicitly_marked",
+    "channel": null,
+    "claim_type": "company_disclosure",
+    "report_use": "cite_as_company_disclosure",
+    "metrics": [],
+    "notes": [
+      "非当地收入数据；未给出首次设立日期。"
+    ],
+    "verification": {
+      "anchor_found_in_pdf_text": true,
+      "pdf_page_visually_reviewed": false,
+      "upstream_primary_source_independently_verified": false
+    },
+    "citation": {
+      "source_id": "REPORT-03",
+      "title": "石头科技2024年年度报告",
+      "issuer": "北京石头世纪科技股份有限公司",
+      "publication_date": null,
+      "reporting_period": "2024",
+      "pdf_page": 15,
+      "printed_page": 14,
+      "locator": "正文（以原文锚点定位）",
+      "source_relative_path": "sources/report/石头科技2024年度报告.pdf",
+      "source_absolute_path": "C:\\Users\\99097\\Documents\\GitHub\\RCEP\\sources\\report\\石头科技2024年度报告.pdf",
+      "source_sha256": "45c065afabb814739212e3334a059d635c30bbbd1a5f1190babd04aa42a37bde",
+      "original_data_provider_as_cited": null,
+      "original_url": null,
+      "original_url_status": "not_provided_or_not_verified_in_local_source",
+      "access_method": "user_provided_local_pdf",
+      "access_date": "2026-10-09",
+      "evidence_text_file": "sources/page-text/REPORT-03/p015.txt",
+      "source_excerpt_whitespace_normalized": "目前公司已在美国、英国、日本、荷兰、波兰、德国、韩国、加拿大等地设立了海外公司，及时掌握市场动态，提升策略实施效率。（三）精耕线上业务，开拓多渠道运营1、深化线上渠道合作，挖掘优质流量公司通过多元化的营销渠道，扩大产品销售和市场覆盖面。报告期内，公司继续与各电商平",
+      "source_excerpt_scope": "anchored_excerpt",
+      "quote_anchor": "目前公司已在美国、英国、日本",
+      "citation_zh": "北京石头世纪科技股份有限公司：《石头科技2024年年度报告》，2024报告期，PDF第15页（印刷页14），本地来源：sources/report/石头科技2024年度报告.pdf，读取日期：2026-10-09。"
+    }
+  }
+]
