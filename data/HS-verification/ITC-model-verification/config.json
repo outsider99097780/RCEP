@@ -1,0 +1,20 @@
+{
+  "analysis_id": "20261010-HS85081110-share-ITC-ranking-verification",
+  "customs_period": "2026-01/2026-08",
+  "customs_period_basis": "User-supplied period and pre-existing share table; raw exports have no date column",
+  "ratio_basis": "CNY export value; not quantity",
+  "permutation_draws": 199999,
+  "bootstrap_draws": 20000,
+  "random_seed": 20261010,
+  "alpha": 0.05,
+  "share_indicator_weights": [0.05, 0.1, 0.2, 0.4],
+  "composition_exponents": [0.25, 0.5, 1.0],
+  "stress_grid_step": 0.005,
+  "practical_thresholds": {
+    "top5_membership_changed": true,
+    "max_absolute_rank_change_at_least": 3,
+    "spearman_below": 0.9,
+    "kendall_below": 0.8,
+    "note": "Analyst-defined screening flags fixed before calculation, not statistical significance standards. Any flag merits attention, not proof of a true narrow-HS ranking."
+  }
+}

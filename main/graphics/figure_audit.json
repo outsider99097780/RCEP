@@ -1,0 +1,2516 @@
+{
+  "checked_at": "2026-10-11T04:45:56.693722+00:00",
+  "scope": "seven referenced figures and eleven tables; existing local snapshots only",
+  "internet_used": false,
+  "model_refit": false,
+  "raw_data_modified": false,
+  "original_tex_sha256": "7a2a3a1e9226fb69ecc7a2cbbcb69bd8f124cd346047fa0acb66ec858eb2b22a",
+  "updated_tex_sha256": "b1b78cb9e7f6dd63a80c7de77790d2c805b489abad279d5c662e1c1c7c4e701a",
+  "figures": [
+    {
+      "id": "fig:score",
+      "file": "market_score.pdf",
+      "data_check": "latest strategy scores; eleven PDF bar lengths and CSV values"
+    },
+    {
+      "id": "fig:sensitivity",
+      "file": "ranking_sensitivity.pdf",
+      "data_check": "independently counted archived top-five frequencies and eleven PDF bars"
+    },
+    {
+      "id": "fig:epi",
+      "file": "epi_untapped.pdf",
+      "data_check": "fourteen saved EPI and baseline values; nonnegative gaps; twenty-eight PDF bars"
+    },
+    {
+      "id": "fig:supplier",
+      "file": "supplier_concentration.pdf",
+      "data_check": "five supplier tables; fifteen PDF stacked segments; source-country shares, not brand shares"
+    },
+    {
+      "id": "fig:sizegrowth",
+      "file": "market_size_growth.pdf",
+      "data_check": "eleven model inputs; actual PDF bubble coordinates, sizes, log scale and source CSV"
+    },
+    {
+      "id": "fig:companyfinance",
+      "file": "company_financial_trend.pdf",
+      "data_check": "nine Wind cells, CNY10000 to CNY100m conversion, original annual-report cross-check and nine PDF bars"
+    },
+    {
+      "id": "fig:retailprice",
+      "file": "retail_brand_price_comparison.pdf",
+      "data_check": "182 priced products grouped into twenty brand-market rows; seventeen PDF bars; decimal medians and rounding; MYS historical prices excluded"
+    }
+  ],
+  "tables": [
+    "tab:itcdata",
+    "tab:customscompare",
+    "tab:hsrobustness",
+    "tab:weights",
+    "tab:top3",
+    "tab:casefit",
+    "tab:competition",
+    "tab:retailsample",
+    "tab:nzlprice",
+    "tab:rceptariff",
+    "tab:roadmap"
+  ],
+  "checks": [
+    {
+      "check": "score PDF has eleven actual bars",
+      "passed": true
+    },
+    {
+      "check": "score PDF geometry 韩国",
+      "passed": true
+    },
+    {
+      "check": "score PDF geometry 澳大利亚",
+      "passed": true
+    },
+    {
+      "check": "score PDF geometry 马来西亚",
+      "passed": true
+    },
+    {
+      "check": "score PDF geometry 新西兰",
+      "passed": true
+    },
+    {
+      "check": "score PDF geometry 日本",
+      "passed": true
+    },
+    {
+      "check": "score PDF geometry 印度尼西亚",
+      "passed": true
+    },
+    {
+      "check": "score PDF geometry 泰国",
+      "passed": true
+    },
+    {
+      "check": "score PDF geometry 菲律宾",
+      "passed": true
+    },
+    {
+      "check": "score PDF geometry 柬埔寨",
+      "passed": true
+    },
+    {
+      "check": "score PDF geometry 新加坡",
+      "passed": true
+    },
+    {
+      "check": "score PDF geometry 文莱",
+      "passed": true
+    },
+    {
+      "check": "score CSV 韩国",
+      "passed": true
+    },
+    {
+      "check": "score CSV 澳大利亚",
+      "passed": true
+    },
+    {
+      "check": "score CSV 马来西亚",
+      "passed": true
+    },
+    {
+      "check": "score CSV 新西兰",
+      "passed": true
+    },
+    {
+      "check": "score CSV 日本",
+      "passed": true
+    },
+    {
+      "check": "score CSV 印度尼西亚",
+      "passed": true
+    },
+    {
+      "check": "score CSV 泰国",
+      "passed": true
+    },
+    {
+      "check": "score CSV 菲律宾",
+      "passed": true
+    },
+    {
+      "check": "score CSV 柬埔寨",
+      "passed": true
+    },
+    {
+      "check": "score CSV 新加坡",
+      "passed": true
+    },
+    {
+      "check": "score CSV 文莱",
+      "passed": true
+    },
+    {
+      "check": "sensitivity uses 5000 archived draws",
+      "passed": true
+    },
+    {
+      "check": "sensitivity PDF geometry 韩国",
+      "passed": true
+    },
+    {
+      "check": "sensitivity PDF geometry 澳大利亚",
+      "passed": true
+    },
+    {
+      "check": "sensitivity PDF geometry 马来西亚",
+      "passed": true
+    },
+    {
+      "check": "sensitivity PDF geometry 新西兰",
+      "passed": true
+    },
+    {
+      "check": "sensitivity PDF geometry 日本",
+      "passed": true
+    },
+    {
+      "check": "sensitivity PDF geometry 印度尼西亚",
+      "passed": true
+    },
+    {
+      "check": "sensitivity PDF geometry 泰国",
+      "passed": true
+    },
+    {
+      "check": "sensitivity PDF geometry 菲律宾",
+      "passed": true
+    },
+    {
+      "check": "sensitivity PDF geometry 柬埔寨",
+      "passed": true
+    },
+    {
+      "check": "sensitivity PDF geometry 新加坡",
+      "passed": true
+    },
+    {
+      "check": "sensitivity PDF geometry 文莱",
+      "passed": true
+    },
+    {
+      "check": "sensitivity CSV 韩国",
+      "passed": true
+    },
+    {
+      "check": "sensitivity CSV 澳大利亚",
+      "passed": true
+    },
+    {
+      "check": "sensitivity CSV 马来西亚",
+      "passed": true
+    },
+    {
+      "check": "sensitivity CSV 新西兰",
+      "passed": true
+    },
+    {
+      "check": "sensitivity CSV 日本",
+      "passed": true
+    },
+    {
+      "check": "sensitivity CSV 印度尼西亚",
+      "passed": true
+    },
+    {
+      "check": "sensitivity CSV 泰国",
+      "passed": true
+    },
+    {
+      "check": "sensitivity CSV 菲律宾",
+      "passed": true
+    },
+    {
+      "check": "sensitivity CSV 柬埔寨",
+      "passed": true
+    },
+    {
+      "check": "sensitivity CSV 新加坡",
+      "passed": true
+    },
+    {
+      "check": "sensitivity CSV 文莱",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF has fourteen paired bars",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 392",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 392",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 410",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 410",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 036",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 036",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 458",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 458",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 704",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 704",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 764",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 764",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 360",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 360",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 554",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 554",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 702",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 702",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 608",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 608",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 116",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 116",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 104",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 104",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 418",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 418",
+      "passed": true
+    },
+    {
+      "check": "EPI amount calculation 096",
+      "passed": true
+    },
+    {
+      "check": "EPI PDF geometry 096",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 392",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 410",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 036",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 458",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 704",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 764",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 360",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 554",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 702",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 608",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 116",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 104",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 418",
+      "passed": true
+    },
+    {
+      "check": "EPI CSV 096",
+      "passed": true
+    },
+    {
+      "check": "supplier PDF has fifteen segments",
+      "passed": true
+    },
+    {
+      "check": "supplier composition 410",
+      "passed": true
+    },
+    {
+      "check": "supplier CSV 410",
+      "passed": true
+    },
+    {
+      "check": "supplier composition 036",
+      "passed": true
+    },
+    {
+      "check": "supplier CSV 036",
+      "passed": true
+    },
+    {
+      "check": "supplier composition 458",
+      "passed": true
+    },
+    {
+      "check": "supplier CSV 458",
+      "passed": true
+    },
+    {
+      "check": "supplier composition 554",
+      "passed": true
+    },
+    {
+      "check": "supplier CSV 554",
+      "passed": true
+    },
+    {
+      "check": "supplier composition 392",
+      "passed": true
+    },
+    {
+      "check": "supplier CSV 392",
+      "passed": true
+    },
+    {
+      "check": "scatter contains eleven bubbles",
+      "passed": true
+    },
+    {
+      "check": "scatter PDF position and bubble area 036",
+      "passed": true
+    },
+    {
+      "check": "scatter CSV 036",
+      "passed": true
+    },
+    {
+      "check": "scatter PDF position and bubble area 096",
+      "passed": true
+    },
+    {
+      "check": "scatter CSV 096",
+      "passed": true
+    },
+    {
+      "check": "scatter PDF position and bubble area 116",
+      "passed": true
+    },
+    {
+      "check": "scatter CSV 116",
+      "passed": true
+    },
+    {
+      "check": "scatter PDF position and bubble area 360",
+      "passed": true
+    },
+    {
+      "check": "scatter CSV 360",
+      "passed": true
+    },
+    {
+      "check": "scatter PDF position and bubble area 392",
+      "passed": true
+    },
+    {
+      "check": "scatter CSV 392",
+      "passed": true
+    },
+    {
+      "check": "scatter PDF position and bubble area 410",
+      "passed": true
+    },
+    {
+      "check": "scatter CSV 410",
+      "passed": true
+    },
+    {
+      "check": "scatter PDF position and bubble area 458",
+      "passed": true
+    },
+    {
+      "check": "scatter CSV 458",
+      "passed": true
+    },
+    {
+      "check": "scatter PDF position and bubble area 554",
+      "passed": true
+    },
+    {
+      "check": "scatter CSV 554",
+      "passed": true
+    },
+    {
+      "check": "scatter PDF position and bubble area 608",
+      "passed": true
+    },
+    {
+      "check": "scatter CSV 608",
+      "passed": true
+    },
+    {
+      "check": "scatter PDF position and bubble area 702",
+      "passed": true
+    },
+    {
+      "check": "scatter CSV 702",
+      "passed": true
+    },
+    {
+      "check": "scatter PDF position and bubble area 764",
+      "passed": true
+    },
+    {
+      "check": "scatter CSV 764",
+      "passed": true
+    },
+    {
+      "check": "financial raw cell and CSV 2023revenue",
+      "passed": true
+    },
+    {
+      "check": "financial PDF geometry 2023revenue",
+      "passed": true
+    },
+    {
+      "check": "financial raw cell and CSV 2023parent_net_profit",
+      "passed": true
+    },
+    {
+      "check": "financial PDF geometry 2023parent_net_profit",
+      "passed": true
+    },
+    {
+      "check": "financial raw cell and CSV 2023operating_cash_flow",
+      "passed": true
+    },
+    {
+      "check": "financial PDF geometry 2023operating_cash_flow",
+      "passed": true
+    },
+    {
+      "check": "financial raw cell and CSV 2024revenue",
+      "passed": true
+    },
+    {
+      "check": "financial PDF geometry 2024revenue",
+      "passed": true
+    },
+    {
+      "check": "financial raw cell and CSV 2024parent_net_profit",
+      "passed": true
+    },
+    {
+      "check": "financial PDF geometry 2024parent_net_profit",
+      "passed": true
+    },
+    {
+      "check": "financial raw cell and CSV 2024operating_cash_flow",
+      "passed": true
+    },
+    {
+      "check": "financial PDF geometry 2024operating_cash_flow",
+      "passed": true
+    },
+    {
+      "check": "financial raw cell and CSV 2025revenue",
+      "passed": true
+    },
+    {
+      "check": "financial PDF geometry 2025revenue",
+      "passed": true
+    },
+    {
+      "check": "financial raw cell and CSV 2025parent_net_profit",
+      "passed": true
+    },
+    {
+      "check": "financial PDF geometry 2025parent_net_profit",
+      "passed": true
+    },
+    {
+      "check": "financial raw cell and CSV 2025operating_cash_flow",
+      "passed": true
+    },
+    {
+      "check": "financial PDF geometry 2025operating_cash_flow",
+      "passed": true
+    },
+    {
+      "check": "retail contains four markets and twenty brand rows",
+      "passed": true
+    },
+    {
+      "check": "retail source membership JPNRoborock",
+      "passed": true
+    },
+    {
+      "check": "independent retail median JPNRoborock",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry JPNRoborock",
+      "passed": true
+    },
+    {
+      "check": "retail source membership JPNEcovacs",
+      "passed": true
+    },
+    {
+      "check": "independent retail median JPNEcovacs",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry JPNEcovacs",
+      "passed": true
+    },
+    {
+      "check": "retail source membership JPNXiaomi",
+      "passed": true
+    },
+    {
+      "check": "independent retail median JPNXiaomi",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry JPNXiaomi",
+      "passed": true
+    },
+    {
+      "check": "retail source membership JPNDreame",
+      "passed": true
+    },
+    {
+      "check": "independent retail median JPNDreame",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry JPNDreame",
+      "passed": true
+    },
+    {
+      "check": "retail source membership JPNNarwal",
+      "passed": true
+    },
+    {
+      "check": "independent retail median JPNNarwal",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry JPNNarwal",
+      "passed": true
+    },
+    {
+      "check": "retail source membership KORRoborock",
+      "passed": true
+    },
+    {
+      "check": "independent retail median KORRoborock",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry KORRoborock",
+      "passed": true
+    },
+    {
+      "check": "retail source membership KOREcovacs",
+      "passed": true
+    },
+    {
+      "check": "independent retail median KOREcovacs",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry KOREcovacs",
+      "passed": true
+    },
+    {
+      "check": "retail source membership KORXiaomi",
+      "passed": true
+    },
+    {
+      "check": "independent retail median KORXiaomi",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry KORXiaomi",
+      "passed": true
+    },
+    {
+      "check": "retail source membership KORDreame",
+      "passed": true
+    },
+    {
+      "check": "independent retail median KORDreame",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry KORDreame",
+      "passed": true
+    },
+    {
+      "check": "retail source membership KORNarwal",
+      "passed": true
+    },
+    {
+      "check": "independent retail median KORNarwal",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry KORNarwal",
+      "passed": true
+    },
+    {
+      "check": "retail source membership AUSRoborock",
+      "passed": true
+    },
+    {
+      "check": "independent retail median AUSRoborock",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry AUSRoborock",
+      "passed": true
+    },
+    {
+      "check": "retail source membership AUSEcovacs",
+      "passed": true
+    },
+    {
+      "check": "independent retail median AUSEcovacs",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry AUSEcovacs",
+      "passed": true
+    },
+    {
+      "check": "retail source membership AUSXiaomi",
+      "passed": true
+    },
+    {
+      "check": "missing retail is blank not zero AUSXiaomi",
+      "passed": true
+    },
+    {
+      "check": "retail source membership AUSDreame",
+      "passed": true
+    },
+    {
+      "check": "independent retail median AUSDreame",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry AUSDreame",
+      "passed": true
+    },
+    {
+      "check": "retail source membership AUSNarwal",
+      "passed": true
+    },
+    {
+      "check": "missing retail is blank not zero AUSNarwal",
+      "passed": true
+    },
+    {
+      "check": "retail source membership NZLRoborock",
+      "passed": true
+    },
+    {
+      "check": "independent retail median NZLRoborock",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry NZLRoborock",
+      "passed": true
+    },
+    {
+      "check": "retail source membership NZLEcovacs",
+      "passed": true
+    },
+    {
+      "check": "independent retail median NZLEcovacs",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry NZLEcovacs",
+      "passed": true
+    },
+    {
+      "check": "retail source membership NZLXiaomi",
+      "passed": true
+    },
+    {
+      "check": "independent retail median NZLXiaomi",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry NZLXiaomi",
+      "passed": true
+    },
+    {
+      "check": "retail source membership NZLDreame",
+      "passed": true
+    },
+    {
+      "check": "independent retail median NZLDreame",
+      "passed": true
+    },
+    {
+      "check": "retail PDF geometry NZLDreame",
+      "passed": true
+    },
+    {
+      "check": "retail source membership NZLNarwal",
+      "passed": true
+    },
+    {
+      "check": "missing retail is blank not zero NZLNarwal",
+      "passed": true
+    },
+    {
+      "check": "retail PDF has seventeen actual priced bars",
+      "passed": true
+    },
+    {
+      "check": "half-up rounding label",
+      "passed": true
+    },
+    {
+      "check": "NZ values actually appear in PDF",
+      "passed": true
+    },
+    {
+      "check": "retail primary source hash current",
+      "passed": true
+    },
+    {
+      "check": "retail source ledger hash current",
+      "passed": true
+    },
+    {
+      "check": "eligible figure counts match",
+      "passed": true
+    },
+    {
+      "check": "raw versus figure country counts separated",
+      "passed": true
+    },
+    {
+      "check": "additional source hash data\\macro-market\\competition\\retail-website-data\\cleaned\\products_NZL_detailed.csv",
+      "passed": true
+    },
+    {
+      "check": "additional source hash data\\macro-market\\competition\\retail-website-data\\metadata\\source_ledger_NZL.csv",
+      "passed": true
+    },
+    {
+      "check": "additional source hash data\\macro-market\\competition\\retail-website-data\\cleaned\\products_MYS_detailed.csv",
+      "passed": true
+    },
+    {
+      "check": "additional source hash data\\macro-market\\competition\\retail-website-data\\cleaned\\historical_price_evidence_MYS.csv",
+      "passed": true
+    },
+    {
+      "check": "additional source hash data\\macro-market\\competition\\retail-website-data\\metadata\\source_ledger_MYS.csv",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0005",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0006",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0007",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0008",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0009",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0010",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0011",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0012",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0013",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0014",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0015",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0016",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0017",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0018",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0019",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0020",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0021",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0022",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0023",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0024",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0026",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0027",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0028",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0029",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0031",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0032",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0033",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0034",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0035",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0038",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0039",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0040",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0042",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0043",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0044",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0045",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0047",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0048",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0049",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0050",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0051",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0052",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0054",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0055",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0056",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0057",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0058",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0059",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0060",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0061",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0062",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0063",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0064",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0065",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0066",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0068",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0069",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0070",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0071",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0072",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0073",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0074",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-0075",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0003",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0004",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0005",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0006",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0007",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0008",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0009",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0010",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0011",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0012",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0013",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0014",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0015",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0016",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0017",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0018",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0019",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0020",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0021",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0022",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0024",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0025",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0026",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0028",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0029",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0030",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0032",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0033",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0035",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0036",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0037",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0038",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0039",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0041",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0042",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0043",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0045",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0048",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0052",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0053",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0054",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0057",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0058",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0061",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0063",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0066",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0067",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0068",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0069",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0070",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0071",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0072",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0073",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0074",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0075",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0076",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0077",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0078",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0079",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0080",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0081",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0082",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0083",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0085",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0087",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0088",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0089",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0090",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0091",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0092",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0093",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0094",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0095",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-KOR-0096",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0003",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0004",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0005",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0006",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0007",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0008",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0009",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0011",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0012",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0013",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0014",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0015",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0016",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0017",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0018",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0021",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0022",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0023",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-AUS-0024",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-15953163",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-16030637",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-15697556",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-16151405",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-16706967",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-16004718",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-15806731",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-16964950",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-16157598",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-15371875",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-16133824",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-14103682",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-14873378",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-15528165",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-16333792",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-15752947",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-6031451",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-5953038",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-8369786",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-14853723",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-16191919",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-16685571",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-16341649",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-7058319",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-14107541",
+      "passed": true
+    },
+    {
+      "check": "retail raw snapshot hash SRC-20261010-NZL-15417125",
+      "passed": true
+    },
+    {
+      "check": "all original labels and references retained",
+      "passed": true
+    },
+    {
+      "check": "all figure references retained",
+      "passed": true
+    },
+    {
+      "check": "eleven tables preserved",
+      "passed": true
+    },
+    {
+      "check": "no unrelated body edits",
+      "passed": true
+    }
+  ],
+  "source_files": [
+    {
+      "file": "main/graphics/company_financial_trend_data.csv",
+      "sha256": "227c08c371f16dde8ee7afe653d571689c87d4d284a44132452d079e0d975dba"
+    },
+    {
+      "file": "main/graphics/itc_epi_untapped_data.csv",
+      "sha256": "9831b16b0093a521062c911c602e04e67f504c4000127d514bc1bc822db36bad"
+    },
+    {
+      "file": "main/graphics/itc_market_score_data.csv",
+      "sha256": "fed8b19163e87cd71e7527d1ce7350b63586e8dde4918834b02cb164339ecd55"
+    },
+    {
+      "file": "main/graphics/itc_market_size_growth_data.csv",
+      "sha256": "179c5f74107106b35da5a6eb9560e7b3282889eff07404f49d5d1fd4ccb34950"
+    },
+    {
+      "file": "main/graphics/itc_ranking_sensitivity_data.csv",
+      "sha256": "62c1de967ee4d37315ac52d50cf596783b8feb1303d4174201e12c1d79d9de86"
+    },
+    {
+      "file": "main/graphics/itc_supplier_concentration_data.csv",
+      "sha256": "910c0df2a7f64cad8e61a75f9db06fda30a675acc04d50b7800a03e4faff8089"
+    },
+    {
+      "file": "main/graphics/retail_brand_price_data.csv",
+      "sha256": "a3ea24c58fea5d3ae8565cb02a3cd24dbb171a2d2814a852b7f265217d8f1ba6"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\cleaned\\historical_price_evidence_MYS.csv",
+      "sha256": "a406898a0bbac72499ab28a9f93828925ccb1c5a2f0a82c0da83d3560e1e013a"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\cleaned\\products.csv",
+      "sha256": "f6dc6e93a088f207773d13cd3e156e3ac92bfa341daf8d2e8392053ce882d31a"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\cleaned\\products_MYS_detailed.csv",
+      "sha256": "53927301bbc04405d493696710042b9175662ce4cc8a118368fcf96e999ed166"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\cleaned\\products_NZL_detailed.csv",
+      "sha256": "eb3447466925a5a46cf7b853d6d402595e877f32cdb6cf70a57400c2453363d1"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\metadata\\source_ledger_MYS.csv",
+      "sha256": "c18e0fe5308d59344c81ef3b8b7220964d98983fc8aa52d2b4e157a9d99d3497"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\metadata\\source_ledger_NZL.csv",
+      "sha256": "6705f3bbfa53f60d4d73d46cb0d43f1c2df437a98b6617fe1a2ecd54190316f2"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_dreame-aqua-10-roller-robotic-vacuum-cleaner.json",
+      "sha256": "fa96a7752f8cd9235e3f1ec9f02df6fc6baa9b1e7c604ae505796082f7405bcd"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_dreame-aqua-10-ultra-roller-robotic-vacuum-cleaner.json",
+      "sha256": "b176d74727ce80627276bc64232fcc151e861da65f19678bb73de6885a5fc104"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_dreame-aqua-10-ultra-track-s-robotic-vacuum-cleaner.json",
+      "sha256": "53d8669b0e36b24f32d6c6539d21c1bc9ef730edb771f33b704ea4c94afcac2a"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_dreame-matrix-10-ultra-robotic-vacuum-cleaner.json",
+      "sha256": "4eb2d41bf1bbe00cc249948d8f12935b4d9710f6efc6e08601960418f27b8f3c"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_ecovacs-deebot-n20-plus-robot-vacuum-cleaner.json",
+      "sha256": "883e5593a1063ab2ccd2e05c5f4ab35d9a0f9ba92373cd86b856a996766f8fe5"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_ecovacs-deebot-n20-pro-plus-robot-vacuum-cleaner.json",
+      "sha256": "8101d57121736e867f2e5313af5460c6113032badfea46b382881f2fb32ef679"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_ecovacs-deebot-n20-robot-vacuum-cleaner.json",
+      "sha256": "e79ef05e62e1e3faa2db20951467ae9cc3a85d076fde426071c40a787d057539"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_ecovacs-deebot-t30s-pro-robot-vacuum-cleaner.json",
+      "sha256": "1a85679c3274799e07636bc3ca770bdee5d68c9d3b086648baae3a28d546d223"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_ecovacs-deebot-t50-pro-omni-robotic-vacuum-cleaner.json",
+      "sha256": "ec8169a2c577cff770101619efd30df9f415d5d19b202b466397f0219fa7a85c"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_ecovacs-deebot-t90-pro-omni-robotic-vacuum-cleaner.json",
+      "sha256": "82be02794a9d28a06ded3ebd744285170d099c1b140298616a3a182e58d2d543"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_ecovacs-deebot-x11-omnicyclone-robotic-vacuum-cleaner.json",
+      "sha256": "2293b275243ddc28d86aaed536b543a240d7dfa2195792a7907ba5c3b80d83ec"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_ecovacs-deebot-x8-pro-omni-robotic-vacuum-cleaner.json",
+      "sha256": "f087455336cd310245b274fd755cc59a3125a804599832084585c5ee6f4b5287"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_roborock-q7b-plus-robotic-vacuum-cleaner.json",
+      "sha256": "811e1ede24a107d0a2d2b1010a80535619691545e07c3e67e3915d595c759c22"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_roborock-q7t-plus-robotic-vacuum-cleaner.json",
+      "sha256": "612dd67663aab9c0d87e3c261d4dc563636bcf1fb76ec59d1bf5c323e92ab982"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_roborock-qrevo-c-pro-robotic-vacuum-cleaner.json",
+      "sha256": "d4a6aa2c218323cc351ca4f3353b773c1a4417bef486409acdfb9aac425fd208"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_roborock-qrevo-edge-2-pro-robotic-vacuum-cleaner.json",
+      "sha256": "6b3fb435a84f1d1fb1bee6867cffefaf0a91c2c086eb223f69209f5ac7ce3b65"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_roborock-qrevo-edge-c-robotic-vacuum-cleaner.json",
+      "sha256": "641907e4bc3b7f561b16b198b244747445f2de9da9228e027a9e5b34fb9858e1"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_roborock-saros-10r-robotic-vacuum-cleaner.json",
+      "sha256": "dd6321d7d995c2ca04703d3f06d5a8a0443e536bd8433cc054089cbe110a963c"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\AU_GetPrice\\product_roborock-saros-20-robotic-vacuum-cleaner.json",
+      "sha256": "1a1456970609770f1449ccc33aa4794a7b8cd734b5de8f3b78512dcb8d43ff1e"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001188043.json",
+      "sha256": "b0b76c4777f96d153fdb88db100611fabb527ce81400da8819e40557e405703a"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001267682.json",
+      "sha256": "cf0a1267ca86b65e505bd58200f23882bc237a0449b9ef695cfeb99b84ade980"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001378494.json",
+      "sha256": "0e8810096b7eda57420655041ce1cc8ce4c42f731c0e84c069d3aa305866fa64"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001430400.json",
+      "sha256": "4557fd9998d8aa8405d13e67f59b031ecdbbfbeee771f2d4ca00da27a5ac3e0f"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001431330.json",
+      "sha256": "e786e199a403a84dcd7da380f6a19a2a9f6cd8470ec617263e4f3070d64300c9"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001536226.json",
+      "sha256": "860de7e775624396203d8952d8e2745a9c43ed29625040d22229097fa6d9cfb5"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001546063.json",
+      "sha256": "ddc495d4b92640d331879cdb6fb0e3925f697ff50ab6fcf3921442719971cd80"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001574418.json",
+      "sha256": "13094079f26c45e75d705250de8fc122fa2c3053be811ef665de2baf4e6eadf7"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001590654.json",
+      "sha256": "bf03b3077b101609ad7b0e8e107568e8d189c4bf6a8f0e2cf1f4079226849dd9"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001592511.json",
+      "sha256": "e1ccb16d6a8bffa70f6154d0893895f726c684c97281f09db959a3a260d2bd7c"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001609148.json",
+      "sha256": "74b3d4885e2964f9ec22efccd9b3912443c52909fea7bf5e400b4019c6cc00f5"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001609447.json",
+      "sha256": "7decc41ea5a7c161300ea268fda8921170f971ebe78ffce2e7255f5d261d8c10"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001616419.json",
+      "sha256": "3733d0227a705d13ac3c4e54ddc187766a0b2680076b384b767a9d30c0bbf5f5"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001616422.json",
+      "sha256": "62e7c315ca3ed6ab5df1cb910e3f4cdac47c2f71ee3cf2bd97b06f5ff189ee7b"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001619213.json",
+      "sha256": "2215d7f1534239cc1eb2a9c75cbc28c3bd438a0b68372706b7595883cdf7e84f"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001622522.json",
+      "sha256": "e5e3f1d252aa5b1814ae3ab0297e4a5fc0b6c75cbbcfe9dfd57f3dfca06d779b"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001635192.json",
+      "sha256": "73422f77c10035d4e898460d0e8cf8101dfa9ca692ca7eeef838e827ea8ebde1"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001646858.json",
+      "sha256": "a920d8a71665c48710d99eccab87f23edf3e6c594e6999d816c783ee85c3dcc0"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001646859.json",
+      "sha256": "b4dcdc95300802c18dfaea9b77c2b3b6611a47cffa4c39f0b8381bf26b6720cc"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001648921.json",
+      "sha256": "669f3af88758e092c6696b3b28935a81ea9d4d50ca7ea36bdc1cc2ba142470aa"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001655585.json",
+      "sha256": "05203f0d385cba674f18917a6340669f31ab6a18106fec4cbf9bfd1b4f4e63b9"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001655796.json",
+      "sha256": "48aef2b36ddbd32afdf4afaff53a787c24fec5c7583f5a922f00da948a77f37a"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001657227.json",
+      "sha256": "9ffeb4a8cfa9e69185262629e3a98cb28090ce7758dd24d8fefe653990fe04a1"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001658127.json",
+      "sha256": "10d8a6df83056338d21c9370e7a7c7d9b49124ca49cb875572b571a1636bcea6"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001658128.json",
+      "sha256": "b00cc0f6c144f771c04b38aabcfb37ae39801eac778378fdc93d7fb6d26f3f50"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001660238.json",
+      "sha256": "29e0bc575d861fdd791b5256da75bd1427abc2dc2742519d9cfddb360c1fdf1d"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001670756.json",
+      "sha256": "b43f7380b24315d43d7ff423256fa551b6a4c4a327d62bdd121d92d53203fe36"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001676915.json",
+      "sha256": "ab4ecccafe3f0c4e89063ddd286f33039262a7a1cc1937bd5f220a74075c46d0"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001678808.json",
+      "sha256": "6e7cce65aa7dff911f8053c59d2e221b6f704d6d93d843086545e2c08f0a9c1c"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001679972.json",
+      "sha256": "8f76fdf43540987ca1865faee85477e353f06fac396800744428762683b7350e"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001680231.json",
+      "sha256": "2d730d3794f9e74f6cb45d06ab637fc3baddb35aa383b9c443efad15b5120357"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001685792.json",
+      "sha256": "60dbb9ccf13fd0b2dd27be3f9c057a8aab5607c4ce0fa964a3074deb138e8975"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001691577.json",
+      "sha256": "44b769d1b59ce95e10153ce4f7aac781a156be68276d46783d15c82646ce0555"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001691578.json",
+      "sha256": "31ec8fac931c92b78fbf037724b440285d6b00c7868b043a3118f9f0246c07e8"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001691579.json",
+      "sha256": "abe3dccddb177a6136944a476c34306091bffbe07565f2a5488bd4625c464ea9"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001691580.json",
+      "sha256": "7c9baaa5ed5f26dafc79b2ed3541a1397829af5abd1a7cfc2f1735168a4e2e08"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001693087.json",
+      "sha256": "342a74e0e9d43ac1560f02516b5c7fc223bf8d9f706b928e283607b9de8c7087"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001693088.json",
+      "sha256": "430107a7de0f581fce383118f9cf91c4f23d3d0e2b26c0812bc049f0d0367202"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001693090.json",
+      "sha256": "6a24fd692c86efe47405c01de36a8a289b2ba6ec5c5ecf45c26e20621307d222"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001693496.json",
+      "sha256": "fb992971d2cbba94456ef285b4dd792897d14d3af169cba8ffdd5f009c2b5885"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001696778.json",
+      "sha256": "cd59e79bb1536f4b4f664ceb839649ba764bb499f0f8ef767eaca9cbee4607af"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001696779.json",
+      "sha256": "affb3a18473789c2959a4780424c0d589d1242c77d219c991c86f64149dfdd9c"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001701115.json",
+      "sha256": "e77fd0b9bc8cda350eb82aff33f65300b6b779089cc3f33add703eea2095630d"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001708441.json",
+      "sha256": "a01bd5171c090db0027f0efb14bf93019e0b3f5f0708bb2199afc084ce5b1e89"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001709329.json",
+      "sha256": "8d63f4a374eef69191dff2a9b2d260538d72341676a5df9a97cb172f4e517629"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001711140.json",
+      "sha256": "6e2479a5f0e06590eb0ed52f7a9302dbc26ba1e495d60daeb657aa1be975565a"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001711141.json",
+      "sha256": "67c05d147946a3b4ec3545427dbe51095bbac16fa2856a6fd1eb7b508dc02723"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001711542.json",
+      "sha256": "2ffae9273742a1272dd3e61260bde5a2c23ba1de35b0dc9efc1f35447d905895"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001715217.json",
+      "sha256": "cf0fa46eb4829502f33577f49d8233565cd5c58771410f8d70af8715a7fe783e"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001715220.json",
+      "sha256": "7062618306aa77e3a0823f41202fd1e9059183c9f307fe4347830a1cf078d7d7"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001718756.json",
+      "sha256": "9bc6a9db7ac600467fb77594ab7a5cdca6c0b578518e7b276639bf10931d928e"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001764901.json",
+      "sha256": "e72b3a61b214412e51ac5f8a1bdd3b835dba8cf4af993aec44e648335b688368"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001770084.json",
+      "sha256": "d5d976052f863d8e359a19298e33c6ce9f318446d1cfc24f8606dac2a30a6e3f"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001771549.json",
+      "sha256": "6de56c8a43d7c5fd3094d954a643e389a3d39d80a95603f978fed7cae1a71dc0"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001774522.json",
+      "sha256": "a96f7b49fadf0dc1c29624f6e8bbe9f391c9ee9d1496e1383550963153c673f6"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001778984.json",
+      "sha256": "bcb6101e055a7db3df24f9c53bed35d4b976b3b49fb215480574bf08c32fcd82"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001781249.json",
+      "sha256": "b6fd8b01dcbf487835f3cfd580b429624e1993d71d6e245fe1609e6338e3cc6d"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001785912.json",
+      "sha256": "6228e2eb5bb9cfec3069c8134baee66648c2df5aa569c4b3269756406967f6dc"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001798973.json",
+      "sha256": "3085aad0235adb0f4ed9184a8fba7a7918a921b0b3ed2dbb01950621ba690686"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001798974.json",
+      "sha256": "5fadc304636347b536a92a6056173406a350d180f3e51bf33b340d8eb24285b4"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001804136.json",
+      "sha256": "2661c8a3d71ff3300c6571b525ae18c83047b344f62eb30e6627770766969418"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001804224.json",
+      "sha256": "44d0af745500df33cbf8301dbd14f808ef55490a1fecd5941fa21ad2ed17ac86"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\JP_Kakaku\\product_K0001804225.json",
+      "sha256": "d14b1e5473e56dfba32aee9731529ded17fdcd29feae7da8140d0019b76ebdaa"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_103413488.json",
+      "sha256": "769ed3ef46168a26f20fbc02e0896769827f57ec456830fd9d771c64bfe921a4"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_103752161.json",
+      "sha256": "7e0f9f82b950e5e433322d04c16dde03d584814591322780ec08d35c5628366d"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_106687076.json",
+      "sha256": "8ce1b9b5c333cecdebb3b4ceee1e94128b894a3db4a6808b7ca9667552c18810"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_106687118.json",
+      "sha256": "7b66db36fa0be42a06d4f5b1de6186b4d74d58e0b85321c3701b8982dad849fc"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_106734668.json",
+      "sha256": "5990b48676e7aadc0f153f6edafd7adec54914fe24e3182e87ba518c114d80da"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_106736861.json",
+      "sha256": "b194d19c3267e16d11b0aea22f7dc86b70ad5185d8bf109fb2458ec746d98111"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_107723801.json",
+      "sha256": "3f95345329c0e90a67e9d8fec6d1b974ea083cbcd763237e2ec29a6904348faf"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_107991857.json",
+      "sha256": "f0b943fffa06d52c9c63bb3974490fccfe731dc15508d79416bb1ae2c7035b17"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_109915900.json",
+      "sha256": "24c9665b265f8428b3ea8e0e2dd4481c03766b5b67574b94e5f30e61dfa7eff3"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_122638233.json",
+      "sha256": "70ff648979d3c721943f1d81000e6146f8f99407648c7b8445dbde7c7a46bc29"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_122638245.json",
+      "sha256": "d333e58954d8d0c93d7e4cb24d7228733d84ed5ceb8e4374dfc82db00d711409"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_122663015.json",
+      "sha256": "f92fedeaf18c7e0606a6eacbc3608e620bc9400105892c458de1ce3ab69cf33b"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_122663063.json",
+      "sha256": "ebfb9a31fe12556cd7ac94bd69e4cc314344b5232e07cac16c4277eb02b75a3e"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_122677231.json",
+      "sha256": "d1d38fe956d45f8e5c7ca765c0cb55e2244a4643118cfb2bf52cd40d63d8e7a7"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_123606305.json",
+      "sha256": "1c9ad54cddb49d9915c82ab9a90fc68214a19f6dcb04f63daf4a4efcc367ffe7"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_123695610.json",
+      "sha256": "b8e05da63448f75122d9b0c94f8f680b305e707de19d41fcee41c044b312498d"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_123806395.json",
+      "sha256": "f2c7e50d28398ce229255b7c8eb10dd4995fb2792fa9cf8caa840756b83e0f4a"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_123961377.json",
+      "sha256": "09e322712fb362a6f55a95fe3e5940952f45b9572df1c7b49a132d16512252dd"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_123962663.json",
+      "sha256": "0d4dc1c2eec7ca9ef910fa98870263e189f858d006bdbac4233805d50c911b88"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_124034050.json",
+      "sha256": "38d9f5642ed0947c3f04087e093499002efb2e0033da1a1ad952835bcdbd566f"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_124181947.json",
+      "sha256": "8e805f1b290a6b7a3158c08fa2bca91e8ddecba8af49798e63c8dd97287b4594"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_124248500.json",
+      "sha256": "203020e3e484b8c426d24fcdd11bd16a54424cd28756c345089f5306447e1d90"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_13863530.json",
+      "sha256": "d06b5fbf96c1c940bfa978e9a4286373cd69cb603a88ed404eb898b49c0c5ffc"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_15572600.json",
+      "sha256": "cb62718cd909fde43205fa8b95afa98860a13eed11e738a33c192bb150e82e49"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_16566839.json",
+      "sha256": "1359ba753b634ad13887a8abb841ce42a5896c0a305f4998df5325683e9a2b96"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_17974391.json",
+      "sha256": "4cde268627f146c0b85cfec37e03945b05d61873f4facbba6eb86bf4e6c8741e"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_19522775.json",
+      "sha256": "dfd0f51df452a3cecf39291519cdb59a0df5dcd4cd6c136a191b567aaacf6a23"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_20359253.json",
+      "sha256": "6c5c22ffcbbc04a8e2f9745ff2a33ae62d0661b307455b5c753b97a789820a67"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_28158248.json",
+      "sha256": "6f448bae3da1a6c5bbc13011123abe30868ec5fde6f0f2950a1d92c9eba1180b"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_29620616.json",
+      "sha256": "63171b4bdd068f57f49987faa953b4eaf2e37acfbf31e96ee0ff0a82fce63499"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_32486072.json",
+      "sha256": "b2e61a811b57d5232d9b6203d9584fc46633adb424bb343aeb82f4ddd02438ce"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_37927583.json",
+      "sha256": "5e21276ceaae2e9106ed18b17813104d2962c3f567289cfd755f12158b23a41d"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_44996018.json",
+      "sha256": "d0f17e9d1ba9ed8116db80886676fb6ef027c1d6d6543d34254797dfbf981945"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_46894550.json",
+      "sha256": "c05ed94b20903f671ee6e02dc2886fb3636c6d27105a1bf221f4e4daade99a1f"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_49829777.json",
+      "sha256": "f61844e18283f21bffdba69c0f67138b2559dcbf532fdaab181a19c5de49d931"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_54316316.json",
+      "sha256": "a2249871099e6fc476eb634ce357fa6bb15e36b0f3723c1c76fcaaa5b9e25ee1"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_56273429.json",
+      "sha256": "7fdbd5de782a0ab2cac9bc8de72720f338f05089bcc1659be79947b0bf8c2936"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_58849616.json",
+      "sha256": "c239e090609ceadb5971229c26287a3c999443f06c475bd44e98f876aec34bb2"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_65915708.json",
+      "sha256": "64a9959f821c14960570015f0da06820b56e79dcfff2effb18e3723d49892ae8"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_67407635.json",
+      "sha256": "677f0c2e71cbff5656e9dae6420eeced0e7139beec8117003fc4675b9c862921"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_67512206.json",
+      "sha256": "b89f6acdc2cdaba4c0872792763e78807bb182150820d455add93854ffaa09ca"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_67581767.json",
+      "sha256": "381fb6beaa509831d7d8d550b7ded546631dfd291df5c61d0416a2932b9ec8d1"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_67624655.json",
+      "sha256": "a6cdc1875e6430f9938c8a5a395ae4fc92553e7809dfa56ece6a61ded2371960"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_68538818.json",
+      "sha256": "67fcdc26b89342ef7f00eb103f42ac7a78fffd4867a472a198765190175ed832"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_68776505.json",
+      "sha256": "b88c470abb2285941b8cb1092feaecbdfaff48cc862f45c17f040f5f08238654"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_70333835.json",
+      "sha256": "ed97318524814ba41a552f69a7af1f2296adade6df1c60b53b7fcd95d3ad0716"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_71500928.json",
+      "sha256": "5a8824e508bef165d9a3f5b08cba5fdfa2571b51343276fe3853d06e0a9a9cfb"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_74335175.json",
+      "sha256": "70c779ad9679484ff3ca9520b1524e9ee9d7c0356ac678b010e44d26d21f8e8c"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_74335256.json",
+      "sha256": "5127b66bcde54bdd2d96fac7a0b54a8092f2ce2ed49b88d619012c9075f01019"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_75372764.json",
+      "sha256": "3eb734740e2ec3b413aab648e46455e1626db083edb9e7f8f9b8d0452ae7bd5b"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_75935846.json",
+      "sha256": "ed76e40e567962cebb6004a2622c97c73d22a87e47fd132e80d12ea81b0b4d4c"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_75989948.json",
+      "sha256": "b4e6f79dbae0093dd8e5314d5be9af65f3198c5149f76feb335592233d278ce0"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_78234203.json",
+      "sha256": "fd3d28056a66a1a23ac4a6b514d5c90589a6ec108f19c2631b226718e81e8ebc"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_89526515.json",
+      "sha256": "bb70d0ed24f9a1ee5ed224b14d7bfaac45354aeaf66558a2bca7f893a89c5e62"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_90112778.json",
+      "sha256": "6075247ea6f2cf1e7fea82ff8472a46a46507599ed8319a06d6770d80ede9b6f"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_90116402.json",
+      "sha256": "061d396017be6ed4e81a42d03d11a581aec82601d284d61ba2a1d7d38f713bdf"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_90434336.json",
+      "sha256": "e38f882053e21b52d8c42b94923291a2067b33bfd81c20c9dcfee9f662cdd49d"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_90500882.json",
+      "sha256": "518eb00c17ced1bb3443097ae613ce2d788d8c53a6e1ff4477045f2a9b0332c7"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_90886772.json",
+      "sha256": "e32a15708cf4ecc73c20ac3bff8cc38ccd71a2c121dae96eacb5048e2a45fad2"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_91345565.json",
+      "sha256": "e11bc7377648fb26d066c1911227927c8439b47f7ac72320cfef6ae3a5eb5760"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_92104061.json",
+      "sha256": "4c116f81bca4ee712fec44808cf50f3bdfcb5020c055d2ba83d41abe1a0848a7"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_93805973.json",
+      "sha256": "debcbb56674f3028a5a3c9f4d040cf5d5b868aa9988b51451fd19c157f7e034f"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_93806297.json",
+      "sha256": "69aaf402f3771f216eb9e597d8a4bf44953d82ed4b9a343c1b261a54103cb1ca"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_93806333.json",
+      "sha256": "b6bff4885777f56dc142e468979ac812ca53e05eb614fab04c19ba0c0d4c8925"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_93806468.json",
+      "sha256": "5b68d59231173892efdc80d9a1c28dd829b1b9f750ce20962df700b753263077"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_95421062.json",
+      "sha256": "afc3ff7c25267fa0dbdd4b0d6dfc1a729a413d6c445f66816486ed390318512b"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_96582521.json",
+      "sha256": "b05df4ca197535b6646632773ae50ffb9ff92646f6c257389602a83610ffa4d7"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_96650003.json",
+      "sha256": "092270e7172ce699cb1ef942f9eefc120c4d17d5f09d6be838f6e36b593e3fe6"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_96979046.json",
+      "sha256": "ab9bcc24d2b63066937d6976a1ffab2087a2a46f721b5912053bdb47e98181cf"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_98768915.json",
+      "sha256": "22450877815357faa1e20c9ba6848fdfc787f8d3d7edf6e37e942e01bedf90f5"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_98771135.json",
+      "sha256": "a002dd773e7e2977ad00573e500accfe562b20ba09d6dca6a93bcec1716134c0"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_99326447.json",
+      "sha256": "8c64cea7b8b9adb44598a016dddcb5524ee34fb5eed8b97b18861f986409f37a"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_99895748.json",
+      "sha256": "fd04b08b5b868a0851e7fc02b38209a2decbc7f5a74061f1c5563cf8eda5499d"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\KR_Danawa\\product_99895796.json",
+      "sha256": "b43d4509ecb5f6005f8c7ba1cd23fcfc62c10138901321c834eefda35c5c0941"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_14103682.json",
+      "sha256": "dec33df1f7ea1a5ef6e4e8e47b590df04c6cc537f8c1ccf00309deedc910c106"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_14107541.json",
+      "sha256": "971280341e7d4106be1ff0f8aafb12bb6555f2d4753a0d8bdc9979130b646491"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_14853723.json",
+      "sha256": "0f87df325082e277ac3cfd2b4ae3ffb6256a7701c02819bcf9cbf1df519444d0"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_14873378.json",
+      "sha256": "ebf40839863b79cc2a0d3df057b00c352ba02c20d05a5cfd32327b08ffecaf4d"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_15371875.json",
+      "sha256": "f6779018f1425ccb71dda5f1a88cebfdf23a6ed6e8784af53dea86a9160f9988"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_15417125.json",
+      "sha256": "e4f7c206f612f8c0634cef8d25ca031f441bf4bc90889cc6dd657fd8730fd619"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_15528165.json",
+      "sha256": "56d80ba1139d90fab9ea25cbe1ea4c47fdd87538efcda077e1aecfa59650b059"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_15697556.json",
+      "sha256": "86c75d21bdd25c1d4ed89dc9d2e141770725901eab8c447a0c52103836885a42"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_15752947.json",
+      "sha256": "a9a5c88c1ee3e37b9dac2f0d08d9444ea2313c2c5a0c38bc152f9dfcd82ffe71"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_15806731.json",
+      "sha256": "9d35210170636a5b8c0cd6f009f167db7ecb7d8a97527ac24ffd8b180173bfdf"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_15953163.json",
+      "sha256": "59a44ec724b198592ca8e763edd0ecfbaa4b1bfa7c5941ddc309393222d6ff4f"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_16004718.json",
+      "sha256": "38af05b900ed49bd4732278f6902b9b5d14141879c2d6a90f804c5dea35ba4de"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_16030637.json",
+      "sha256": "1be83d10370eefeb1723eac69745a12042f5339c86c37ac73336be06e7a27d52"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_16133824.json",
+      "sha256": "c30ff6152b4949b33bf57993a4a12336bd9f435712f53fc43079c01abd9f5f19"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_16151405.json",
+      "sha256": "e83806671fc2d13ccdc5b1dfaffa5e02097c55cef78bc2ba4ebc7b2499f1cd8a"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_16157598.json",
+      "sha256": "6e51c95b773e42ffb67408b565148372c2d3bc3637ace5c1de05e72d88fd9f97"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_16191919.json",
+      "sha256": "6cb1d09c2ebd31527830f75a2f4ec5692f5c372c3bbf872f24699e132996f16a"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_16333792.json",
+      "sha256": "90d0c8beca5b362468e41fc6d690ff0a7aaec09405472cd316c9855faaa63255"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_16341649.json",
+      "sha256": "d5efc14c53d6b8f253ab79fbdc3f8ae30d18f2b08c9cd617c8ab79df81822e89"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_16685571.json",
+      "sha256": "2c558fe319a1da53f54708225d3a3e6aa98708b0e06efc4e5b0035cb2fc19150"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_16706967.json",
+      "sha256": "a23c59b67903c2e07a49023e6ae8dae052f26aa3b2b718203c1c406d8a23bdd1"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_16964950.json",
+      "sha256": "8547b107a803d3a431e930a1784ce40773a544326daf68c2717b06a3722aef7f"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_5953038.json",
+      "sha256": "99917e16879635ad206983765b7a4ec548868e8d8692e2ba0a0e9849e7c3788e"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_6031451.json",
+      "sha256": "e4f51ad1b3b28702361ac9103a9ca4325e3a9b8385f8d7c8d39f5e4d2c44d40f"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_7058319.json",
+      "sha256": "e43d6a2c1b01daed31ed623991dedbb5bf86c55f7d7038248a5ddf4fa7757d40"
+    },
+    {
+      "file": "data\\macro-market\\competition\\retail-website-data\\raw\\NZL-PriceSpy\\product_8369786.json",
+      "sha256": "2dea6b708bafb1a83107b1060b52ae4d58b27136f7fb59f53af1a6293f24da33"
+    },
+    {
+      "file": "data\\macro-market\\ITC\\ITC-analysis-result\\cleaned\\epi.csv",
+      "sha256": "4c1e48a67896678f48932dcb97fbc13ea935747c7cfb43df0b484da8044c14db"
+    },
+    {
+      "file": "data\\macro-market\\ITC\\ITC-analysis-result\\model\\intermediate\\monte_carlo_ranks.csv",
+      "sha256": "06627265af9e73dce5d6aff27e941e1aefdc8ffd391f246312ec645c13429cdc"
+    },
+    {
+      "file": "data\\macro-market\\ITC\\ITC-analysis-result\\model_inputs.csv",
+      "sha256": "0cf888283fa2655d159bbea60e5f2c8ff2d9038d02ae547ca6534200d148f76f"
+    },
+    {
+      "file": "data\\macro-market\\ITC\\ITC-analysis-result\\strategy_topsis_scores.csv",
+      "sha256": "825dd1c920e0ea954593a3e581fd834eebcc6018a4c56228b6ba94096b4c7e01"
+    },
+    {
+      "file": "data\\macro-market\\ITC\\ITC-data\\australia\\derived\\top_suppliers_2025.csv",
+      "sha256": "55ed2fefd1c5a7054c7b33d6d8ef22cec6263b177c606bd98bca07a8e8eba6b0"
+    },
+    {
+      "file": "data\\macro-market\\ITC\\ITC-data\\japan\\derived\\top_suppliers_2025.csv",
+      "sha256": "37e3b82e9294b567cd72c705cd477208acb0177b7fe13047b2b26b5fb502a1c7"
+    },
+    {
+      "file": "data\\macro-market\\ITC\\ITC-data\\malaysia\\derived\\top_suppliers_2025.csv",
+      "sha256": "a42c5b202b3c54d17c9cfaae9396eb8294eb55f6f4351a623ecf168423cd4d04"
+    },
+    {
+      "file": "data\\macro-market\\ITC\\ITC-data\\new-zealand\\derived\\top_suppliers_2025.csv",
+      "sha256": "15ae6fdc702f7cbec99d469ae4c63dd590d714c0869820dca5e2bc1e44beada2"
+    },
+    {
+      "file": "data\\macro-market\\ITC\\ITC-data\\south-korea\\derived\\top_suppliers_2025.csv",
+      "sha256": "073a15498012f753e4d398ddc242a5b6190e7d0ae72d417ec3893d3e93fab5c0"
+    },
+    {
+      "file": "data\\roborock-company\\wind-financial-data\\石头科技[688169.SH]-财务摘要--sheet1.json",
+      "sha256": "775a938ba957135238f7184eb78967da5b5ee73b6698574c25f1ba6efd1c1690"
+    }
+  ],
+  "figure_files": [
+    {
+      "file": "market_score.pdf",
+      "sha256": "e117038d1f8c65c44884acfdb180688f303949ca0c90f9e7dbf620891a13c1fb"
+    },
+    {
+      "file": "ranking_sensitivity.pdf",
+      "sha256": "d23668afffd178c067d04f4f879a5646c797dd666b4230eaf6b10efea4be2a1f"
+    },
+    {
+      "file": "epi_untapped.pdf",
+      "sha256": "a30ad426270c820f8b23518ff0323ea19d36224cfb7003c81b75f4fa0ccf7c62"
+    },
+    {
+      "file": "supplier_concentration.pdf",
+      "sha256": "4665e1366ba73a5cc6d75c56f2d3841287d52f5fbbdfd41b46bf206e0260b62d"
+    },
+    {
+      "file": "market_size_growth.pdf",
+      "sha256": "0233280deb3506103ad7103f7ecfe16536ce518d4d46a4423592bbb4306747c4"
+    },
+    {
+      "file": "company_financial_trend.pdf",
+      "sha256": "83556b3a2a050383d19ead49beb4ff71939a15717b2c07bc9eaeac7ea76547e6"
+    },
+    {
+      "file": "retail_brand_price_comparison.pdf",
+      "sha256": "d765e654edd8c4583b26cdddccf628c2a93d0e203187101c2858704dd1198340"
+    }
+  ],
+  "repairs": [
+    "retail four-market coverage with NZL; unchanged original three-market medians",
+    "retail provenance hashes, raw/eligible counts, per-market rules and snapshot dates refreshed",
+    "KR Narwal scaled value 167.975 rounded half-up to 167.98, replacing 167.97"
+  ],
+  "removal": "obsolete three-panel retail PDF/PNG replaced under the original filename; no erroneous ITC/financial charts found; no raw evidence or model files deleted",
+  "limitations": [
+    "Malaysia lacks current-verified price observations; historical/list prices remain separate",
+    "not a live website freshness check or a full re-audit of every narrative sentence",
+    "visual checks recorded separately after viewing final rendered pages"
+  ],
+  "independent_audits": [
+    "audit-itc/audit_results.json",
+    "audit-company-retail/audit.json"
+  ]
+}

@@ -1,0 +1,5 @@
+﻿step,input,output,operation,data_changed
+CLEAN-CUSTOMS-850811,raw/customs/2026-china-export-850811.csv,cleaned/customs_country_aggregates.csv,Decode GB18030; remove empty trailing header logically; validate HS; reject missing amounts/duplicate keys; sum integer CNY by partner,No source values changed; thousands separators parsed only; source CSV physical rows preserved in lineage
+CLEAN-CUSTOMS-85081110,raw/customs/2026-china-export-85081110.csv,cleaned/customs_country_aggregates.csv,Same as broad series; retain quantity in raw but do not compute unsupported quantity ratio,No source values changed
+JOIN-COUNTRY,Customs aggregates; raw/itc-model/model_inputs.csv,input/matched_model_inputs.csv,Explicit country crosswalk and name equality; 11 ranked sample; 3 missing ITC markets and US separately recorded,None; no missing value imputation
+RATIO-PRECISION,integer aggregate numerator and denominator,narrow_share,Compute numerator/denominator before rounding; verify previous ratio within 5.01e-9,"Only restores numerical precision from exact source amounts, not a data revision"

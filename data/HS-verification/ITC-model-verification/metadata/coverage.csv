@@ -1,0 +1,16 @@
+﻿iso3,market,customs_status,model_status,reason
+KOR,韩国,complete_value_ratio,ranked,ranked in frozen model
+AUS,澳大利亚,complete_value_ratio,ranked,ranked in frozen model
+MYS,马来西亚,complete_value_ratio,ranked,ranked in frozen model
+NZL,新西兰,complete_value_ratio,ranked,ranked in frozen model
+JPN,日本,complete_value_ratio,ranked,ranked in frozen model
+IDN,印度尼西亚,complete_value_ratio,ranked,ranked in frozen model
+THA,泰国,complete_value_ratio,ranked,ranked in frozen model
+PHL,菲律宾,complete_value_ratio,ranked,ranked in frozen model
+KHM,柬埔寨,complete_value_ratio,ranked,ranked in frozen model
+SGP,新加坡,complete_value_ratio,ranked,ranked in frozen model
+BRN,文莱,complete_value_ratio,ranked,ranked in frozen model
+LAO,老挝,complete_value_ratio,ITC_missing_indicators,Original ITC model lacks 2025 imports/CAGR/China supply share; no imputation
+MMR,缅甸,complete_value_ratio,ITC_missing_indicators,Original ITC model lacks 2025 imports/CAGR/China supply share; no imputation
+USA,美国,complete_value_ratio,US_reference_only,"US retained as reference, not RCEP candidate"
+VNM,越南,complete_value_ratio,ITC_missing_indicators,Original ITC model lacks 2025 imports/CAGR/China supply share; no imputation

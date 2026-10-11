@@ -1,0 +1,28 @@
+{
+  "item": {
+    "code": "554",
+    "name": "New Zealand",
+    "parent": {
+      "code": "10",
+      "name": "Pacific",
+      "color": "#d9b015",
+      "parent": {
+        "code": "5",
+        "name": "Pacific",
+        "color": "#309d6d"
+      }
+    }
+  },
+  "value": 38766764.135,
+  "exportValue": 20823533.333,
+  "realizedPotential": 0.5371491224,
+  "lineLength": 531.15597049,
+  "bubbleSize": 63143707.379,
+  "lineWidth": 1.36212344,
+  "tariff": 0,
+  "xik": 6890294100,
+  "mjk": 49429933.333,
+  "xij": 9399980566.7,
+  "gap": 0.4628508776,
+  "rank": 40
+}

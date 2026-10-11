@@ -1,0 +1,13 @@
+﻿scenario_family,event,first_grid_parameter,previous_grid_parameter,grid_resolution,searched_max,top5_order_at_first_crossing,interpretation
+add_sixth_indicator,first_top5_change,0.25,0.245,0.005,0.5,KOR;AUS;NZL;MYS;THA,First observed on fixed grid; not an exact mathematical threshold or a calibrated economic parameter
+add_sixth_indicator,first_max_rank_shift_at_least_3,0.335,0.33,0.005,0.5,AUS;KOR;NZL;MYS;THA,First observed on fixed grid; not an exact mathematical threshold or a calibrated economic parameter
+add_sixth_indicator,first_spearman_below_0.9,0.335,0.33,0.005,0.5,AUS;KOR;NZL;MYS;THA,First observed on fixed grid; not an exact mathematical threshold or a calibrated economic parameter
+add_sixth_indicator,first_kendall_below_0.8,0.28500000000000003,0.28,0.005,0.5,AUS;KOR;NZL;MYS;THA,First observed on fixed grid; not an exact mathematical threshold or a calibrated economic parameter
+scale_size_and_untapped,first_top5_change,,,0.005,2.0,,First observed on fixed grid; not an exact mathematical threshold or a calibrated economic parameter
+scale_size_and_untapped,first_max_rank_shift_at_least_3,,,0.005,2.0,,First observed on fixed grid; not an exact mathematical threshold or a calibrated economic parameter
+scale_size_and_untapped,first_spearman_below_0.9,,,0.005,2.0,,First observed on fixed grid; not an exact mathematical threshold or a calibrated economic parameter
+scale_size_and_untapped,first_kendall_below_0.8,,,0.005,2.0,,First observed on fixed grid; not an exact mathematical threshold or a calibrated economic parameter
+scale_untapped_only,first_top5_change,,,0.005,2.0,,First observed on fixed grid; not an exact mathematical threshold or a calibrated economic parameter
+scale_untapped_only,first_max_rank_shift_at_least_3,,,0.005,2.0,,First observed on fixed grid; not an exact mathematical threshold or a calibrated economic parameter
+scale_untapped_only,first_spearman_below_0.9,,,0.005,2.0,,First observed on fixed grid; not an exact mathematical threshold or a calibrated economic parameter
+scale_untapped_only,first_kendall_below_0.8,,,0.005,2.0,,First observed on fixed grid; not an exact mathematical threshold or a calibrated economic parameter

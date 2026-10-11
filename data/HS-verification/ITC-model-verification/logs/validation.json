@@ -1,0 +1,60 @@
+{
+  "tests": [
+    {
+      "check": "pearson self",
+      "passed": true
+    },
+    {
+      "check": "spearman self",
+      "passed": true
+    },
+    {
+      "check": "kendall_tau_b self",
+      "passed": true
+    },
+    {
+      "check": "pearson reversed",
+      "passed": true
+    },
+    {
+      "check": "spearman reversed",
+      "passed": true
+    },
+    {
+      "check": "kendall_tau_b reversed",
+      "passed": true
+    },
+    {
+      "check": "average ranks ties",
+      "passed": true
+    },
+    {
+      "check": "tau-b tied fixture",
+      "passed": true
+    },
+    {
+      "check": "Pearson vs Python statistics.correlation",
+      "passed": true
+    },
+    {
+      "check": "Kendall exact DP vs all 120 permutations",
+      "passed": true
+    },
+    {
+      "check": "baseline scores vs archived ITC scores; tolerance 1e-12",
+      "passed": true,
+      "max_absolute_error": 0.0
+    },
+    {
+      "check": "independent scalar model vs archived ITC scores; tolerance 1e-12",
+      "passed": true,
+      "max_absolute_error": 1.1102230246251565e-16
+    }
+  ],
+  "all_passed": true,
+  "source_files_unchanged": true,
+  "baseline_score_max_abs_error": 0.0,
+  "matched_countries": 11,
+  "customs_countries": 15,
+  "negative_numeric_rank_is_better": true
+}

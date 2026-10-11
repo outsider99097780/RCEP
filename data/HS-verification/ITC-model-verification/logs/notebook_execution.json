@@ -1,0 +1,59 @@
+{
+  "all_code_cells_executed": true,
+  "engine": "Sequential Python executor, fresh namespace, top-to-bottom",
+  "jupyter_kernel_execution": "not available: ipykernel, nbclient and nbformat not installed",
+  "notebook_viewer_inspection": "not performed; both saved PNGs inspected separately and essential JSON structure checked",
+  "saved_png_outputs": 2,
+  "cells": [
+    {
+      "cell_id": "code-02",
+      "execution_count": 1,
+      "status": "passed",
+      "elapsed_seconds": 0.0006,
+      "output_count": 1
+    },
+    {
+      "cell_id": "code-04",
+      "execution_count": 2,
+      "status": "passed",
+      "elapsed_seconds": 0.0177,
+      "output_count": 1
+    },
+    {
+      "cell_id": "code-06",
+      "execution_count": 3,
+      "status": "passed",
+      "elapsed_seconds": 0.0178,
+      "output_count": 1
+    },
+    {
+      "cell_id": "code-08",
+      "execution_count": 4,
+      "status": "passed",
+      "elapsed_seconds": 0.534,
+      "output_count": 1
+    },
+    {
+      "cell_id": "code-10",
+      "execution_count": 5,
+      "status": "passed",
+      "elapsed_seconds": 0.1238,
+      "output_count": 1
+    },
+    {
+      "cell_id": "code-12",
+      "execution_count": 6,
+      "status": "passed",
+      "elapsed_seconds": 0.0113,
+      "output_count": 2
+    },
+    {
+      "cell_id": "code-14",
+      "execution_count": 7,
+      "status": "passed",
+      "elapsed_seconds": 0.0009,
+      "output_count": 1
+    }
+  ],
+  "structural_validation": "essential nbformat-4 fields and saved outputs checked; formal nbformat library validation unavailable"
+}

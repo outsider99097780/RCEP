@@ -1,0 +1,7 @@
+﻿analysis,method,p_value_permutation_two_sided,p_value_holm_6_tests
+share_vs_original_score,pearson,0.039095,0.1518
+share_vs_original_score,spearman,0.034295,0.1518
+share_vs_original_score,kendall_tau_b,0.02675,0.1518
+share_vs_numeric_rank,pearson,0.0253,0.1518
+share_vs_numeric_rank,spearman,0.034295,0.1518
+share_vs_numeric_rank,kendall_tau_b,0.02675,0.1518

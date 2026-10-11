@@ -1,0 +1,20 @@
+[
+  {
+    "figure": "scenario_rank_comparison.png",
+    "data_source": "output/scenario_country_rankings.csv",
+    "source_ids": "GACC-850811;GACC-85081110;ITC-MODEL-strategy_topsis_scores.csv;ITC-MODEL-model_inputs.csv",
+    "sha256": "368580c702876fe8b5326711b516a844e9a8f3772f768c45ad7c15af8098101f",
+    "renderer": "Pillow, editable drawing code in code/verify_model.py",
+    "scope": "11 modeled countries; Customs Jan-Aug 2026 value ratio; frozen ITC model",
+    "visual_qa": "Inspected both PNGs; Japan/Indonesia label collision corrected before final review"
+  },
+  {
+    "figure": "share_vs_score.png",
+    "data_source": "input/matched_model_inputs.csv",
+    "source_ids": "GACC-850811;GACC-85081110;ITC-MODEL-strategy_topsis_scores.csv;ITC-MODEL-model_inputs.csv",
+    "sha256": "8c99bb5bbc66e2e3a1af24a46958b75b454d62ebb1cd03eed8e5cb32e3aefc06",
+    "renderer": "Pillow, editable drawing code in code/verify_model.py",
+    "scope": "11 modeled countries; Customs Jan-Aug 2026 value ratio; frozen ITC model",
+    "visual_qa": "Inspected both PNGs; Japan/Indonesia label collision corrected before final review"
+  }
+]

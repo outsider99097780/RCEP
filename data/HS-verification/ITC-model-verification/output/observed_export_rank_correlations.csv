@@ -1,0 +1,7 @@
+﻿scope,method,n,coefficient
+ranked11,pearson,11,0.9545454545454546
+ranked11,spearman,11,0.9545454545454546
+ranked11,kendall_tau_b,11,0.8545454545454545
+all_RCEP14,pearson,14,0.978021978021978
+all_RCEP14,spearman,14,0.978021978021978
+all_RCEP14,kendall_tau_b,14,0.9120879120879121

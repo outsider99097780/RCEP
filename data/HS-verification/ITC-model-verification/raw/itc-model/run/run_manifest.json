@@ -1,0 +1,68 @@
+{
+  "model_run_id": "20261010T153053-CHN-HS850811-RCEP-TOPSIS",
+  "started_at": "2026-10-10T15:30:53+08:00",
+  "timezone": "Asia/Shanghai",
+  "hs_code": "850811",
+  "raw_root": "../ITC-data",
+  "source_access_dates": [
+    "2026-10-03T16:47:29+08:00",
+    "2026-10-03T16:48:02+08:00",
+    "2026-10-03T16:48:29+08:00",
+    "2026-10-03T16:48:55+08:00",
+    "2026-10-03T16:52:49+08:00",
+    "2026-10-03T16:54:30+08:00",
+    "2026-10-03T16:55:52+08:00",
+    "2026-10-03T16:56:11+08:00",
+    "2026-10-03T16:56:35+08:00",
+    "2026-10-03T16:56:56+08:00",
+    "2026-10-03T16:57:18+08:00",
+    "2026-10-03T16:57:42+08:00"
+  ],
+  "input_sha256": "f4993017eea027f34b3b28f83f59addf397bb31bde1670bdd19ec3745ffe01b6",
+  "script_sha256": "835ce9d63ab9fd58c2fae11c0bf6e745928875bdb134791a41fc9bcd9d38bf2d",
+  "raw_file_count": 209,
+  "source_event_count": 125,
+  "raw_unchanged": true,
+  "validation_checks": 171,
+  "validation_passed": true,
+  "complete_markets": [
+    "036",
+    "096",
+    "116",
+    "360",
+    "392",
+    "410",
+    "458",
+    "554",
+    "608",
+    "702",
+    "764"
+  ],
+  "excluded_markets": [
+    "418",
+    "104",
+    "704"
+  ],
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.3.5",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "strategy_weights": [
+    0.3,
+    0.1,
+    0.1,
+    0.3,
+    0.2
+  ],
+  "random_seed": 850980,
+  "monte_carlo_draws": 5000,
+  "dirichlet_concentration": 40,
+  "procedure_sha256": "7ba1be2ef32d06c63afdb307edcc11e69b37cbd753a5039dfacd3e17597f4b4f",
+  "top3_country_codes": [
+    "410",
+    "036",
+    "458"
+  ],
+  "scope": "results directory only; main.tex and report graphics unchanged",
+  "unchanged_original_powershell_crosscheck": true,
+  "notebook_visual_inspection": "not_completed; file URL blocked"
+}

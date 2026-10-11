@@ -1,0 +1,12 @@
+{
+  "all_checks_passed": true,
+  "original_files_checked_unchanged": 34,
+  "correlations_independently_reconciled": 3,
+  "scenario_rankings_independently_checked": 12,
+  "stress_grid_rows": 903,
+  "fact_registry_rows": 31,
+  "notebook_code_cells_executed": 7,
+  "package_checksums_verified": 74,
+  "jupyter_kernel_execution": "not performed; ordered Python executor used",
+  "visual_review": "both PNGs manually inspected; notebooks not opened in Jupyter viewer"
+}
