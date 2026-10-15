@@ -1,10 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.8.19)  11 OCT 2026 21:56
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.8.19)  11 OCT 2026 23:46
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/99097/Documents/GitHub/RCEP/main/扫地机产品在RCEP区域的国际市场开拓研究——以石头科技为例.tex
-(c:/Users/99097/Documents/GitHub/RCEP/main/扫地机产品在RCEP区域的国际市场开拓研究——以石头科技为例.tex
+**./扫地机产品在RCEP区域的国际市场开拓研究——以石头科技为例.tex
+(扫地机产品在RCEP区域的国际市场开拓研究——以石头科技为例.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
 (C:\Users\99097\AppData\Local\Programs\MiKTeX\tex/latex/ctex\ctexart.cls
@@ -1059,29 +1058,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 357--357
 File: graphics/epi_untapped.pdf Graphic file (type pdf)
 <use graphics/epi_untapped.pdf>
  [14]
+File: graphics/market_attractiveness_heatmap.pdf Graphic file (type pdf)
+<use graphics/market_attractiveness_heatmap.pdf>
 File: graphics/market_score.pdf Graphic file (type pdf)
 <use graphics/market_score.pdf>
- [15]
+ [15] [16]
+File: graphics/market_opportunity_bubble.pdf Graphic file (type pdf)
+<use graphics/market_opportunity_bubble.pdf>
 File: graphics/ranking_sensitivity.pdf Graphic file (type pdf)
 <use graphics/ranking_sensitivity.pdf>
- [16] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 489--489
+ [17] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 509--509
 []|\TU/SimSun(0)/m/n/10.95 已 设 海 外 公 司；|  研 报 转
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 491--491
+Underfull \hbox (badness 1286) in paragraph at lines 511--511
 \TU/SimSun(0)/m/n/10.95 头 缓 存 产 品 页 及 新 品 报 道；|
  []
 
-[18]
+[19]
+File: graphics/supply_growth_comparison.pdf Graphic file (type pdf)
+<use graphics/supply_growth_comparison.pdf>
+ [20]
 File: graphics/supplier_concentration.pdf Graphic file (type pdf)
 <use graphics/supplier_concentration.pdf>
- [19] [20]
+ [21]
+File: graphics/brand_sample_coverage_heatmap.pdf Graphic file (type pdf)
+<use graphics/brand_sample_coverage_heatmap.pdf>
+ [22]
 File: graphics/retail_brand_price_comparison.pdf Graphic file (type pdf)
 <use graphics/retail_brand_price_comparison.pdf>
- [21] [22] [23] [24] [25] [26]
-(扫地机产品在RCEP区域的国际市场开拓研究——以石头科技为例.ent [27]
+ [23] [24] [25] [26] [27] [28]
+File: graphics/country_strategy_overview.pdf Graphic file (type pdf)
+<use graphics/country_strategy_overview.pdf>
+ [29]
+(扫地机产品在RCEP区域的国际市场开拓研究——以石头科技为例.ent
 Underfull \hbox (badness 10000) in paragraph at lines 46--49
 [][]\TU/lmr/m/n/10 ITC Trade Map\TU/SimSun(0)/m/n/10 ，| \TU/lmr/m/n/10 HS850811
 \TU/SimSun(0)/m/n/10 ；|  来 源 \TU/lmr/m/n/10 ID \TU/SimSun(0)/m/n/10 为 \TU/lmr/m
@@ -1089,7 +1101,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--49
 | \TU/lmr/m/n/10 TM-392 \TU/SimSun(0)/m/n/10 的 \TU/lmr/m/n/10 tar-
  []
 
-
+[30]
 Underfull \hbox (badness 5681) in paragraph at lines 56--59
 [][]\TU/lmr/m/n/10 ITC Trade Map\TU/SimSun(0)/m/n/10 ，| \TU/lmr/m/n/10 HS850811
 \TU/SimSun(0)/m/n/10 ，| \TU/lmr/m/n/10 2025 \TU/SimSun(0)/m/n/10 年；|  字 段 \TU/l
@@ -1097,7 +1109,7 @@ mr/m/n/10 china_direct_exports_usd_thousand \TU/SimSun(0)/m/n/10 与 \TU/lmr/m/n
 10 im-
  []
 
-[28] [29] [30] [31]) [32] (扫地机产品在RCEP区域的国际市场开拓研究——以石头科技为例.aux)
+[31] [32] [33]) [34] (扫地机产品在RCEP区域的国际市场开拓研究——以石头科技为例.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026/07/13>
@@ -1107,12 +1119,12 @@ changed.
 (rerunfilecheck)             Checksum: 4117AD4DCAB40645170DCF28B4AFA7BB;4502.
  ) 
 Here is how much of TeX's memory you used:
- 17450 strings out of 402620
- 409327 string characters out of 5438883
- 850488 words of memory out of 5000000
- 46292 multiletter control sequences out of 15000+600000
+ 17509 strings out of 402620
+ 411723 string characters out of 5438883
+ 856685 words of memory out of 5000000
+ 46347 multiletter control sequences out of 15000+600000
  635047 words of font info for 101 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,14n,111p,717b,527s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,14n,111p,677b,527s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 扫地机产品在RCEP区域的国际市场开拓研究——以石头科技为例.pdf (32 pages).
+Output written on 扫地机产品在RCEP区域的国际市场开拓研究——以石头科技为例.xdv (34 pages, 524652 bytes).

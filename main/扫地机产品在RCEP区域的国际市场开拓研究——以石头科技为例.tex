@@ -206,10 +206,10 @@ RCEP候选市场在规模和增长之间存在明显差异。2025年日本HS8508
 \begin{figure}[H]
 \centering
 \includegraphics[width=\textwidth]{company_financial_trend.pdf}
-\caption{石头科技收入、利润与经营现金净流量（2023--2025年）}
+\caption{石头科技规模扩张与盈利能力变化（2023--2025年）}
 \label{fig:companyfinance}
 \begin{minipage}{0.96\textwidth}\small
-数据来源：Wind财务摘要，按合并报表口径计算；年报原表核对。两图均为亿元人民币，横轴尺度不同。\src{Wind财务摘要，北京石头世纪科技股份有限公司，《2025年年度报告》，第10页。}
+数据来源：Wind财务摘要，按合并报表口径计算；年报原表核对。柱形单位为亿元人民币，折线为销售毛利率和销售净利率。\src{Wind财务摘要，北京石头世纪科技股份有限公司，《2025年年度报告》，第10页。}
 \end{minipage}
 \end{figure}
 
@@ -422,6 +422,16 @@ $C_i$越高，市场在当前指标和权重下越接近理想组合。
 
 \begin{figure}[H]
 \centering
+\includegraphics[width=\textwidth]{market_attractiveness_heatmap.pdf}
+\caption{前五市场吸引力指标热力图}
+\label{fig:attractivenessheatmap}
+\begin{minipage}{0.96\textwidth}\small
+数据来源：ITC Trade Map与Export Potential Map；归一化与权重沿用表\ref{tab:weights}所列方法，原始值见表\ref{tab:top3}。\src{ITC Trade Map与Export Potential Map，来源ID为五国对应TM及EPM记录；模型运行编号20261010T153053-CHN-HS850811-RCEP-TOPSIS。}
+\end{minipage}
+\end{figure}
+
+\begin{figure}[H]
+\centering
 \includegraphics[width=0.90\textwidth]{market_score.pdf}
 \caption{战略权重TOPSIS市场吸引力得分}
 \label{fig:score}
@@ -441,6 +451,16 @@ $C_i$越高，市场在当前指标和权重下越接近理想组合。
 新西兰规模小、增长低，潜力占比却较高。基准出口额2,082万美元相当于3,877万美元潜在额的53.71\%，剩余比例46.29\%居五国首位，对应金额仅1,794万美元。中国供应份额由30.86\%升至53.52\%，总进口CAGR仅2.32\%，供货来源变化比需求扩张更突出。后续先验证细分用户与渠道容量，再形成销量判断。\src{ITC Trade Map与Export Potential Map，来源ID为TM-554-target\_import\_imports\_by\_supplier-VAL、EPM-554。2020年中国份额按16090/52133计算。}
 
 日本未实现潜力占比较低，因为5.063亿美元基准出口额已占6.489亿美元潜在额的78.01\%，剩余21.99\%仍对应1.427亿美元。2020--2025年总进口由10.189亿美元降至7.594亿美元，自中国进口反由5.125亿美元升至5.502亿美元，收缩主要来自其他来源。日本的规模基础仍在，后续研究由新增规模转向扫地机的替代、升级和品牌经营。\src{ITC Trade Map与Export Potential Map，来源ID为TM-392-target\_import\_imports\_by\_supplier-VAL、EPM-392。实现比例按506251200/648919894.53计算；其他来源合计为世界进口额减自中国进口额。}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.94\textwidth]{market_opportunity_bubble.pdf}
+\caption{前五市场的进口规模与未实现潜力结构}
+\label{fig:opportunitybubble}
+\begin{minipage}{0.92\textwidth}\small
+数据来源：ITC Trade Map的2025年进口额与Export Potential Map；横轴采用对数尺度，纵轴为未实现潜力占比，气泡面积表示未实现潜力金额。\src{ITC Trade Map与Export Potential Map，来源ID为五国对应TM及EPM记录。}
+\end{minipage}
+\end{figure}
 
 \subsubsection{敏感性检验}
 
@@ -520,6 +540,16 @@ $C_i$越高，市场在当前指标和权重下越接近理想组合。
 新西兰取得37个扫地机产品页，26个有合格新品报价，其中石头为8个。结合其较小的绝对潜力金额，这些型号适合用于验证渠道容量、供货连续性和服务负担。\src{PriceSpy，新西兰机器人吸尘器公开产品页，\url{https://pricespy.co.nz/category.php?k=520}。}
 
 贸易绩效由此形成三类任务：韩国、澳大利亚承接已有规模，马来西亚把增长转化为品牌覆盖，日本和新西兰分别验证存量升级与细分经营。下一步需要判断中国的供应优势在各国形成了怎样的品牌和产品基础。
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{supply_growth_comparison.pdf}
+\caption{前五市场的中国供应份额与进口增长对照}
+\label{fig:supplygrowth}
+\begin{minipage}{0.96\textwidth}\small
+数据来源：ITC Trade Map，HS850811；中国供应份额为2025年值，进口增长为2020--2025年复合增长率。\src{ITC Trade Map，来源ID为五国对应TM-target\_import\_imports\_by\_supplier-VAL记录。}
+\end{minipage}
+\end{figure}
 % TODO[RETAIL-NZ]: 补充新西兰扫地机终端销售规模、销量和品牌份额；已有SKU及报价基础上继续核对本地保修、服务与渠道容量。
 
 \subsection{目标市场竞争力分析}
@@ -588,6 +618,16 @@ Narwal & 8 & 10 & --- & --- & 2\\
 数据来源：Kakaku、Danawa、GetPrice、PriceShop与PriceSpy。韩国样本排除海外购；“---”表示未取得可读产品页。\src{価格.com（Kakaku，\url{https://kakaku.com/}）、Danawa（\url{https://www.danawa.com/}）、GetPrice（\url{https://www.getprice.com.au/}）、PriceShop（提供者Price Guide Sdn Bhd，\url{https://my.priceshop.com/en/}）与PriceSpy（\url{https://pricespy.co.nz/}）。}
 \end{minipage}
 \end{table}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.96\textwidth]{brand_sample_coverage_heatmap.pdf}
+\caption{五国零售样本中的品牌产品页覆盖热力图}
+\label{fig:brandcoverage}
+\begin{minipage}{0.94\textwidth}\small
+数据来源：Kakaku、Danawa、GetPrice、PriceShop与PriceSpy；数值为已采得产品页数量，不代表市场销量或品牌份额。\src{価格.com（Kakaku）、Danawa、GetPrice、PriceShop与PriceSpy公开产品页。}
+\end{minipage}
+\end{figure}
 
 日韩样本覆盖五个中国品牌，澳大利亚现有三品牌样本以逐型号观察为主。马来西亚四品牌取得产品页，云鲸另有上市和开店报道；新西兰石头、科沃斯、小米和追觅分别有8、5、6、7个有价产品。中国企业已在五国形成不同层次的产品布局，石头的适配重点相应落到配置、供货和保修。\src{PriceShop，2025年9月29日云鲸上市报道及2026年5月8日Sunway Velocity门店报道，\url{https://my.priceshop.com/en/news/narwal-freo-flow-freo-x10-pro-and-s30-malaysia/}、\url{https://my.priceshop.com/en/news/narwal-first-flagship-store-sunway-velocity-malaysia/}；来源ID为SRC-20261010-MYS-PriceShop-Narwal-20250929及SRC-20261010-MYS-PS-NEWS-narwal-store-20260508。}
 
@@ -751,6 +791,16 @@ RCEP第4章的预裁定、风险管理和货物放行条款可以降低通关不
 \subsection{差异化前景判断}
 
 韩国拥有较大的进口规模和既有品牌基础，适合深化代理服务，以职责、回款和售后指标推动增长承接。澳大利亚规模与增速兼具，促销弹性也较强，开拓重点是把旺季销量转化为常态销售和单台贡献。日本保留最大的需求池，应以多层级产品解释替代与升级价值。马来西亚增长较快且已有产品梯度，可通过价格分层、体验触点和区域供应协同扩大品牌覆盖。新西兰相对潜力较高而绝对容量有限，宜以少量核心型号连接零售商，控制备货和维修负担。
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{country_strategy_overview.pdf}
+\caption{五国差异化市场开拓方向}
+\label{fig:countrystrategy}
+\begin{minipage}{0.96\textwidth}\small
+资料来源：根据表\ref{tab:top3}及第5、6部分的贸易、零售、渠道与经营证据归纳。
+\end{minipage}
+\end{figure}
 
 公司收入扩张伴随毛利率、净利率和经营现金净流量下降，五国开拓因而以需求转化、单台贡献和回款质量作为共同门槛。各国先通过相应门槛，再扩大SKU与渠道。
 

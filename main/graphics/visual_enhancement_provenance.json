@@ -1,0 +1,95 @@
+{
+  "generated_at_utc": "2026-10-11T15:44:33.742088+00:00",
+  "method": {
+    "heatmap": "Uses the report model's normalization across all scoreable RCEP candidates; raw labels are retained.",
+    "bubble": "Raw 2025 import scale on a log x-axis, official EPI untapped ratio on y-axis, bubble area proportional to untapped USD.",
+    "supply_growth": "Direct comparison of 2025 China supplier share and 2020-2025 import CAGR.",
+    "financial": "Wind consolidated summary; CNY 10,000 values divided by 10,000 to CNY 100 million; margins plotted as reported.",
+    "coverage": "Counts transcribed from the report's source-backed retail sample table; missing means no readable product page captured.",
+    "strategy": "Qualitative synthesis of the existing report sections 4-6; no new external fact or metric."
+  },
+  "sources": [
+    {
+      "file": "data\\macro-market\\ITC\\itc-analysis-result\\model_inputs.csv",
+      "sha256": "0cf888283fa2655d159bbea60e5f2c8ff2d9038d02ae547ca6534200d148f76f"
+    },
+    {
+      "file": "data\\macro-market\\ITC\\itc-analysis-result\\model_normalized.csv",
+      "sha256": "0db1551bf89cca2b754e6a64fe4ebfd089cf4a3021c94c33d8a4646104b60a90"
+    },
+    {
+      "file": "data\\macro-market\\ITC\\itc-analysis-result\\strategy_topsis_scores.csv",
+      "sha256": "825dd1c920e0ea954593a3e581fd834eebcc6018a4c56228b6ba94096b4c7e01"
+    },
+    {
+      "file": "data\\roborock-company\\wind-financial-data\\石头科技[688169.SH]-财务摘要--sheet1.json",
+      "sha256": "775a938ba957135238f7184eb78967da5b5ee73b6698574c25f1ba6efd1c1690"
+    }
+  ],
+  "outputs": [
+    {
+      "file": "brand_sample_coverage_data.csv",
+      "sha256": "e7c223229ec91f64304e25c918178330f183c203d1fbd51a6da99e0b69e83555"
+    },
+    {
+      "file": "brand_sample_coverage_heatmap.pdf",
+      "sha256": "2fe652fff1c318b0c1dd9ddd15187e9f55009e5ffda10b9eb074704b5e60467f"
+    },
+    {
+      "file": "brand_sample_coverage_heatmap.png",
+      "sha256": "3a2e8fb15bbd6daf24c78efce9c16640a9dab468d38c3cd30d850a64d9386da3"
+    },
+    {
+      "file": "company_financial_trend.pdf",
+      "sha256": "4201bac01dd78d6a76472feee62e3ec0e19c105738cea63458ec0e554bd800c8"
+    },
+    {
+      "file": "company_financial_trend.png",
+      "sha256": "6350352813da7b8ca5076f612e0cfc4de375a6d1d69ae6cf609fb314c2df2375"
+    },
+    {
+      "file": "company_scale_profitability_data.csv",
+      "sha256": "5d93d5dd7fafe255dda69faf390e4419f3fcbe9e6cacaa1eb5512731490c7c13"
+    },
+    {
+      "file": "country_strategy_overview.pdf",
+      "sha256": "29a3473836deb116333da86aa7995b35490522077b7b3b99f36eac5906e09ffd"
+    },
+    {
+      "file": "country_strategy_overview.png",
+      "sha256": "e0e41093753306cb08bcb241841bae5092e207734d0a7f2cc98c1668363bf0f3"
+    },
+    {
+      "file": "country_strategy_overview_data.csv",
+      "sha256": "27eea5536f8623a4464b000796e09a67d1b4d15676d9186b3fc5496790fe151e"
+    },
+    {
+      "file": "five_market_visual_data.csv",
+      "sha256": "fab9215cb9f43ba2a31e0efe48f113b373069c37565d4ec4e08373a1df8707cc"
+    },
+    {
+      "file": "market_attractiveness_heatmap.pdf",
+      "sha256": "f1f48e7a73d91661da7def719a9a7c44f8ba30d8883c594c0234b767a7c1cdb7"
+    },
+    {
+      "file": "market_attractiveness_heatmap.png",
+      "sha256": "546694ca429a82bc025d9ea34eb76c94fb7a8c71eb75c705b9826b12623e3fb5"
+    },
+    {
+      "file": "market_opportunity_bubble.pdf",
+      "sha256": "2078b18170904ed5e5a4decd5737d1dbb6902f89fcbbcf360db4539eb401a995"
+    },
+    {
+      "file": "market_opportunity_bubble.png",
+      "sha256": "522bde7764bb30c5402392b3612cadd1a768d27477a84744e9b40782a55159dd"
+    },
+    {
+      "file": "supply_growth_comparison.pdf",
+      "sha256": "cae99f2eb56ec808a0aaed8f247b936718017e6cdc8effdf0fa1e4ccb16b2292"
+    },
+    {
+      "file": "supply_growth_comparison.png",
+      "sha256": "effc0f4c5142ff806572cf80747e86f26c155d46424b56aa3cd51701d2f7163e"
+    }
+  ]
+}
